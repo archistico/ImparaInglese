@@ -1,0 +1,100 @@
+<div>
+  {% if success %}
+    <div class="alert alert-success">{{ success }}</div>
+  {% endif %}
+
+  {{ form_start(form, {
+    attr: {
+      'data-controller': 'live',
+      'data-action': 'live#action:prevent',
+      'data-live-action-param': 'save'
+    }
+  }) }}
+
+  {% if submitted %}
+      {{ form_errors(form) }}
+  {% endif %}
+
+  <div class="row g-3">
+    <div class="col-12 col-md-6">
+      {{ form_label(form.contestoId) }}
+      {{ form_widget(form.contestoId, { attr: { class: 'form-select' } }) }}
+      {% if submitted %}
+        {{ form_errors(form.contestoId) }}
+      {% endif %}
+    </div>
+
+    <div class="col-12 col-md-6">
+      {{ form_label(form.livelloId) }}
+      {{ form_widget(form.livelloId, { attr: { class: 'form-select' } }) }}
+      {% if submitted %}
+        {{ form_errors(form.livelloId) }}
+      {% endif %}
+    </div>
+
+    <div class="col-12">
+      {{ form_label(form.italianoTesto) }}
+      {{ form_widget(form.italianoTesto, { attr: { class: 'form-control', rows: 2 } }) }}
+      {% if submitted %}
+        {{ form_errors(form.italianoTesto) }}
+      {% endif %}
+    </div>
+
+    <div class="col-12">
+      {{ form_label(form.italianoInfo) }}
+      {{ form_widget(form.italianoInfo, { attr: { class: 'form-control' } }) }}
+      {% if submitted %}
+        {{ form_errors(form.italianoInfo) }}
+      {% endif %}
+    </div>
+
+    <div class="col-12">
+      <h2 class="h5 mb-2">Traduzioni in inglese</h2>
+
+      {# LiveCollectionType: renderizza collezione con add/remove gestiti dal bundle #}
+      <div class="vstack gap-3">
+        {% for row in form.traduzioni %}
+            <div class="border rounded p-3">
+                <div class="row g-2 align-items-end">
+                    <div class="col-12 col-md-7">
+                        {{ form_label(row.testo) }}
+                        {{ form_widget(row.testo, { attr: { class: 'form-control' } }) }}
+                        {% if submitted %}
+                            {{ form_errors(row.testo) }}
+                        {% endif %}
+                    </div>
+    
+                    <div class="col-12 col-md-4">
+                        {{ form_label(row.info) }}
+                        {{ form_widget(row.info, { attr: { class: 'form-control' } }) }}
+                    </div>
+    
+                    <div class="col-12 col-md-1 d-grid">
+                        <button type="button"
+                                class="btn btn-outline-danger"
+                                data-action="live#removeCollectionItem"
+                                data-live-name-param="{{ row.vars.full_name }}">
+                            ✕
+                        </button>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    
+    <button type="button"
+            class="btn btn-outline-primary mt-2"
+            data-action="live#addCollectionItem"
+            data-live-name-param="{{ form.traduzioni.vars.full_name }}">
+        + Aggiungi traduzione
+    </button>
+
+    </div>
+
+    <div class="col-12 d-grid">
+      <button class="btn btn-lg btn-success" type="submit">Salva</button>
+    </div>
+  </div>
+
+  {{ form_end(form) }}
+</div>
