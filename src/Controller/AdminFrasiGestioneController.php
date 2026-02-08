@@ -199,6 +199,38 @@ final class AdminFrasiGestioneController extends AbstractController
         return $this->redirectToRoute('app_admin_frasi');
     }
 
+    #[Route('/admin/frasi/svuota', name: 'app_admin_frasi_svuota', methods: ['POST'])]
+    public function svuota(
+        Request $request,
+        FraseRepository $fraseRepository,
+        EntityManagerInterface $em
+    ): RedirectResponse {
+        if (!$this->isCsrfTokenValid('svuota_frasi', (string)$request->request->get('_token'))) {
+            $this->addFlash('danger', 'Token CSRF non valido.');
+            return $this->redirectToRoute('app_admin_frasi');
+        }
+
+        $frasi = $fraseRepository->findAll();
+        if (count($frasi) === 0) {
+            $this->addFlash('info', 'Nessuna frase da eliminare.');
+            return $this->redirectToRoute('app_admin_frasi');
+        }
+
+        $removed = 0;
+        foreach ($frasi as $frase) {
+            foreach ($frase->getTraduzioni() as $oldTrad) {
+                $em->remove($oldTrad);
+            }
+            $em->remove($frase);
+            $removed++;
+        }
+
+        $em->flush();
+
+        $this->addFlash('success', 'Frasi eliminate: ' . $removed);
+        return $this->redirectToRoute('app_admin_frasi');
+    }
+
     #[Route('/admin/frasi/export', name: 'app_admin_frasi_export', methods: ['GET'])]
     public function export(FraseRepository $fraseRepository): Response
     {
