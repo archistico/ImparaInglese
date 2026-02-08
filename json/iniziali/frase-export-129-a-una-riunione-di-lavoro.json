@@ -1,0 +1,283 @@
+{
+    "version": 1,
+    "contesto": "A una riunione di lavoro",
+    "frasi": [
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can everyone hear me?",
+                "info": "tecnico"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sentite tutti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Da quello che ho capito…",
+                "info": "allineamento"
+            },
+            "traduzioni": [
+                {
+                    "testo": "From what I understand…",
+                    "info": "neutro"
+                },
+                {
+                    "testo": "If I understand correctly…",
+                    "info": "verifica"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Grazie per essere qui",
+                "info": "apertura"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thank you for being here",
+                    "info": "neutro"
+                },
+                {
+                    "testo": "Thanks everyone for joining",
+                    "info": "più naturale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Grazie, è stato molto utile",
+                "info": "chiusura cortese"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thank you, this was very helpful",
+                    "info": "professionale"
+                },
+                {
+                    "testo": "Thanks, that was useful",
+                    "info": "più informale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ha senso",
+                "info": "feedback positivo"
+            },
+            "traduzioni": [
+                {
+                    "testo": "That makes sense",
+                    "info": "molto usata"
+                },
+                {
+                    "testo": "That sounds reasonable",
+                    "info": "più professionale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sentite?",
+                "info": "tecnico"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you hear me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho ancora una risposta",
+                "info": "difensiva intelligente"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't have an answer yet",
+                    "info": "onesta"
+                },
+                {
+                    "testo": "I need to check and get back to you",
+                    "info": "professionale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Possiamo approfondire questo punto?",
+                "info": "domanda intelligente"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can we go deeper into this point?",
+                    "info": "chiara"
+                },
+                {
+                    "testo": "Could you elaborate on this?",
+                    "info": "molto professionale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Possiamo fare un breve riassunto?",
+                "info": "chiusura"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can we do a quick recap?",
+                    "info": "molto comune"
+                },
+                {
+                    "testo": "Let's summarize the main points",
+                    "info": "più formale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Possiamo iniziare?",
+                "info": "apertura"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can we get started?",
+                    "info": "alternativa"
+                },
+                {
+                    "testo": "Shall we start?",
+                    "info": "standard"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Possiamo parlarne più tardi?",
+                "info": "rimando"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can we discuss this later?",
+                    "info": "neutro"
+                },
+                {
+                    "testo": "Let's come back to this later",
+                    "info": "naturale"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potete ripetere l'ultima parte?",
+                "info": "chiarimenti"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you repeat the last part?",
+                    "info": "neutro"
+                },
+                {
+                    "testo": "Sorry, could you say that again?",
+                    "info": "più morbido"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quali sono i prossimi passi?",
+                "info": "chiusura operativa"
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are the next steps?",
+                    "info": "standard"
+                },
+                {
+                    "testo": "What should we do next?",
+                    "info": "più semplice"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Scusate il ritardo",
+                "info": "cortesia"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Apologies for the delay",
+                    "info": "più formale"
+                },
+                {
+                    "testo": "Sorry for being late",
+                    "info": "standard"
+                }
+            ]
+        },
+        {
+            "contesto": "A una riunione di lavoro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono d'accordo",
+                "info": "feedback"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I agree",
+                    "info": "standard"
+                },
+                {
+                    "testo": "I agree with that",
+                    "info": "leggermente più esplicito"
+                }
+            ]
+        }
+    ]
+}

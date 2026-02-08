@@ -56,9 +56,9 @@ final class AdminContestiController extends AbstractController
         if ($request->isMethod('POST')) {
             $data['descrizione'] = trim((string)$request->request->get('descrizione', ''));
             if ($data['descrizione'] === '') {
-                $errors[] = 'La descrizione Ã¨ obbligatoria.';
+                $errors[] = 'La descrizione è obbligatoria.';
             } elseif ($contestoRepository->findOneBy(['descrizione' => $data['descrizione']])) {
-                $errors[] = 'Esiste giÃ  un contesto con questa descrizione.';
+                $errors[] = 'Esiste già un contesto con questa descrizione.';
             }
 
             if (count($errors) === 0) {
@@ -72,7 +72,7 @@ final class AdminContestiController extends AbstractController
         }
 
         return $this->render('admin/contesti/nuovo.html.twig', [
-            'title' => 'Admin â€” Nuovo contesto',
+            'title' => 'Admin — Nuovo contesto',
             'data' => $data,
             'errors' => $errors,
         ]);
