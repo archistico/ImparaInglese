@@ -41,15 +41,31 @@
     </div>
 
     <div class="menu-grid">
-        <div class="menu-card is-primary">
+        <div class="menu-card is-secondary">
             <div class="menu-card__header">
-                <div class="menu-card__badge">IT -> EN</div>
-                <h2 class="menu-card__title">Frasi Italiano -> Inglese</h2>
+                <div class="menu-card__badge">
+                    <svg class="flag-icon" viewBox="0 0 3 2" aria-hidden="true">
+                        <rect width="1" height="2" x="0" y="0" fill="#008C45"></rect>
+                        <rect width="1" height="2" x="1" y="0" fill="#F4F5F0"></rect>
+                        <rect width="1" height="2" x="2" y="0" fill="#CD212A"></rect>
+                    </svg>
+                    <span class="flag-sep">→</span>
+                    <svg class="flag-icon" viewBox="0 0 60 30" aria-hidden="true">
+                        <rect width="60" height="30" fill="#012169"></rect>
+                        <path d="M0 0 L60 30 M60 0 L0 30" stroke="#FFFFFF" stroke-width="6"></path>
+                        <path d="M0 0 L60 30 M60 0 L0 30" stroke="#C8102E" stroke-width="3"></path>
+                        <rect x="25" width="10" height="30" fill="#FFFFFF"></rect>
+                        <rect y="10" width="60" height="10" fill="#FFFFFF"></rect>
+                        <rect x="27" width="6" height="30" fill="#C8102E"></rect>
+                        <rect y="12" width="60" height="6" fill="#C8102E"></rect>
+                    </svg>
+                </div>
+                <h2 class="menu-card__title">Traduci dall'italiano</h2>
             </div>
             <p class="menu-card__text">
                 Seleziona un contesto (presentarsi, ristorante, hotel...) e prova a tradurre.
             </p>
-            <a class="btn btn-light menu-card__btn" href="{{ path('app_frasi_iten') }}">
+            <a class="btn btn-dark menu-card__btn" href="{{ path('app_frasi_iten') }}">
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                     <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
                     <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
@@ -64,8 +80,24 @@
 
         <div class="menu-card is-secondary">
             <div class="menu-card__header">
-                <div class="menu-card__badge">EN -> IT</div>
-                <h2 class="menu-card__title">Frasi Inglese -> Italiano</h2>
+                <div class="menu-card__badge">
+                    <svg class="flag-icon" viewBox="0 0 60 30" aria-hidden="true">
+                        <rect width="60" height="30" fill="#012169"></rect>
+                        <path d="M0 0 L60 30 M60 0 L0 30" stroke="#FFFFFF" stroke-width="6"></path>
+                        <path d="M0 0 L60 30 M60 0 L0 30" stroke="#C8102E" stroke-width="3"></path>
+                        <rect x="25" width="10" height="30" fill="#FFFFFF"></rect>
+                        <rect y="10" width="60" height="10" fill="#FFFFFF"></rect>
+                        <rect x="27" width="6" height="30" fill="#C8102E"></rect>
+                        <rect y="12" width="60" height="6" fill="#C8102E"></rect>
+                    </svg>
+                    <span class="flag-sep">→</span>
+                    <svg class="flag-icon" viewBox="0 0 3 2" aria-hidden="true">
+                        <rect width="1" height="2" x="0" y="0" fill="#008C45"></rect>
+                        <rect width="1" height="2" x="1" y="0" fill="#F4F5F0"></rect>
+                        <rect width="1" height="2" x="2" y="0" fill="#CD212A"></rect>
+                    </svg>
+                </div>
+                <h2 class="menu-card__title">Traduci dall'inglese</h2>
             </div>
             <p class="menu-card__text">
                 Allenati a capire frasi reali in inglese, con soluzioni chiare.
@@ -249,6 +281,17 @@
     background: rgba(17, 24, 39, 0.08);
     color: #111827;
     margin-bottom: 8px;
+}
+.menu-card__badge .flag-icon {
+    width: 22px;
+    height: 14px;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgba(17, 24, 39, 0.15);
+}
+.menu-card__badge .flag-sep {
+    margin: 0 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
 }
 
 .menu-card__title {
