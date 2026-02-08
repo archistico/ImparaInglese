@@ -1,0 +1,245 @@
+{
+    "version": 1,
+    "frasi": [
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettate borse riutilizzabili?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you take reusable bags?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è uno sconto se ne prendo due?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a discount if I buy two?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get 200g of ham?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere 200g di prosciutto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I have a receipt?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere lo scontrino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you sell organic vegetables?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vendete verdure biologiche?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you take reusable bags?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettate borse riutilizzabili?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove trovo il latte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I find the milk?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is this per kilo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa al chilo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a discount if I buy two?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è uno sconto se ne prendo due?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this gluten-free?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Senza glutine?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere 200g di prosciutto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get 200g of ham?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere lo scontrino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I have a receipt?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa al chilo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is this per kilo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Senza glutine?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this gluten-free?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vendete verdure biologiche?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you sell organic vegetables?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alimentari \/ Supermercato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I find the milk?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove trovo il latte?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}
