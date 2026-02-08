@@ -41,9 +41,9 @@
                         {% if traduzioni|length == 0 %}
                             <span class="text-muted">-</span>
                         {% else %}
-                            <div class="d-flex flex-wrap gap-2">
+                            <div class="d-grid gap-1">
                                 {% for t in traduzioni %}
-                                    <span class="">{{ t.espressione.testo }}</span>
+                                    <div>{{ t.espressione.testo }}</div>
                                 {% endfor %}
                             </div>
                         {% endif %}
