@@ -4,6 +4,11 @@
 
 App Symfony per allenarsi con frasi inglese/italiano organizzate per contesto, con area admin per la gestione dei contenuti.
 
+## Screenshot
+![Screenshot 01](screenshot01.png)
+![Screenshot 02](screenshot02.png)
+![Screenshot 03](screenshot03.png)
+
 ## Funzionalità
 - Allenamento Frasi Italiano -> Inglese con contesti e traduzioni multiple.
 - Allenamento Frasi Inglese -> Italiano con la stessa struttura.
