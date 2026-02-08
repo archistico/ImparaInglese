@@ -5,7 +5,12 @@ security:
 
     # https://symfony.com/doc/current/security.html#loading-the-user-the-user-provider
     providers:
-        users_in_memory: { memory: null }
+        users_in_memory:
+            memory:
+                users:
+                    test@gmail.com:
+                        password: '$2y$12$tuMeqdV8T97RHRgFIe4Kge9WCItX9yxVrtzxNuJ2vaUXhJLFkEtN6'
+                        roles: ['ROLE_ADMIN']
 
     firewalls:
         dev:
@@ -15,6 +20,15 @@ security:
         main:
             lazy: true
             provider: users_in_memory
+            form_login:
+                login_path: app_login
+                check_path: app_login
+                default_target_path: app_admin_home
+                enable_csrf: true
+                csrf_token_id: authenticate
+            logout:
+                path: app_logout
+                target: app_home
 
             # Activate different ways to authenticate:
             # https://symfony.com/doc/current/security.html#the-firewall
@@ -24,7 +38,8 @@ security:
 
     # Note: Only the *first* matching rule is applied
     access_control:
-        # - { path: ^/admin, roles: ROLE_ADMIN }
+        - { path: ^/admin/login$, roles: PUBLIC_ACCESS }
+        - { path: ^/admin, roles: ROLE_ADMIN }
         # - { path: ^/profile, roles: ROLE_USER }
 
 when@test:
