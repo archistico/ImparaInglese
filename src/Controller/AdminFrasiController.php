@@ -145,7 +145,7 @@ final class AdminFrasiController extends AbstractController
         }
 
         return $this->render('admin/frasi_iten/nuova.html.twig', [
-            'title' => 'Admin — Nuova frase (Italiano ? Inglese)',
+            'title' => 'Admin - Nuova frase (Italiano / Inglese)',
             'contesti' => $contesti,
             'livelli' => $livelli,
             'data' => $data,
