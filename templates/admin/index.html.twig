@@ -106,13 +106,23 @@
       <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
     </div>
 
-    <div class="menu-card is-muted">
+    <div class="menu-card is-secondary">
       <div class="menu-card__header">
-        <div class="menu-card__badge">In arrivo</div>
+        <div class="menu-card__badge">Attivo</div>
         <h2 class="menu-card__title">Livelli</h2>
       </div>
       <p class="menu-card__text">Gestisci i livelli.</p>
-      <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
+      <a class="btn btn-dark menu-card__btn" href="{{ path('app_admin_livelli') }}">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+          <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+          <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+          <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+        </svg>
+        Vai alla lista
+      </a>
     </div>
 
     <div class="menu-card is-admin">

@@ -1,0 +1,64 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div>
+    <h1 class="h3 mb-1">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+        <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+        <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+        <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+        <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+        <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+      </svg>
+      {{ title }}
+    </h1>
+    <p class="text-muted mb-0">Lista completa dei livelli.</p>
+  </div>
+  <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}">
+    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+      <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+      <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+    </svg>
+    Admin
+  </a>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped align-middle">
+    <thead>
+      <tr>
+        <th>Livello</th>
+        <th class="text-end">Azioni</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for l in livelli %}
+        <tr>
+          <td>{{ l.descrizione }}</td>
+          <td class="text-end">
+            <a class="btn btn-sm btn-outline-secondary" href="{{ path('app_admin_livelli_modifica', {id: l.id}) }}">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path class="icon-stroke" d="M4 20l4-1 10-10-3-3L5 16l-1 4z"></path>
+                <path class="icon-stroke" d="M14 6l3 3"></path>
+              </svg>
+              Modifica
+            </a>
+          </td>
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="2">
+            <div class="alert alert-warning mb-0">
+              Nessun livello trovato.
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
