@@ -10,16 +10,16 @@
     </div>
 
     <div class="d-flex gap-2">
-        <a class="btn btn-outline-secondary" href="{{ path('app_frasi_italiano_inglese') }}">← Contesti</a>
+        <a class="btn btn-outline-secondary" href="{{ path('app_frasi_iten') }}">← Contesti</a>
 
         {% if prevId %}
-            <a class="btn btn-outline-primary" href="{{ path('app_frasi_italiano_inglese_mostra', {id: prevId}) }}">← Precedente</a>
+            <a class="btn btn-outline-primary" href="{{ path('app_frasi_iten_mostra', {id: prevId}) }}">← Precedente</a>
         {% else %}
             <button class="btn btn-outline-primary" type="button" disabled>← Precedente</button>
         {% endif %}
 
         {% if nextId %}
-            <a class="btn btn-outline-primary" href="{{ path('app_frasi_italiano_inglese_mostra', {id: nextId}) }}">Successiva →</a>
+            <a class="btn btn-outline-primary" href="{{ path('app_frasi_iten_mostra', {id: nextId}) }}">Successiva →</a>
         {% else %}
             <button class="btn btn-outline-primary" type="button" disabled>Successiva →</button>
         {% endif %}
