@@ -115,6 +115,9 @@ final class FraseRepository extends ServiceEntityRepository
             ->andWhere('d.descrizione = :desc')
             ->setParameter('desc', 'Italiano -> Inglese')
             ->orderBy('c.descrizione', 'ASC')
+            ->addOrderBy('l.descrizione', 'ASC')
+            ->addOrderBy('e.testo', 'ASC')
+            ->addOrderBy('te.testo', 'ASC')
             ->addOrderBy('f.id', 'ASC')
             ->getQuery()
             ->getResult();
