@@ -6,38 +6,77 @@ use App\Entity\Frase;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
-/**
- * @extends ServiceEntityRepository<Frase>
- */
-class FraseRepository extends ServiceEntityRepository
+final class FraseRepository extends ServiceEntityRepository
 {
     public function __construct(ManagerRegistry $registry)
     {
         parent::__construct($registry, Frase::class);
     }
 
-//    /**
-//     * @return Frase[] Returns an array of Frase objects
-//     */
-//    public function findByExampleField($value): array
-//    {
-//        return $this->createQueryBuilder('f')
-//            ->andWhere('f.exampleField = :val')
-//            ->setParameter('val', $value)
-//            ->orderBy('f.id', 'ASC')
-//            ->setMaxResults(10)
-//            ->getQuery()
-//            ->getResult()
-//        ;
-//    }
+    public function findOneForMostra(int $id): ?Frase
+    {
+        return $this->createQueryBuilder('f')
+            ->addSelect('c', 'd', 'e', 't', 'te')
+            ->innerJoin('f.contesto', 'c')
+            ->innerJoin('f.direzione', 'd')
+            ->innerJoin('f.espressione', 'e')
+            ->leftJoin('f.traduzioni', 't')
+            ->leftJoin('t.espressione', 'te')
+            ->andWhere('f.id = :id')
+            ->setParameter('id', $id)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
 
-//    public function findOneBySomeField($value): ?Frase
-//    {
-//        return $this->createQueryBuilder('f')
-//            ->andWhere('f.exampleField = :val')
-//            ->setParameter('val', $value)
-//            ->getQuery()
-//            ->getOneOrNullResult()
-//        ;
-//    }
+    public function findFirstIdByContestoAndDirezione(int $contestoId, int $direzioneId): ?int
+    {
+        $res = $this->createQueryBuilder('f')
+            ->select('f.id')
+            ->andWhere('f.contesto = :cid')
+            ->andWhere('f.direzione = :did')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('did', $direzioneId)
+            ->orderBy('f.id', 'ASC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getOneOrNullResult();
+
+        return $res ? (int)$res['id'] : null;
+    }
+
+    public function findPrevNextIds(int $currentId, int $contestoId, int $direzioneId): array
+    {
+        // prev
+        $prev = $this->createQueryBuilder('f')
+            ->select('f.id')
+            ->andWhere('f.contesto = :cid')
+            ->andWhere('f.direzione = :did')
+            ->andWhere('f.id < :cur')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('did', $direzioneId)
+            ->setParameter('cur', $currentId)
+            ->orderBy('f.id', 'DESC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getOneOrNullResult();
+
+        // next
+        $next = $this->createQueryBuilder('f')
+            ->select('f.id')
+            ->andWhere('f.contesto = :cid')
+            ->andWhere('f.direzione = :did')
+            ->andWhere('f.id > :cur')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('did', $direzioneId)
+            ->setParameter('cur', $currentId)
+            ->orderBy('f.id', 'ASC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getOneOrNullResult();
+
+        return [
+            'prev' => $prev ? (int)$prev['id'] : null,
+            'next' => $next ? (int)$next['id'] : null,
+        ];
+    }
 }

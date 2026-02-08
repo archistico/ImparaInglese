@@ -1,0 +1,47 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <div>
+        <h1 class="h3 mb-1">{{ title }}</h1>
+        <p class="text-muted mb-0">Scegli un contesto e inizia a tradurre.</p>
+    </div>
+
+    <a class="btn btn-outline-secondary" href="{{ path('app_home') }}">
+        ← Home
+    </a>
+</div>
+
+<div class="row g-3">
+    {% for r in rows %}
+        {% set c = r.contesto %}
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body d-flex flex-column">
+                    <div class="d-flex align-items-start justify-content-between gap-2">
+                        <h2 class="h5 mb-0">{{ c.descrizione }}</h2>
+                        <span class="badge text-bg-primary">{{ r.frasiCount }}</span>
+                    </div>
+
+                    <p class="text-muted mt-2 mb-3 flex-grow-1">
+                        Frasi disponibili nel contesto: {{ r.frasiCount }}.
+                    </p>
+
+                    <a class="btn btn-primary"
+                        href="{{ path('app_frasi_italiano_inglese_inizia', { contestoId: c.id }) }}">
+                        Inizia
+                    </a>
+                </div>
+            </div>
+        </div>
+    {% else %}
+        <div class="col-12">
+            <div class="alert alert-warning">
+                Nessun contesto trovato (verifica fixtures e direzione "Italiano -> Inglese").
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}
