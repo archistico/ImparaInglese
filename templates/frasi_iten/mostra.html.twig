@@ -62,7 +62,7 @@
         <div class="fs-3 fw-semibold mb-2">{{ frase.espressione.testo }}</div>
 
         {% if frase.espressione.info %}
-            <div class="alert alert-info mb-3">
+            <div class="alert info-box mb-3">
                 <div class="fw-semibold mb-1">
                     <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                         <circle class="icon-stroke" cx="12" cy="12" r="9"></circle>
@@ -75,8 +75,8 @@
             </div>
         {% endif %}
 
-        <details class="mt-3">
-            <summary class="btn btn-lg btn-success w-100">
+        <details class="mt-3 reveal-details">
+            <summary class="btn btn-lg btn-primary w-100 reveal-btn">
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                     <path class="icon-stroke" d="M2 12s4-6 10-6 10 6 10 6-4 6-10 6-10-6-10-6"></path>
                     <circle class="icon-stroke" cx="12" cy="12" r="3"></circle>
@@ -84,7 +84,7 @@
                 MOSTRA
             </summary>
 
-            <div class="mt-3">
+            <div class="mt-3 reveal-content">
                 <div class="text-muted small mb-2">Traduzione/i corretta/e</div>
 
                 {% set traduzioni = frase.traduzioni ?? [] %}
@@ -116,6 +116,31 @@ details > summary {
 }
 details > summary::-webkit-details-marker {
     display: none;
+}
+
+.info-box {
+    background: #f9fafb;
+    border: 1px solid var(--ep-border);
+    color: var(--ep-ink);
+}
+
+.reveal-btn {
+    transition: transform 0.08s ease, box-shadow 0.15s ease;
+}
+.reveal-btn:active {
+    transform: scale(0.98);
+}
+
+.reveal-content {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease, opacity 0.2s ease;
+}
+.reveal-details[open] .reveal-content {
+    max-height: 1200px;
+    opacity: 1;
+    transition-delay: 0.08s;
 }
 </style>
 {% endblock %}
