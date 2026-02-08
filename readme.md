@@ -1,5 +1,7 @@
 # English Phrases
 
+![Logo](public/assets/logo.svg)
+
 App Symfony per allenarsi con frasi inglese/italiano organizzate per contesto, con area admin per la gestione dei contenuti.
 
 ## Funzionalità
