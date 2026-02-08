@@ -79,4 +79,25 @@ final class FraseRepository extends ServiceEntityRepository
             'next' => $next ? (int)$next['id'] : null,
         ];
     }
+
+    /**
+     * @return Frase[]
+     */
+    public function findAllForItenList(): array
+    {
+        return $this->createQueryBuilder('f')
+            ->addSelect('c', 'l', 'd', 'e', 't', 'te')
+            ->innerJoin('f.contesto', 'c')
+            ->innerJoin('f.livello', 'l')
+            ->innerJoin('f.direzione', 'd')
+            ->innerJoin('f.espressione', 'e')
+            ->leftJoin('f.traduzioni', 't')
+            ->leftJoin('t.espressione', 'te')
+            ->andWhere('d.descrizione = :desc')
+            ->setParameter('desc', 'Italiano -> Inglese')
+            ->orderBy('c.descrizione', 'ASC')
+            ->addOrderBy('f.id', 'ASC')
+            ->getQuery()
+            ->getResult();
+    }
 }

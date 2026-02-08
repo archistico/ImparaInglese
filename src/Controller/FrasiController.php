@@ -20,7 +20,7 @@ final class FrasiController extends AbstractController
         // Recupero l'ID della direzione "Italiano -> Inglese"
         $dirId = (int) $em->createQueryBuilder()
             ->select('d.id')
-            ->from('App\Entity\Direzione', 'd')
+            ->from('App\\Entity\\Direzione', 'd')
             ->where('d.descrizione = :desc')
             ->setParameter('desc', 'Italiano -> Inglese')
             ->setMaxResults(1)
@@ -35,7 +35,7 @@ final class FrasiController extends AbstractController
         ]);
     }
 
-    #[Route('/frasi_iten/contesto/{contestoId}/inizia', name: 'app_frasi_iten_inizia', requirements: ['contestoId' => '\d+'], methods: ['GET'])]
+    #[Route('/frasi_iten/contesto/{contestoId}/inizia', name: 'app_frasi_iten_inizia', requirements: ['contestoId' => '\\d+'], methods: ['GET'])]
     public function inizia(
         int $contestoId,
         FraseRepository $fraseRepository,
@@ -43,7 +43,7 @@ final class FrasiController extends AbstractController
     ): RedirectResponse {
         $dirId = (int) $em->createQueryBuilder()
             ->select('d.id')
-            ->from('App\Entity\Direzione', 'd')
+            ->from('App\\Entity\\Direzione', 'd')
             ->where('d.descrizione = :desc')
             ->setParameter('desc', 'Italiano -> Inglese')
             ->setMaxResults(1)
@@ -60,7 +60,7 @@ final class FrasiController extends AbstractController
         return $this->redirectToRoute('app_frasi_iten_mostra', ['id' => $firstId]);
     }
 
-    #[Route('/frasi_iten/mostra/{id}', name: 'app_frasi_iten_mostra', requirements: ['id' => '\d+'], methods: ['GET'])]
+    #[Route('/frasi_iten/mostra/{id}', name: 'app_frasi_iten_mostra', requirements: ['id' => '\\d+'], methods: ['GET'])]
     public function mostra(
         int $id,
         FraseRepository $fraseRepository,
@@ -89,6 +89,17 @@ final class FrasiController extends AbstractController
             'frase' => $frase,
             'prevId' => $pn['prev'],
             'nextId' => $pn['next'],
+        ]);
+    }
+
+    #[Route('/frasi_iten/lista', name: 'app_frasi_iten_lista', methods: ['GET'])]
+    public function lista(FraseRepository $fraseRepository): Response
+    {
+        $frasi = $fraseRepository->findAllForItenList();
+
+        return $this->render('frasi_iten/lista.html.twig', [
+            'title' => 'Lista Frasi Italiano → Inglese',
+            'frasi' => $frasi,
         ]);
     }
 }
