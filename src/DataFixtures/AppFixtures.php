@@ -26,6 +26,13 @@ final class AppFixtures extends Fixture
 
         $base = (new Livello())->setDescrizione('Base');
         $manager->persist($base);
+        
+        $intermedio = (new Livello())->setDescrizione('Intermedio');
+        $manager->persist($intermedio);
+        
+        $avanzato = (new Livello())->setDescrizione('Avanzato');
+        $manager->persist($avanzato);
+        $manager->persist($base);
 
         $dirItEn = (new Direzione())
             ->setDescrizione('Italiano -> Inglese')
