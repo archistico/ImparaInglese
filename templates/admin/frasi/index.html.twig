@@ -5,13 +5,43 @@
 {% block body %}
 <div class="d-flex align-items-center justify-content-between mb-3">
   <div>
-    <h1 class="h3 mb-1">{{ title }}</h1>
+    <h1 class="h3 mb-1">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+        <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+        <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+        <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+        <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+        <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+      </svg>
+      {{ title }}
+    </h1>
     <p class="text-muted mb-0">Lista completa delle frasi.</p>
   </div>
   <div class="d-flex gap-2">
-    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_export') }}">Export JSON</a>
-    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_import') }}">Import JSON</a>
-    <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}"><- Admin</a>
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_export') }}">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path class="icon-stroke" d="M12 3v12"></path>
+        <polyline class="icon-stroke" points="7 10 12 15 17 10"></polyline>
+        <path class="icon-stroke" d="M5 21h14"></path>
+      </svg>
+      Export JSON
+    </a>
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_import') }}">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path class="icon-stroke" d="M12 21V9"></path>
+        <polyline class="icon-stroke" points="7 14 12 9 17 14"></polyline>
+        <path class="icon-stroke" d="M5 3h14"></path>
+      </svg>
+      Import JSON
+    </a>
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+        <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+      </svg>
+      Admin
+    </a>
   </div>
 </div>
 
@@ -77,7 +107,13 @@
               </div>
             </div>
             <div class="d-grid gap-1 d-sm-flex justify-content-end">
-              <a class="btn btn-sm btn-outline-secondary w-100 w-sm-auto" href="{{ path('app_admin_frasi_modifica', {id: f.id}) }}">Modifica</a>
+              <a class="btn btn-sm btn-outline-secondary w-100 w-sm-auto" href="{{ path('app_admin_frasi_modifica', {id: f.id}) }}">
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path class="icon-stroke" d="M4 20l4-1 10-10-3-3L5 16l-1 4z"></path>
+                  <path class="icon-stroke" d="M14 6l3 3"></path>
+                </svg>
+                Modifica
+              </a>
               <form method="post" action="{{ path('app_admin_frasi_elimina', {id: f.id}) }}" class="m-0 w-100 w-sm-auto" onsubmit="return confirm('Eliminare questa frase?');">
                 <input type="hidden" name="_token" value="{{ csrf_token('delete_frase_' ~ f.id) }}">
                 <button class="btn btn-sm btn-outline-danger w-100 w-sm-auto" type="submit">Elimina</button>

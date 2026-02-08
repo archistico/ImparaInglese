@@ -10,8 +10,24 @@
       <h1 class="menu-title">{{ title }}</h1>
       <p class="menu-subtitle">Scegli cosa vuoi gestire. Tutto il contenuto e' organizzato in moduli chiari.</p>
       <div class="menu-actions">
-        <a class="btn btn-dark menu-cta" href="{{ path('app_admin_frasi_iten') }}">Nuova traduzione</a>
-        <a class="btn btn-outline-dark menu-cta" href="{{ path('app_admin_frasi') }}">Gestisci frasi</a>
+        <a class="btn btn-dark menu-cta" href="{{ path('app_admin_frasi_iten') }}">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path class="icon-stroke" d="M4 20l4-1 10-10-3-3L5 16l-1 4z"></path>
+            <path class="icon-stroke" d="M14 6l3 3"></path>
+          </svg>
+          Nuova traduzione
+        </a>
+        <a class="btn btn-outline-dark menu-cta" href="{{ path('app_admin_frasi') }}">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+            <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+            <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+            <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+            <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+            <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+            <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+          </svg>
+          Gestisci frasi
+        </a>
       </div>
     </div>
     <div class="menu-hero__panel">
@@ -23,7 +39,13 @@
         <div class="menu-hero__stat-label">Accesso</div>
         <div class="menu-hero__stat-value">Protetto da login</div>
       </div>
-      <a class="btn btn-outline-secondary w-100" href="{{ path('app_home') }}"><- Home</a>
+      <a class="btn btn-outline-secondary w-100" href="{{ path('app_home') }}">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+        </svg>
+        Home
+      </a>
     </div>
   </div>
 
@@ -34,7 +56,17 @@
         <h2 class="menu-card__title">Contesti</h2>
       </div>
       <p class="menu-card__text">Gestisci i contesti disponibili.</p>
-      <a class="btn btn-light menu-card__btn" href="{{ path('app_admin_contesti') }}">Vai alla lista</a>
+      <a class="btn btn-light menu-card__btn" href="{{ path('app_admin_contesti') }}">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+          <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+          <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+          <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+        </svg>
+        Vai alla lista
+      </a>
     </div>
 
     <div class="menu-card is-secondary">
@@ -43,7 +75,17 @@
         <h2 class="menu-card__title">Frasi</h2>
       </div>
       <p class="menu-card__text">Gestisci le frasi esistenti e le traduzioni.</p>
-      <a class="btn btn-dark menu-card__btn" href="{{ path('app_admin_frasi') }}">Vai alla lista</a>
+      <a class="btn btn-dark menu-card__btn" href="{{ path('app_admin_frasi') }}">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+          <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+          <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+          <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+          <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+        </svg>
+        Vai alla lista
+      </a>
     </div>
 
     <div class="menu-card is-muted">
@@ -79,7 +121,13 @@
         <h2 class="menu-card__title">Nuova traduzione</h2>
       </div>
       <p class="menu-card__text">Crea una frase e aggiungi una o piu' traduzioni.</p>
-      <a class="btn btn-outline-dark menu-card__btn" href="{{ path('app_admin_frasi_iten') }}">Vai al form</a>
+      <a class="btn btn-outline-dark menu-card__btn" href="{{ path('app_admin_frasi_iten') }}">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path class="icon-stroke" d="M4 20l4-1 10-10-3-3L5 16l-1 4z"></path>
+          <path class="icon-stroke" d="M14 6l3 3"></path>
+        </svg>
+        Vai al form
+      </a>
     </div>
   </div>
 </div>

@@ -5,13 +5,35 @@
 {% block body %}
 <div class="d-flex align-items-center justify-content-between mb-3">
     <div>
-        <h1 class="h3 mb-1">{{ title }}</h1>
+        <h1 class="h3 mb-1">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                <line class="icon-stroke" x1="8" y1="6" x2="21" y2="6"></line>
+                <line class="icon-stroke" x1="8" y1="12" x2="21" y2="12"></line>
+                <line class="icon-stroke" x1="8" y1="18" x2="21" y2="18"></line>
+                <circle class="icon-stroke" cx="4" cy="6" r="1"></circle>
+                <circle class="icon-stroke" cx="4" cy="12" r="1"></circle>
+                <circle class="icon-stroke" cx="4" cy="18" r="1"></circle>
+            </svg>
+            {{ title }}
+        </h1>
         <p class="text-muted mb-0">Tutte le frasi Italiano -> Inglese con contesto, livello e traduzioni.</p>
     </div>
 
     <div class="d-flex gap-2">
-        <a class="btn btn-outline-secondary" href="{{ path('app_frasi_iten') }}"><- Contesti</a>
-        <a class="btn btn-outline-secondary" href="{{ path('app_home') }}"><- Home</a>
+        <a class="btn btn-outline-secondary" href="{{ path('app_frasi_iten') }}">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+                <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+            </svg>
+            Contesti
+        </a>
+        <a class="btn btn-outline-secondary" href="{{ path('app_home') }}">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+                <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+            </svg>
+            Home
+        </a>
     </div>
 </div>
 

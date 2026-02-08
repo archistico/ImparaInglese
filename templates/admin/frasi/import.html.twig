@@ -5,10 +5,23 @@
 {% block body %}
 <div class="d-flex align-items-center justify-content-between mb-3">
   <div>
-    <h1 class="h3 mb-1">{{ title }}</h1>
+    <h1 class="h3 mb-1">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path class="icon-stroke" d="M12 21V9"></path>
+        <polyline class="icon-stroke" points="7 14 12 9 17 14"></polyline>
+        <path class="icon-stroke" d="M5 3h14"></path>
+      </svg>
+      {{ title }}
+    </h1>
     <p class="text-muted mb-0">Importa frasi da un JSON semplice e modificabile a mano (non importa frasi già presenti)</p>
   </div>
-  <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}"><- Frasi</a>
+  <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}">
+    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+      <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
+      <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
+    </svg>
+    Frasi
+  </a>
 </div>
 
 {% if errors is defined and errors|length > 0 %}
@@ -58,7 +71,14 @@
   </div>
   <div class="card-footer d-flex justify-content-end gap-2">
     <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}">Annulla</a>
-    <button class="btn btn-primary" type="submit">Importa</button>
+    <button class="btn btn-primary" type="submit">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path class="icon-stroke" d="M12 21V9"></path>
+        <polyline class="icon-stroke" points="7 14 12 9 17 14"></polyline>
+        <path class="icon-stroke" d="M5 3h14"></path>
+      </svg>
+      Importa
+    </button>
   </div>
 </form>
 {% endblock %}
