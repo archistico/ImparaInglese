@@ -1,0 +1,70 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div>
+    <h1 class="h3 mb-1">{{ title }}</h1>
+    <p class="text-muted mb-0">Modifica la frase e le sue traduzioni.</p>
+  </div>
+  <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}"><- Frasi</a>
+</div>
+
+{% if errors is defined and errors|length > 0 %}
+  <div class="alert alert-danger">
+    <ul class="mb-0">
+      {% for e in errors %}
+        <li>{{ e }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+<form method="post" class="card shadow-sm">
+  <div class="card-body">
+    <div class="row g-3">
+      <div class="col-12 col-md-6">
+        <label class="form-label">Contesto</label>
+        <select name="contesto_id" class="form-select" required>
+          <option value="">Seleziona contesto</option>
+          {% for c in contesti %}
+            <option value="{{ c.id }}" {% if data.contestoId == c.id %}selected{% endif %}>{{ c.descrizione }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="col-12 col-md-6">
+        <label class="form-label">Livello</label>
+        <select name="livello_id" class="form-select" required>
+          <option value="">Seleziona livello</option>
+          {% for l in livelli %}
+            <option value="{{ l.id }}" {% if data.livelloId == l.id %}selected{% endif %}>{{ l.descrizione }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="col-12">
+        <label class="form-label">Frase in italiano</label>
+        <input type="text" name="it_text" class="form-control" value="{{ data.it_text }}" required>
+      </div>
+
+      <div class="col-12">
+        <label class="form-label">Info (italiano)</label>
+        <input type="text" name="it_info" class="form-control" value="{{ data.it_info }}" placeholder="es: uso formale, nota grammaticale">
+      </div>
+
+      <div class="col-12">
+        <label class="form-label">Traduzioni (una per riga)</label>
+        <textarea name="traduzioni" rows="6" class="form-control" placeholder="Esempio:
+How are you?
+How's it going? | informale">{{ data.traduzioni }}</textarea>
+        <div class="form-text">Formato: una traduzione per riga. Se vuoi info, usa "testo | info".</div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer d-flex justify-content-end">
+    <button class="btn btn-primary" type="submit">Salva</button>
+  </div>
+</form>
+{% endblock %}

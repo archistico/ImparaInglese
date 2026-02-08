@@ -1,0 +1,66 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div>
+    <h1 class="h3 mb-1">{{ title }}</h1>
+    <p class="text-muted mb-0">Lista completa delle frasi.</p>
+  </div>
+  <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}"><- Admin</a>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped align-middle">
+    <thead>
+      <tr>
+        <th>Contesto</th>
+        <th>Livello</th>
+        <th>Direzione</th>
+        <th>Frase</th>
+        <th>Traduzioni</th>
+        <th class="text-end">Azioni</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for f in frasi %}
+        <tr>
+          <td class="text-nowrap">{{ f.contesto.descrizione }}</td>
+          <td class="text-nowrap">{{ f.livello.descrizione }}</td>
+          <td class="text-nowrap">{{ f.direzione.descrizione }}</td>
+          <td>
+            <div class="fw-semibold">{{ f.espressione.testo }}</div>
+            {% if f.espressione.info %}
+              <div class="text-muted small">{{ f.espressione.info }}</div>
+            {% endif %}
+          </td>
+          <td>
+            {% set traduzioni = f.traduzioni ?? [] %}
+            {% if traduzioni|length == 0 %}
+              <span class="text-muted">-</span>
+            {% else %}
+              <div class="d-grid gap-1">
+                {% for t in traduzioni %}
+                  <div>{{ t.espressione.testo }}</div>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </td>
+          <td class="text-end">
+            <a class="btn btn-sm btn-outline-secondary" href="{{ path('app_admin_frasi_modifica', {id: f.id}) }}">Modifica</a>
+          </td>
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="6">
+            <div class="alert alert-warning mb-0">
+              Nessuna frase trovata.
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
