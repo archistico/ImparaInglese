@@ -167,4 +167,31 @@ final class AdminFrasiGestioneController extends AbstractController
             'errors' => $errors,
         ]);
     }
+
+    #[Route('/admin/frasi/{id}/elimina', name: 'app_admin_frasi_elimina', requirements: ['id' => '\d+'], methods: ['POST'])]
+    public function elimina(
+        int $id,
+        Request $request,
+        FraseRepository $fraseRepository,
+        EntityManagerInterface $em
+    ): RedirectResponse {
+        $frase = $fraseRepository->findOneForMostra($id);
+        if (!$frase) {
+            throw $this->createNotFoundException('Frase non trovata');
+        }
+
+        if (!$this->isCsrfTokenValid('delete_frase_' . $id, (string)$request->request->get('_token'))) {
+            $this->addFlash('danger', 'Token CSRF non valido.');
+            return $this->redirectToRoute('app_admin_frasi');
+        }
+
+        foreach ($frase->getTraduzioni() as $oldTrad) {
+            $em->remove($oldTrad);
+        }
+        $em->remove($frase);
+        $em->flush();
+
+        $this->addFlash('success', 'Frase eliminata correttamente.');
+        return $this->redirectToRoute('app_admin_frasi');
+    }
 }

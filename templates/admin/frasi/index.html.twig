@@ -49,6 +49,10 @@
           </td>
           <td class="text-end">
             <a class="btn btn-sm btn-outline-secondary" href="{{ path('app_admin_frasi_modifica', {id: f.id}) }}">Modifica</a>
+            <form method="post" action="{{ path('app_admin_frasi_elimina', {id: f.id}) }}" class="d-inline" onsubmit="return confirm('Eliminare questa frase?');">
+              <input type="hidden" name="_token" value="{{ csrf_token('delete_frase_' ~ f.id) }}">
+              <button class="btn btn-sm btn-outline-danger" type="submit">Elimina</button>
+            </form>
           </td>
         </tr>
       {% else %}
