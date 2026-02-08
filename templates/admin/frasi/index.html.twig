@@ -60,27 +60,27 @@
   <table class="table table-striped align-middle admin-table">
     <thead>
       <tr>
-        <th class="d-none d-md-table-cell">Contesto</th>
-        <th class="d-none d-md-table-cell">Livello</th>
-        <th class="d-none d-md-table-cell">Direzione</th>
-        <th class="d-none d-md-table-cell">Frase</th>
-        <th class="d-none d-md-table-cell">Traduzioni</th>
+        <th class="d-none d-lg-table-cell">Contesto</th>
+        <th class="d-none d-lg-table-cell">Livello</th>
+        <th class="d-none d-lg-table-cell">Direzione</th>
+        <th class="d-none d-lg-table-cell">Frase</th>
+        <th class="d-none d-lg-table-cell">Traduzioni</th>
         <th class="text-end">Azioni</th>
       </tr>
     </thead>
     <tbody>
       {% for f in frasi %}
         <tr>
-          <td class="d-none d-md-table-cell text-nowrap">{{ f.contesto.descrizione }}</td>
-          <td class="d-none d-md-table-cell text-nowrap">{{ f.livello.descrizione }}</td>
-          <td class="d-none d-md-table-cell text-nowrap">{{ f.direzione.descrizione }}</td>
-          <td class="d-none d-md-table-cell">
+          <td class="d-none d-lg-table-cell text-nowrap">{{ f.contesto.descrizione }}</td>
+          <td class="d-none d-lg-table-cell text-nowrap">{{ f.livello.descrizione }}</td>
+          <td class="d-none d-lg-table-cell text-nowrap">{{ f.direzione.descrizione }}</td>
+          <td class="d-none d-lg-table-cell">
             <div class="fw-semibold">{{ f.espressione.testo }}</div>
             {% if f.espressione.info %}
               <div class="text-muted small">{{ f.espressione.info }}</div>
             {% endif %}
           </td>
-          <td class="d-none d-md-table-cell">
+          <td class="d-none d-lg-table-cell">
             {% set traduzioni = f.traduzioni ?? [] %}
             {% if traduzioni|length == 0 %}
               <span class="text-muted">-</span>
@@ -93,7 +93,7 @@
             {% endif %}
           </td>
           <td class="text-end">
-            <div class="d-md-none text-start mb-2">
+            <div class="d-lg-none text-start mb-2">
               <div><span class="text-muted small">Contesto:</span> {{ f.contesto.descrizione }}</div>
               <div><span class="text-muted small">Livello:</span> {{ f.livello.descrizione }}</div>
               <div><span class="text-muted small">Direzione:</span> {{ f.direzione.descrizione }}</div>
@@ -127,7 +127,14 @@
               </a>
               <form method="post" action="{{ path('app_admin_frasi_elimina', {id: f.id}) }}" class="m-0 w-100 w-sm-auto" onsubmit="return confirm('Eliminare questa frase?');">
                 <input type="hidden" name="_token" value="{{ csrf_token('delete_frase_' ~ f.id) }}">
-                <button class="btn btn-sm btn-outline-danger w-100 w-sm-auto" type="submit">Elimina</button>
+                <button class="btn btn-sm btn-outline-danger w-100 w-sm-auto" type="submit">
+                  <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path class="icon-stroke" d="M3 6h18"></path>
+                    <path class="icon-stroke" d="M8 6V4h8v2"></path>
+                    <path class="icon-stroke" d="M6 6l1 14h10l1-14"></path>
+                  </svg>
+                  Elimina
+                </button>
               </form>
             </div>
           </td>
