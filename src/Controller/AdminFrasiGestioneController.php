@@ -3,8 +3,11 @@
 namespace App\Controller;
 
 use App\Entity\Espressione;
+use App\Entity\Contesto;
+use App\Entity\Livello;
 use App\Entity\Traduzione;
 use App\Repository\ContestoRepository;
+use App\Repository\DirezioneRepository;
 use App\Repository\FraseRepository;
 use App\Repository\LinguaRepository;
 use App\Repository\LivelloRepository;
@@ -13,6 +16,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\ResponseHeaderBag;
 use Symfony\Component\Routing\Attribute\Route;
 
 final class AdminFrasiGestioneController extends AbstractController
@@ -193,5 +197,182 @@ final class AdminFrasiGestioneController extends AbstractController
 
         $this->addFlash('success', 'Frase eliminata correttamente.');
         return $this->redirectToRoute('app_admin_frasi');
+    }
+
+    #[Route('/admin/frasi/export', name: 'app_admin_frasi_export', methods: ['GET'])]
+    public function export(FraseRepository $fraseRepository): Response
+    {
+        $frasi = $fraseRepository->findAllForAdminFrasiList();
+
+        $payload = [
+            'version' => 1,
+            'frasi' => [],
+        ];
+
+        foreach ($frasi as $f) {
+            $traduzioni = [];
+            foreach ($f->getTraduzioni() as $t) {
+                $traduzioni[] = [
+                    'testo' => $t->getEspressione()->getTesto(),
+                    'info' => $t->getEspressione()->getInfo(),
+                ];
+            }
+
+            $payload['frasi'][] = [
+                'contesto' => $f->getContesto()->getDescrizione(),
+                'livello' => $f->getLivello()->getDescrizione(),
+                'direzione' => $f->getDirezione()->getDescrizione(),
+                'frase' => [
+                    'testo' => $f->getEspressione()->getTesto(),
+                    'info' => $f->getEspressione()->getInfo(),
+                ],
+                'traduzioni' => $traduzioni,
+            ];
+        }
+
+        $json = json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        $response = new Response($json ?? '[]');
+        $disposition = $response->headers->makeDisposition(
+            ResponseHeaderBag::DISPOSITION_ATTACHMENT,
+            'frasi-export.json'
+        );
+        $response->headers->set('Content-Type', 'application/json');
+        $response->headers->set('Content-Disposition', $disposition);
+        return $response;
+    }
+
+    #[Route('/admin/frasi/import', name: 'app_admin_frasi_import', methods: ['GET', 'POST'])]
+    public function import(
+        Request $request,
+        FraseRepository $fraseRepository,
+        ContestoRepository $contestoRepository,
+        LivelloRepository $livelloRepository,
+        DirezioneRepository $direzioneRepository,
+        LinguaRepository $linguaRepository,
+        EntityManagerInterface $em
+    ): Response|RedirectResponse {
+        $data = [
+            'json' => '',
+        ];
+        $errors = [];
+
+        if ($request->isMethod('POST')) {
+            $data['json'] = trim((string)$request->request->get('json', ''));
+            $file = $request->files->get('json_file');
+            if ($data['json'] === '' && $file) {
+                $data['json'] = trim((string)@file_get_contents($file->getPathname()));
+            }
+
+            if ($data['json'] === '') {
+                $errors[] = 'Inserisci o carica un JSON valido.';
+            } else {
+                $decoded = json_decode($data['json'], true);
+                if (!is_array($decoded)) {
+                    $errors[] = 'JSON non valido.';
+                } else {
+                    $items = $decoded['frasi'] ?? $decoded;
+                    if (!is_array($items)) {
+                        $errors[] = 'Formato JSON non valido: manca "frasi".';
+                    }
+                }
+            }
+
+            $linguaIt = $linguaRepository->findOneBy(['descrizione' => 'Italiano']);
+            $linguaEn = $linguaRepository->findOneBy(['descrizione' => 'Inglese']);
+            if (!$linguaIt || !$linguaEn) {
+                $errors[] = 'Lingue Italiano/Inglese non trovate.';
+            }
+
+            if (count($errors) === 0) {
+                $items = $decoded['frasi'] ?? $decoded;
+                $created = 0;
+
+                foreach ($items as $item) {
+                    if (!is_array($item)) {
+                        continue;
+                    }
+
+                    $contestoName = trim((string)($item['contesto'] ?? ''));
+                    $livelloName = trim((string)($item['livello'] ?? ''));
+                    $direzioneName = trim((string)($item['direzione'] ?? 'Italiano -> Inglese'));
+                    $fraseData = $item['frase'] ?? [];
+                    $fraseText = trim((string)($fraseData['testo'] ?? $fraseData['text'] ?? ''));
+                    $fraseInfo = $fraseData['info'] ?? null;
+                    $traduzioni = $item['traduzioni'] ?? [];
+
+                    if ($contestoName === '' || $livelloName === '' || $fraseText === '' || !is_array($traduzioni)) {
+                        continue;
+                    }
+
+                    $contesto = $contestoRepository->findOneBy(['descrizione' => $contestoName]);
+                    if (!$contesto) {
+                        $contesto = (new Contesto())->setDescrizione($contestoName);
+                        $em->persist($contesto);
+                    }
+
+                    $livello = $livelloRepository->findOneBy(['descrizione' => $livelloName]);
+                    if (!$livello) {
+                        $livello = (new Livello())->setDescrizione($livelloName);
+                        $em->persist($livello);
+                    }
+
+                    $direzione = $direzioneRepository->findOneBy(['descrizione' => $direzioneName]);
+                    if (!$direzione) {
+                        $errors[] = 'Direzione non trovata: ' . $direzioneName;
+                        continue;
+                    }
+
+                    $fraseExpr = (new Espressione())
+                        ->setLingua($direzioneName === 'Italiano -> Inglese' ? $linguaIt : $linguaEn)
+                        ->setTesto($fraseText)
+                        ->setInfo($fraseInfo !== '' ? $fraseInfo : null)
+                        ->setCorretta(true);
+                    $em->persist($fraseExpr);
+
+                    $frase = (new \App\Entity\Frase())
+                        ->setContesto($contesto)
+                        ->setDirezione($direzione)
+                        ->setLivello($livello)
+                        ->setEspressione($fraseExpr);
+                    $em->persist($frase);
+
+                    foreach ($traduzioni as $t) {
+                        if (!is_array($t)) {
+                            continue;
+                        }
+                        $tText = trim((string)($t['testo'] ?? $t['text'] ?? ''));
+                        if ($tText === '') {
+                            continue;
+                        }
+                        $tInfo = $t['info'] ?? null;
+                        $tradExpr = (new Espressione())
+                            ->setLingua($direzioneName === 'Italiano -> Inglese' ? $linguaEn : $linguaIt)
+                            ->setTesto($tText)
+                            ->setInfo($tInfo !== '' ? $tInfo : null)
+                            ->setCorretta(true);
+                        $em->persist($tradExpr);
+
+                        $trad = (new Traduzione())
+                            ->setFrase($frase)
+                            ->setEspressione($tradExpr);
+                        $em->persist($trad);
+                    }
+
+                    $created++;
+                }
+
+                if (count($errors) === 0) {
+                    $em->flush();
+                    $this->addFlash('success', 'Import completato. Frasi create: ' . $created);
+                    return $this->redirectToRoute('app_admin_frasi');
+                }
+            }
+        }
+
+        return $this->render('admin/frasi/import.html.twig', [
+            'title' => 'Admin — Import Frasi',
+            'data' => $data,
+            'errors' => $errors,
+        ]);
     }
 }

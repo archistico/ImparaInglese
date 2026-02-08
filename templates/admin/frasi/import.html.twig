@@ -1,0 +1,64 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div>
+    <h1 class="h3 mb-1">{{ title }}</h1>
+    <p class="text-muted mb-0">Importa frasi da un JSON semplice e modificabile a mano.</p>
+  </div>
+  <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}"><- Frasi</a>
+</div>
+
+{% if errors is defined and errors|length > 0 %}
+  <div class="alert alert-danger">
+    <ul class="mb-0">
+      {% for e in errors %}
+        <li>{{ e }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+<div class="card shadow-sm mb-3">
+  <div class="card-body">
+    <div class="fw-semibold mb-2">Formato JSON</div>
+    <pre class="bg-light border rounded p-3 mb-0"><code>{
+  "version": 1,
+  "frasi": [
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao",
+        "info": "informale"
+      },
+      "traduzioni": [
+        { "testo": "Hi", "info": "informale" },
+        { "testo": "Hello" }
+      ]
+    }
+  ]
+}</code></pre>
+  </div>
+</div>
+
+<form method="post" enctype="multipart/form-data" class="card shadow-sm">
+  <div class="card-body">
+    <div class="mb-3">
+      <label class="form-label">JSON (incolla qui)</label>
+      <textarea name="json" rows="10" class="form-control">{{ data.json }}</textarea>
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Oppure carica file .json</label>
+      <input type="file" name="json_file" class="form-control" accept="application/json">
+    </div>
+  </div>
+  <div class="card-footer d-flex justify-content-end gap-2">
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi') }}">Annulla</a>
+    <button class="btn btn-primary" type="submit">Importa</button>
+  </div>
+</form>
+{% endblock %}

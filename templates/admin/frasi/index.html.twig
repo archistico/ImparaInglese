@@ -8,7 +8,11 @@
     <h1 class="h3 mb-1">{{ title }}</h1>
     <p class="text-muted mb-0">Lista completa delle frasi.</p>
   </div>
-  <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}"><- Admin</a>
+  <div class="d-flex gap-2">
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_export') }}">Export JSON</a>
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_import') }}">Import JSON</a>
+    <a class="btn btn-outline-secondary" href="{{ path('app_admin_home') }}"><- Admin</a>
+  </div>
 </div>
 
 <div class="table-responsive">
