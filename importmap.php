@@ -12,9 +12,18 @@
  * The "importmap:require" command can be used to add new entries to this file.
  */
 return [
+    'app' => [
+        'path' => './assets/app.js',
+        'entrypoint' => true,
+    ],
+
     '@hotwired/stimulus' => [
         'version' => '3.2.2',
     ],
+    '@hotwired/turbo' => [
+        'version' => '8.0.12',
+    ],
+
     '@symfony/ux-live-component' => [
         'version' => '2.32.0',
     ],

@@ -10,7 +10,7 @@
         "doctrine/doctrine-bundle": "^3.2.2",
         "doctrine/doctrine-migrations-bundle": "^4.0",
         "doctrine/orm": "^3.6.2",
-        "phpdocumentor/reflection-docblock": "*",
+        "phpdocumentor/reflection-docblock": "^5.6.6",
         "phpstan/phpdoc-parser": "^2.3.2",
         "symfony/asset": "8.0.*",
         "symfony/asset-mapper": "8.0.*",
@@ -49,7 +49,7 @@
     "config": {
         "allow-plugins": {
             "php-http/discovery": true,
-            "symfony/flex": true,
+            "symfony/flex": false,
             "symfony/runtime": true
         },
         "bump-after-update": true,
