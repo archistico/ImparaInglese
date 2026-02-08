@@ -50,7 +50,7 @@ final class FrasiController extends AbstractController
             ->getQuery()
             ->getSingleScalarResult();
 
-        $firstId = $fraseRepository->findFirstIdByContestoAndDirezione($contestoId, $dirId);
+        $firstId = $fraseRepository->findRandomIdByContestoAndDirezione($contestoId, $dirId);
 
         if (!$firstId) {
             // Se un contesto è vuoto, torniamo alla lista contesti
