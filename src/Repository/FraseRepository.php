@@ -168,4 +168,34 @@ final class FraseRepository extends ServiceEntityRepository
             ->getQuery()
             ->getResult();
     }
+
+    public function existsByDetails(
+        int $contestoId,
+        int $livelloId,
+        int $direzioneId,
+        string $testo,
+        ?string $info
+    ): bool {
+        $qb = $this->createQueryBuilder('f')
+            ->select('f.id')
+            ->innerJoin('f.espressione', 'e')
+            ->andWhere('f.contesto = :cid')
+            ->andWhere('f.livello = :lid')
+            ->andWhere('f.direzione = :did')
+            ->andWhere('e.testo = :testo')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('lid', $livelloId)
+            ->setParameter('did', $direzioneId)
+            ->setParameter('testo', $testo)
+            ->setMaxResults(1);
+
+        if ($info === null || trim($info) === '') {
+            $qb->andWhere('e.info IS NULL OR e.info = \'\'');
+        } else {
+            $qb->andWhere('e.info = :info')->setParameter('info', $info);
+        }
+
+        $res = $qb->getQuery()->getOneOrNullResult();
+        return $res !== null;
+    }
 }

@@ -322,6 +322,16 @@ final class AdminFrasiGestioneController extends AbstractController
                         continue;
                     }
 
+                    if ($fraseRepository->existsByDetails(
+                        (int)$contesto->getId(),
+                        (int)$livello->getId(),
+                        (int)$direzione->getId(),
+                        $fraseText,
+                        is_string($fraseInfo) ? $fraseInfo : null
+                    )) {
+                        continue;
+                    }
+
                     $fraseExpr = (new Espressione())
                         ->setLingua($direzioneName === 'Italiano -> Inglese' ? $linguaIt : $linguaEn)
                         ->setTesto($fraseText)
