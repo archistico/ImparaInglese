@@ -1,0 +1,300 @@
+{
+  "version": 2,
+  "frasi": [
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Can you say that again?", "info": null },
+      "traduzioni": [
+        { "testo": "Puoi dirlo di nuovo?", "info": "neutro" },
+        { "testo": "Puoi ripeterlo?", "info": "più naturale" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Puoi dirlo di nuovo?", "info": null },
+      "traduzioni": [
+        { "testo": "Can you say that again?", "info": "neutro" },
+        { "testo": "Could you repeat that?", "info": "più cortese" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Can you speak slower?", "info": null },
+      "traduzioni": [
+        { "testo": "Puoi parlare più lentamente?", "info": "neutro" },
+        { "testo": "Puoi parlare più piano?", "info": "uso comune" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Puoi parlare più lentamente?", "info": null },
+      "traduzioni": [
+        { "testo": "Can you speak slower?", "info": "neutro" },
+        { "testo": "Could you speak more slowly, please?", "info": "più cortese" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Can you write it down for me?", "info": null },
+      "traduzioni": [
+        { "testo": "Puoi scrivermelo?", "info": "neutro" },
+        { "testo": "Puoi metterlo per iscritto?", "info": "più formale" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Puoi scrivermelo?", "info": null },
+      "traduzioni": [
+        { "testo": "Can you write it down for me?", "info": "neutro" },
+        { "testo": "Could you write it down?", "info": "più breve" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Capisci?", "info": null },
+      "traduzioni": [
+        { "testo": "Do you understand?", "info": "neutro" },
+        { "testo": "Is that clear?", "info": "contesto esplicativo" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you understand?", "info": null },
+      "traduzioni": [
+        { "testo": "Capisci?", "info": null },
+        { "testo": "Hai capito?", "info": "uso comune" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non capisco", "info": null },
+      "traduzioni": [
+        { "testo": "I don't understand", "info": "neutro" },
+        { "testo": "I don't get it", "info": "informale" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I don't understand", "info": null },
+      "traduzioni": [
+        { "testo": "Non capisco", "info": null }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non lo so", "info": null },
+      "traduzioni": [
+        { "testo": "I don't know", "info": "neutro" },
+        { "testo": "I'm not sure", "info": "più morbido" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I don't know", "info": null },
+      "traduzioni": [
+        { "testo": "Non lo so", "info": null }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Parli inglese?", "info": null },
+      "traduzioni": [
+        { "testo": "Do you speak English?", "info": "neutro" }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you speak English?", "info": null },
+      "traduzioni": [
+        { "testo": "Parli inglese?", "info": null }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi dispiace", "info": null },
+      "traduzioni": [
+        { "testo": "I'm sorry", "info": "scuse" },
+        { "testo": "Sorry about that", "info": "informale" }
+      ]
+    },
+
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Cosa ne pensi?", "info": null },
+      "traduzioni": [
+        { "testo": "What do you think?", "info": "breve" },
+        { "testo": "What do you think about that?", "info": "più esplicito" }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I agree", "info": null },
+      "traduzioni": [
+        { "testo": "Sono d'accordo", "info": null },
+        { "testo": "Concordo", "info": "più formale" }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I disagree", "info": null },
+      "traduzioni": [
+        { "testo": "Non sono d'accordo", "info": null }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Secondo me…", "info": null },
+      "traduzioni": [
+        { "testo": "In my opinion…", "info": "neutro" },
+        { "testo": "I think that…", "info": "più colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "In my opinion…", "info": null },
+      "traduzioni": [
+        { "testo": "Secondo me…", "info": null }
+      ]
+    },
+
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Questo contiene glutine?", "info": null },
+      "traduzioni": [
+        { "testo": "Does this contain gluten?", "info": "neutro" },
+        { "testo": "Is this gluten-free?", "info": "alternativa comune" }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Does this contain gluten?", "info": null },
+      "traduzioni": [
+        { "testo": "Questo contiene glutine?", "info": null }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Il cibo è troppo salato", "info": null },
+      "traduzioni": [
+        { "testo": "The food is too salty", "info": "neutro" }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vorrei ordinare da asporto", "info": null },
+      "traduzioni": [
+        { "testo": "I'd like to order takeaway", "info": "UK" },
+        { "testo": "I'd like to order takeout", "info": "USA" }
+      ]
+    },
+
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Il tempo è incerto", "info": null },
+      "traduzioni": [
+        { "testo": "The weather is unpredictable", "info": "neutro" },
+        { "testo": "The weather is uncertain", "info": "alternativa" }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "It's pouring outside!", "info": null },
+      "traduzioni": [
+        { "testo": "Sta diluviando!", "info": null },
+        { "testo": "Piove a dirotto!", "info": "alternativa" }
+      ]
+    },
+
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Azzurro", "info": null },
+      "traduzioni": [
+        { "testo": "Light blue", "info": "neutro" },
+        { "testo": "Sky blue", "info": "descrittivo" }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Grigio", "info": null },
+      "traduzioni": [
+        { "testo": "Gray", "info": "USA" },
+        { "testo": "Grey", "info": "UK" }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I like the blue one", "info": null },
+      "traduzioni": [
+        { "testo": "Mi piace quello blu", "info": null }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Intermedio",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Di notte non vedo nulla, è tutto scuro", "info": null },
+      "traduzioni": [
+        { "testo": "At night I can't see anything, it's all dark", "info": "descrittivo" },
+        { "testo": "I can't see in the dark", "info": "più naturale" }
+      ]
+    }
+  ]
+}
