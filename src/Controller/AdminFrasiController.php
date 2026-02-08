@@ -140,6 +140,7 @@ final class AdminFrasiController extends AbstractController
 
                 $em->flush();
 
+                $this->addFlash('success', 'Frase inserita correttamente.');
                 return $this->redirectToRoute('app_admin_frasi_iten');
             }
         }
