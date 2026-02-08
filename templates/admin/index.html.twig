@@ -3,97 +3,259 @@
 {% block title %}{{ title }}{% endblock %}
 
 {% block body %}
-<div class="d-flex align-items-center justify-content-between mb-3">
-  <div>
-    <h1 class="h3 mb-1">{{ title }}</h1>
-    <p class="text-muted mb-0">Seleziona cosa vuoi gestire.</p>
-  </div>
-  <a class="btn btn-outline-secondary" href="{{ path('app_home') }}"><- Home</a>
-</div>
-
-<div class="row g-3 align-items-stretch">
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Contesti</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Gestisci i contesti.
-        </p>
-        <a class="btn btn-primary" href="{{ path('app_admin_contesti') }}">
-          Vai alla lista
-        </a>
+<div class="menu-page">
+  <div class="menu-hero">
+    <div class="menu-hero__content">
+      <div class="menu-pill">Admin</div>
+      <h1 class="menu-title">{{ title }}</h1>
+      <p class="menu-subtitle">Scegli cosa vuoi gestire. Tutto il contenuto e' organizzato in moduli chiari.</p>
+      <div class="menu-actions">
+        <a class="btn btn-dark menu-cta" href="{{ path('app_admin_frasi_iten') }}">Nuova traduzione</a>
+        <a class="btn btn-outline-dark menu-cta" href="{{ path('app_admin_frasi') }}">Gestisci frasi</a>
       </div>
+    </div>
+    <div class="menu-hero__panel">
+      <div class="menu-hero__stat">
+        <div class="menu-hero__stat-label">Area</div>
+        <div class="menu-hero__stat-value">Contenuti e gestione</div>
+      </div>
+      <div class="menu-hero__stat">
+        <div class="menu-hero__stat-label">Accesso</div>
+        <div class="menu-hero__stat-value">Protetto da login</div>
+      </div>
+      <a class="btn btn-outline-secondary w-100" href="{{ path('app_home') }}"><- Home</a>
     </div>
   </div>
 
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm border-0 opacity-75">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Direzioni</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Gestisci le direzioni.
-        </p>
-        <button class="btn btn-outline-secondary" type="button" disabled>
-          In arrivo
-        </button>
+  <div class="menu-grid">
+    <div class="menu-card is-primary">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">Attivo</div>
+        <h2 class="menu-card__title">Contesti</h2>
       </div>
+      <p class="menu-card__text">Gestisci i contesti disponibili.</p>
+      <a class="btn btn-light menu-card__btn" href="{{ path('app_admin_contesti') }}">Vai alla lista</a>
     </div>
-  </div>
 
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Frasi</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Gestisci le frasi esistenti.
-        </p>
-        <a class="btn btn-primary" href="{{ path('app_admin_frasi') }}">
-          Vai alla lista
-        </a>
+    <div class="menu-card is-secondary">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">Attivo</div>
+        <h2 class="menu-card__title">Frasi</h2>
       </div>
+      <p class="menu-card__text">Gestisci le frasi esistenti e le traduzioni.</p>
+      <a class="btn btn-dark menu-card__btn" href="{{ path('app_admin_frasi') }}">Vai alla lista</a>
     </div>
-  </div>
 
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm border-0 opacity-75">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Lingue</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Gestisci le lingue.
-        </p>
-        <button class="btn btn-outline-secondary" type="button" disabled>
-          In arrivo
-        </button>
+    <div class="menu-card is-muted">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">In arrivo</div>
+        <h2 class="menu-card__title">Direzioni</h2>
       </div>
+      <p class="menu-card__text">Gestisci le direzioni disponibili.</p>
+      <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
     </div>
-  </div>
 
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm border-0 opacity-75">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Livelli</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Gestisci i livelli.
-        </p>
-        <button class="btn btn-outline-secondary" type="button" disabled>
-          In arrivo
-        </button>
+    <div class="menu-card is-muted">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">In arrivo</div>
+        <h2 class="menu-card__title">Lingue</h2>
       </div>
+      <p class="menu-card__text">Gestisci le lingue.</p>
+      <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
     </div>
-  </div>
 
-  <div class="col-12 col-md-6 col-lg-4">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body d-flex flex-column">
-        <h2 class="h5 card-title mb-2">Nuova traduzione</h2>
-        <p class="card-text text-muted flex-grow-1">
-          Crea una frase e aggiungi una o più traduzioni.
-        </p>
-        <a class="btn btn-primary" href="{{ path('app_admin_frasi_iten') }}">
-          Vai al form
-        </a>
+    <div class="menu-card is-muted">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">In arrivo</div>
+        <h2 class="menu-card__title">Livelli</h2>
       </div>
+      <p class="menu-card__text">Gestisci i livelli.</p>
+      <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
+    </div>
+
+    <div class="menu-card is-admin">
+      <div class="menu-card__header">
+        <div class="menu-card__badge">Crea</div>
+        <h2 class="menu-card__title">Nuova traduzione</h2>
+      </div>
+      <p class="menu-card__text">Crea una frase e aggiungi una o piu' traduzioni.</p>
+      <a class="btn btn-outline-dark menu-card__btn" href="{{ path('app_admin_frasi_iten') }}">Vai al form</a>
     </div>
   </div>
 </div>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&display=swap');
+
+.menu-page {
+  font-family: 'Sora', sans-serif;
+}
+
+.menu-hero {
+  background: linear-gradient(135deg, #f7f2e8 0%, #e9f2ff 100%);
+  border: 1px solid #e6e1d9;
+  border-radius: 20px;
+  padding: 28px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1.5fr 1fr;
+  align-items: center;
+  box-shadow: 0 10px 30px rgba(12, 20, 33, 0.08);
+  animation: menuFade 600ms ease-out;
+}
+
+.menu-hero__panel {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid #e7e3db;
+  border-radius: 16px;
+  padding: 18px;
+  display: grid;
+  gap: 12px;
+}
+
+.menu-hero__stat-label {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6b7280;
+}
+
+.menu-hero__stat-value {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.menu-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #1f2937;
+  color: #fff;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.menu-title {
+  font-size: clamp(2rem, 2.6vw, 2.6rem);
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  color: #111827;
+}
+
+.menu-subtitle {
+  color: #4b5563;
+  margin: 0 0 16px 0;
+  font-size: 1rem;
+}
+
+.menu-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.menu-cta {
+  border-radius: 12px;
+  padding: 10px 16px;
+}
+
+.menu-grid {
+  margin-top: 24px;
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.menu-card {
+  border-radius: 18px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border: 1px solid #e6e1d9;
+  background: #ffffff;
+  box-shadow: 0 8px 20px rgba(14, 20, 30, 0.06);
+  min-height: 220px;
+  animation: menuRise 500ms ease-out;
+}
+
+.menu-card__badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: rgba(17, 24, 39, 0.08);
+  color: #111827;
+  margin-bottom: 8px;
+}
+
+.menu-card__title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  color: #111827;
+}
+
+.menu-card__text {
+  color: #4b5563;
+  margin: 0;
+  flex-grow: 1;
+}
+
+.menu-card__btn {
+  align-self: flex-start;
+  border-radius: 12px;
+  padding: 8px 14px;
+}
+
+.menu-card.is-primary {
+  background: linear-gradient(160deg, #111827 0%, #1f2937 70%);
+  color: #fff;
+  border: none;
+}
+.menu-card.is-primary .menu-card__title,
+.menu-card.is-primary .menu-card__text,
+.menu-card.is-primary .menu-card__badge {
+  color: #fff;
+}
+.menu-card.is-primary .menu-card__badge {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.menu-card.is-secondary {
+  background: linear-gradient(160deg, #e7f0ff 0%, #ffffff 70%);
+}
+
+.menu-card.is-muted {
+  background: #f8fafc;
+  border: 1px dashed #d1d5db;
+}
+
+.menu-card.is-admin {
+  background: linear-gradient(160deg, #fff7ed 0%, #ffffff 70%);
+}
+
+@keyframes menuFade {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes menuRise {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 991.98px) {
+  .menu-hero {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 {% endblock %}

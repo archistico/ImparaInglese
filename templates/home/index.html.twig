@@ -3,107 +3,272 @@
 {% block title %}{{ title }}{% endblock %}
 
 {% block body %}
-<div class="row g-3 align-items-stretch">
-    <div class="col-12">
-        <div class="p-4 bg-white border rounded-3 shadow-sm">
-            <h1 class="h3 mb-1">{{ title }}</h1>
-            <p class="text-muted mb-0">
-                Scegli cosa vuoi allenare oggi. Per ora partiamo con le frasi più utili (Italiano → Inglese)
+<div class="menu-page">
+    <div class="menu-hero">
+        <div class="menu-hero__content">
+            <div class="menu-pill">English Phrases</div>
+            <h1 class="menu-title">{{ title }}</h1>
+            <p class="menu-subtitle">
+                Scegli cosa vuoi allenare oggi. Percorsi rapidi, contesti chiari, risultati concreti.
             </p>
+            <div class="menu-actions">
+                <a class="btn btn-dark menu-cta" href="{{ path('app_frasi_iten') }}">Inizia IT -> EN</a>
+                <a class="btn btn-outline-dark menu-cta" href="{{ path('app_frasi_enit') }}">Inizia EN -> IT</a>
+            </div>
         </div>
-    </div>
-
-    {# Card 1 - attiva #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Frasi Italiano → Inglese</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Seleziona un contesto (presentarsi, ristorante, hotel…) e prova a tradurre
-                </p>
-                <a class="btn btn-primary"
-                    href="{{ path('app_frasi_iten') }}">
-                    Vai ai contesti
-                </a>
+        <div class="menu-hero__panel">
+            <div class="menu-hero__stat">
+                <div class="menu-hero__stat-label">Sessione</div>
+                <div class="menu-hero__stat-value">Allenamento rapido</div>
+            </div>
+            <div class="menu-hero__stat">
+                <div class="menu-hero__stat-label">Metodo</div>
+                <div class="menu-hero__stat-value">Contesti + traduzioni</div>
             </div>
         </div>
     </div>
 
-    {# Card 2 - attiva #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Frasi Inglese -> Italiano</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Allenati a capire frasi reali in inglese.
-                </p>
-                <a class="btn btn-primary"
-                    href="{{ path('app_frasi_enit') }}">
-                    Vai ai contesti
-                </a>
+    <div class="menu-grid">
+        <div class="menu-card is-primary">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">IT -> EN</div>
+                <h2 class="menu-card__title">Frasi Italiano -> Inglese</h2>
             </div>
+            <p class="menu-card__text">
+                Seleziona un contesto (presentarsi, ristorante, hotel...) e prova a tradurre.
+            </p>
+            <a class="btn btn-light menu-card__btn" href="{{ path('app_frasi_iten') }}">Vai ai contesti</a>
         </div>
-    </div>
 
-    {# Card 3 - disabilitata #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 opacity-75">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Come comporre le frasi</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Strutture base, ordine delle parole, domande, negazioni
-                </p>
-                <button class="btn btn-outline-secondary" type="button" disabled>
-                    In arrivo
-                </button>
+        <div class="menu-card is-secondary">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">EN -> IT</div>
+                <h2 class="menu-card__title">Frasi Inglese -> Italiano</h2>
             </div>
+            <p class="menu-card__text">
+                Allenati a capire frasi reali in inglese, con soluzioni chiare.
+            </p>
+            <a class="btn btn-dark menu-card__btn" href="{{ path('app_frasi_enit') }}">Vai ai contesti</a>
         </div>
-    </div>
 
-    {# Card 4 - disabilitata #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 opacity-75">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Verbi e tempi verbali</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Present simple, past, future, modali… con esempi pratici
-                </p>
-                <button class="btn btn-outline-secondary" type="button" disabled>
-                    In arrivo
-                </button>
+        <div class="menu-card is-muted">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">In arrivo</div>
+                <h2 class="menu-card__title">Come comporre le frasi</h2>
             </div>
+            <p class="menu-card__text">
+                Strutture base, ordine delle parole, domande, negazioni.
+            </p>
+            <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
         </div>
-    </div>
 
-    {# Card 5 - disabilitata #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 opacity-75">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Mini dizionario</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Parole utili e collocazioni, con esempi
-                </p>
-                <button class="btn btn-outline-secondary" type="button" disabled>
-                    In arrivo
-                </button>
+        <div class="menu-card is-muted">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">In arrivo</div>
+                <h2 class="menu-card__title">Verbi e tempi verbali</h2>
             </div>
+            <p class="menu-card__text">
+                Present simple, past, future, modali... con esempi pratici.
+            </p>
+            <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
         </div>
-    </div>
 
-    {# Card 6 - attiva #}
-    <div class="col-12 col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm">
-            <div class="card-body d-flex flex-column">
-                <h2 class="h5 card-title mb-2">Admin</h2>
-                <p class="card-text text-muted flex-grow-1">
-                    Aggiungi nuove frasi, contesto, ...
-                </p>
-                <a class="btn btn-primary"
-                    href="{{ path('app_admin_home') }}">
-                    Amministrazione
-                </a>
+        <div class="menu-card is-muted">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">In arrivo</div>
+                <h2 class="menu-card__title">Mini dizionario</h2>
             </div>
+            <p class="menu-card__text">
+                Parole utili e collocazioni, con esempi.
+            </p>
+            <button class="btn btn-outline-secondary menu-card__btn" type="button" disabled>In arrivo</button>
+        </div>
+
+        <div class="menu-card is-admin">
+            <div class="menu-card__header">
+                <div class="menu-card__badge">Admin</div>
+                <h2 class="menu-card__title">Amministrazione</h2>
+            </div>
+            <p class="menu-card__text">
+                Aggiungi nuove frasi, contesti e gestisci i contenuti.
+            </p>
+            <a class="btn btn-outline-dark menu-card__btn" href="{{ path('app_admin_home') }}">Amministrazione</a>
         </div>
     </div>
 </div>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&display=swap');
+
+.menu-page {
+    font-family: 'Sora', sans-serif;
+}
+
+.menu-hero {
+    background: linear-gradient(135deg, #f7f2e8 0%, #e9f2ff 100%);
+    border: 1px solid #e6e1d9;
+    border-radius: 20px;
+    padding: 28px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1.5fr 1fr;
+    align-items: center;
+    box-shadow: 0 10px 30px rgba(12, 20, 33, 0.08);
+    animation: menuFade 600ms ease-out;
+}
+
+.menu-hero__panel {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #e7e3db;
+    border-radius: 16px;
+    padding: 18px;
+    display: grid;
+    gap: 12px;
+}
+
+.menu-hero__stat-label {
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #6b7280;
+}
+
+.menu-hero__stat-value {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1f2937;
+}
+
+.menu-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: #1f2937;
+    color: #fff;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.menu-title {
+    font-size: clamp(2rem, 2.6vw, 2.6rem);
+    font-weight: 700;
+    margin: 0 0 8px 0;
+    color: #111827;
+}
+
+.menu-subtitle {
+    color: #4b5563;
+    margin: 0 0 16px 0;
+    font-size: 1rem;
+}
+
+.menu-actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.menu-cta {
+    border-radius: 12px;
+    padding: 10px 16px;
+}
+
+.menu-grid {
+    margin-top: 24px;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.menu-card {
+    border-radius: 18px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    border: 1px solid #e6e1d9;
+    background: #ffffff;
+    box-shadow: 0 8px 20px rgba(14, 20, 30, 0.06);
+    min-height: 220px;
+    animation: menuRise 500ms ease-out;
+}
+
+.menu-card__badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    background: rgba(17, 24, 39, 0.08);
+    color: #111827;
+    margin-bottom: 8px;
+}
+
+.menu-card__title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0;
+    color: #111827;
+}
+
+.menu-card__text {
+    color: #4b5563;
+    margin: 0;
+    flex-grow: 1;
+}
+
+.menu-card__btn {
+    align-self: flex-start;
+    border-radius: 12px;
+    padding: 8px 14px;
+}
+
+.menu-card.is-primary {
+    background: linear-gradient(160deg, #111827 0%, #1f2937 70%);
+    color: #fff;
+    border: none;
+}
+.menu-card.is-primary .menu-card__title,
+.menu-card.is-primary .menu-card__text,
+.menu-card.is-primary .menu-card__badge {
+    color: #fff;
+}
+.menu-card.is-primary .menu-card__badge {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.menu-card.is-secondary {
+    background: linear-gradient(160deg, #e7f0ff 0%, #ffffff 70%);
+}
+
+.menu-card.is-muted {
+    background: #f8fafc;
+    border: 1px dashed #d1d5db;
+}
+
+.menu-card.is-admin {
+    background: linear-gradient(160deg, #fff7ed 0%, #ffffff 70%);
+}
+
+@keyframes menuFade {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes menuRise {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 991.98px) {
+    .menu-hero {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
 {% endblock %}

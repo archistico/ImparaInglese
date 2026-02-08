@@ -9,7 +9,123 @@
     {# Bootstrap 5 (CDN) #}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    {% block stylesheets %}{% endblock %}
+    {% block stylesheets %}
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&display=swap');
+
+    :root {
+        --ep-bg: #f6f4ef;
+        --ep-surface: #ffffff;
+        --ep-ink: #111827;
+        --ep-muted: #4b5563;
+        --ep-border: #e6e1d9;
+        --ep-shadow: 0 10px 30px rgba(12, 20, 33, 0.08);
+        --ep-radius: 16px;
+    }
+
+    body {
+        font-family: 'Sora', sans-serif;
+        background: radial-gradient(circle at top, #ffffff 0%, var(--ep-bg) 50%, #f1f3f7 100%);
+        color: var(--ep-ink);
+    }
+
+    .navbar {
+        box-shadow: 0 6px 16px rgba(12, 20, 33, 0.12);
+    }
+
+    .card,
+    .table,
+    .alert,
+    .form-control,
+    .form-select {
+        border-radius: var(--ep-radius);
+        border-color: var(--ep-border);
+    }
+
+    .card {
+        box-shadow: var(--ep-shadow);
+    }
+
+    .btn {
+        border-radius: 12px;
+        font-weight: 600;
+    }
+
+    .btn-primary {
+        background: #111827;
+        border-color: #111827;
+    }
+
+    .btn-primary:hover {
+        background: #0b1220;
+        border-color: #0b1220;
+    }
+
+    .btn-outline-secondary {
+        border-color: #cbd5e1;
+        color: #1f2937;
+    }
+
+    .btn-outline-secondary:hover {
+        background: #f3f4f6;
+        border-color: #cbd5e1;
+        color: #111827;
+    }
+
+    .btn-success {
+        background: #1f2937;
+        border-color: #1f2937;
+        color: #ffffff;
+    }
+
+    .btn-success:hover {
+        background: #111827;
+        border-color: #111827;
+        color: #ffffff;
+    }
+
+    .badge {
+        background: #e5e7eb !important;
+        color: #111827 !important;
+        border: 1px solid #d1d5db;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+    }
+
+    .badge.text-bg-primary,
+    .badge.text-bg-success,
+    .badge.text-bg-secondary,
+    .badge.text-bg-warning,
+    .badge.text-bg-info,
+    .badge.text-bg-danger {
+        background: #e5e7eb !important;
+        color: #111827 !important;
+        border: 1px solid #d1d5db;
+    }
+
+    .form-control,
+    .form-select {
+        padding: 10px 12px;
+    }
+
+    .table {
+        background: var(--ep-surface);
+    }
+
+    .table thead th {
+        color: #6b7280;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        font-size: 0.75rem;
+        border-bottom: 1px solid var(--ep-border);
+    }
+
+    .table tbody tr {
+        border-color: var(--ep-border);
+    }
+    </style>
+    {% endblock %}
 </head>
 <body class="bg-light">
 
