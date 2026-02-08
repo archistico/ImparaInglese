@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Relazioni",
+    "frasi": [
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a boyfriend?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai un fidanzato?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a girlfriend?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai una fidanzata?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have children?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai dei figli?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you want to go out with me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vuoi uscire con me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have … kids",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho … bambini",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm divorced",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono divorziato\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm engaged",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono fidanzato\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm in a relationship",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono fidanzato\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm married",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono sposato\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm single",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono single",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai dei figli?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have children?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai un fidanzato?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a boyfriend?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai una fidanzata?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a girlfriend?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho … bambini",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have … kids",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono divorziato\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm divorced",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono fidanzato\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm engaged",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono fidanzato\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm in a relationship",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono single",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm single",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono sposato\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm married",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Relazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vuoi uscire con me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you want to go out with me?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

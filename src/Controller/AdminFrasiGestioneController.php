@@ -22,13 +22,15 @@ use Symfony\Component\Routing\Attribute\Route;
 final class AdminFrasiGestioneController extends AbstractController
 {
     #[Route('/admin/frasi', name: 'app_admin_frasi', methods: ['GET'])]
-    public function index(FraseRepository $fraseRepository): Response
+    public function index(FraseRepository $fraseRepository, ContestoRepository $contestoRepository): Response
     {
         $frasi = $fraseRepository->findAllForAdminFrasiList();
+        $contesti = $contestoRepository->findBy([], ['descrizione' => 'ASC']);
 
         return $this->render('admin/frasi/index.html.twig', [
             'title' => 'Admin — Frasi',
             'frasi' => $frasi,
+            'contesti' => $contesti,
         ]);
     }
 
@@ -273,6 +275,66 @@ final class AdminFrasiGestioneController extends AbstractController
         return $response;
     }
 
+    #[Route('/admin/frasi/export-contesto', name: 'app_admin_frasi_export_contesto', methods: ['GET'])]
+    public function exportContesto(
+        Request $request,
+        ContestoRepository $contestoRepository,
+        FraseRepository $fraseRepository
+    ): Response|RedirectResponse {
+        $contestoId = (int)$request->query->get('contesto_id', 0);
+        if ($contestoId <= 0) {
+            $this->addFlash('warning', 'Seleziona un contesto da esportare.');
+            return $this->redirectToRoute('app_admin_frasi');
+        }
+
+        $contesto = $contestoRepository->find($contestoId);
+        if (!$contesto) {
+            $this->addFlash('danger', 'Contesto non trovato.');
+            return $this->redirectToRoute('app_admin_frasi');
+        }
+
+        $frasi = $fraseRepository->findAllForAdminContesto($contestoId);
+
+        $payload = [
+            'version' => 1,
+            'contesto' => $contesto->getDescrizione(),
+            'frasi' => [],
+        ];
+
+        foreach ($frasi as $f) {
+            $traduzioni = [];
+            foreach ($f->getTraduzioni() as $t) {
+                $traduzioni[] = [
+                    'testo' => $t->getEspressione()->getTesto(),
+                    'info' => $t->getEspressione()->getInfo(),
+                ];
+            }
+
+            $payload['frasi'][] = [
+                'contesto' => $f->getContesto()->getDescrizione(),
+                'livello' => $f->getLivello()->getDescrizione(),
+                'direzione' => $f->getDirezione()->getDescrizione(),
+                'frase' => [
+                    'testo' => $f->getEspressione()->getTesto(),
+                    'info' => $f->getEspressione()->getInfo(),
+                ],
+                'traduzioni' => $traduzioni,
+            ];
+        }
+
+        $slug = $this->slugify((string)$contesto->getDescrizione());
+        $filename = 'frase-export-' . $contestoId . ($slug !== '' ? '-' . $slug : '') . '.json';
+        $json = json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        $response = new Response($json ?? '[]');
+        $disposition = $response->headers->makeDisposition(
+            ResponseHeaderBag::DISPOSITION_ATTACHMENT,
+            $filename
+        );
+        $response->headers->set('Content-Type', 'application/json');
+        $response->headers->set('Content-Disposition', $disposition);
+        return $response;
+    }
+
     #[Route('/admin/frasi/import', name: 'app_admin_frasi_import', methods: ['GET', 'POST'])]
     public function import(
         Request $request,
@@ -416,5 +478,24 @@ final class AdminFrasiGestioneController extends AbstractController
             'data' => $data,
             'errors' => $errors,
         ]);
+    }
+
+    private function slugify(string $value): string
+    {
+        $value = trim($value);
+        if ($value === '') {
+            return '';
+        }
+
+        $transliterated = @iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $value);
+        if (is_string($transliterated) && $transliterated !== '') {
+            $value = $transliterated;
+        }
+
+        $value = strtolower($value);
+        $value = preg_replace('/[^a-z0-9]+/', '-', $value) ?? '';
+        $value = trim($value, '-');
+
+        return $value;
     }
 }

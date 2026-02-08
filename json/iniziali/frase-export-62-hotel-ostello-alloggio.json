@@ -1,0 +1,786 @@
+{
+    "version": 1,
+    "contesto": "Hotel \/ Ostello \/ Alloggio",
+    "frasi": [
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I leave my luggage?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso lasciare i bagagli?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay in cash?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare in contanti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay in dollars?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare in dollari?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you change the sheets?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrebbe cambiare le lenzuola?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you please clean my room?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrebbe pulire la mia camera",
+                    "info": "per favore?"
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "For how many nights?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Per quante notti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do you turn on the air-conditioning?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come si accende l'aria condizionata?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is it per night?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa a notte?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a reservation",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho una prenotazione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I lost my key",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso la mia chiave",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need another …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve un altro …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need the Wi-Fi password",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve la password del Wi-Fi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like a room",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei una camera",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is breakfast included?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Con colazione inclusa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a safe?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è una cassaforte?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One night",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Una notte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The water is cold",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'acqua è fredda",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The water is too hot",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'acqua è troppo calda",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There is a problem with the room",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è un problema con la camera",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There is no …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non c'è …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Two nights",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Due notti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time is check-in?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora è il check-in?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time is check-out?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora è il check-out?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is my room?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la mia camera?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is room number 123?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la stanza numero 123?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the TV remote?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il telecomando della TV?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora è il check-in?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time is check-in?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora è il check-out?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time is check-out?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è un problema con la camera",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There is a problem with the room",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è una cassaforte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a safe?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come si accende l'aria condizionata?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do you turn on the air-conditioning?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Con colazione inclusa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is breakfast included?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il telecomando della TV?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the TV remote?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la mia camera?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is my room?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la stanza numero 123?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is room number 123?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Due notti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Two nights",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso la mia chiave",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I lost my key",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho una prenotazione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a reservation",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'acqua è fredda",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The water is cold",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'acqua è troppo calda",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The water is too hot",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve la password del Wi-Fi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need the Wi-Fi password",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve un altro …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need another …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non c'è …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There is no …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Per quante notti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "For how many nights?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso lasciare i bagagli?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I leave my luggage?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare in contanti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay in cash?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare in dollari?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay in dollars?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrebbe cambiare le lenzuola?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you change the sheets?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrebbe pulire la mia camera",
+                "info": "per favore?"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you please clean my room?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa a notte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is it per night?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Una notte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One night",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Hotel \/ Ostello \/ Alloggio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei una camera",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like a room",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

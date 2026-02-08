@@ -1,0 +1,396 @@
+{
+    "version": 1,
+    "contesto": "Museo",
+    "frasi": [
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are guided tours available?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono disponibili visite guidate?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are photos allowed?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le foto sono permesse?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I leave my backpack here?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso lasciare qui il mio zaino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I re-enter with this ticket?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso rientrare con questo biglietto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a student discount?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è uno sconto studenti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there an audio guide available?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è un'audioguida disponibile?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this the way to the special exhibition?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questa è la strada per la mostra speciale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time does the museum close?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora chiude il museo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are the restrooms?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono i bagni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I buy tickets?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso comprare i biglietti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the Renaissance art section?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove si trova la sezione d'arte rinascimentale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the coat check?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove si trova il guardaroba?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the museum exit?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è l'uscita del museo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora chiude il museo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time does the museum close?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è un'audioguida disponibile?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there an audio guide available?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è uno sconto studenti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a student discount?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è l'uscita del museo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the museum exit?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso comprare i biglietti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I buy tickets?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove si trova il guardaroba?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the coat check?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove si trova la sezione d'arte rinascimentale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the Renaissance art section?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono i bagni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are the restrooms?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le foto sono permesse?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are photos allowed?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso lasciare qui il mio zaino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I leave my backpack here?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso rientrare con questo biglietto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I re-enter with this ticket?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questa è la strada per la mostra speciale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this the way to the special exhibition?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Museo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono disponibili visite guidate?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are guided tours available?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "version": 1,
+    "contesto": "Tecnologia \/ Social Media",
+    "frasi": [
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you mute the mic?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi disattivare il microfono?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll text you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti mando un messaggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The Wi-Fi is down",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La connessione non funziona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your Instagram handle?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il tuo Instagram?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La connessione non funziona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The Wi-Fi is down",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi disattivare il microfono?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you mute the mic?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il tuo Instagram?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your Instagram handle?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia \/ Social Media",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti mando un messaggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll text you",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

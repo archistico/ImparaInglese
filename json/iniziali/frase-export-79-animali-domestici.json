@@ -1,0 +1,156 @@
+{
+    "version": 1,
+    "contesto": "Animali domestici",
+    "frasi": [
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have any pets?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai animali domestici?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like to buy some kibble for my cat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei comprare i croccantini per il mio gatto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm afraid of dogs",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho paura dei cani",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My dog is friendly",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mio cane è socievole",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your pet's name?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come si chiama il tuo animale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come si chiama il tuo animale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your pet's name?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai animali domestici?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have any pets?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho paura dei cani",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm afraid of dogs",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mio cane è socievole",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My dog is friendly",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Animali domestici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei comprare i croccantini per il mio gatto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like to buy some kibble for my cat",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

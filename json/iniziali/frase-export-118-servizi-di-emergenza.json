@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Servizi di Emergenza",
+    "frasi": [
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I perform CPR?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come faccio la RCP?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need an ambulance immediately",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di un'ambulanza immediatamente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need the fire department",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno dei vigili del fuoco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need urgent medical attention",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di cure mediche urgenti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I smell gas",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sento odore di gas",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've cut myself badly",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono tagliato seriamente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Someone is unconscious",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qualcuno è incosciente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There's a medical emergency",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è un'emergenza medica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There's been a fire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è stato un incendio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the nearest hospital?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è l'ospedale più vicino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è stato un incendio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There's been a fire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è un'emergenza medica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There's a medical emergency",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come faccio la RCP?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I perform CPR?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è l'ospedale più vicino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the nearest hospital?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno dei vigili del fuoco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need the fire department",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di cure mediche urgenti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need urgent medical attention",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di un'ambulanza immediatamente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need an ambulance immediately",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono tagliato seriamente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've cut myself badly",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qualcuno è incosciente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Someone is unconscious",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Servizi di Emergenza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sento odore di gas",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I smell gas",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Emozioni e Stati d'Animo",
+    "frasi": [
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling anxious",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento ansioso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling conflicted",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento in conflitto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling nostalgic",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento nostalgico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling overwhelmed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento sopraffatto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm overjoyed!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono felicissimo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm proud of you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono fiero di te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thrilled with the results",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono entusiasta dei risultati",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's disappointing",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È deludente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's heartwarming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È commovente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's reassuring",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È rassicurante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento ansioso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling anxious",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento in conflitto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling conflicted",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento nostalgico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling nostalgic",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento sopraffatto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling overwhelmed",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono entusiasta dei risultati",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thrilled with the results",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono felicissimo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm overjoyed!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono fiero di te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm proud of you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È commovente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's heartwarming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È deludente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's disappointing",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emozioni e Stati d'Animo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È rassicurante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's reassuring",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

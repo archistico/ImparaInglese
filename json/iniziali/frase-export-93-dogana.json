@@ -1,0 +1,396 @@
+{
+    "version": 1,
+    "contesto": "Dogana",
+    "frasi": [
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do I need to pay duty on this?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo pagare dazio su questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long will this take?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto tempo richiederà?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much am I allowed to bring in?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto posso portare con me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much cash am I allowed to carry?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto contante posso portare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have nothing to declare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho nulla da dichiarare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to declare these items",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo dichiarare questi articoli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I purchased this abroad",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'ho comprato all'estero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm here on vacation",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono qui in vacanza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "These are for personal use",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questi sono per uso personale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "These are gifts",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questi sono regali",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is prescription medication",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo è medicinale soggetto a prescrizione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What documents do you need?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di quali documenti avete bisogno?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is customs control?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il controllo doganale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo dichiarare questi articoli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to declare these items",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo pagare dazio su questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do I need to pay duty on this?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di quali documenti avete bisogno?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What documents do you need?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il controllo doganale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is customs control?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'ho comprato all'estero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I purchased this abroad",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho nulla da dichiarare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have nothing to declare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto contante posso portare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much cash am I allowed to carry?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto posso portare con me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much am I allowed to bring in?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto tempo richiederà?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long will this take?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questi sono per uso personale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "These are for personal use",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questi sono regali",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "These are gifts",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo è medicinale soggetto a prescrizione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is prescription medication",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dogana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono qui in vacanza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm here on vacation",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

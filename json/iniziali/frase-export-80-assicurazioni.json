@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Assicurazioni",
+    "frasi": [
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long will the claim process take?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto durerà la pratica del sinistro?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a copy of my policy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di una copia della mia polizza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to add a driver to my policy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo aggiungere un conducente alla mia polizza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to make a claim",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo fare un reclamo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to update my coverage",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo aggiornare la mia copertura",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've had an insurance event",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho avuto un sinistro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My policy number is...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mio numero di polizza è...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What does my insurance cover?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa copre la mia assicurazione?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's my deductible?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è la mia franchigia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where do I send the documents?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove devo inviare i documenti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa copre la mia assicurazione?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What does my insurance cover?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo aggiornare la mia copertura",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to update my coverage",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo aggiungere un conducente alla mia polizza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to add a driver to my policy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo fare un reclamo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to make a claim",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove devo inviare i documenti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where do I send the documents?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho avuto un sinistro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've had an insurance event",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di una copia della mia polizza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a copy of my policy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mio numero di polizza è...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My policy number is...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è la mia franchigia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's my deductible?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Assicurazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto durerà la pratica del sinistro?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long will the claim process take?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

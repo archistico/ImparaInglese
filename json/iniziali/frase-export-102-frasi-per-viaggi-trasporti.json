@@ -1,0 +1,156 @@
+{
+    "version": 1,
+    "contesto": "Frasi per viaggi \/ trasporti",
+    "frasi": [
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I have a window\/aisle seat?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere un posto finestrino\/corridoio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Does this bus\/train go to…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo autobus\/treno va a…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I get to…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come arrivo a…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I missed my stop",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso la fermata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this seat taken?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo posto è libero?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come arrivo a…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I get to…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso la fermata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I missed my stop",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere un posto finestrino\/corridoio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I have a window\/aisle seat?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo autobus\/treno va a…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Does this bus\/train go to…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per viaggi \/ trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo posto è libero?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this seat taken?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

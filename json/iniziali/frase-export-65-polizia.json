@@ -1,0 +1,786 @@
+{
+    "version": 1,
+    "contesto": "Polizia",
+    "frasi": [
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I call someone?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso chiamare qualcuno?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you help me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può aiutarmi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I see your badge number?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei vedere il suo numero di distintivo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't know this person",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non conosco questa persona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know this person",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Conosco questa persona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I lost my passport",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso il passaporto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I lost my wallet",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso il portafoglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need an interpreter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve un interprete",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need assistance",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di assistenza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need the police",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno della polizia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to file a police report",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo sporgere denuncia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to report a theft",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo denunciare un furto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I want to report it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voglio fare una denuncia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was robbed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stato derubato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I witnessed a crime",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho assistito a un crimine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've been in a car accident",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stato coinvolto in un incidente d'auto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've lost my passport",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso il passaporto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's an emergency",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È un'emergenza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My wallet was stolen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi hanno rubato il portafoglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Please show me your identification",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi mostri i documenti per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Please take my statement",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Per favore prenda la mia deposizione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Someone broke into my car",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qualcuno è entrato nella mia macchina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "They stole my...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi hanno rubato...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When will I get a copy of the report?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando avrò una copia della denuncia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the nearest police station?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il commissariato più vicino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the police station?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la stazione di polizia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Conosco questa persona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know this person",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo denunciare un furto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to report a theft",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo sporgere denuncia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to file a police report",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il commissariato più vicino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the nearest police station?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la stazione di polizia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the police station?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho assistito a un crimine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I witnessed a crime",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno della polizia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need the police",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di assistenza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need assistance",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso il passaporto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I lost my passport",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso il passaporto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've lost my passport",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso il portafoglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I lost my wallet",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi hanno rubato il portafoglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My wallet was stolen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi hanno rubato...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "They stole my...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi mostri i documenti per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Please show me your identification",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve un interprete",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need an interpreter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non conosco questa persona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't know this person",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Per favore prenda la mia deposizione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Please take my statement",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso chiamare qualcuno?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I call someone?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei vedere il suo numero di distintivo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I see your badge number?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può aiutarmi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you help me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qualcuno è entrato nella mia macchina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Someone broke into my car",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando avrò una copia della denuncia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When will I get a copy of the report?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stato coinvolto in un incidente d'auto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've been in a car accident",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stato derubato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was robbed",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voglio fare una denuncia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I want to report it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Polizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È un'emergenza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's an emergency",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

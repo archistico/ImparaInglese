@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Trasloco e Affitto",
+    "frasi": [
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are utilities included?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le utenze sono incluse?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to give notice to vacate",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo dare preavviso per lasciare l'appartamento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to set up electricity",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo attivare l'elettricità",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm here to view the apartment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono qui per vedere l'appartamento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking to rent an apartment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto cercando di affittare un appartamento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is the apartment furnished?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'appartamento è ammobiliato?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the lease duration?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è la durata del contratto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the security deposit?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il deposito cauzionale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I get a moving van?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso trovare un furgone per il trasloco?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where do I collect the keys?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove ritiro le chiavi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo attivare l'elettricità",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to set up electricity",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo dare preavviso per lasciare l'appartamento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to give notice to vacate",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso trovare un furgone per il trasloco?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I get a moving van?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove ritiro le chiavi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where do I collect the keys?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'appartamento è ammobiliato?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is the apartment furnished?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le utenze sono incluse?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are utilities included?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il deposito cauzionale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the security deposit?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è la durata del contratto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the lease duration?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono qui per vedere l'appartamento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm here to view the apartment",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasloco e Affitto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto cercando di affittare un appartamento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking to rent an apartment",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

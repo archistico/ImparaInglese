@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Scuse",
+    "frasi": [
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I didn't mean to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non intendevo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I messed up",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho fatto un pasticcio",
+                    "info": "informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That was my fault",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È stata colpa mia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho fatto un pasticcio",
+                "info": "informale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I messed up",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non intendevo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I didn't mean to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Scuse",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È stata colpa mia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That was my fault",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

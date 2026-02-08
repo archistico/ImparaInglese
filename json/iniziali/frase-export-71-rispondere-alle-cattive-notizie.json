@@ -1,0 +1,1026 @@
+{
+    "version": 1,
+    "contesto": "Rispondere alle cattive notizie",
+    "frasi": [
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Everything will be okay",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andrà tutto bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hang in there",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Coraggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How can I help you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come posso aiutarti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How horrible!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È orribile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How unfortunate",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che sfortuna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't believe it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non posso crederci!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hope you feel better",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero che tu stia meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I understand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm at a loss for words",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho parole",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm here for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono qui per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm in shock!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono sotto shock!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sending you a hug",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti mando un abbraccio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sorry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sorry to hear that",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace sentirlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "If I can do anything, tell me",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Se posso fare qualcosa, dimmelo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let me know",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fammi sapere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "No way!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ci credo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Oh no!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oh no!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Talk about being in the wrong place at the wrong time",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Si parla di essere nel posto sbagliato al momento sbagliato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That must be hard",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dev'essere difficile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's a pity",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che peccato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's awful!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È terribile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's just not fair",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non è giusto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's not fair",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non è giusto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's rough",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È dura",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's such bad luck!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che brutta sfortuna!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's terrible",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È terribile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's terrible!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È tremendo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's too bad",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È un peccato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's unbelievable!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È incredibile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What a nightmare!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che incubo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What a shame",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che peccato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What bad luck",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che sfortuna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What bad luck!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che sfortuna!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andrà tutto bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Everything will be okay",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I understand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che brutta sfortuna!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's such bad luck!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che incubo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What a nightmare!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che peccato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's a pity",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che peccato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What a shame",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che sfortuna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How unfortunate",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che sfortuna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What bad luck",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che sfortuna!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What bad luck!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come posso aiutarti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How can I help you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Coraggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hang in there",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dev'essere difficile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That must be hard",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fammi sapere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let me know",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sorry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace sentirlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sorry to hear that",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ci credo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "No way!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho parole",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm at a loss for words",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non posso crederci!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't believe it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non è giusto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's just not fair",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non è giusto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's not fair",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oh no!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oh no!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Se posso fare qualcosa, dimmelo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "If I can do anything, tell me",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Si parla di essere nel posto sbagliato al momento sbagliato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Talk about being in the wrong place at the wrong time",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono qui per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm here for you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono sotto shock!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm in shock!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero che tu stia meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hope you feel better",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti mando un abbraccio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sending you a hug",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È dura",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's rough",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È incredibile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's unbelievable!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È orribile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How horrible!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È terribile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's terrible",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È terribile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's awful!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È tremendo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's terrible!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere alle cattive notizie",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È un peccato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's too bad",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

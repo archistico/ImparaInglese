@@ -1,0 +1,186 @@
+{
+    "version": 1,
+    "contesto": "Affermazione",
+    "frasi": [
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like speaking English",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace parlare Inglese",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You are intelligent",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei intelligente!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You are very fast!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei molto veloce!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You did it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ce l'hai fatta!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You learned a lot!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai imparato molto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai ragione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ce l'hai fatta!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You did it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai imparato molto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You learned a lot!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai ragione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace parlare Inglese",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like speaking English",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei intelligente!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You are intelligent",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Affermazione",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei molto veloce!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You are very fast!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

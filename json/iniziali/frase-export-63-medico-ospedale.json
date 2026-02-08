@@ -1,0 +1,816 @@
+{
+    "version": 1,
+    "contesto": "Medico \/ Ospedale",
+    "frasi": [
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are you okay?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stai bene?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I have an appointment?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere un appuntamento?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do I need a prescription?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Serve una ricetta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "He's bleeding",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sta sanguinando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do you feel?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come ti senti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I banged my head",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho sbattuto la testa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel better",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I had an accident",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho avuto un incidente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a broken leg",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho la gamba rotta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a fever",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho la febbre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a headache",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mal di testa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a sore throat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mal di gola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a stomachache",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mal di stomaco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a doctor",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di un medico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a doctor",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve un dottore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need an ambulance",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve un'ambulanza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need help",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di aiuto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need help",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve aiuto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I take this medicine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prendo questo farmaco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm allergic to...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono allergico a...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm hurt",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono fatto male",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It hurts here",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi fa male qui",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My head\/stomach\/foot\/back hurts",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mio\/La mia testa\/stomaco\/piede\/schiena fa male",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What should I do?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che cosa devo fare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the emergency room?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove è il pronto soccorso?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the hospital?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è l'ospedale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the pharmacy?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la farmacia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che cosa devo fare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What should I do?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come ti senti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do you feel?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è l'ospedale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the hospital?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la farmacia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the pharmacy?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove è il pronto soccorso?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the emergency room?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho avuto un incidente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I had an accident",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di aiuto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need help",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di un medico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a doctor",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho la febbre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a fever",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho la gamba rotta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a broken leg",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mal di gola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a sore throat",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mal di stomaco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a stomachache",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mal di testa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a headache",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho sbattuto la testa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I banged my head",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mio\/La mia testa\/stomaco\/piede\/schiena fa male",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My head\/stomach\/foot\/back hurts",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi fa male qui",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It hurts here",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel better",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve aiuto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need help",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve un dottore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a doctor",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve un'ambulanza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need an ambulance",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono fatto male",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm hurt",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere un appuntamento?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I have an appointment?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prendo questo farmaco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I take this medicine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Serve una ricetta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do I need a prescription?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono allergico a...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm allergic to...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sta sanguinando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "He's bleeding",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Medico \/ Ospedale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Stai bene?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are you okay?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

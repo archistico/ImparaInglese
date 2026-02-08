@@ -1,0 +1,816 @@
+{
+    "version": 1,
+    "contesto": "Trasporti",
+    "frasi": [
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Airplane",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Aereo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Airport",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Aeroporto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Bicycle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bicicletta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Bus",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Autobus",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Call me a taxi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chiamami un taxi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you stop here, please?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può fermarsi qui, per favore?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Car",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Macchina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do I need to change?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo cambiare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is a taxi to...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa un taxi per...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is a ticket?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa un biglietto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a ticket to _",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve un biglietto per _",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is it delayed?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È in ritardo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this the right place?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È questo il posto giusto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One ticket, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un biglietto, per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One way",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Solo andata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Platform number 5",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Binario numero 5",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Round trip",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andata e ritorno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Taxi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Taxi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Train",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Treno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Train station",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stazione ferroviaria",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time does it arrive?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora arriva?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time does it leave?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora parte?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When does the train leave?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando parte il treno?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the airport?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è l'aeroporto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the bus stop?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la fermata dell'autobus?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the station?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la stazione?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Which platform is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il binario?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora arriva?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time does it arrive?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora parte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time does it leave?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Aereo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Airplane",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Aeroporto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Airport",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andata e ritorno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Round trip",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Autobus",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bus",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bicicletta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bicycle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Binario numero 5",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Platform number 5",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chiamami un taxi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Call me a taxi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo cambiare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do I need to change?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è l'aeroporto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the airport?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la fermata dell'autobus?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the bus stop?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la stazione?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the station?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Macchina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Car",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve un biglietto per _",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a ticket to _",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può fermarsi qui, per favore?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you stop here, please?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il binario?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Which platform is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando parte il treno?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When does the train leave?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa un biglietto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is a ticket?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa un taxi per...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is a taxi to...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Solo andata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One way",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Stazione ferroviaria",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Train station",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Taxi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Taxi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Treno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Train",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un biglietto, per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One ticket, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È in ritardo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is it delayed?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Trasporti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È questo il posto giusto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this the right place?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

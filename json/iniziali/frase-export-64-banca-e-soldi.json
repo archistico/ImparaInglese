@@ -1,0 +1,816 @@
+{
+    "version": 1,
+    "contesto": "Banca e soldi",
+    "frasi": [
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "ATM",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bancomat",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I exchange money here?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso cambiare soldi qui?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I have the receipt?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere lo scontrino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay by card?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare con carta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay by card?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare con la carta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cash",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Contanti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Check",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Assegno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Credit card",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Carta di credito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Debit card",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Carta di debito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you accept cards?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettate carte?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much does it cost?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I lost my card",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso la carta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a receipt",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve una ricevuta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need assistance",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di assistenza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to withdraw money",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo prelevare dei soldi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like to exchange money",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei cambiare dei soldi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like to withdraw money",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei prelevare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd like to open an account",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei aprire un conto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In cash",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In contanti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's cheap",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È economico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's expensive",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È costoso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's too expensive",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È troppo caro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The card doesn't work",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La carta non funziona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the exchange rate?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il tasso di cambio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is an ATM?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è un bancomat?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where's the nearest ATM?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il bancomat più vicino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettate carte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you accept cards?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Assegno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Check",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bancomat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "ATM",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Carta di credito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credit card",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Carta di debito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Debit card",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Contanti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cash",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo prelevare dei soldi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to withdraw money",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il bancomat più vicino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where's the nearest ATM?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è un bancomat?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is an ATM?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di assistenza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need assistance",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso la carta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I lost my card",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In contanti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In cash",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La carta non funziona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The card doesn't work",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve una ricevuta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a receipt",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere lo scontrino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I have the receipt?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso cambiare soldi qui?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I exchange money here?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare con carta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay by card?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare con la carta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay by card?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il tasso di cambio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the exchange rate?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much does it cost?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei aprire un conto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd like to open an account",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei cambiare dei soldi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like to exchange money",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei prelevare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like to withdraw money",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È costoso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's expensive",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È economico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's cheap",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Banca e soldi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È troppo caro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's too expensive",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

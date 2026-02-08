@@ -1,0 +1,1236 @@
+{
+    "version": 1,
+    "contesto": "Come avviare una frase nel passato",
+    "frasi": [
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I assumed you got lost",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo che ti fossi perso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I ate a delicious sandwich at the deli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mangiato un panino delizioso al bar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I ate a salad for lunch",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mangiato un'insalata per pranzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I ate…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mangiato…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I checked out a movie last night",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono andato a vedere un film ieri sera",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I didn't think you were coming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo che non saresti venuto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I drank beer last night at the bar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bevuto birra ieri sera al bar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I drank five glasses of water yesterday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bevuto cinque bicchieri d'acqua ieri",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I drank…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bevuto…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I grabbed a delicious sandwich at the deli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho preso un panino delizioso al bar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I had a few beers at the bar last night",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ieri sera ho bevuto qualche birra al bar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I had a salad for lunch",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A pranzo ho mangiato un'insalata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I meant to ask you something",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Volevo chiederti una cosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I played soccer when I was little",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giocavo a calcio quando ero piccolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I played videogames all weekend long",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho giocato ai videogiochi per tutto il finesettimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I played…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho giocato\/giocavo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I saw her at the salon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'ho vista dal parrucchiere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I saw my friend at the grocery store",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho visto il mio amico al negozio di alimentari",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I saw…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho visto…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I showed up late",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono arrivato in ritardo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I spent the whole weekend gaming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho passato tutto il weekend a giocare ai videogiochi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I spotted her at the salon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'ho vista dal parrucchiere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I thought you got lost",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo che ti fossi perso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I thought you were sick",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo che fossi malato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I thought you weren't coming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo che non saresti venuto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I thought…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pensavo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I took a trip to the zoo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stato allo zoo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I wanted to ask you a question",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Volevo farti una domanda",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I wanted to eat chocolate chip cookies but I didn't",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Volevo mangiare dei biscotti alle gocce di cioccolato ma non l'ho fatto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I wanted…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Volevo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avevo\/Ho…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was craving chocolate chip cookies but didn't eat any",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avevo voglia di biscotti con gocce di cioccolato",
+                    "info": "ma non li ho mangiati"
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was five years old when I lived in Spain",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avevo cinque anni quando ho vissuto in Spagna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was late",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ero in ritardo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was sick yesterday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ero malato ieri",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was working there for ten years",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho lavorato lì per dieci anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I wasn't feeling well yesterday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non mi sentivo bene ieri",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ero…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I went to the movie theater",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono andato al cinema",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I went to the zoo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono andato allo zoo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I went…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono andato…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A pranzo ho mangiato un'insalata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I had a salad for lunch",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avevo cinque anni quando ho vissuto in Spagna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was five years old when I lived in Spain",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avevo voglia di biscotti con gocce di cioccolato",
+                "info": "ma non li ho mangiati"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was craving chocolate chip cookies but didn't eat any",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avevo\/Ho…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ero in ritardo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was late",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ero malato ieri",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was sick yesterday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ero…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giocavo a calcio quando ero piccolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I played soccer when I was little",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bevuto birra ieri sera al bar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I drank beer last night at the bar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bevuto cinque bicchieri d'acqua ieri",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I drank five glasses of water yesterday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bevuto…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I drank…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho giocato ai videogiochi per tutto il finesettimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I played videogames all weekend long",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho giocato\/giocavo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I played…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho lavorato lì per dieci anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was working there for ten years",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mangiato un panino delizioso al bar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I ate a delicious sandwich at the deli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mangiato un'insalata per pranzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I ate a salad for lunch",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mangiato…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I ate…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho passato tutto il weekend a giocare ai videogiochi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I spent the whole weekend gaming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho preso un panino delizioso al bar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I grabbed a delicious sandwich at the deli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho visto il mio amico al negozio di alimentari",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I saw my friend at the grocery store",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho visto…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I saw…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ieri sera ho bevuto qualche birra al bar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I had a few beers at the bar last night",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'ho vista dal parrucchiere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I saw her at the salon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'ho vista dal parrucchiere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I spotted her at the salon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non mi sentivo bene ieri",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I wasn't feeling well yesterday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo che fossi malato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I thought you were sick",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo che non saresti venuto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I didn't think you were coming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo che non saresti venuto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I thought you weren't coming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo che ti fossi perso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I assumed you got lost",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo che ti fossi perso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I thought you got lost",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pensavo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I thought…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono andato a vedere un film ieri sera",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I checked out a movie last night",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono andato al cinema",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I went to the movie theater",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono andato allo zoo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I went to the zoo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono andato…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I went…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono arrivato in ritardo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I showed up late",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stato allo zoo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I took a trip to the zoo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Volevo chiederti una cosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I meant to ask you something",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Volevo farti una domanda",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I wanted to ask you a question",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Volevo mangiare dei biscotti alle gocce di cioccolato ma non l'ho fatto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I wanted to eat chocolate chip cookies but I didn't",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel passato",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Volevo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I wanted…",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

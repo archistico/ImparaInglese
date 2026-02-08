@@ -1,0 +1,156 @@
+{
+    "version": 1,
+    "contesto": "Lavoro \/ Ufficio",
+    "frasi": [
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can we reschedule?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Possiamo riprogrammare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll get back to you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti risponderò più tardi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm off today",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi sono libero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm on a break",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono in pausa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's touch base later",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sentiamoci più tardi",
+                    "info": "formale"
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi sono libero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm off today",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Possiamo riprogrammare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can we reschedule?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sentiamoci più tardi",
+                "info": "formale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's touch base later",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono in pausa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm on a break",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro \/ Ufficio",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti risponderò più tardi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll get back to you",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

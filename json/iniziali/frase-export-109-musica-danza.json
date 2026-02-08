@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Musica \/ Danza",
+    "frasi": [
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you show me how to dance?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi mostrarmi come ballare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you like rock music?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti piace la musica rock?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't hear",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non riesco a sentire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't know how to dance",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non so ballare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't like this music",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non mi piace questa musica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I love this song",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Amo questa canzone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The music is very loud",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La musica è molto alta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who is your favorite singer?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi è il tuo cantante preferito?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who sings this song?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi canta questa canzone?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Would you like to dance?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti va di ballare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Amo questa canzone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I love this song",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi canta questa canzone?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who sings this song?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi è il tuo cantante preferito?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who is your favorite singer?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La musica è molto alta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The music is very loud",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non mi piace questa musica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't like this music",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non riesco a sentire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't hear",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non so ballare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't know how to dance",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi mostrarmi come ballare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you show me how to dance?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti piace la musica rock?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you like rock music?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Musica \/ Danza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti va di ballare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Would you like to dance?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

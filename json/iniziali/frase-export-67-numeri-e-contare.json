@@ -1,0 +1,1596 @@
+{
+    "version": 1,
+    "contesto": "Numeri e contare",
+    "frasi": [
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Double",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Doppio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Otto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eighteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Diciotto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eighty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eleven",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Undici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fifteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quindici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fifth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quinto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fifty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cinquanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fifty percent",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cinquanta percento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fifty-fifty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cinquanta e cinquanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "First",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Primo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Five",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cinque",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Forty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quaranta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Four",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quattro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fourteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quattordici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fourth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quarto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Half",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Metà",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live at 42 Main Street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo al 42 (quarantadue) di Main Street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Last",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ultimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Minus ten",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Meno dieci",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My number is 555-123-4567",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mio numero è cinque-cinque-cinque",
+                    "info": "uno-due-tre, quattro-cinque-sei-sette"
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Negative five",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Negativo cinque \/ Meno cinque",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nove",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nineteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Diciannove",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ninety",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Novanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Uno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One half",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un mezzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One hundred",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One million",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un milione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One quarter \/ One fourth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un quarto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One third",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un terzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One thousand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mille",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Second",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Secondo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Seven",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sette",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Seventeen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Diciassette",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Seventy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Settanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Six",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sixteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sedici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sixty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sessanta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ten",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dieci",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The address is 1205 Oak Avenue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'indirizzo è 1205 (milleduecentocinque) Oak Avenue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Third",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Terzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thirteen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tredici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thirty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Trenta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Three",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Three point seven five",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tre virgola settantacinque",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Three quarters",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tre quarti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Twelve",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dodici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Twenty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Venti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Twenty-one",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ventuno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Two",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Due",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Two point five",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Due virgola cinque",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Zero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Zero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One hundred",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cinquanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fifty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cinquanta e cinquanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fifty-fifty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cinquanta percento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fifty percent",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cinque",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Five",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Diciannove",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nineteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Diciassette",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Seventeen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Diciotto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eighteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dieci",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ten",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dodici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Twelve",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Doppio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Double",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Due",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Two",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Due virgola cinque",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Two point five",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mio numero è cinque-cinque-cinque",
+                "info": "uno-due-tre, quattro-cinque-sei-sette"
+            },
+            "traduzioni": [
+                {
+                    "testo": "My number is 555-123-4567",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'indirizzo è 1205 (milleduecentocinque) Oak Avenue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The address is 1205 Oak Avenue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Meno dieci",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Minus ten",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Metà",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Half",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mille",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One thousand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Negativo cinque \/ Meno cinque",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Negative five",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Novanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ninety",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nove",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eighty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Otto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Primo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "First",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quaranta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Forty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quarto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fourth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quattordici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fourteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quattro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Four",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quindici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fifteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quinto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fifth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Secondo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Second",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sedici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sixteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Six",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sessanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sixty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Settanta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Seventy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sette",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Seven",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Terzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Third",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Three",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tre quarti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Three quarters",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tre virgola settantacinque",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Three point seven five",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tredici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thirteen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Trenta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thirty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ultimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Last",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un mezzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One half",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un milione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One million",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un quarto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One quarter \/ One fourth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un terzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One third",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Undici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eleven",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Uno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "One",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Venti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Twenty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ventuno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Twenty-one",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo al 42 (quarantadue) di Main Street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live at 42 Main Street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Numeri e contare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Zero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Zero",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

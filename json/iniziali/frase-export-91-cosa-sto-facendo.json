@@ -1,0 +1,666 @@
+{
+    "version": 1,
+    "contesto": "Cosa sto facendo",
+    "frasi": [
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm binge-watching a series",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo una maratona di una serie tv",
+                    "info": "molto colloquiale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm busy with work",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono occupato\/a con il lavoro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm chilling with my playlist",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sto rilassando con la mia playlist",
+                    "info": "molto informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm cleaning",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto pulendo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm cooking dinner",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto preparando cena",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm doing some grocery shopping",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo la spesa alimentare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm doing some housework",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo qualche lavoro domestico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm enjoying some tunes",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sto godendo un po' di musica",
+                    "info": "informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm getting dinner ready",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto preparando la cena",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm glued to the TV",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono incollato\/a alla TV",
+                    "info": "idiomatico"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm in the middle of a project",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono nel mezzo di un progetto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm listening to music",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto ascoltando la musica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm making breakfast",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto preparando la colazione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm running errands",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo commissioni - più generale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm shopping",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo la spesa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm taking care of my kids",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sto occupando dei miei bambini",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm tidying up",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto riordinando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm watching TV",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto guardando la TV",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm watching the kids",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto badando ai bambini",
+                    "info": "informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm whipping up dinner",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto improvvisando la cena",
+                    "info": "colloquiale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm working",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto lavorando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've got some music on",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho messo un po' di musica",
+                    "info": "colloquiale"
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho messo un po' di musica",
+                "info": "colloquiale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've got some music on",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sto godendo un po' di musica",
+                "info": "informale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm enjoying some tunes",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sto occupando dei miei bambini",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm taking care of my kids",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sto rilassando con la mia playlist",
+                "info": "molto informale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm chilling with my playlist",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono incollato\/a alla TV",
+                "info": "idiomatico"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm glued to the TV",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono nel mezzo di un progetto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm in the middle of a project",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono occupato\/a con il lavoro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm busy with work",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto ascoltando la musica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm listening to music",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto badando ai bambini",
+                "info": "informale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm watching the kids",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo commissioni - più generale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm running errands",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo la spesa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm shopping",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo la spesa alimentare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm doing some grocery shopping",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo qualche lavoro domestico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm doing some housework",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo una maratona di una serie tv",
+                "info": "molto colloquiale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm binge-watching a series",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto guardando la TV",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm watching TV",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto improvvisando la cena",
+                "info": "colloquiale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm whipping up dinner",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto lavorando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm working",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto preparando cena",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm cooking dinner",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto preparando la cena",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm getting dinner ready",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto preparando la colazione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm making breakfast",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto pulendo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm cleaning",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa sto facendo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto riordinando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm tidying up",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

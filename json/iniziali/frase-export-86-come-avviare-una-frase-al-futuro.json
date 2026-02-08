@@ -1,0 +1,1566 @@
+{
+    "version": 1,
+    "contesto": "Come avviare una frase al futuro",
+    "frasi": [
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you want to meet tomorrow?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti va di vederci domani?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you want to…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti va di…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Future predictions",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Previsioni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Going to",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piani già stabiliti \"I'm going to study tonight\"",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't plan to stay long",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non piano di rimanere a lungo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hope it won't rain",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero non piova",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hope to see you soon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero di vederti presto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hope to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I may change jobs",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei cambiare lavoro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I might not come",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei non venire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I might visit Rome",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei visitare Roma",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I might… \/ I may…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I plan to start a business",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piano di avviare un'attività",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I plan to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piano di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I promise I'll help you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prometto che ti aiuterò",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I promise I'll…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prometto che…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I swear I won't tell anyone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giuro che non lo dirò a nessuno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I will call you later",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti chiamerò più tardi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I will try my best",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Farò del mio meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I will …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Farò …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I won't forget",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non dimenticherò",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll probably be late",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Probabilmente arriverò in ritardo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll probably order pizza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Probabilmente ordinerò una pizza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll probably…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Probabilmente…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm about to eat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per mangiare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm about to leave",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per uscire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm about to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per… (azione immediata)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to learn Spanish",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per imparare lo spagnolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to travel next month",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho intenzione di viaggiare il mese prossimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per\/ho intenzione di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm hoping to get promoted",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero di ottenere una promozione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking forward to the weekend",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non vedo l'ora che arrivi il weekend",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking forward to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non vedo l'ora di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm not going to give up",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho intenzione di arrendermi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm planning a trip",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto pianificando un viaggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm saving for a rainy day",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto risparmiando per tempi difficili",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm saving up to buy a house",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto risparmiando per comprare una casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm saving up to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto risparmiando per…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so excited for the concert!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono entusiasta del concerto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thinking about buying a car",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto valutando di comprare una macchina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thinking of moving",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto pensando di trasferirmi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thinking of…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto pensando di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In the future, I want to retire early",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In futuro",
+                    "info": "voglio andare in pensione presto"
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In the future, I want to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In futuro",
+                    "info": "voglio…"
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's going to be fun!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sarà divertente!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's go to the beach!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andiamo in spiaggia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's not argue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non litighiamo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Facciamo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "One day, I'd like to write a book",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un giorno",
+                    "info": "mi piacerebbe scrivere un libro"
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Will",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Decisioni spontanee \"I'll answer the phone\"",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Would you like to join us?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti uniresti a noi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You'll love this movie!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Adorerai questo film!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Adorerai questo film!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You'll love this movie!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andiamo in spiaggia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's go to the beach!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Decisioni spontanee \"I'll answer the phone\"",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Will",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Facciamo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Farò del mio meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I will try my best",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Farò …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I will …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giuro che non lo dirò a nessuno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I swear I won't tell anyone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho intenzione di viaggiare il mese prossimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to travel next month",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In futuro",
+                "info": "voglio andare in pensione presto"
+            },
+            "traduzioni": [
+                {
+                    "testo": "In the future, I want to retire early",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In futuro",
+                "info": "voglio…"
+            },
+            "traduzioni": [
+                {
+                    "testo": "In the future, I want to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non dimenticherò",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I won't forget",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho intenzione di arrendermi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm not going to give up",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non litighiamo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's not argue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non piano di rimanere a lungo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't plan to stay long",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non vedo l'ora che arrivi il weekend",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking forward to the weekend",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non vedo l'ora di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking forward to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piani già stabiliti \"I'm going to study tonight\"",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Going to",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piano di avviare un'attività",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I plan to start a business",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piano di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I plan to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei cambiare lavoro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I may change jobs",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei non venire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I might not come",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei visitare Roma",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I might visit Rome",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I might… \/ I may…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Previsioni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Future predictions",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Probabilmente arriverò in ritardo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll probably be late",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Probabilmente ordinerò una pizza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll probably order pizza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Probabilmente…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll probably…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prometto che ti aiuterò",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I promise I'll help you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prometto che…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I promise I'll…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sarà divertente!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's going to be fun!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono entusiasta del concerto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so excited for the concert!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero di ottenere una promozione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm hoping to get promoted",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero di vederti presto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hope to see you soon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hope to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero non piova",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hope it won't rain",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto pensando di trasferirmi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thinking of moving",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto pensando di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thinking of…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per imparare lo spagnolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to learn Spanish",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per mangiare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm about to eat",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per uscire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm about to leave",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per\/ho intenzione di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per… (azione immediata)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm about to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto pianificando un viaggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm planning a trip",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto risparmiando per comprare una casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm saving up to buy a house",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto risparmiando per tempi difficili",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm saving for a rainy day",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto risparmiando per…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm saving up to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto valutando di comprare una macchina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thinking about buying a car",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti chiamerò più tardi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I will call you later",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti uniresti a noi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Would you like to join us?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti va di vederci domani?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you want to meet tomorrow?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti va di…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you want to…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase al futuro",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un giorno",
+                "info": "mi piacerebbe scrivere un libro"
+            },
+            "traduzioni": [
+                {
+                    "testo": "One day, I'd like to write a book",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

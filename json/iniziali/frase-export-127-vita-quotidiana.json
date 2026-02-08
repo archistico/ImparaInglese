@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Vita Quotidiana",
+    "frasi": [
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you babysit?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potresti fare da babysitter?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to do laundry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo fare il bucato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to pay the bills",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo pagare le bollette",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to walk the dog",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo portare a spasso il cane",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm cleaning the house",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto pulendo casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm out of groceries",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono senza provviste",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The light bulb needs replacing",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La lampadina deve essere sostituita",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The plants need watering",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le piante hanno bisogno di essere annaffiate",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The sink is clogged",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il lavandino è intasato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When is trash collection?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando passano a ritirare la spazzatura?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo fare il bucato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to do laundry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo pagare le bollette",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to pay the bills",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo portare a spasso il cane",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to walk the dog",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il lavandino è intasato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The sink is clogged",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La lampadina deve essere sostituita",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The light bulb needs replacing",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le piante hanno bisogno di essere annaffiate",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The plants need watering",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potresti fare da babysitter?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you babysit?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando passano a ritirare la spazzatura?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When is trash collection?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono senza provviste",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm out of groceries",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Vita Quotidiana",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto pulendo casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm cleaning the house",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

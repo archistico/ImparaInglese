@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Frasi per contesti romantici",
+    "frasi": [
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a crush on you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho una cotta per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's go on a date",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Usciamo insieme",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're my sweetheart",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei il mio tesoro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho una cotta per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a crush on you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei il mio tesoro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're my sweetheart",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per contesti romantici",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Usciamo insieme",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's go on a date",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

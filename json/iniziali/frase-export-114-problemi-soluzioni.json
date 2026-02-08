@@ -1,0 +1,336 @@
+{
+    "version": 1,
+    "contesto": "Problemi \/ Soluzioni",
+    "frasi": [
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you call your superior?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può chiamare il suo superiore?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you fix it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può aggiustarlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much will it cost to fix it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando costa aggiustarlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't know what happened",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non so cosa sia successo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a problem",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho un problema",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a receipt",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve la ricevuta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to get a second opinion",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chiederò una seconda opinione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It is broken",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È rotto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It is not working",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non funziona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time should I pick it up?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora devo passare a prenderlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Will it take a lot of time?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ci vorrà molto tempo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora devo passare a prenderlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time should I pick it up?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chiederò una seconda opinione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to get a second opinion",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ci vorrà molto tempo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Will it take a lot of time?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho un problema",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a problem",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve la ricevuta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a receipt",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non funziona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It is not working",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non so cosa sia successo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't know what happened",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può aggiustarlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you fix it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può chiamare il suo superiore?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you call your superior?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando costa aggiustarlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much will it cost to fix it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Problemi \/ Soluzioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È rotto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It is broken",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

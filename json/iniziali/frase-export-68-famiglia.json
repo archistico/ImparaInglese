@@ -1,0 +1,1506 @@
+{
+    "version": 1,
+    "contesto": "Famiglia",
+    "frasi": [
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Aunt",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Zia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Brother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fratello",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Brother-in-law",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cognato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cousin",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cugino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cousin (female)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cugina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cousin (male)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cugino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Daughter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Figlia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ex-husband",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ex marito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ex-wife",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ex moglie",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Father",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Padre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Father \/ Dad",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Padre \/ Papà",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Father-in-law",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Suocero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grandchild \/ Nephew \/ Niece",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nipote",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grandfather",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nonno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grandfather \/ Grandpa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nonno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grandmother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nonna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grandmother \/ Grandma",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nonna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Great-grandfather",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bisnonno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Great-grandmother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bisnonna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "He is my brother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È mio fratello",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How old are you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanti anni hai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Husband",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Marito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a daughter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho una figlia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a son",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho un figlio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have two brothers",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho due fratelli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live with my family",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo con la mia famiglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm 30 years old",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho 30 anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm an only child",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono figlio unico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm married",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono sposato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm single",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono single",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Mother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Madre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Mother \/ Mom",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Madre \/ Mamma",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Mother-in-law",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Suocera",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My sister is older than me",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mia sorella è più grande di me",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nephew",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nipote (maschio)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Niece",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nipote (femmina)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Parents",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Genitori",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Partner \/ Boyfriend",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Compagno \/ Fidanzato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Partner \/ Girlfriend",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Compagna \/ Fidanzata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "She is my sister",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È mia sorella",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sister",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sorella",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sister-in-law",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cognata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Son",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Figlio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stepdaughter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Figliastra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stepfather",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Patrigno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stepmother",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Matrigna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stepson",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Figliastro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is my family",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questa è la mia famiglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Uncle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Zio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wife",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Moglie",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bisnonna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Great-grandmother",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bisnonno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Great-grandfather",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cognata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sister-in-law",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cognato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Brother-in-law",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Compagna \/ Fidanzata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Partner \/ Girlfriend",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Compagno \/ Fidanzato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Partner \/ Boyfriend",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cugina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cousin (female)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cugino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cousin",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cugino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cousin (male)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ex marito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ex-husband",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ex moglie",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ex-wife",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Figlia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Daughter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Figliastra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stepdaughter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Figliastro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stepson",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Figlio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Son",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fratello",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Brother",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Genitori",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Parents",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho 30 anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm 30 years old",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho due fratelli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have two brothers",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho un figlio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a son",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho una figlia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a daughter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Madre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mother",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Madre \/ Mamma",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mother \/ Mom",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Marito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Husband",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Matrigna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stepmother",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mia sorella è più grande di me",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My sister is older than me",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Moglie",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wife",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nipote",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grandchild \/ Nephew \/ Niece",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nipote (femmina)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Niece",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nipote (maschio)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nephew",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nonna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grandmother",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nonna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grandmother \/ Grandma",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nonno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grandfather",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nonno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grandfather \/ Grandpa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Padre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Father",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Padre \/ Papà",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Father \/ Dad",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Patrigno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stepfather",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanti anni hai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How old are you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questa è la mia famiglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is my family",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono figlio unico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm an only child",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono single",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm single",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono sposato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm married",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sorella",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sister",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Suocera",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mother-in-law",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Suocero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Father-in-law",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo con la mia famiglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live with my family",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Zia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Aunt",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Zio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Uncle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È mia sorella",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "She is my sister",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Famiglia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È mio fratello",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "He is my brother",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

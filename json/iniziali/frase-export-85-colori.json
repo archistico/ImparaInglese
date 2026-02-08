@@ -1,0 +1,610 @@
+{
+    "version": 1,
+    "contesto": "Colori",
+    "frasi": [
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Black",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Blue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Blu",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Brown",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Marrone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Dark green",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Verde scuro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Gray \/ Grey",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grigio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Green",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Verde",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like the blue one",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace quello blu",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's red",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È rosso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Light blue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Azzurro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Light pink",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Rosa chiaro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Orange",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Arancione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pink",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Rosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Purple",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Viola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Red",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Rosso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "She's wearing a green dress",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Indossa un vestito verde",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The car is white",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La macchina è bianca",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What color is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di che colore è?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "White",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bianco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Yellow",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giallo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Arancione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Orange",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Azzurro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Light blue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bianco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "White",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Blu",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Blue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di che colore è?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What color is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giallo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Yellow",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Grigio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gray \/ Grey",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Indossa un vestito verde",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "She's wearing a green dress",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La macchina è bianca",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The car is white",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Marrone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Brown",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace quello blu",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like the blue one",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Black",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Rosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pink",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Rosa chiaro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Light pink",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Rosso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Red",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Scegli un colore chiaro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Choose a light color",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Verde",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Green",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Verde scuro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dark green",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Viola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Purple",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È rosso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's red",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Colori",
+            "livello": "Intermedio",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di notte non vedo nulla, è tutto scuro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At night I can't see anything, it's all dark",
+                    "info": null
+                },
+                {
+                    "testo": "I can't see in the dark",
+                    "info": "Non vedo nell'oscurità"
+                }
+            ]
+        }
+    ]
+}

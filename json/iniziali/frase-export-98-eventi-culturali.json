@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Eventi Culturali",
+    "frasi": [
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are latecomers admitted?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I ritardatari sono ammessi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are there any tickets available for tonight?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ci sono biglietti disponibili per stasera?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long is the show?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto dura lo spettacolo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is photography permitted during the performance?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le foto sono permesse durante lo spettacolo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there an intermission?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è un intervallo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time does the performance start?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora inizia lo spettacolo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are the emergency exits?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono le uscite di emergenza?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I buy program notes?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso comprare il programma di sala?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is my seat located?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove si trova il mio posto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the box office?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove si trova la biglietteria?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora inizia lo spettacolo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time does the performance start?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è un intervallo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there an intermission?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ci sono biglietti disponibili per stasera?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are there any tickets available for tonight?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso comprare il programma di sala?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I buy program notes?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove si trova il mio posto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is my seat located?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove si trova la biglietteria?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the box office?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono le uscite di emergenza?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are the emergency exits?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "I ritardatari sono ammessi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are latecomers admitted?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le foto sono permesse durante lo spettacolo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is photography permitted during the performance?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Eventi Culturali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto dura lo spettacolo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long is the show?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

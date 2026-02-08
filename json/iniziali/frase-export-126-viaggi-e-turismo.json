@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Viaggi e Turismo",
+    "frasi": [
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you recommend any local attractions?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi raccomandare attrazioni locali?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I get to the city center?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come arrivo in centro città?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long is the flight?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto dura il volo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a connecting flight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho un volo in coincidenza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm interested in historical sites",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono interessato a siti storici",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a tourist information office?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è un ufficio informazioni turistiche?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this seat taken?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo posto è occupato?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time does the tour start?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora inizia il tour?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I claim my luggage?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso ritirare il bagaglio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the boarding gate?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il gate d'imbarco?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora inizia il tour?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time does the tour start?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è un ufficio informazioni turistiche?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a tourist information office?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come arrivo in centro città?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I get to the city center?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il gate d'imbarco?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the boarding gate?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso ritirare il bagaglio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I claim my luggage?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho un volo in coincidenza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a connecting flight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi raccomandare attrazioni locali?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you recommend any local attractions?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto dura il volo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long is the flight?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo posto è occupato?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this seat taken?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Viaggi e Turismo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono interessato a siti storici",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm interested in historical sites",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

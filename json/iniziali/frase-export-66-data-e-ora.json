@@ -1,0 +1,1746 @@
+{
+    "version": 1,
+    "contesto": "Data e ora",
+    "frasi": [
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "April",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Aprile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At 8 o'clock",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alle 8",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At what time?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "August",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Agosto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "December",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dicembre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "December 25th, 2023",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "25 dicembre 2023 (venticinque dicembre duemilaventitre)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Early",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In anticipo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "February",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Febbraio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Friday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Venerdì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm free on Thursday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono libero giovedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In 10 minutes",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra 10 minuti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In an hour",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra un'ora",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's half past two",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le due e mezza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's midnight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È mezzanotte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's noon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È mezzogiorno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's one o'clock",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È l'una",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's quarter past four",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le quattro e un quarto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's quarter to five",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le cinque meno un quarto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's ten past six",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le sei e dieci",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's three o'clock",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le tre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's twenty to eight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le otto meno venti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's two o'clock",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono le due",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "January",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gennaio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "July",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Luglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "June",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giugno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Late",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tardi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Later",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Più tardi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's meet at 3 PM",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vediamoci alle 15 \/ alle tre del pomeriggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's schedule the appointment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Calendarizziamo l'appuntamento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "March",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Marzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "March 15th, 2024",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "15 marzo 2024 (quindici marzo duemilaventiquattro)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "May",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Maggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Monday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lunedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Next week",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La prossima settimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Next year",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'anno prossimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "November",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Novembre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Now",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Adesso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "October",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottobre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Saturday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sabato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "September",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Settembre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Soon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Presto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sunday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Domenica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The year 1995",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'anno millenovecentonovantacinque",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The year 2024",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'anno duemilaventiquattro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This month",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo mese",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This week",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questa settimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thursday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giovedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Today",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Today is Monday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi è lunedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Tomorrow",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Domani",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Tuesday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Martedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wednesday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mercoledì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What day is it today?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che giorno è oggi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che ore sono?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time shall we meet?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora ci vediamo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the date today?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che data è oggi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When are you available?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando sei disponibile?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Yesterday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ieri",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "15 marzo 2024 (quindici marzo duemilaventiquattro)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "March 15th, 2024",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "25 dicembre 2023 (venticinque dicembre duemilaventitre)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "December 25th, 2023",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora ci vediamo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time shall we meet?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At what time?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Adesso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Now",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Agosto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "August",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alle 8",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At 8 o'clock",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Aprile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "April",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Calendarizziamo l'appuntamento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's schedule the appointment",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che data è oggi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the date today?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che giorno è oggi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What day is it today?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che ore sono?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dicembre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "December",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Domani",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tomorrow",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Domenica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sunday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Febbraio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "February",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gennaio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "January",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giovedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thursday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giugno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "June",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ieri",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Yesterday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In anticipo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Early",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'anno duemilaventiquattro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The year 2024",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'anno millenovecentonovantacinque",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The year 1995",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'anno prossimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Next year",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La prossima settimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Next week",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Luglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "July",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lunedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Monday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Maggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "May",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Martedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tuesday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Marzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "March",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mercoledì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wednesday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Novembre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "November",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Today",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi è lunedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Today is Monday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottobre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "October",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Più tardi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Later",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Presto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Soon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando sei disponibile?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When are you available?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questa settimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This week",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo mese",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This month",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sabato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Saturday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Settembre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "September",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le cinque meno un quarto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's quarter to five",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le due",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's two o'clock",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le due e mezza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's half past two",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le otto meno venti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's twenty to eight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le quattro e un quarto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's quarter past four",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le sei e dieci",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's ten past six",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono le tre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's three o'clock",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono libero giovedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm free on Thursday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tardi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Late",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tra 10 minuti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In 10 minutes",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tra un'ora",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In an hour",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vediamoci alle 15 \/ alle tre del pomeriggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's meet at 3 PM",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Venerdì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Friday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È l'una",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's one o'clock",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È mezzanotte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's midnight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Data e ora",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È mezzogiorno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's noon",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

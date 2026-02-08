@@ -1,0 +1,576 @@
+{
+    "version": 1,
+    "contesto": "Parole per le domande",
+    "frasi": [
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How are you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come stai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How many?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa\/Che cosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What is this?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cos'è questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che ora?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When are you coming?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando vieni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sei?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Which",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Which one?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who are you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi sei?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who is that?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi è quello\/a?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Why",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perché",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Why not?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perché no?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che ora?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi sei?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who are you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi è quello\/a?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who is that?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come stai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How are you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cos'è questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What is this?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa\/Che cosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sei?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perché",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Why",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perché no?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Why not?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Which",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Which one?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando vieni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When are you coming?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How many?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parole per le domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

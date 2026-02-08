@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Ufficio Postale",
+    "frasi": [
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long will it take to arrive?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto tempo ci metterà ad arrivare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need insurance for this shipment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di assicurazione per questa spedizione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to buy stamps",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo comprare francobolli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to pick up a package",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo ritirare un pacco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to send this package",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo spedire questo pacco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need tracking for this package",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno del tracking per questo pacco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What are your hours?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quali sono i vostri orari?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the postage to France?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è l'affrancatura per la Francia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I mail this letter?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso imbucare questa lettera?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where do I fill out the customs form?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove compilo il modulo doganale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo comprare francobolli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to buy stamps",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo ritirare un pacco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to pick up a package",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo spedire questo pacco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to send this package",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove compilo il modulo doganale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where do I fill out the customs form?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso imbucare questa lettera?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I mail this letter?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno del tracking per questo pacco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need tracking for this package",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di assicurazione per questa spedizione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need insurance for this shipment",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è l'affrancatura per la Francia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the postage to France?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quali sono i vostri orari?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are your hours?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ufficio Postale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto tempo ci metterà ad arrivare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long will it take to arrive?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

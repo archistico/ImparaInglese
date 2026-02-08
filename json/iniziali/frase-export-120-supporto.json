@@ -1,0 +1,186 @@
+{
+    "version": 1,
+    "contesto": "Supporto",
+    "frasi": [
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't imagine how you feel",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non riesco a immaginare come ti senti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm here for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono qui per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so sorry about that",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace tantissimo per questo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let me know if you need anything",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fammi sapere se hai bisogno di qualcosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My condolences",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le mie condoglianze",
+                    "info": "per lutti"
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That must be really hard for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Deve essere davvero difficile per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Deve essere davvero difficile per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That must be really hard for you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fammi sapere se hai bisogno di qualcosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let me know if you need anything",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le mie condoglianze",
+                "info": "per lutti"
+            },
+            "traduzioni": [
+                {
+                    "testo": "My condolences",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace tantissimo per questo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so sorry about that",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non riesco a immaginare come ti senti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't imagine how you feel",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Supporto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono qui per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm here for you",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

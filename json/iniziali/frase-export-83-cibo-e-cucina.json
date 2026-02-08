@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Cibo e Cucina",
+    "frasi": [
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I have some water?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere dell'acqua?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I have the recipe?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere la ricetta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Does this contain gluten?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo contiene glutine?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I know when it's cooked?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come faccio a sapere quando è cotto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long should I bake this?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Per quanto tempo devo infornare?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd like to order takeaway",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei ordinare da asporto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm a vegetarian",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono vegetariano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm following a recipe",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto seguendo una ricetta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The food is too salty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il cibo è troppo salato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This needs more seasoning",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo ha bisogno di più condimento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come faccio a sapere quando è cotto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I know when it's cooked?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il cibo è troppo salato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The food is too salty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Per quanto tempo devo infornare?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long should I bake this?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere dell'acqua?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I have some water?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere la ricetta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I have the recipe?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo contiene glutine?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Does this contain gluten?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo ha bisogno di più condimento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This needs more seasoning",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono vegetariano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm a vegetarian",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto seguendo una ricetta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm following a recipe",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cibo e Cucina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei ordinare da asporto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd like to order takeaway",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

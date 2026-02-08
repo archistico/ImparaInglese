@@ -1,0 +1,1900 @@
+{
+    "version": 1,
+    "contesto": "Domande e risposte comuni",
+    "frasi": [
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "All right \/ OK",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Va bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are you sure?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei sicuro?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you help me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi aiutarmi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you repeat that?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi ripetere?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you speak more slowly?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi parlare più lentamente?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you tell me where to find …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potresti dirmi dove trovare …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have time?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai tempo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you know the location of …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sai dov'è …? Più formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How are you?",
+                "info": "neutro"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come stai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do you say it in English?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come si dice in inglese?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How old are you?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanti anni hai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am 17 years old",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho 17 anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am 34 years old",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho 34 anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am from Chicago",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vengo da Chicago",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am from Colombia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vengo dalla Colombia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am from Panama",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vengo da Panama",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't know",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non lo so",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I grew up in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono cresciuto\/a a …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I just turned …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho appena compiuto …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live in Barcelona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo a Barcellona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live in Buenos Aires",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo a Buenos Aires",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live in New York",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo a New York",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live in Spain",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo in Spagna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I live in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo  in\/a…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I was born in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono nato\/a a …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll be … next month\/year",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Compirò … il prossimo mese\/anno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm based in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono di base a … - più formale\/professionale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm from …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vengo da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm in my early\/mid\/late twenties\/thirties\/etc",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono all'inizio\/metà\/fine dei miei venti\/trenta\/ecc. - modo meno specifico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking for …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto cercando …",
+                    "info": "modo indiretto di chiedere"
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm … years old",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho … anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've been living in … for [time period]",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vivo a … da [periodo di tempo]",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "If you don't mind me asking, what's your age?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Se non ti dispiace che te lo chieda",
+                    "info": "quanti anni hai? Molto cortese"
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "May I ask how old you are?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso chiederti quanti anni hai? Più educato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Maybe",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Forse",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My family is from …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La mia famiglia viene da … - utile se si vuole specificare le proprie origini",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My home is in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La mia casa è a …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nice to meet you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piacere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What day is it today?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che giorno è oggi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you do?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che lavoro fai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What does it mean?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa significa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What part of town are you in?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In che parte della città ti trovi? Per conversazioni locali",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che ore sono?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the date today?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che data è oggi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your age?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è la tua età? Più formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your country of origin?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il tuo paese d'origine? - più formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your hometown?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è la tua città natale? - per conoscere la città specifica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your name?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come ti chiami?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your neighborhood called?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come si chiama il tuo quartiere?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are you from?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Da dove vieni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where do you live?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove vivi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the bathroom?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il bagno?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the bathroom?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono i bagni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the beach?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la spiaggia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the pool?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la piscina?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Which area do you live in?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In quale zona vivi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Which country do you come from?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Da quale paese vieni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Why?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perché?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che data è oggi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the date today?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che giorno è oggi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What day is it today?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che lavoro fai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you do?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che ore sono?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come si chiama il tuo quartiere?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your neighborhood called?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come si dice in inglese?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do you say it in English?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come stai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How are you?",
+                    "info": "neutro"
+                },
+                {
+                    "testo": "How's it going?",
+                    "info": "informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come ti chiami?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your name?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Compirò … il prossimo mese\/anno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll be … next month\/year",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa significa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What does it mean?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Da dove vieni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are you from?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Da quale paese vieni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Which country do you come from?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il bagno?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the bathroom?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la piscina?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the pool?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la spiaggia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the beach?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono i bagni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the bathroom?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove vivi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where do you live?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Forse",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Maybe",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai tempo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have time?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho 17 anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am 17 years old",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho 34 anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am 34 years old",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho appena compiuto …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I just turned …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho … anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm … years old",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In che parte della città ti trovi? Per conversazioni locali",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What part of town are you in?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In quale zona vivi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Which area do you live in?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La mia casa è a …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My home is in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La mia famiglia viene da … - utile se si vuole specificare le proprie origini",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My family is from …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non lo so",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't know",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perché?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Why?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piacere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nice to meet you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso chiederti quanti anni hai? Più educato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "May I ask how old you are?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potresti dirmi dove trovare …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you tell me where to find …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi aiutarmi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you help me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi parlare più lentamente?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you speak more slowly?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi ripetere?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you repeat that?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il tuo paese d'origine? - più formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your country of origin?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è la tua città natale? - per conoscere la città specifica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your hometown?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è la tua età? Più formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your age?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanti anni hai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How old are you?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sai dov'è …? Più formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you know the location of …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Se non ti dispiace che te lo chieda",
+                "info": "quanti anni hai? Molto cortese"
+            },
+            "traduzioni": [
+                {
+                    "testo": "If you don't mind me asking, what's your age?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei sicuro?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are you sure?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono all'inizio\/metà\/fine dei miei venti\/trenta\/ecc. - modo meno specifico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm in my early\/mid\/late twenties\/thirties\/etc",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono cresciuto\/a a …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I grew up in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono di base a … - più formale\/professionale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm based in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono nato\/a a …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I was born in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto cercando …",
+                "info": "modo indiretto di chiedere"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking for …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Va bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "All right \/ OK",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vengo da Chicago",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am from Chicago",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vengo da Panama",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am from Panama",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vengo dalla Colombia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am from Colombia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vengo da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm from …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo  in\/a…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo a Barcellona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live in Barcelona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo a Buenos Aires",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live in Buenos Aires",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo a New York",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live in New York",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo a … da [periodo di tempo]",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've been living in … for [time period]",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Domande e risposte comuni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vivo in Spagna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I live in Spain",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

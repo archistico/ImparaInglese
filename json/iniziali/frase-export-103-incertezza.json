@@ -1,0 +1,156 @@
+{
+    "version": 1,
+    "contesto": "Incertezza",
+    "frasi": [
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't do it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non posso farlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't think so",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non penso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm busy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono occupato\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm not sure",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non sono sicuro\/a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Maybe not",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Forse no",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Forse no",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Maybe not",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non penso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't think so",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non posso farlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't do it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non sono sicuro\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm not sure",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Incertezza",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono occupato\/a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm busy",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

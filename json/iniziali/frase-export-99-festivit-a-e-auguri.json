@@ -1,0 +1,1416 @@
+{
+    "version": 1,
+    "contesto": "Festività e auguri",
+    "frasi": [
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Another year wiser!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un altro anno più saggio!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Be mine!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sii mio\/a!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Birthday invitations",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Inviti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cheers to a great year ahead!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alla salute di un anno fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Come celebrate with me!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vieni a festeggiare con me!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congrats on graduating!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulazioni per la laurea!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congratulations on your wedding!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulazioni per il matrimonio!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eat lots of turkey!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mangia tanto tacchino!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Enjoy your Easter eggs!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Goditi le uova di Pasqua!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Get well soon!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Guarisci presto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grateful for you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti sono grato\/a!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Birthday!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon compleanno!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Diwali!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon Diwali!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Easter!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buona Pasqua!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Hanukkah!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon Hanukkah!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Holidays!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buone feste!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy New Year!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Felice Anno Nuovo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Thanksgiving!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon Ringraziamento!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Happy Valentine's Day!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon San Valentino!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Have a magical Christmas!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Passa un Natale magico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hope all your wishes come true!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che tutti i tuoi desideri si avverino!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hope the Easter Bunny visits you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che il coniglietto pasquale ti porti dolci!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hope you feel better!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero ti senta meglio!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hope you like it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spero ti piaccia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's my party, don't be late!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È la mia festa",
+                    "info": "non fare tardi!"
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Just a little something",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Solo un pensierino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let your life shine like the lamps!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che la tua vita brilli come le lampade!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "May your candles shine bright!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che le tue candele brillino!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Merry Christmas!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buon Natale!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "New Year, new beginnings!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Anno nuovo",
+                    "info": "nuovi inizi!"
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Perfect match!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Siete fatti l'uno per l'altra!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Roses are red …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Inizio di poesia tradizionale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Santa's on his way!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Babbo Natale sta arrivando!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Season's Greetings!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buone feste! Formale",
+                    "info": "per cartoline"
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "See you next year!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ci vediamo l'anno prossimo! – scherzoso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sending you healthy vibes!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti mando energia positiva!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thank you! Same to you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Rispondere: grazie",
+                    "info": "altrettanto!"
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's so kind!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che gentile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The world is yours now!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mondo è tuo ora!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo è per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Warmest Christmas wishes!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I più calorosi auguri di Natale!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's next, genius?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "E adesso",
+                    "info": "genio?"
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wishing you a fantastic day!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti auguro una giornata fantastica!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wishing you a lifetime of love!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Una vita di amore!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wishing you all the best!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buone feste!Ti auguro il meglio!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You stole my heart!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi hai rubato il cuore!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You too!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Anche a te!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alla salute di un anno fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cheers to a great year ahead!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Anche a te!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You too!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Anno nuovo",
+                "info": "nuovi inizi!"
+            },
+            "traduzioni": [
+                {
+                    "testo": "New Year, new beginnings!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Babbo Natale sta arrivando!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Santa's on his way!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon Diwali!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Diwali!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon Hanukkah!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Hanukkah!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon Natale!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Merry Christmas!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon Ringraziamento!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Thanksgiving!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon San Valentino!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Valentine's Day!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buon compleanno!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Birthday!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buona Pasqua!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Easter!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buone feste!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy Holidays!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buone feste! Formale",
+                "info": "per cartoline"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Season's Greetings!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buone feste!Ti auguro il meglio!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wishing you all the best!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che gentile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's so kind!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che il coniglietto pasquale ti porti dolci!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hope the Easter Bunny visits you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che la tua vita brilli come le lampade!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let your life shine like the lamps!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che le tue candele brillino!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "May your candles shine bright!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che tutti i tuoi desideri si avverino!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hope all your wishes come true!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ci vediamo l'anno prossimo! – scherzoso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "See you next year!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Congratulazioni per il matrimonio!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulations on your wedding!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Congratulazioni per la laurea!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congrats on graduating!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "E adesso",
+                "info": "genio?"
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's next, genius?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Felice Anno Nuovo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Happy New Year!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Goditi le uova di Pasqua!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Enjoy your Easter eggs!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Guarisci presto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Get well soon!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "I più calorosi auguri di Natale!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Warmest Christmas wishes!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mondo è tuo ora!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The world is yours now!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Inizio di poesia tradizionale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Roses are red …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Inviti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Birthday invitations",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mangia tanto tacchino!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eat lots of turkey!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi hai rubato il cuore!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You stole my heart!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Passa un Natale magico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Have a magical Christmas!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo è per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is for you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Rispondere: grazie",
+                "info": "altrettanto!"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thank you! Same to you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Siete fatti l'uno per l'altra!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfect match!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sii mio\/a!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Be mine!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Solo un pensierino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Just a little something",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero ti piaccia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hope you like it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spero ti senta meglio!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hope you feel better!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti auguro una giornata fantastica!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wishing you a fantastic day!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti mando energia positiva!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sending you healthy vibes!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti sono grato\/a!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grateful for you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un altro anno più saggio!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Another year wiser!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Una vita di amore!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wishing you a lifetime of love!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vieni a festeggiare con me!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come celebrate with me!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Festività e auguri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È la mia festa",
+                "info": "non fare tardi!"
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's my party, don't be late!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

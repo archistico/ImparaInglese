@@ -1,0 +1,156 @@
+{
+    "version": 1,
+    "contesto": "Espressioni idiomatiche",
+    "frasi": [
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Break a leg!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In bocca al lupo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hit the sack",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andare a letto",
+                    "info": "informale"
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's raining cats and dogs",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piove a catinelle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pull someone's leg",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prendere in giro bonariamente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To spill the beans",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Svelare un segreto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andare a letto",
+                "info": "informale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hit the sack",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In bocca al lupo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Break a leg!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piove a catinelle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's raining cats and dogs",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prendere in giro bonariamente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pull someone's leg",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Espressioni idiomatiche",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Svelare un segreto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To spill the beans",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

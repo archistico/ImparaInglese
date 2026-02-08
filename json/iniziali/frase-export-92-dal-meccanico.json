@@ -1,0 +1,696 @@
+{
+    "version": 1,
+    "contesto": "Dal meccanico",
+    "frasi": [
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get a ride home?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi può dare un passaggio a casa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you check the brakes?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può controllare i freni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you give me an estimate?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può darmi un preventivo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you rotate the tires?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può ruotare le gomme?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you offer a courtesy car?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete un'auto di cortesia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Full service",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "servizio completo è raro: di solito si fa da soli (self service)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much will it cost?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costerà?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need an oil change",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo cambiare l'olio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think the battery is dead",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credo che la batteria sia scarica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a warranty?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è una garanzia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Jumper cables",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cavi per batteria",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My car is making a strange noise",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La mia auto fa un rumore strano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Spare tire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gomma di scorta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's too expensive!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È troppo costoso!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The \"check engine\" light is on",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La spia del motore è accesa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The air conditioning isn't working",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'aria condizionata non funziona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The brakes are squeaking",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I freni cigolano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The engine won't start",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il motore non parte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The steering feels loose",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lo sterzo è poco preciso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The tires need air",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le gomme hanno bisogno di aria",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There's a burning smell",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è odore di bruciato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "There's a leak under the car",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è una perdita sotto la macchina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When will it be ready?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando sarà pronta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete un'auto di cortesia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you offer a courtesy car?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è odore di bruciato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There's a burning smell",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è una garanzia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a warranty?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è una perdita sotto la macchina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "There's a leak under the car",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cavi per batteria",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Jumper cables",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Credo che la batteria sia scarica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think the battery is dead",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo cambiare l'olio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need an oil change",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gomma di scorta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spare tire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "I freni cigolano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The brakes are squeaking",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il motore non parte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The engine won't start",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'aria condizionata non funziona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The air conditioning isn't working",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La mia auto fa un rumore strano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My car is making a strange noise",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La spia del motore è accesa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The \"check engine\" light is on",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le gomme hanno bisogno di aria",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The tires need air",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lo sterzo è poco preciso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The steering feels loose",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi può dare un passaggio a casa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get a ride home?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può controllare i freni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you check the brakes?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può darmi un preventivo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you give me an estimate?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può ruotare le gomme?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you rotate the tires?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando sarà pronta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When will it be ready?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costerà?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much will it cost?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "servizio completo è raro: di solito si fa da soli (self service)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Full service",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Dal meccanico",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È troppo costoso!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's too expensive!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

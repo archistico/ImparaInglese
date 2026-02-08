@@ -1,0 +1,246 @@
+{
+    "version": 1,
+    "contesto": "Al Bar \/ Caffetteria",
+    "frasi": [
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get this to go?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso averlo da asporto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I have almond milk instead?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere latte di mandorla?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Extra shot of espresso, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un caffè in più",
+                    "info": "grazie"
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd like a cappuccino, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei un cappuccino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is service included?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il servizio è incluso?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Keep the change",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tenga il resto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "No sugar, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Senza zucchero",
+                    "info": "grazie"
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your specialty?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è la vostra specialità?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il servizio è incluso?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is service included?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso averlo da asporto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get this to go?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere latte di mandorla?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I have almond milk instead?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è la vostra specialità?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your specialty?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Senza zucchero",
+                "info": "grazie"
+            },
+            "traduzioni": [
+                {
+                    "testo": "No sugar, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tenga il resto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Keep the change",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un caffè in più",
+                "info": "grazie"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Extra shot of espresso, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Al Bar \/ Caffetteria",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei un cappuccino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd like a cappuccino, please",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

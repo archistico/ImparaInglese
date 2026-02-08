@@ -1,0 +1,606 @@
+{
+    "version": 1,
+    "contesto": "Preposizioni",
+    "frasi": [
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A\/Da",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At 3 o'clock",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alle 3",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At home",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Behind",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dietro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Between",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra\/Fra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Between you and me",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra me e te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Far from",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lontano da",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In\/Nel\/Nella",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In Italy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In Italia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In front of",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Davanti a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In the house",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nella casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Near",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vicino a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Next to",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accanto a",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "On",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Su\/Sopra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "On Monday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di lunedì",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "On the table",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sul tavolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Over",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sopra\/Su",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Over there",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Laggiù",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Under",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sotto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Under the bed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sotto il letto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At home",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A\/Da",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accanto a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Next to",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alle 3",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At 3 o'clock",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Davanti a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In front of",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di lunedì",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "On Monday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dietro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Behind",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In Italia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In Italy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "In\/Nel\/Nella",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Laggiù",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Over there",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lontano da",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Far from",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nella casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In the house",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sopra\/Su",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Over",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sotto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Under",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sotto il letto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Under the bed",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Su\/Sopra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "On",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sul tavolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "On the table",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tra me e te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Between you and me",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tra\/Fra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Between",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Preposizioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vicino a",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Near",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

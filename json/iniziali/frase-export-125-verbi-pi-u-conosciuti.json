@@ -1,0 +1,906 @@
+{
+    "version": 1,
+    "contesto": "Verbi più conosciuti",
+    "frasi": [
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can (ability)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potere (capacità)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you _ ?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi _ ?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Come here",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vieni qui",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you want _ ?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vuoi _ ?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "He\/She has",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lui\/Lei ha",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "He\/She is",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lui\/Lei è",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I am",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Io sono",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso\/So fare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can see",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Riesco a vedere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non posso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't find it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non riesco a trovarlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I go",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Io vado",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Io ho",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I want",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm coming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto arrivando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking for _",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto cercando _",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's go!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andiamo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "See you later",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ci vediamo dopo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "They are",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Loro sono",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To be",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Essere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To come",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Venire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To find",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Trovare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To go",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To have",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To look for",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cercare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To see",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vedere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "To want",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Volere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "We are",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Noi siamo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You are",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tu sei",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You have",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tu hai",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To go",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andiamo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's go!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To have",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cercare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To look for",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ci vediamo dopo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "See you later",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Essere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To be",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Io ho",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Io sono",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I am",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Io vado",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I go",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Loro sono",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "They are",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lui\/Lei ha",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "He\/She has",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lui\/Lei è",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "He\/She is",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Noi siamo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "We are",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non posso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non riesco a trovarlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't find it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso\/So fare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potere (capacità)",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can (ability)",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi _ ?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you _ ?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Riesco a vedere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can see",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto arrivando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm coming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto cercando _",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking for _",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Trovare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To find",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tu hai",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You have",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tu sei",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You are",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vedere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To see",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Venire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To come",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vieni qui",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come here",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I want",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Volere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "To want",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Verbi più conosciuti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vuoi _ ?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you want _ ?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

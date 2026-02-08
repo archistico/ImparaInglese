@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Lavoro e Carriera",
+    "frasi": [
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could we reschedule the meeting?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potremmo riprogrammare la riunione?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a day off",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di un giorno libero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd like to discuss my career progression",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei discutere della mia progressione di carriera",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll take the lead on this project",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi occuperò io di questo progetto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm following up on my application",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto facendo un follow-up sulla mia candidatura",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm submitting my application",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto inviando la mia candidatura",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm working remotely today",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi lavoro da remoto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's circle back to this topic",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Torniamo su questo argomento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What are the next steps?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quali sono i prossimi passi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When can I expect feedback?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando posso aspettarmi un feedback?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di un giorno libero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a day off",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi occuperò io di questo progetto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll take the lead on this project",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi lavoro da remoto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm working remotely today",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potremmo riprogrammare la riunione?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could we reschedule the meeting?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quali sono i prossimi passi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are the next steps?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando posso aspettarmi un feedback?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When can I expect feedback?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto facendo un follow-up sulla mia candidatura",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm following up on my application",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto inviando la mia candidatura",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm submitting my application",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Torniamo su questo argomento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's circle back to this topic",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Lavoro e Carriera",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei discutere della mia progressione di carriera",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd like to discuss my career progression",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

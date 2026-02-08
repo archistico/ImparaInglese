@@ -1,0 +1,1236 @@
+{
+    "version": 1,
+    "contesto": "Rispondere a una buona notizia",
+    "frasi": [
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Amazing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incredibile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Awesome!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Brilliant!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Geniale!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congrats!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Complimenti!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congratulations!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Complimenti!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congratulations!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulazioni!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Excellent!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eccellente!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fantastic!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hooray!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Evviva!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How nice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che bello",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't believe it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ci posso credere!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I couldn't be happier to hear that!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non potrei essere più felice di sentirlo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm glad to hear that",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi fa piacere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm happy for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono felice per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so happy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono contentissimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so happy for you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono così felice per te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so proud of you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono così orgoglioso\/a di te!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thrilled for you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono entusiasta per te!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Outstanding!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Straordinario!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Perfect!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfetto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Really?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Davvero?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Superb!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Superbo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's amazing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È incredibile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's awesome!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che figata!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's awesome!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's good news!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottima notizia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's great!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's great!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È magnifico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's lovely",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che meraviglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's so nice to hear!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che bello sentirlo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's wonderful!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che bello!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is such good news!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questa è davvero una bella notizia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Top-notch!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di prima classe! Colloquiale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Well done!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ben fatto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What a blessing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che benedizione!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What a success!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che successo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What a surprise!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che sorpresa!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wow!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wow!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You deserve it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Te lo meriti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You deserve it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Te lo meriti!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You made me smile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi hai fatto sorridere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ben fatto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Well done!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che bello",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How nice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che bello sentirlo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's so nice to hear!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che bello!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's wonderful!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che benedizione!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What a blessing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che figata!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's awesome!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che meraviglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's lovely",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che sorpresa!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What a surprise!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che successo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What a success!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Complimenti!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congrats!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Complimenti!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulations!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Congratulazioni!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulations!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Davvero?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Really?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di prima classe! Colloquiale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Top-notch!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Eccellente!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Excellent!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Evviva!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hooray!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fantastic!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's awesome!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's great!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Geniale!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Brilliant!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Incredibile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Amazing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi fa piacere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm glad to hear that",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi hai fatto sorridere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You made me smile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ci posso credere!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't believe it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non potrei essere più felice di sentirlo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I couldn't be happier to hear that!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottima notizia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's good news!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Awesome!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perfetto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfect!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questa è davvero una bella notizia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is such good news!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono contentissimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so happy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono così felice per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so happy for you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono così orgoglioso\/a di te!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so proud of you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono entusiasta per te!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thrilled for you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono felice per te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm happy for you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Straordinario!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Outstanding!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Superbo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Superb!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Te lo meriti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You deserve it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Te lo meriti!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You deserve it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Wow!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wow!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È incredibile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's amazing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Rispondere a una buona notizia",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È magnifico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's great!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

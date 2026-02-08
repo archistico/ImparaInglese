@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Tecnologia e Digitale",
+    "frasi": [
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I share this file?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come condivido questo file?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I update the software?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come aggiorno il software?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't access my account",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non riesco ad accedere al mio account",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need tech support",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di supporto tecnico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to restart my device",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo riavviare il dispositivo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll send you a link",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti mando un link",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My internet connection is unstable",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La mia connessione internet è instabile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The battery is draining quickly",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La batteria si scarica rapidamente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The website won't load",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il sito web non si carica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are the settings?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono le impostazioni?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come aggiorno il software?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I update the software?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come condivido questo file?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I share this file?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo riavviare il dispositivo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to restart my device",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono le impostazioni?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are the settings?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di supporto tecnico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need tech support",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il sito web non si carica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The website won't load",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La batteria si scarica rapidamente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The battery is draining quickly",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La mia connessione internet è instabile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My internet connection is unstable",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non riesco ad accedere al mio account",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't access my account",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Tecnologia e Digitale",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti mando un link",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll send you a link",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

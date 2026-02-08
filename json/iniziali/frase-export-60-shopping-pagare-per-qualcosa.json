@@ -1,0 +1,966 @@
+{
+    "version": 1,
+    "contesto": "Shopping \/ Pagare per qualcosa",
+    "frasi": [
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get another bag?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere un'altra borsa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I have the receipt?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere la ricevuta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I return it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso restituirlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I try it on?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso provarlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you accept cards?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettate carte?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a discount?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete uno sconto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have delivery?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fate consegne a domicilio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have more …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete altro\/i …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have this size?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete questa taglia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you sell … here?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vendete … qui?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you take credit cards?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettate carte di credito?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How cheap!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto è economico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How expensive!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto è costoso!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much does it cost?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can pay in cash",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare in contanti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't find it. Can you show me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non riesco a trovarlo. Potrebbe mostrarmelo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't like it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non mi piace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need a bag",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve una borsa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll take it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lo prendo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm just looking",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto solo guardando",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there a warranty?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è la garanzia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's too expensive",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È troppo caro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My address is…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il mio indirizzo è…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is heavy. Can you help me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È pesante. Potrebbe aiutarmi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time do you close?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora chiudete?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What time do you open?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A che ora aprite?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "When will you have more …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quando avrete altro\/i…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are the fitting rooms?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono i camerini?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è il\/la…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Will you take … for it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettereste … per questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora aprite?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time do you open?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "A che ora chiudete?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What time do you close?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettate carte di credito?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you take credit cards?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettate carte?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you accept cards?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettereste … per questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Will you take … for it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete altro\/i …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have more …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete questa taglia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have this size?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete uno sconto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a discount?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è la garanzia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there a warranty?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è il\/la…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono i camerini?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are the fitting rooms?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fate consegne a domicilio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have delivery?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il mio indirizzo è…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My address is…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lo prendo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll take it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve una borsa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need a bag",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non mi piace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't like it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non riesco a trovarlo. Potrebbe mostrarmelo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't find it. Can you show me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere la ricevuta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I have the receipt?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere un'altra borsa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get another bag?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare in contanti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can pay in cash",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso provarlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I try it on?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso restituirlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I return it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quando avrete altro\/i…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "When will you have more …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much does it cost?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto è costoso!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How expensive!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto è economico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How cheap!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto solo guardando",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm just looking",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vendete … qui?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you sell … here?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È pesante. Potrebbe aiutarmi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is heavy. Can you help me?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Shopping \/ Pagare per qualcosa",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È troppo caro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's too expensive",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

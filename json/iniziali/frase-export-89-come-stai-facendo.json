@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Come stai facendo?",
+    "frasi": [
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What are you doing?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa stai facendo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What are you up to?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa stai combinando? Informale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's going on?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che succede? Più generico e informale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che succede? Più generico e informale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's going on?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa stai combinando? Informale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are you up to?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come stai facendo?",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa stai facendo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are you doing?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

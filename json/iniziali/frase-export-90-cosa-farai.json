@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Cosa farai",
+    "frasi": [
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have to clean the house",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo pulire la casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have to go to work",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo andare a lavorare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have to study",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo studiare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have to take the dog for a walk",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to take the dog for a walk",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have to work out",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo allenarmi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to do my work",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andrò a lavorare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to eat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mangerò",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to go shopping",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andrò a fare shopping",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm going to sleep",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andrò a dormire",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What are you going to do?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa farai?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andrò a dormire",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to sleep",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andrò a fare shopping",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to go shopping",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andrò a lavorare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to do my work",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa farai?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What are you going to do?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo allenarmi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to work out",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo andare a lavorare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to go to work",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo pulire la casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to clean the house",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo studiare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to study",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "I have to take the dog for a walk",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have to take the dog for a walk",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Cosa farai",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mangerò",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm going to eat",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

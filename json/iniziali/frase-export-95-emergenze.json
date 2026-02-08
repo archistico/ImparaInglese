@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Emergenze",
+    "frasi": [
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Call the police!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chiamate la polizia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've been robbed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stato derubato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where's the nearest embassy?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è l'ambasciata più vicina?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chiamate la polizia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Call the police!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è l'ambasciata più vicina?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where's the nearest embassy?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Emergenze",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stato derubato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've been robbed",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

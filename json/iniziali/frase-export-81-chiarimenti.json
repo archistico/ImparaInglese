@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Chiarimenti",
+    "frasi": [
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you say that again?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi dirlo di nuovo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you speak slower?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi parlare più lentamente?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you write it down for me?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi scrivermelo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you speak English?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Parli Inglese?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you understand?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisci?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't know",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non lo so",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't understand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non capisco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I speak a little bit of Spanish",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Parlo un po' di Spagnolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think you said…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credo che tu abbia detto…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sorry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisci?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you understand?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Credo che tu abbia detto…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think you said…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sorry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non capisco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't understand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non lo so",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't know",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Parli Inglese?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you speak English?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Parlo un po' di Spagnolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I speak a little bit of Spanish",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi dirlo di nuovo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you say that again?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi parlare più lentamente?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you speak slower?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiarimenti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi scrivermelo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you write it down for me?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1896 @@
+{
+    "version": 1,
+    "contesto": "Indicazioni",
+    "frasi": [
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Across from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dall'altra parte rispetto a…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "After…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dopo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At the end of the street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alla fine della strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Between",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you show it to me on the map?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi mostrarmelo sulla mappa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Continue on this road",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Continua su questa strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you help me get my bearings?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potresti aiutarmi a orientarmi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cross over",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attraversa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cross the street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attraversa la strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you know where I can find…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sai dove posso trovare…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Excuse me, where is...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi scusi, dov'è...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Facing…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Rivolto verso…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Follow the signs",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Segui i cartelli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Go across the street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vai dall'altra parte della strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Go straight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vai dritto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Go straight ahead",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vai dritto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do I get to...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come arrivo a...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long does it take by car?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto ci vuole in macchina?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long does it take on foot?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto ci vuole a piedi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have no idea where I am",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho idea di dove mi trovi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to locate…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo localizzare…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I seem to have lost my way",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sembra che abbia perso la strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think I took a wrong turn",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penso di aver sbagliato strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm having trouble finding…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto avendo difficoltà a trovare…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm looking for…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto cercando…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm lost",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono perso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm trying to find…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto provando a trovare…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In front of…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di fronte a…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is it far?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È lontano?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is it near?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È vicino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's a bit of a drive from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È un po' distante in macchina da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's close to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È vicino a…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's far from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È lontano da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's just a short walk from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È a pochi passi da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's just after you turn right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È subito dopo aver girato a destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's near…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È nei pressi di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's not within easy reach of…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non è facilmente raggiungibile da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's on the left",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È a sinistra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's on the right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È a destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's quite a way from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È abbastanza lontano da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's that way",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È dall'altra parte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's this way",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È da questa parte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Just keep going forward",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Continua ad andare avanti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Just outside of…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Appena fuori da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Keep going straight",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prosegui dritto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Make a left \/ right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Svolta a sinistra \/ destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Make your way across at the crosswalk",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attraversa sulle strisce pedonali",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Next to",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accanto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "On the corner",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "All'angolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Once you've passed…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Una volta superato…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Opposite",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di fronte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Past…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Superato…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Right after…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Subito dopo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Right in front of…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Proprio di fronte a…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Take a left at the next street",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gira a sinistra alla prossima strada",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Take the first left",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prendi la prima a sinistra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Take the second right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prendi la seconda a destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The next left is the one you want",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La prossima a sinistra è quella che ti serve",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Turn left",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gira a sinistra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Turn left \/ right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gira a sinistra \/ destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Turn right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gira a destra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You can easily reach it from…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi raggiungerlo facilmente da…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accanto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Next to",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "All'angolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "On the corner",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alla fine della strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "At the end of the street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Appena fuori da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Just outside of…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attraversa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cross over",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attraversa la strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cross the street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attraversa sulle strisce pedonali",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Make your way across at the crosswalk",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come arrivo a...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I get to...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Continua ad andare avanti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Just keep going forward",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Continua su questa strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Continue on this road",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dall'altra parte rispetto a…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Across from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo localizzare…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to locate…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di fronte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Opposite",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di fronte a…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In front of…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dopo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "After…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gira a destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Turn right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gira a sinistra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Turn left",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gira a sinistra \/ destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Turn left \/ right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gira a sinistra alla prossima strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Take a left at the next street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La prossima a sinistra è quella che ti serve",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The next left is the one you want",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi scusi, dov'è...?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Excuse me, where is...?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono perso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm lost",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho idea di dove mi trovi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have no idea where I am",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non è facilmente raggiungibile da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's not within easy reach of…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penso di aver sbagliato strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think I took a wrong turn",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potresti aiutarmi a orientarmi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you help me get my bearings?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prendi la prima a sinistra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Take the first left",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prendi la seconda a destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Take the second right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Proprio di fronte a…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Right in front of…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Prosegui dritto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Keep going straight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi mostrarmelo sulla mappa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you show it to me on the map?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi raggiungerlo facilmente da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You can easily reach it from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto ci vuole a piedi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long does it take on foot?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto ci vuole in macchina?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long does it take by car?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Rivolto verso…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Facing…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sai dove posso trovare…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you know where I can find…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Segui i cartelli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Follow the signs",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sembra che abbia perso la strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I seem to have lost my way",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto avendo difficoltà a trovare…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm having trouble finding…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto cercando…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm looking for…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto provando a trovare…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm trying to find…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Subito dopo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Right after…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Superato…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Past…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Svolta a sinistra \/ destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Make a left \/ right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Between",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Una volta superato…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Once you've passed…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vai dall'altra parte della strada",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Go across the street",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vai dritto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Go straight",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vai dritto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Go straight ahead",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È a destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's on the right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È a pochi passi da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's just a short walk from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È a sinistra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's on the left",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È abbastanza lontano da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's quite a way from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È da questa parte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's this way",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È dall'altra parte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's that way",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È lontano da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's far from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È lontano?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is it far?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È nei pressi di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's near…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È subito dopo aver girato a destra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's just after you turn right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È un po' distante in macchina da…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's a bit of a drive from…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È vicino a…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's close to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È vicino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is it near?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

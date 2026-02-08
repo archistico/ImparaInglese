@@ -1,0 +1,396 @@
+{
+    "version": 1,
+    "contesto": "Alla pompa di benzina",
+    "frasi": [
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you check the oil\/water?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può controllare l'olio\/l'acqua?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you clean the windshield?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Può pulire il parabrezza?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you take contactless?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Accettate pagamenti contactless?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fill it up, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Faccia il pieno",
+                    "info": "per favore"
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How much is gas per liter\/gallon?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto costa il carburante al litro\/gallone?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to fill up the tank",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo fare il pieno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'll pay by card\/cash",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pago con carta\/contanti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is there air for the tires?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "C'è l'aria per le gomme?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Just half a tank",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Solo mezzo serbatoio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pump number 3, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pompa numero 3",
+                    "info": "grazie"
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Regular\/Unleaded\/Diesel, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Benzina verde\/Gasolio",
+                    "info": "per favore"
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stop at €40",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fermati a 40 euro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "€50 worth, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "50 euro",
+                    "info": "grazie"
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "50 euro",
+                "info": "grazie"
+            },
+            "traduzioni": [
+                {
+                    "testo": "€50 worth, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Accettate pagamenti contactless?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you take contactless?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Benzina verde\/Gasolio",
+                "info": "per favore"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Regular\/Unleaded\/Diesel, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "C'è l'aria per le gomme?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is there air for the tires?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo fare il pieno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to fill up the tank",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Faccia il pieno",
+                "info": "per favore"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fill it up, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fermati a 40 euro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stop at €40",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pago con carta\/contanti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'll pay by card\/cash",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pompa numero 3",
+                "info": "grazie"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pump number 3, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può controllare l'olio\/l'acqua?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you check the oil\/water?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Può pulire il parabrezza?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you clean the windshield?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto costa il carburante al litro\/gallone?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How much is gas per liter\/gallon?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Alla pompa di benzina",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Solo mezzo serbatoio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Just half a tank",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

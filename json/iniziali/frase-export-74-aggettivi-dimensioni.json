@@ -1,0 +1,366 @@
+{
+    "version": 1,
+    "contesto": "Aggettivi - dimensioni",
+    "frasi": [
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Big",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grande",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Huge",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Enorme",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Large",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Largo\/Grande",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Long",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lungo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Narrow",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stretto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Short",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Corto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Small",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piccolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Tall",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thick",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spesso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thin",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sottile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Tiny",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piccolissimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wide",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ampio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tall",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ampio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wide",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Corto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Short",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Enorme",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Huge",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Grande",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Big",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Largo\/Grande",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Large",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lungo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Long",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piccolissimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tiny",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piccolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Small",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sottile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thin",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spesso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thick",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - dimensioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Stretto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Narrow",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

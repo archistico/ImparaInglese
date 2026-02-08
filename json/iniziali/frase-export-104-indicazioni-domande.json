@@ -1,0 +1,126 @@
+{
+    "version": 1,
+    "contesto": "Indicazioni domande",
+    "frasi": [
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you direct me to the nearest …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi indicarmi il\/la … più vicino\/a?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How far is the … from here?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto dista il\/la … da qui?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is the … around here?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il\/La … è da queste parti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is the … close by?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il\/La … è qui vicino?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il\/La … è da queste parti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is the … around here?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il\/La … è qui vicino?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is the … close by?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi indicarmi il\/la … più vicino\/a?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you direct me to the nearest …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni domande",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto dista il\/la … da qui?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How far is the … from here?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2646 @@
+{
+    "version": 1,
+    "contesto": "Sport e hobby",
+    "frasi": [
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are you into gaming?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti piace giocare ai videogiochi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are you into sports?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti piacciono gli sport?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Competitions",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Competizioni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you collect anything?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Collezioni qualcosa?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you do any sports?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fai qualche sport? Alternativa più generica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a basketball?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai un pallone da basket?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a hobby?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai un hobby?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have any hobbies?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hai hobby?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you play any sports?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fai qualche sport?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Giving up a sport\/hobby",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Smettere un hobby",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Good luck in your tournament!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buona fortuna per il tuo torneo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hiking is my therapy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Le escursioni sono la mia terapia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hobby-related phrases",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Frasi legate agli hobby",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can't stand golf, it's so boring",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non sopporto il golf",
+                    "info": "è noioso"
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I do gymnastics",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Faccio ginnastica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't have time",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho tempo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't have time for it anymore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ho più tempo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I enjoy painting",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi diverto a dipingere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I go running",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vado a correre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I go swimming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vado a nuotare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I go to the gym",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vado in palestra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I go to the gym three times a week",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vado in palestra tre volte a settimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like cooking",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace cucinare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like listening to music",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace ascoltare musica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like reading",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace leggere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like sports",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace lo sport",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like swimming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace nuotare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like taking photos",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace fotografare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like to hike",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace fare escursioni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like to … in my free time",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nel tempo libero mi piace …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like traveling",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace viaggiare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like walking",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace camminare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I lost interest",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho perso interesse",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I love camping under the stars",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Amo campeggiare sotto le stelle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I love reading",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Amo leggere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I love watching the Olympics",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Adoro guardare le Olimpiadi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need new running shoes",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi servono nuove scarpe da corsa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play an instrument",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Suono uno strumento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play basketball",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gioco a basket",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play football \/ soccer",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gioco a calcio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play soccer",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gioco a calcio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play tennis",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gioco a tennis",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play the guitar",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Suono la chitarra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I play …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gioco a …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I practice every Saturday",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi alleno ogni sabato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I prefer staying at home",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Preferisco stare a casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I quit playing rugby",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho smesso di giocare a rugby",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I train … times a week",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi alleno … volte a settimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I watch movies",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Guardo film",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I won first place!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho vinto il primo posto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I work out",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi alleno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm a beginner at yoga",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono un principiante di yoga",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm a fan of …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono un fan di …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm a huge football fan",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono un grande fan del football americano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm crazy about Formula 1",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono pazzo di Formula 1",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm good at swimming",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono bravo\/a a nuotare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm good at …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono bravo\/a in …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm into photography",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi interessa la fotografia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm terrible at dancing",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono pessimo\/a a ballare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm training for a marathon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sto allenando per una maratona",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm trying to get fit",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto cercando di mettermi in forma",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've been doing this for years",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lo faccio da anni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In my free time...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nel tempo libero...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Invitations",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Inviti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It helps me relax",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi aiuta a rilassarmi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's fun",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È divertente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's interesting",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È interessante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's go cycling this weekend!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andiamo in bici questo weekend!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's go!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Andiamo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's play a game",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Facciamo una partita",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's play a match!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Facciamo una partita!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's play …!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giochiamo a …!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Let's try rock climbing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Proviamo l'arrampicata!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Outdoor activities",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attività all'aperto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Sports equipment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attrezzatura sportiva",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That was an amazing match!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È stata una partita fantastica!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is my passion",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questa è la mia passione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Up for a game of chess?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ti va una partita a scacchi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wanna join our team?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vuoi unirti alla nostra squadra?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Want to join our yoga class?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vuoi unirti al nostro corso di yoga?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Watching sports",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Guardare gli sport",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "We're playing volleyball on the beach, come along!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giochiamo a pallavolo in spiaggia",
+                    "info": "vieni!"
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you do for fun?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa fai per divertirti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you think?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che ne pensi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's the score?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il punteggio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What's your favorite sport?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Qual è il tuo sport preferito?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where can I buy a tennis racket?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove posso comprare una racchetta da tennis?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Who's winning?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chi sta vincendo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Adoro guardare le Olimpiadi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I love watching the Olympics",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Amo campeggiare sotto le stelle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I love camping under the stars",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Amo leggere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I love reading",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andiamo in bici questo weekend!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's go cycling this weekend!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Andiamo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's go!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attività all'aperto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Outdoor activities",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attrezzatura sportiva",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sports equipment",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buona fortuna per il tuo torneo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Good luck in your tournament!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che ne pensi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you think?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Chi sta vincendo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Who's winning?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Collezioni qualcosa?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you collect anything?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Competizioni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Competitions",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa fai per divertirti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you do for fun?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove posso comprare una racchetta da tennis?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where can I buy a tennis racket?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Facciamo una partita",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's play a game",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Facciamo una partita!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's play a match!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Faccio ginnastica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I do gymnastics",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fai qualche sport?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you play any sports?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fai qualche sport? Alternativa più generica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you do any sports?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Frasi legate agli hobby",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hobby-related phrases",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giochiamo a pallavolo in spiaggia",
+                "info": "vieni!"
+            },
+            "traduzioni": [
+                {
+                    "testo": "We're playing volleyball on the beach, come along!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Giochiamo a …!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's play …!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gioco a basket",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play basketball",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gioco a calcio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play football \/ soccer",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gioco a calcio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play soccer",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gioco a tennis",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play tennis",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gioco a …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Guardare gli sport",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Watching sports",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Guardo film",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I watch movies",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai hobby?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have any hobbies?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai un hobby?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a hobby?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Hai un pallone da basket?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a basketball?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho perso interesse",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I lost interest",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho smesso di giocare a rugby",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I quit playing rugby",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho vinto il primo posto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I won first place!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Inviti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Invitations",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Le escursioni sono la mia terapia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hiking is my therapy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lo faccio da anni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've been doing this for years",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi aiuta a rilassarmi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It helps me relax",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi alleno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I work out",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi alleno ogni sabato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I practice every Saturday",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi alleno … volte a settimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I train … times a week",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi diverto a dipingere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I enjoy painting",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi interessa la fotografia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm into photography",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace ascoltare musica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like listening to music",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace camminare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like walking",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace cucinare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like cooking",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace fare escursioni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like to hike",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace fotografare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like taking photos",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace leggere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like reading",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace lo sport",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like sports",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace nuotare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like swimming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace viaggiare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like traveling",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi servono nuove scarpe da corsa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need new running shoes",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sto allenando per una maratona",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm training for a marathon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nel tempo libero mi piace …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like to … in my free time",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nel tempo libero...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In my free time...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho più tempo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't have time for it anymore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ho tempo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't have time",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non sopporto il golf",
+                "info": "è noioso"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can't stand golf, it's so boring",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Preferisco stare a casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I prefer staying at home",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Proviamo l'arrampicata!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Let's try rock climbing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il punteggio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's the score?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Qual è il tuo sport preferito?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What's your favorite sport?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questa è la mia passione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is my passion",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Smettere un hobby",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Giving up a sport\/hobby",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono bravo\/a a nuotare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm good at swimming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono bravo\/a in …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm good at …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono pazzo di Formula 1",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm crazy about Formula 1",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono pessimo\/a a ballare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm terrible at dancing",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono un fan di …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm a fan of …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono un grande fan del football americano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm a huge football fan",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono un principiante di yoga",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm a beginner at yoga",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto cercando di mettermi in forma",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm trying to get fit",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Suono la chitarra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play the guitar",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Suono uno strumento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I play an instrument",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti piacciono gli sport?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are you into sports?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti piace giocare ai videogiochi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are you into gaming?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ti va una partita a scacchi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Up for a game of chess?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vado a correre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I go running",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vado a nuotare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I go swimming",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vado in palestra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I go to the gym",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vado in palestra tre volte a settimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I go to the gym three times a week",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vuoi unirti al nostro corso di yoga?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Want to join our yoga class?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vuoi unirti alla nostra squadra?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wanna join our team?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È divertente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's fun",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È interessante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's interesting",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Sport e hobby",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È stata una partita fantastica!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That was an amazing match!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Clima",
+    "frasi": [
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's chilly today",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi fa fresco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's pouring outside!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sta diluviando!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The weather is unpredictable",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il tempo è incerto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il tempo è incerto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The weather is unpredictable",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi fa fresco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's chilly today",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Clima",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sta diluviando!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's pouring outside!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

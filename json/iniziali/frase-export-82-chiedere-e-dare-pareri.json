@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Chiedere e dare pareri",
+    "frasi": [
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Everyone should…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tutti dovrebbero…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I agree",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono d'accordo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I disagree",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non sono d'accordo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "If it was me…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Se fossi in te…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "In my opinion…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Secondo me…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It doesn't matter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non importa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you think about that?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa ne pensi?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you think about…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa pensi di…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "… is better than …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "… è meglio di …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "… is worse than …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "… è peggio di …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa ne pensi?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you think about that?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa pensi di…?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you think about…?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non importa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It doesn't matter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non sono d'accordo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I disagree",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Se fossi in te…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "If it was me…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Secondo me…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "In my opinion…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono d'accordo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I agree",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tutti dovrebbero…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Everyone should…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "… è meglio di …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "… is better than …",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Chiedere e dare pareri",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "… è peggio di …",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "… is worse than …",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

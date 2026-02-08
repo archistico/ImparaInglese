@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Mi dispiace",
+    "frasi": [
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm really sorry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace davvero",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so sorry to hear that",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace tanto sentirlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sorry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi dispiace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sorry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace davvero",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm really sorry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Mi dispiace",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi dispiace tanto sentirlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so sorry to hear that",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

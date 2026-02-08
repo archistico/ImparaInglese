@@ -1,0 +1,546 @@
+{
+    "version": 1,
+    "contesto": "Aggettivi - qualità",
+    "frasi": [
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Amazing",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incredibile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Awful",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Terribile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Bad",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cattivo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Beautiful",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bello",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Cold",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Freddo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Difficult",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Difficile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Easy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Facile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Excellent",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eccellente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Fast",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Veloce",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Good",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buono",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hot",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Caldo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "New",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nuovo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Carino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Old",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vecchio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Perfect",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfetto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Slow",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Terrible",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Terribile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ugly",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Brutto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bello",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Beautiful",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Brutto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ugly",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Buono",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Good",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Caldo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hot",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Carino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cattivo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bad",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Difficile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Difficult",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Eccellente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Excellent",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Facile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Easy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Freddo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cold",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Incredibile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Amazing",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Lento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Slow",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Nuovo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "New",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perfetto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfect",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Terribile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Awful",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Terribile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Terrible",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vecchio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Old",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Aggettivi - qualità",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Veloce",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fast",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

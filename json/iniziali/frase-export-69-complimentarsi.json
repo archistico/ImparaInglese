@@ -1,0 +1,1266 @@
+{
+    "version": 1,
+    "contesto": "Complimentarsi",
+    "frasi": [
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Congratulations!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Complimenti!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Excellent!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Good choice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottima scelta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Good for you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bravissimo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Good job",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bel lavoro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Great job!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo lavoro!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Great work!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo lavoro!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How fantastic!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How marvelous",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È meraviglioso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I always believed in you!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho sempre creduto in te!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I had no doubt!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non avevo dubbi!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I knew you could do it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sapevo che potevi farcela",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I really appreciate it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Apprezzo molto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I really like it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace molto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm proud of you",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono fiero di te",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm speechless!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono senza parole!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Incredible",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incredibile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's awesome",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È fantastico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's beautiful",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È bellissimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Mind-blowing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sconvolgente! Colloquiale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nice dress!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che bel vestito!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nice work!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo lavoro!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "No way! That's amazing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non ci credo! È fantastico!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Perfect!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfetto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thanks for everything",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grazie di tutto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's a great idea!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che bella idea!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's impressive work!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È un lavoro impressionante!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "That's wonderful!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che meraviglia!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is simply delightful!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo è semplicemente delizioso!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Unbelievable!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incredibile!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Very good job",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ottimo lavoro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Way to go!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bravo! \/ Ottimo lavoro!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Well done!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ben fatto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You crushed it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'hai spaccato! Molto colloquiale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You helped me a lot",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi hai aiutato molto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You nailed it!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "L'hai fatta alla grande!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're amazing",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei fantastico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're kind",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei gentile",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're nice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei simpatico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "You're smart",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sei intelligente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Your hard work paid off!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il tuo duro lavoro ha dato i suoi frutti!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Apprezzo molto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I really appreciate it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bel lavoro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Good job",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ben fatto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Well done!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bravissimo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Good for you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bravo! \/ Ottimo lavoro!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Way to go!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che bel vestito!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nice dress!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che bella idea!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's a great idea!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How fantastic!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che meraviglia!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's wonderful!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Complimenti!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Congratulations!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Grazie di tutto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thanks for everything",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho sempre creduto in te!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I always believed in you!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il tuo duro lavoro ha dato i suoi frutti!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Your hard work paid off!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Incredibile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incredible",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Incredibile!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Unbelievable!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'hai fatta alla grande!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You nailed it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "L'hai spaccato! Molto colloquiale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You crushed it!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi hai aiutato molto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You helped me a lot",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace molto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I really like it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non avevo dubbi!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I had no doubt!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non ci credo! È fantastico!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "No way! That's amazing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottima scelta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Good choice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo lavoro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Very good job",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo lavoro!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Great job!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo lavoro!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Great work!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo lavoro!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nice work!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ottimo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Excellent!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Perfetto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Perfect!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo è semplicemente delizioso!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is simply delightful!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sapevo che potevi farcela",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I knew you could do it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sconvolgente! Colloquiale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mind-blowing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei fantastico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're amazing",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei gentile",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're kind",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei intelligente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're smart",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sei simpatico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "You're nice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono fiero di te",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm proud of you",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono senza parole!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm speechless!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È bellissimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's beautiful",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È fantastico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's awesome",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È meraviglioso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How marvelous",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Complimentarsi",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È un lavoro impressionante!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "That's impressive work!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

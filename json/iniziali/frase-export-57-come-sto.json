@@ -1,0 +1,2166 @@
+{
+    "version": 1,
+    "contesto": "Come sto",
+    "frasi": [
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I can barely keep my eyes open",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Riesco a malapena a tenere gli occhi aperti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I could eat a horse",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Espressione idiomatica: ho talmente fame che potrei mangiare un cavallo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't feel well",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non mi sento bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel better",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel worse",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento peggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a fever",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho la febbre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a headache",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mal di testa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a sore throat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho mal di gola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need something to drink",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di qualcosa da bere",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm allergic",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono allergico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm at peace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono in pace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm blue",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono giù",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm boiling!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto morendo di caldo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm bored",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi annoio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm bored",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono annoiato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm burning up",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto bruciando dal caldo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm buzzed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono brillo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm climbing the walls",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Espressione idiomatica: non ne posso più",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm cold",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho freddo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm content",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono contento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm delighted!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono felicissimo!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm devastated",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono devastato - per tristezza intensa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm drained",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono spossato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm drowsy \/ I'm dozing off",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto per addormentarmi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm drunk",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono ubriaco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm excited",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono emozionato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm exhausted",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono esausto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm exhausted!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono distrutto!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm famished",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono affamato",
+                    "info": "formale"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling down \/ I'm upset",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono triste",
+                    "info": "più colloquiali"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm fine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm freezing!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto gelando!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm furious!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono furioso!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm happy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono felice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm happy \/ I'm satisfied \/ I'm pleased",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono contento",
+                    "info": "più naturali"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm heartbroken",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho il cuore spezzato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm hot",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho caldo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm hungry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho fame",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm ill \/ I'm feeling unwell",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono malato",
+                    "info": "più formale"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm in a good place",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono in un buon posto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm livid",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono furibondo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm mad\/angry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono arrabbiato",
+                    "info": "\"Mad\" è più usato in inglese americano, mentre \"angry\" è più universale"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm nervous",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono nervoso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm on cloud nine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Espressione idiomatica: sono felicissimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm over the moon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono al settimo cielo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm parched!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho una sete tremenda!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm pissed off!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono incavolato! - molto informale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sad",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono triste",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm seeing red",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Espressione idiomatica: sono accecato dalla rabbia",
+                    "info": "vedo rosso"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm shivering",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto tremando dal freddo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sick",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono malato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm sleepy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho sonno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm so bored!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono così annoiato!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm starving!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho una fame da lupi!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm stressed",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stressato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thirsty",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho sete",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm thrilled",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono entusiasta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm ticked off",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono irritato - americano informale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm tired",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono stanco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm under the weather",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Espressione idiomatica: mi sento così così",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm very well",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sto molto bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm wasted \/ I'm tipsy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Più colloquiali: \"wasted\" = molto ubriaco",
+                    "info": "\"tipsy\" = leggermente brillo"
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm worn out",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono consumato\/logorato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm worried",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono preoccupato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've caught something",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho preso qualcosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've had one too many",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bevuto un po' troppo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It hurts here",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi fa male qui",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's sweltering in here",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fa un caldo soffocante qui dentro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My stomach is growling",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho lo stomaco che brontola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My throat is dry",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La mia gola è secca",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "So-so",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Così così",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "This is so dull",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo è così noioso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Così così",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "So-so",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Espressione idiomatica: ho talmente fame che potrei mangiare un cavallo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I could eat a horse",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Espressione idiomatica: mi sento così così",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm under the weather",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Espressione idiomatica: non ne posso più",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm climbing the walls",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Espressione idiomatica: sono accecato dalla rabbia",
+                "info": "vedo rosso"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm seeing red",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Espressione idiomatica: sono felicissimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm on cloud nine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fa un caldo soffocante qui dentro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's sweltering in here",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bevuto un po' troppo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've had one too many",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di qualcosa da bere",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need something to drink",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho caldo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm hot",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho fame",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm hungry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho freddo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm cold",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho il cuore spezzato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm heartbroken",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho la febbre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a fever",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho lo stomaco che brontola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My stomach is growling",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mal di gola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a sore throat",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho mal di testa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a headache",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho preso qualcosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've caught something",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho sete",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thirsty",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho sonno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sleepy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho una fame da lupi!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm starving!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho una sete tremenda!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm parched!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La mia gola è secca",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My throat is dry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi annoio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm bored",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi fa male qui",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It hurts here",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel better",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento peggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel worse",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non mi sento bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't feel well",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Più colloquiali: \"wasted\" = molto ubriaco",
+                "info": "\"tipsy\" = leggermente brillo"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm wasted \/ I'm tipsy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo è così noioso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "This is so dull",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Riesco a malapena a tenere gli occhi aperti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I can barely keep my eyes open",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono affamato",
+                "info": "formale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm famished",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono al settimo cielo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm over the moon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono allergico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm allergic",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono annoiato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm bored",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono arrabbiato",
+                "info": "\"Mad\" è più usato in inglese americano, mentre \"angry\" è più universale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm mad\/angry",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono brillo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm buzzed",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono consumato\/logorato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm worn out",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono contento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm content",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono contento",
+                "info": "più naturali"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm happy \/ I'm satisfied \/ I'm pleased",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono così annoiato!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm so bored!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono devastato - per tristezza intensa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm devastated",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono distrutto!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm exhausted!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono emozionato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm excited",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono entusiasta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm thrilled",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono esausto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm exhausted",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono felice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm happy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono felicissimo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm delighted!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono furibondo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm livid",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono furioso!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm furious!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono giù",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm blue",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono in pace",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm at peace",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono in un buon posto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm in a good place",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono incavolato! - molto informale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm pissed off!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono irritato - americano informale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm ticked off",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono malato",
+                "info": "più formale"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm ill \/ I'm feeling unwell",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono malato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sick",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono nervoso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm nervous",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono preoccupato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm worried",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono spossato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm drained",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stanco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm tired",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono stressato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm stressed",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono triste",
+                "info": "più colloquiali"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling down \/ I'm upset",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono triste",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm sad",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono ubriaco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm drunk",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm fine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto bruciando dal caldo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm burning up",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto gelando!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm freezing!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto molto bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm very well",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto morendo di caldo!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm boiling!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto per addormentarmi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm drowsy \/ I'm dozing off",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come sto",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sto tremando dal freddo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm shivering",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

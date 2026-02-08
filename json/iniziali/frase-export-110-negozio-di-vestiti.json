@@ -1,0 +1,336 @@
+{
+    "version": 1,
+    "contesto": "Negozio di Vestiti",
+    "frasi": [
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay by card?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare con carta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I return this if it doesn't fit?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso restituirlo se non va bene?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I try this on?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso provarlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a bigger\/smaller size?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete una taglia più grande\/piccola?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have this in size M?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avete questa in taglia M?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you offer student discounts?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fate sconti studenti?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How long is the return policy?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quanto dura il periodo di reso?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this available in blue?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È disponibile in blu?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this on sale?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È in sconto?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's too tight\/loose",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È troppo stretto\/largo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where are the fitting rooms?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dove sono i camerini?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete questa in taglia M?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have this in size M?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avete una taglia più grande\/piccola?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a bigger\/smaller size?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dove sono i camerini?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where are the fitting rooms?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fate sconti studenti?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you offer student discounts?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare con carta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay by card?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso provarlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I try this on?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso restituirlo se non va bene?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I return this if it doesn't fit?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quanto dura il periodo di reso?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How long is the return policy?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È disponibile in blu?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this available in blue?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È in sconto?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this on sale?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Negozio di Vestiti",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È troppo stretto\/largo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's too tight\/loose",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

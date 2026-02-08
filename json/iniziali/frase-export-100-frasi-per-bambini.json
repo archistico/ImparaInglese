@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "contesto": "Frasi per bambini",
+    "frasi": [
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Say please!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Di' per favore!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Share with your friend",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Condividi con il tuo amico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Time for bed!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È ora di dormire!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Condividi con il tuo amico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Share with your friend",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Di' per favore!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Say please!",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Frasi per bambini",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È ora di dormire!",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Time for bed!",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

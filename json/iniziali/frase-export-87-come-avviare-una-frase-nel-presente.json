@@ -1,0 +1,1776 @@
+{
+    "version": 1,
+    "contesto": "Come avviare una frase nel Presente",
+    "frasi": [
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I believe I am going to quit my job next week",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credo che lascerò il mio lavoro la prossima settimana",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I believe I am going to win the lottery",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credo che vincerò la lotteria",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I believe…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Credo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I enjoy eating bananas",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace mangiare le banane",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I enjoy…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace\/Apprezzo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel better",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel like eating a burger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho voglia di un hamburger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel sick",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento malato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I feel…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I get it…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho capito… - colloquiale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I get this math problem now",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ora ho capito questo problema di matematica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I get what you mean",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisco cosa intendi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I guess you're right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Direi che hai ragione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a feeling I'm going to win the lottery",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho la sensazione che vincerò alla lotteria",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have six dogs at home",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho sei cani a casa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have three sisters",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho tre sorelle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know her",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La conosco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know her pretty well",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "La conosco abbastanza bene",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know his uncle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Conosco suo zio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know how to do it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "So come farlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know how to handle it",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "So come gestirlo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know what you mean",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "So cosa intendi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know… someone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Conosco… qualcuno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I know… something",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "So… qualcosa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like this",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace questo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like to eat bananas",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace mangiare le banane",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I like…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi piace…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I must have…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo avere… - esprime maggiore urgenza",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to buy food",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di comprare del cibo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to grab some food",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo prendere qualcosa da mangiare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to pay my cable bill",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di pagare la mia bolletta della tv via cavo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho bisogno di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I prefer chicken to beef",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Preferisco il pollo al manzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I prefer to do it myself",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Preferisco farlo da solo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I prefer…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Preferisco…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I require…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve… - più formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I see what he's saying",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisco cosa sta dicendo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think you are confused",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penso che tu sia confuso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think you are right",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penso che tu abbia ragione",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think you might be mistaken",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penso che tu possa sbagliarti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I think…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penso…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I understand this math problem now",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ora capisco questo problema di matematica",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I understand what he is saying",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisco ciò che lui sta dicendo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I understand…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capisco…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I want to eat a hamburger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voglio mangiare un hamburger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I want to go swimming this afternoon",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voglio andare a nuotare oggi pomeriggio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I want…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voglio…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I wish to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Desidero… - più formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei… - più educato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd rather have chicken than beef",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Preferisco il pollo al manzo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm convinced that…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono convinto che…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm familiar with…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho familiarità con…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling much better",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sento molto meglio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm feeling…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sto sentendo…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm friends with…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono amico di…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm more inclined to…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono più propenso a… - formale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm not feeling great today",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Oggi non mi sento al massimo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've got…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho… - più colloquiale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisco ciò che lui sta dicendo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I understand what he is saying",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisco cosa intendi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I get what you mean",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisco cosa sta dicendo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I see what he's saying",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capisco…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I understand…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Conosco suo zio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know his uncle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Conosco… qualcuno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know… someone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Credo che lascerò il mio lavoro la prossima settimana",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I believe I am going to quit my job next week",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Credo che vincerò la lotteria",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I believe I am going to win the lottery",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Credo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I believe…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Desidero… - più formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I wish to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo avere… - esprime maggiore urgenza",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I must have…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo prendere qualcosa da mangiare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to grab some food",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Direi che hai ragione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I guess you're right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di comprare del cibo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to buy food",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di pagare la mia bolletta della tv via cavo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to pay my cable bill",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho bisogno di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho capito… - colloquiale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I get it…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho familiarità con…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm familiar with…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho la sensazione che vincerò alla lotteria",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a feeling I'm going to win the lottery",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho sei cani a casa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have six dogs at home",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho tre sorelle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have three sisters",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho voglia di un hamburger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel like eating a burger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho… - più colloquiale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've got…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La conosco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know her",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "La conosco abbastanza bene",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know her pretty well",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace mangiare le banane",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I enjoy eating bananas",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace mangiare le banane",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like to eat bananas",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace questo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like this",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace\/Apprezzo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I enjoy…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi piace…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I like…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento malato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel sick",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel better",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento molto meglio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling much better",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sento…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I feel…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve… - più formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I require…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sto sentendo…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm feeling…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Oggi non mi sento al massimo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm not feeling great today",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ora capisco questo problema di matematica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I understand this math problem now",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ora ho capito questo problema di matematica",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I get this math problem now",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penso che tu abbia ragione",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think you are right",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penso che tu possa sbagliarti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think you might be mistaken",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penso che tu sia confuso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think you are confused",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penso…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I think…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Preferisco farlo da solo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I prefer to do it myself",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Preferisco il pollo al manzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I prefer chicken to beef",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Preferisco il pollo al manzo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd rather have chicken than beef",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Preferisco…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I prefer…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "So come farlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know how to do it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "So come gestirlo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know how to handle it",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "So cosa intendi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know what you mean",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono amico di…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm friends with…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono convinto che…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm convinced that…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono più propenso a… - formale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm more inclined to…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "So… qualcosa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I know… something",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voglio andare a nuotare oggi pomeriggio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I want to go swimming this afternoon",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voglio mangiare un hamburger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I want to eat a hamburger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voglio…",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I want…",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Come avviare una frase nel Presente",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei… - più educato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like…",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

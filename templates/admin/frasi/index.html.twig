@@ -18,7 +18,7 @@
     </h1>
     <p class="text-muted mb-0">Lista completa delle frasi.</p>
   </div>
-  <div class="d-flex gap-2">
+  <div class="d-flex flex-wrap gap-2">
     <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_export') }}">
       <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
         <path class="icon-stroke" d="M12 3v12"></path>
@@ -27,6 +27,22 @@
       </svg>
       Export JSON
     </a>
+    <form method="get" action="{{ path('app_admin_frasi_export_contesto') }}" class="m-0 d-flex align-items-center gap-2">
+      <select name="contesto_id" class="form-select" required>
+        <option value="">Seleziona contesto</option>
+        {% for c in contesti %}
+          <option value="{{ c.id }}">{{ c.descrizione }}</option>
+        {% endfor %}
+      </select>
+      <button class="btn btn-outline-secondary" type="submit">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path class="icon-stroke" d="M12 3v12"></path>
+          <polyline class="icon-stroke" points="7 10 12 15 17 10"></polyline>
+          <path class="icon-stroke" d="M5 21h14"></path>
+        </svg>
+        Export contesto
+      </button>
+    </form>
     <a class="btn btn-outline-secondary" href="{{ path('app_admin_frasi_import') }}">
       <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
         <path class="icon-stroke" d="M12 21V9"></path>

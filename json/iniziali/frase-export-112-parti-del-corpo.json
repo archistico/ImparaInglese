@@ -1,0 +1,1566 @@
+{
+    "version": 1,
+    "contesto": "Parti del corpo",
+    "frasi": [
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ankle",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Caviglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Arm",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Braccio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Back",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Schiena",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Belly",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pancia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Big toe",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alluce",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Buttocks",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sedere\/Glutei",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Calf",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Polpaccio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Canine teeth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Denti canini",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Chest\/Breast",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Petto\/Seno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Chin",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mento",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Collarbone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Clavicola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ears",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Orecchie",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Elbow",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gomito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eyebrows",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sopracciglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eyelashes",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ciglia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Eyes",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Occhi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Foot",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Piede",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Forearm",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Avambraccio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Forehead",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fronte",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hair",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Capelli",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Head",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Testa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Heart",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cuore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Heel",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tallone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Hip",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fianco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hurt my hand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono fatto male alla mano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Incisors",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Denti incisivi",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Index finger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dito indice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Knee",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ginocchio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Leg",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gamba",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Lips",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Labbra",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Liver",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Fegato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Lungs",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Polmoni",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Middle finger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dito medio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Mouth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bocca",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "My back hurts",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi fa male la schiena",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Neck",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Collo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Nose",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Naso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Palm",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Palmo della mano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pelvis",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Bacino",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pinky finger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dito mignolo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Point to your nose",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Indica il tuo naso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Premolars",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Denti premolari",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pupil",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pupilla dell'occhio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Ring finger",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dito anulare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Shoulder",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spalla",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Spine",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Colonna vertebrale",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Stomach",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stomaco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Teeth",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Denti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Throat",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Thumb",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dito pollice",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Wrist",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Polso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Alluce",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Big toe",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Avambraccio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Forearm",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bacino",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pelvis",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Bocca",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mouth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Braccio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Arm",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Capelli",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hair",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Caviglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ankle",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ciglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eyelashes",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Clavicola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Collarbone",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Collo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Neck",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Colonna vertebrale",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Spine",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cuore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Heart",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Denti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Teeth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Denti canini",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Canine teeth",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Denti incisivi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Incisors",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Denti premolari",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Premolars",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dito anulare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ring finger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dito indice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Index finger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dito medio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Middle finger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dito mignolo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pinky finger",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dito pollice",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Thumb",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fegato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Liver",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fianco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hip",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Fronte",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Forehead",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gamba",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Leg",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ginocchio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Knee",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Throat",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Gomito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Elbow",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Indica il tuo naso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Point to your nose",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Labbra",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lips",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Hand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mento",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chin",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi fa male la schiena",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "My back hurts",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono fatto male alla mano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hurt my hand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Naso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Nose",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Occhi",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eyes",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Orecchie",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ears",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Palmo della mano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Palm",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pancia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Belly",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Petto\/Seno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Chest\/Breast",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Piede",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Foot",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Polmoni",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Lungs",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Polpaccio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Calf",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Polso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Wrist",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Pupilla dell'occhio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pupil",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Schiena",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Back",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sedere\/Glutei",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Buttocks",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sopracciglia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Eyebrows",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Spalla",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Shoulder",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Stomaco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Stomach",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tallone",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Heel",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Parti del corpo",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Testa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Head",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

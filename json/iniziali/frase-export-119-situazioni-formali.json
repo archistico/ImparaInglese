@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Situazioni Formali",
+    "frasi": [
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "According to the regulations",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Secondo i regolamenti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you provide documentation?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrebbe fornire documentazione?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I hereby declare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dichiaro con la presente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I look forward to your response",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Attendo con interesse la Sua risposta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to file a complaint",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo presentare un reclamo",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to speak with a supervisor",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo parlare con un supervisore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like to formally request",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei richiedere formalmente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Please find attached",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Si prega di trovare in allegato",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Regarding the aforementioned matter",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Riguardo alla questione sopra menzionata",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "With all due respect",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Con tutto il rispetto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Attendo con interesse la Sua risposta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I look forward to your response",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Con tutto il rispetto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "With all due respect",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo parlare con un supervisore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to speak with a supervisor",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo presentare un reclamo",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to file a complaint",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dichiaro con la presente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I hereby declare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrebbe fornire documentazione?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you provide documentation?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Riguardo alla questione sopra menzionata",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Regarding the aforementioned matter",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Secondo i regolamenti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "According to the regulations",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Si prega di trovare in allegato",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Please find attached",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Situazioni Formali",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei richiedere formalmente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like to formally request",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

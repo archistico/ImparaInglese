@@ -1,0 +1,1026 @@
+{
+    "version": 1,
+    "contesto": "Ristoranti \/ Mangiare",
+    "frasi": [
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "A coffee, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Un caffè, per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "A table for two, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei un tavolo per due",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get a \"To Go\" box?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere un contenitore per portarlo via?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get another …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere un altro …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get this with …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere questo con …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get this without onions?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere questo senza cipolle?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I get this without …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere questo senza …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I pay by card?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso pagare con carta?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can I see the menu?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso vedere il menù?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I get a menu?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrei avere un menù?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could I get the bill, please?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Posso avere il conto",
+                    "info": "per favore?"
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Could you please clean off the table?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Potrebbe pulire il tavolo",
+                    "info": "per favore?"
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Do you have a reservation?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ha una prenotazione?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Gluten-free, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Senza glutine, per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Here is your tip",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ecco la sua mancia",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need change",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi serve il resto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I would like to order",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei ordinare",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'd like a table for two, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vorrei un tavolo per due",
+                    "info": "per favore"
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm allergic to...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono allergico a...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm full",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono pieno",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm vegan",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono vegano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm vegetarian",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono vegetariano",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is service included?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È incluso il servizio?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is this spicy? I don't like spicy food",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Questo è piccante? Non mi piace il cibo piccante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It was delicious",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Era delizioso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's delicious",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "È delizioso",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Keep the change",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tenga il resto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "No, but is there a table available?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "No",
+                    "info": "ma c'è un tavolo disponibile?"
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Not too spicy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non troppo piccante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Still \/ sparkling water",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Acqua naturale \/ frizzante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Take away, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Da asporto, per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "The bill, please",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Il conto, per favore",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you recommend?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Che cosa mi consiglia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What do you recommend?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa mi consiglia?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Acqua naturale \/ frizzante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Still \/ sparkling water",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Che cosa mi consiglia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you recommend?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa mi consiglia?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What do you recommend?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Da asporto, per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Take away, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ecco la sua mancia",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Here is your tip",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Era delizioso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It was delicious",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ha una prenotazione?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Do you have a reservation?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Il conto, per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "The bill, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi serve il resto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need change",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "No",
+                "info": "ma c'è un tavolo disponibile?"
+            },
+            "traduzioni": [
+                {
+                    "testo": "No, but is there a table available?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non troppo piccante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Not too spicy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso avere il conto",
+                "info": "per favore?"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I get the bill, please?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso pagare con carta?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I pay by card?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Posso vedere il menù?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I see the menu?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrebbe pulire il tavolo",
+                "info": "per favore?"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could you please clean off the table?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere questo con …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get this with …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere questo senza cipolle?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get this without onions?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere questo senza …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get this without …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere un altro …?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get another …?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere un contenitore per portarlo via?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can I get a \"To Go\" box?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Potrei avere un menù?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Could I get a menu?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Questo è piccante? Non mi piace il cibo piccante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is this spicy? I don't like spicy food",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Senza glutine, per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gluten-free, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono allergico a...",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm allergic to...",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono pieno",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm full",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono vegano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm vegan",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono vegetariano",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm vegetarian",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Tenga il resto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Keep the change",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Un caffè, per favore",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A coffee, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei ordinare",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I would like to order",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei un tavolo per due",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "A table for two, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Vorrei un tavolo per due",
+                "info": "per favore"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'd like a table for two, please",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È delizioso",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's delicious",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Ristoranti \/ Mangiare",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È incluso il servizio?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Is service included?",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

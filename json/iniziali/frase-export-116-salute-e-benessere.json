@@ -1,0 +1,306 @@
+{
+    "version": 1,
+    "contesto": "Salute e Benessere",
+    "frasi": [
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Are there any side effects?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ci sono effetti collaterali?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How many times a day should I take this?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Quante volte al giorno devo prenderlo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I have a fever",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Ho la febbre",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to exercise more",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo fare più esercizio",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to make a doctor's appointment",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo prendere un appuntamento dal medico",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to refill my prescription",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo rifare la ricetta",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I need to see a specialist",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Devo vedere uno specialista",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm allergic to penicillin",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono allergico alla penicillina",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I've been feeling dizzy",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono sentito stordito",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Where is the nearest pharmacy?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dov'è la farmacia più vicina?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ci sono effetti collaterali?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Are there any side effects?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo fare più esercizio",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to exercise more",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo prendere un appuntamento dal medico",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to make a doctor's appointment",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo rifare la ricetta",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to refill my prescription",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Devo vedere uno specialista",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I need to see a specialist",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Dov'è la farmacia più vicina?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Where is the nearest pharmacy?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Ho la febbre",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I have a fever",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono sentito stordito",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I've been feeling dizzy",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Quante volte al giorno devo prenderlo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How many times a day should I take this?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Salute e Benessere",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono allergico alla penicillina",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm allergic to penicillin",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}

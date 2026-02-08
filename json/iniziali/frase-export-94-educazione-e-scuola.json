@@ -1,0 +1,546 @@
+{
+    "version": 1,
+    "contesto": "Educazione e scuola",
+    "frasi": [
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Book",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Libro",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you explain this?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi spiegare questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you repeat that?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi ripetere?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Classroom",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Aula",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Exam",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Esame",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Grade",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Voto",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Homework",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Compiti",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "How do you spell it?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Come si scrive?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I don't understand",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Non capisco",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I study English",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Studio inglese",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm a student",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Sono uno\/a studente\/essa",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pen",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Penna",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Pencil",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Matita",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "School",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Scuola",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Student",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Studente",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Teacher",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Insegnante",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "University",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Università",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "What does this mean?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Cosa significa questo?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Aula",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Classroom",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come si scrive?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do you spell it?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Compiti",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Homework",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Cosa significa questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "What does this mean?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Esame",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Exam",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Insegnante",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Teacher",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Libro",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Book",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Matita",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pencil",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Non capisco",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I don't understand",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Penna",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Pen",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi ripetere?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you repeat that?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi spiegare questo?",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you explain this?",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Scuola",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "School",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Sono uno\/a studente\/essa",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm a student",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Studente",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Student",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Studio inglese",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "I study English",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Università",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "University",
+                    "info": null
+                }
+            ]
+        },
+        {
+            "contesto": "Educazione e scuola",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Voto",
+                "info": null
+            },
+            "traduzioni": [
+                {
+                    "testo": "Grade",
+                    "info": null
+                }
+            ]
+        }
+    ]
+}
