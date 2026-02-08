@@ -14,7 +14,7 @@
             Lista frasi
         </a>
         <a class="btn btn-outline-secondary" href="{{ path('app_home') }}">
-            ← Home
+            <- Home
         </a>
     </div>
 </div>
@@ -27,7 +27,7 @@
                 <div class="card-body d-flex flex-column">
                     <div class="d-flex align-items-start justify-content-between gap-2">
                         <h2 class="h5 mb-0">{{ c.descrizione }}</h2>
-                        <span class="badge text-bg-primary">{{ r.frasiCount }}</span>
+                        <a class="badge text-bg-primary text-decoration-none" href="{{ path('app_frasi_iten_contesto_lista', { contestoId: c.id }) }}">{{ r.frasiCount }}</a>
                     </div>
 
                     <a class="btn btn-primary mt-3"

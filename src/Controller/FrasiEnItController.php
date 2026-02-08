@@ -92,4 +92,34 @@ final class FrasiEnItController extends AbstractController
             'nextId' => $pn['next'],
         ]);
     }
+
+    #[Route('/frasi_enit/contesto/{contestoId}/lista', name: 'app_frasi_enit_contesto_lista', requirements: ['contestoId' => '\d+'], methods: ['GET'])]
+    public function listaContesto(
+        int $contestoId,
+        ContestoRepository $contestoRepository,
+        FraseRepository $fraseRepository,
+        EntityManagerInterface $em
+    ): Response {
+        $contesto = $contestoRepository->find($contestoId);
+        if (!$contesto) {
+            throw $this->createNotFoundException('Contesto non trovato');
+        }
+
+        $dirId = (int) $em->createQueryBuilder()
+            ->select('d.id')
+            ->from('App\Entity\Direzione', 'd')
+            ->where('d.descrizione = :desc')
+            ->setParameter('desc', 'Inglese -> Italiano')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getSingleScalarResult();
+
+        $frasi = $fraseRepository->findAllForContestoDirezione($contestoId, $dirId);
+
+        return $this->render('frasi_enit/contesto_lista.html.twig', [
+            'title' => 'Frasi Inglese -> Italiano',
+            'contesto' => $contesto,
+            'frasi' => $frasi,
+        ]);
+    }
 }

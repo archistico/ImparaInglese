@@ -22,14 +22,10 @@
                 <div class="card-body d-flex flex-column">
                     <div class="d-flex align-items-start justify-content-between gap-2">
                         <h2 class="h5 mb-0">{{ c.descrizione }}</h2>
-                        <span class="badge text-bg-primary">{{ r.frasiCount }}</span>
+                        <a class="badge text-bg-primary text-decoration-none" href="{{ path('app_frasi_enit_contesto_lista', { contestoId: c.id }) }}">{{ r.frasiCount }}</a>
                     </div>
 
-                    <p class="text-muted mt-2 mb-3 flex-grow-1">
-                        Frasi disponibili nel contesto: {{ r.frasiCount }}.
-                    </p>
-
-                    <a class="btn btn-primary"
+                    <a class="btn btn-primary mt-3"
                         href="{{ path('app_frasi_enit_inizia', { contestoId: c.id }) }}">
                         Inizia
                     </a>

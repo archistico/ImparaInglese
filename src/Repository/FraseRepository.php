@@ -166,6 +166,31 @@ final class FraseRepository extends ServiceEntityRepository
     /**
      * @return Frase[]
      */
+    public function findAllForContestoDirezione(int $contestoId, int $direzioneId): array
+    {
+        return $this->createQueryBuilder('f')
+            ->addSelect('c', 'l', 'd', 'e', 't', 'te')
+            ->innerJoin('f.contesto', 'c')
+            ->innerJoin('f.livello', 'l')
+            ->innerJoin('f.direzione', 'd')
+            ->innerJoin('f.espressione', 'e')
+            ->leftJoin('f.traduzioni', 't')
+            ->leftJoin('t.espressione', 'te')
+            ->andWhere('c.id = :cid')
+            ->andWhere('d.id = :did')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('did', $direzioneId)
+            ->orderBy('l.descrizione', 'ASC')
+            ->addOrderBy('e.testo', 'ASC')
+            ->addOrderBy('te.testo', 'ASC')
+            ->addOrderBy('f.id', 'ASC')
+            ->getQuery()
+            ->getResult();
+    }
+
+    /**
+     * @return Frase[]
+     */
     public function findAllForAdminFrasiList(): array
     {
         return $this->createQueryBuilder('f')

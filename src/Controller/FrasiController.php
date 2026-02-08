@@ -99,6 +99,36 @@ final class FrasiController extends AbstractController
         ]);
     }
 
+    #[Route('/frasi_iten/contesto/{contestoId}/lista', name: 'app_frasi_iten_contesto_lista', requirements: ['contestoId' => '\d+'], methods: ['GET'])]
+    public function listaContesto(
+        int $contestoId,
+        ContestoRepository $contestoRepository,
+        FraseRepository $fraseRepository,
+        EntityManagerInterface $em
+    ): Response {
+        $contesto = $contestoRepository->find($contestoId);
+        if (!$contesto) {
+            throw $this->createNotFoundException('Contesto non trovato');
+        }
+
+        $dirId = (int) $em->createQueryBuilder()
+            ->select('d.id')
+            ->from('App\Entity\Direzione', 'd')
+            ->where('d.descrizione = :desc')
+            ->setParameter('desc', 'Italiano -> Inglese')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getSingleScalarResult();
+
+        $frasi = $fraseRepository->findAllForContestoDirezione($contestoId, $dirId);
+
+        return $this->render('frasi_iten/contesto_lista.html.twig', [
+            'title' => 'Frasi Italiano -> Inglese',
+            'contesto' => $contesto,
+            'frasi' => $frasi,
+        ]);
+    }
+
     #[Route('/frasi_iten/lista', name: 'app_frasi_iten_lista', methods: ['GET'])]
     public function lista(FraseRepository $fraseRepository): Response
     {
