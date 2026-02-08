@@ -30,11 +30,7 @@
                         <span class="badge text-bg-primary">{{ r.frasiCount }}</span>
                     </div>
 
-                    <p class="text-muted mt-2 mb-3 flex-grow-1">
-                        Frasi disponibili nel contesto: {{ r.frasiCount }}.
-                    </p>
-
-                    <a class="btn btn-primary"
+                    <a class="btn btn-primary mt-3"
                         href="{{ path('app_frasi_iten_inizia', { contestoId: c.id }) }}">
                         Inizia
                     </a>
