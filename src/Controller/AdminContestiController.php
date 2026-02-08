@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Entity\Contesto;
 use App\Repository\ContestoRepository;
 use App\Repository\FraseRepository;
 use Doctrine\ORM\EntityManagerInterface;
@@ -41,7 +42,43 @@ final class AdminContestiController extends AbstractController
         ]);
     }
 
-    #[Route('/admin/contesti/{id}/modifica', name: 'app_admin_contesti_modifica', requirements: ['id' => '\d+'], methods: ['GET', 'POST'])]
+    #[Route('/admin/contesti/nuovo', name: 'app_admin_contesti_nuovo', methods: ['GET', 'POST'])]
+    public function nuovo(
+        Request $request,
+        ContestoRepository $contestoRepository,
+        EntityManagerInterface $em
+    ): Response|RedirectResponse {
+        $data = [
+            'descrizione' => '',
+        ];
+        $errors = [];
+
+        if ($request->isMethod('POST')) {
+            $data['descrizione'] = trim((string)$request->request->get('descrizione', ''));
+            if ($data['descrizione'] === '') {
+                $errors[] = 'La descrizione Ã¨ obbligatoria.';
+            } elseif ($contestoRepository->findOneBy(['descrizione' => $data['descrizione']])) {
+                $errors[] = 'Esiste giÃ  un contesto con questa descrizione.';
+            }
+
+            if (count($errors) === 0) {
+                $contesto = (new Contesto())->setDescrizione($data['descrizione']);
+                $em->persist($contesto);
+                $em->flush();
+
+                $this->addFlash('success', 'Contesto creato correttamente.');
+                return $this->redirectToRoute('app_admin_contesti');
+            }
+        }
+
+        return $this->render('admin/contesti/nuovo.html.twig', [
+            'title' => 'Admin â€” Nuovo contesto',
+            'data' => $data,
+            'errors' => $errors,
+        ]);
+    }
+
+    #[Route('/admin/contesti/{id}/modifica', name: 'app_admin_contesti_modifica', requirements: ['id' => '\\d+'], methods: ['GET', 'POST'])]
     public function modifica(
         int $id,
         Request $request,
