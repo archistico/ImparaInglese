@@ -84,6 +84,13 @@ final class FrasiController extends AbstractController
 
         $pn = $fraseRepository->findPrevNextIds((int)$frase->getId(), $contestoId, $direzioneId);
 
+        if ($pn['prev'] === null) {
+            $pn['prev'] = $fraseRepository->findLastIdByContestoAndDirezione($contestoId, $direzioneId);
+        }
+        if ($pn['next'] === null) {
+            $pn['next'] = $fraseRepository->findFirstIdByContestoAndDirezione($contestoId, $direzioneId);
+        }
+
         return $this->render('frasi_iten/mostra.html.twig', [
             'title' => 'Frasi Italiano → Inglese',
             'frase' => $frase,

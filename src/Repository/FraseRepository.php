@@ -44,6 +44,22 @@ final class FraseRepository extends ServiceEntityRepository
         return $res ? (int)$res['id'] : null;
     }
 
+    public function findLastIdByContestoAndDirezione(int $contestoId, int $direzioneId): ?int
+    {
+        $res = $this->createQueryBuilder('f')
+            ->select('f.id')
+            ->andWhere('f.contesto = :cid')
+            ->andWhere('f.direzione = :did')
+            ->setParameter('cid', $contestoId)
+            ->setParameter('did', $direzioneId)
+            ->orderBy('f.id', 'DESC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getOneOrNullResult();
+
+        return $res ? (int)$res['id'] : null;
+    }
+
     public function findRandomIdByContestoAndDirezione(int $contestoId, int $direzioneId): ?int
     {
         $rows = $this->createQueryBuilder('f')
