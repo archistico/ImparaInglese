@@ -31,7 +31,7 @@
                     <td class="text-nowrap">{{ f.contesto.descrizione }}</td>
                     <td class="text-nowrap">{{ f.livello.descrizione }}</td>
                     <td>
-                        <div class="fw-semibold">{{ f.espressione.testo }}</div>
+                        <div>{{ f.espressione.testo }}</div>
                         {% if f.espressione.info %}
                             <div class="text-muted small">{{ f.espressione.info }}</div>
                         {% endif %}
@@ -43,7 +43,7 @@
                         {% else %}
                             <div class="d-flex flex-wrap gap-2">
                                 {% for t in traduzioni %}
-                                    <span class="badge text-bg-success">{{ t.espressione.testo }}</span>
+                                    <span class="">{{ t.espressione.testo }}</span>
                                 {% endfor %}
                             </div>
                         {% endif %}
