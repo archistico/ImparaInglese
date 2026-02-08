@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M300,76L300,244C300,274.907 274.907,300 244,300L76,300C45.093,300 20,274.907 20,244L20,76C20,45.093 45.093,20 76,20L244,20C274.907,20 300,45.093 300,76Z" style="fill:white;stroke:rgb(229,231,235);stroke-width:6px;"/>
+    <g>
+        <clipPath id="_clip1">
+            <path d="M300,76L300,244C300,274.907 274.907,300 244,300L76,300C45.093,300 20,274.907 20,244L20,76C20,45.093 45.093,20 76,20L244,20C274.907,20 300,45.093 300,76Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g>
+                <rect x="20" y="20" width="280" height="140" style="fill:white;"/>
+                <rect x="20" y="20" width="93.33" height="140" style="fill:rgb(18,129,59);"/>
+                <rect x="206.66" y="20" width="93.34" height="140" style="fill:rgb(206,43,55);"/>
+            </g>
+            <g transform="matrix(0.245044,0,0,0.245044,160,233.513309)">
+                <g transform="matrix(1,0,0,1,-600,-300)">
+                    <g transform="matrix(20,0,0,20,0,0)">
+                        <clipPath id="_clip2">
+                            <rect x="0" y="0" width="60" height="30"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <rect x="0" y="0" width="60" height="30" style="fill:rgb(1,33,105);fill-rule:nonzero;"/>
+                            <path d="M0,0L60,30M60,0L0,30" style="fill-rule:nonzero;stroke:white;stroke-width:6px;"/>
+                            <clipPath id="_clip3">
+                                <path d="M30,15L60,15L60,30L30,15ZM30,15L30,30L0,30L30,15ZM30,15L0,15L0,0L30,15ZM30,15L30,0L60,0L30,15Z"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip3)">
+                                <path d="M0,0L60,30M60,0L0,30" style="fill-rule:nonzero;stroke:rgb(200,16,46);stroke-width:4px;"/>
+                            </g>
+                            <path d="M30,0L30,30M0,15L60,15" style="fill-rule:nonzero;stroke:white;stroke-width:10px;"/>
+                            <path d="M30,0L30,30M0,15L60,15" style="fill-rule:nonzero;stroke:rgb(200,16,46);stroke-width:6px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
