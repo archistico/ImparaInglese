@@ -54,7 +54,15 @@ final class AppFixtures extends Fixture
                 ['it' => 'Dopo di te', 'it_info' => 'per far passare qualcuno', 'en' => 'After you!'],
                 ['it' => 'Buon pomeriggio', 'it_info' => 'informale', 'en' => 'Afternoon!'],
                 ['it' => 'E tu?', 'en' => 'And you?'],
-                ['it' => 'Prego', 'it_info' => 'non c\'è di che', 'en' => 'Anytime!'],
+                [
+                    'it' => 'Prego',
+                    'it_info' => 'non c\'è di che',
+                    'en_multi' => [
+                        ['text' => "You're welcome", 'info' => 'risposta a "grazie"'],
+                        ['text' => 'No problem', 'info' => 'informale'],
+                        ['text' => 'Anytime!', 'info' => 'informale'],
+                    ],
+                ],
                 ['it' => 'Scuse accettate', 'en' => 'Apology accepted'],
                 ['it' => 'Salute! Dopo uno starnuto', 'en' => 'Bless you!'],
                 ['it' => 'Addio', 'it_info' => 'informale', 'en' => 'Bye! / Bye-bye!'],
@@ -64,8 +72,24 @@ final class AppFixtures extends Fixture
                 ['it' => 'Buonasera', 'it_info' => 'più informale', 'en' => 'Evening!'],
                 ['it' => 'Scusa', 'it_info' => 'per disturbare o chiedere permesso', 'en' => 'Excuse me'],
                 ['it' => 'Addio', 'it_info' => 'molto formale o drammatico', 'en' => 'Farewell!'],
-                ['it' => 'Bene', 'it_info' => 'più naturale', 'en' => 'Fine / I\'m good / I\'m well'],
-                ['it' => 'Mi scusi', 'it_info' => 'molto formale', 'en' => 'Forgive me'],
+                [
+                    'it' => 'Bene',
+                    'it_info' => 'più naturale',
+                    'en_multi' => [
+                        ['text' => 'Fine', 'info' => 'neutro'],
+                        ['text' => "I'm good", 'info' => 'informale'],
+                        ['text' => "I'm well", 'info' => 'più formale/corretto'],
+                    ],
+                ],
+                [
+                    'it' => 'Mi scusi',
+                    'it_info' => 'molto formale',
+                    'en_multi' => [
+                        ['text' => 'Excuse me', 'info' => 'per attirare attenzione'],
+                        ['text' => 'I\'m sorry', 'info' => 'per chiedere scusa'],
+                        ['text' => 'Forgive me', 'info' => 'molto formale'],
+                    ],
+                ],
                 ['it' => 'Buon pomeriggio', 'en' => 'Good afternoon'],
                 ['it' => 'Salve', 'it_info' => 'saluto formale', 'en' => 'Good day'],
                 ['it' => 'Buonasera', 'en' => 'Good evening'],
@@ -75,7 +99,13 @@ final class AppFixtures extends Fixture
             ],
 
             'Domande e risposte comuni' => [
-                ['it' => 'Come stai?', 'en' => 'How are you?'],
+                [
+                    'it' => 'Come stai?',
+                    'en_multi' => [
+                        ['text' => 'How are you?', 'info' => 'neutro'],
+                        ['text' => 'How\'s it going?', 'info' => 'informale'],
+                    ],
+                ],
                 ['it' => 'Come ti chiami?', 'en' => 'What\'s your name?'],
                 ['it' => 'Piacere', 'en' => 'Nice to meet you'],
                 ['it' => 'Da dove vieni?', 'en' => 'Where are you from?'],
@@ -497,10 +527,37 @@ final class AppFixtures extends Fixture
             foreach ($items as $row) {
                 $itText = (string)($row['it'] ?? '');
                 $itInfo = $row['it_info'] ?? null;
-                $enText = (string)($row['en'] ?? '');
 
                 $exprIt = $getOrCreateEspressione($it, $itText, $itInfo);
-                $exprEn = $getOrCreateEspressione($en, $enText, null);
+
+                $enItems = [];
+                if (isset($row['en_multi']) && is_array($row['en_multi'])) {
+                    foreach ($row['en_multi'] as $enItem) {
+                        $text = (string)($enItem['text'] ?? '');
+                        if ($text === '') {
+                            continue;
+                        }
+                        $enItems[] = [
+                            'text' => $text,
+                            'info' => $enItem['info'] ?? null,
+                        ];
+                    }
+                }
+
+                if (count($enItems) === 0) {
+                    $enText = (string)($row['en'] ?? '');
+                    if ($enText !== '') {
+                        $enItems[] = [
+                            'text' => $enText,
+                            'info' => $row['en_info'] ?? null,
+                        ];
+                    }
+                }
+
+                $exprEnList = [];
+                foreach ($enItems as $enItem) {
+                    $exprEnList[] = $getOrCreateEspressione($en, $enItem['text'], $enItem['info']);
+                }
 
                 // IT -> EN
                 $fraseItEn = (new Frase())
@@ -510,23 +567,27 @@ final class AppFixtures extends Fixture
                     ->setEspressione($exprIt);
                 $manager->persist($fraseItEn);
 
-                $tradItEn = (new Traduzione())
-                    ->setFrase($fraseItEn)
-                    ->setEspressione($exprEn);
-                $manager->persist($tradItEn);
+                foreach ($exprEnList as $exprEn) {
+                    $tradItEn = (new Traduzione())
+                        ->setFrase($fraseItEn)
+                        ->setEspressione($exprEn);
+                    $manager->persist($tradItEn);
+                }
 
                 // EN -> IT (pronto per futuro)
-                $fraseEnIt = (new Frase())
-                    ->setContesto($contesto)
-                    ->setDirezione($dirEnIt)
-                    ->setLivello($base)
-                    ->setEspressione($exprEn);
-                $manager->persist($fraseEnIt);
+                if (count($exprEnList) > 0) {
+                    $fraseEnIt = (new Frase())
+                        ->setContesto($contesto)
+                        ->setDirezione($dirEnIt)
+                        ->setLivello($base)
+                        ->setEspressione($exprEnList[0]);
+                    $manager->persist($fraseEnIt);
 
-                $tradEnIt = (new Traduzione())
-                    ->setFrase($fraseEnIt)
-                    ->setEspressione($exprIt);
-                $manager->persist($tradEnIt);
+                    $tradEnIt = (new Traduzione())
+                        ->setFrase($fraseEnIt)
+                        ->setEspressione($exprIt);
+                    $manager->persist($tradEnIt);
+                }
             }
         }
 
