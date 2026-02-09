@@ -77,7 +77,6 @@
     <thead>
       <tr>
         <th class="d-none d-lg-table-cell">Contesto</th>
-        <th class="d-none d-lg-table-cell">Livello</th>
         <th class="d-none d-lg-table-cell">Direzione</th>
         <th class="d-none d-lg-table-cell">Frase</th>
         <th class="d-none d-lg-table-cell">Traduzioni</th>
@@ -88,7 +87,6 @@
       {% for f in frasi %}
         <tr>
           <td class="d-none d-lg-table-cell text-nowrap">{{ f.contesto.descrizione }}</td>
-          <td class="d-none d-lg-table-cell text-nowrap">{{ f.livello.descrizione }}</td>
           <td class="d-none d-lg-table-cell text-nowrap">{{ f.direzione.descrizione }}</td>
           <td class="d-none d-lg-table-cell">
             <div class="fw-semibold">{{ f.espressione.testo }}</div>
@@ -111,7 +109,6 @@
           <td class="text-end">
             <div class="d-lg-none text-start mb-2">
               <div><span class="text-muted small">Contesto:</span> {{ f.contesto.descrizione }}</div>
-              <div><span class="text-muted small">Livello:</span> {{ f.livello.descrizione }}</div>
               <div><span class="text-muted small">Direzione:</span> {{ f.direzione.descrizione }}</div>
               <div class="mt-2">
                 <div class="fw-semibold">{{ f.espressione.testo }}</div>
@@ -157,7 +154,7 @@
         </tr>
       {% else %}
         <tr>
-          <td colspan="6">
+          <td colspan="5">
             <div class="alert alert-warning mb-0">
               Nessuna frase trovata.
             </div>
