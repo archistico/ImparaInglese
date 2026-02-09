@@ -1,0 +1,829 @@
+{
+  "version": 1,
+  "contesto": "Polizia",
+  "frasi": [
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's an emergency",
+        "info": "Segnalare urgenza (present simple; emergency = emergenza) (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È un'emergenza",
+          "info": "Frase breve e chiara (register: neutro)"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need the police",
+        "info": "Richiesta diretta di intervento (need + noun) (verb: need)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno della polizia",
+          "info": "Frase standard"
+        },
+        {
+          "testo": "Mi serve la polizia",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me?",
+        "info": "Richiesta di aiuto (can = richiesta/possibilità) (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aiutarmi?",
+          "info": "Forma formale"
+        },
+        {
+          "testo": "Mi può aiutare?",
+          "info": "Variante naturale formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I call someone?",
+        "info": "Chiedere permesso di telefonare (can I = permesso) (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso chiamare qualcuno?",
+          "info": "Frase standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need an interpreter",
+        "info": "Richiesta di traduzione orale (need + noun) (noun: interpreter)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve un interprete",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Ho bisogno di un interprete",
+          "info": "Variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need assistance",
+        "info": "Richiesta generica di supporto (need + noun) (noun: assistance)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di assistenza",
+          "info": "Neutro"
+        },
+        {
+          "testo": "Mi serve assistenza",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the nearest police station?",
+        "info": "Chiedere indicazioni (nearest = superlativo) (WH-question; superlative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il commissariato più vicino?",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "Dov'è la stazione di polizia più vicina?",
+          "info": "Variante più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the police station?",
+        "info": "Chiedere indicazioni in generale (WH-question) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la stazione di polizia?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Dov'è il commissariato?",
+          "info": "Variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've been in a car accident",
+        "info": "Descrivere un incidente recente (present perfect; been in) (tense: present perfect)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono stato coinvolto in un incidente d'auto",
+          "info": "Maschile"
+        },
+        {
+          "testo": "Sono stata coinvolta in un incidente d'auto",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I was robbed",
+        "info": "Dire che ti hanno rapinato/derubato (past simple passive/verb 'rob') (tense: past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono stato derubato",
+          "info": "Maschile"
+        },
+        {
+          "testo": "Sono stata derubata",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My wallet was stolen",
+        "info": "Dire che un oggetto è stato rubato (passive voice) (grammar: passive)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi hanno rubato il portafoglio",
+          "info": "Forma naturale in italiano"
+        },
+        {
+          "testo": "Il mio portafoglio è stato rubato",
+          "info": "Variante più letterale/formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Someone broke into my car",
+        "info": "Dire che qualcuno è entrato forzando (break into = entrare con scasso) (phrasal verb: break into)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qualcuno è entrato nella mia macchina",
+          "info": "Comprensibile, ma generico"
+        },
+        {
+          "testo": "Qualcuno ha forzato la mia macchina",
+          "info": "Più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "They stole my ...",
+        "info": "Completare con l'oggetto rubato (stole = past simple) (tense: past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi hanno rubato ...",
+          "info": "Aggiungi l'oggetto (es. telefono, borsa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my passport",
+        "info": "Segnalare smarrimento (past simple) (tense: past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso il passaporto",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Ho smarrito il passaporto",
+          "info": "Più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my wallet",
+        "info": "Segnalare smarrimento (past simple) (tense: past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso il portafoglio",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Ho smarrito il portafoglio",
+          "info": "Più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I witnessed a crime",
+        "info": "Dire che hai visto/assistito (past simple; witness = testimoniare/assistere) (verb: witness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho assistito a un crimine",
+          "info": "Variante letterale"
+        },
+        {
+          "testo": "Ho visto un reato",
+          "info": "Più naturale in ambito legale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to file a police report",
+        "info": "Sporgere denuncia (file a report = presentare denuncia) (verb: file)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo sporgere denuncia",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Devo fare una denuncia",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to report a theft",
+        "info": "Denunciare un furto (report = segnalare/denunciare) (verb: report)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo denunciare un furto",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want to report it",
+        "info": "Dire che vuoi denunciarlo/segnalarlo (want to + verb) (verb pattern: want to)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio fare una denuncia",
+          "info": "In italiano si esplicita spesso 'denuncia'"
+        },
+        {
+          "testo": "Voglio segnalarlo",
+          "info": "Variante più generica"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When will I get a copy of the report?",
+        "info": "Chiedere tempi e consegna documento (future with will) (future: will)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando avrò una copia della denuncia?",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "Quando riceverò una copia del verbale?",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I see your badge number?",
+        "info": "Richiesta molto formale/cortese (could I = più educato di can I) (modal verb: could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei vedere il suo numero di distintivo?",
+          "info": "Forma formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please show me your identification",
+        "info": "Richiesta di documenti (imperative + please) (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi mostri i documenti, per favore",
+          "info": "Forma formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please take my statement",
+        "info": "Chiedere che venga raccolta la dichiarazione (imperative + please) (noun: statement)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore, raccolga la mia deposizione",
+          "info": "Più naturale di 'prenda' in questo contesto"
+        },
+        {
+          "testo": "Per favore, prenda la mia deposizione",
+          "info": "Variante accettabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know this person",
+        "info": "Negazione con don't (present simple) (present simple; negation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non conosco questa persona",
+          "info": "Frase diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I know this person",
+        "info": "Affermazione semplice (present simple) (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Conosco questa persona",
+          "info": "Frase diretta"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È un'emergenza",
+        "info": "Segnalare urgenza (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's an emergency",
+          "info": "Emergency = emergenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno della polizia / Mi serve la polizia",
+        "info": "Richiesta di intervento (need + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need the police",
+          "info": "Forma diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aiutarmi? / Mi può aiutare?",
+        "info": "Richiesta di aiuto (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso chiamare qualcuno?",
+        "info": "Chiedere permesso (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I call someone?",
+          "info": "Can I = permesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi serve un interprete / Ho bisogno di un interprete",
+        "info": "Richiedere un interprete (need + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need an interpreter",
+          "info": "Interpreter = interprete"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di assistenza / Mi serve assistenza",
+        "info": "Richiesta generica (need + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need assistance",
+          "info": "Assistance = assistenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il commissariato più vicino? / Dov'è la stazione di polizia più vicina?",
+        "info": "Chiedere indicazioni (superlativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the nearest police station?",
+          "info": "Nearest = più vicino"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la stazione di polizia? / Dov'è il commissariato?",
+        "info": "Chiedere indicazioni (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the police station?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stato coinvolto in un incidente d'auto / Sono stata coinvolta in un incidente d'auto",
+        "info": "Evento recente (present perfect)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've been in a car accident",
+          "info": "Present perfect"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stato derubato / Sono stata derubata",
+        "info": "Evento passato (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I was robbed",
+          "info": "Past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi hanno rubato il portafoglio",
+        "info": "Forma naturale italiana; in inglese spesso passivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "My wallet was stolen",
+          "info": "Passive voice"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qualcuno ha forzato la mia macchina",
+        "info": "Break into = entrare con scasso (phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Someone broke into my car",
+          "info": "Broke into = past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi hanno rubato ...",
+        "info": "Completare con l'oggetto (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "They stole my ...",
+          "info": "Stole = past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso il passaporto / Ho smarrito il passaporto",
+        "info": "Smarrito = più formale (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my passport",
+          "info": "Past simple"
+        },
+        {
+          "testo": "I've lost my passport",
+          "info": "Present perfect (più usato se è appena successo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso il portafoglio / Ho smarrito il portafoglio",
+        "info": "Smarrito = più formale (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my wallet",
+          "info": "Past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho assistito a un crimine / Ho visto un reato",
+        "info": "Witness = assistere/testimoniare (verb: witness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I witnessed a crime",
+          "info": "Verb witnessed"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo sporgere denuncia / Devo fare una denuncia",
+        "info": "File a police report = sporgere denuncia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to file a police report",
+          "info": "File = presentare"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo denunciare un furto",
+        "info": "Report a theft = denunciare/segnalare un furto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to report a theft",
+          "info": "Report = segnalare/denunciare"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Voglio segnalarlo / Voglio fare una denuncia",
+        "info": "Want to + verb (verb pattern)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want to report it",
+          "info": "Report it = segnalarlo/denunciarlo"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando riceverò una copia del verbale? / Quando avrò una copia della denuncia?",
+        "info": "Domanda su tempi (future with will)"
+      },
+      "traduzioni": [
+        {
+          "testo": "When will I get a copy of the report?",
+          "info": "Will = futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei vedere il suo numero di distintivo?",
+        "info": "Richiesta formale (modal verb: could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I see your badge number?",
+          "info": "Could I = più educato"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi mostri i documenti, per favore",
+        "info": "Richiesta formale (imperative + please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please show me your identification",
+          "info": "Identification = documenti"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore, raccolga la mia deposizione",
+        "info": "Statement = deposizione/dichiarazione (imperative + please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please take my statement",
+          "info": "Take my statement = raccogliere la dichiarazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non conosco questa persona",
+        "info": "Negazione (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know this person",
+          "info": "Don't = negazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Polizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Conosco questa persona",
+        "info": "Affermazione (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I know this person",
+          "info": "Present simple"
+        }
+      ]
+    }
+  ]
+}

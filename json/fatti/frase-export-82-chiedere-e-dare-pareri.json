@@ -1,0 +1,889 @@
+{
+  "version": 1,
+  "contesto": "Chiedere e dare pareri",
+  "frasi": [
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, can I ask your opinion?",
+        "info": "(apertura, richiesta cortese: can I…?, opinion = parere)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa/Scusi, posso chiederti/chiederle un parere?",
+          "info": "(tu/Lei, registro informale/formale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you think about that?",
+        "info": "(domanda generica di opinione, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa ne pensi?",
+          "info": "(forma colloquiale, sottintende \"di questo\")"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you think about this idea?",
+        "info": "(domanda specifica, this + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa ne pensi di questa idea?",
+          "info": "(specifica l’oggetto dell’opinione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "In your opinion, is this a good solution?",
+        "info": "(in your opinion, domanda sì/no)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Secondo te, è una buona soluzione?",
+          "info": "(secondo te = in your opinion)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "In my opinion, this is the best option.",
+        "info": "(in my opinion, superlativo: best)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Secondo me, questa è l’opzione migliore.",
+          "info": "(migliore = best)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "From my point of view, we should wait.",
+        "info": "(from my point of view = dal mio punto di vista, modal should)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dal mio punto di vista, dovremmo aspettare.",
+          "info": "(dovremmo = should)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think we should try a different approach.",
+        "info": "(I think + proposizione, should = consiglio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Penso che dovremmo provare un approccio diverso.",
+          "info": "(dovremmo = should)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I agree.",
+        "info": "(accordo, frase breve)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono d’accordo.",
+          "info": "(accordo diretto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I completely agree with you.",
+        "info": "(rafforzativo: completely, agree with someone)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono completamente d’accordo con te/lei.",
+          "info": "(with you = con te/lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I disagree.",
+        "info": "(disaccordo, frase breve)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono d’accordo.",
+          "info": "(disaccordo diretto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m not sure I agree.",
+        "info": "(mitigazione, not sure = non sicuro)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono sicuro/a di essere d’accordo.",
+          "info": "(forma più diplomatica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I see your point, but I disagree.",
+        "info": "(concessione: I see your point, but…)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Capisco il tuo punto di vista, ma non sono d’accordo.",
+          "info": "(ma = but, tono diplomatico)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It depends.",
+        "info": "(risposta neutra)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dipende.",
+          "info": "(risposta breve)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It doesn’t matter to me.",
+        "info": "(preferenza neutra, to me)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per me non importa.",
+          "info": "(a me va bene comunque)"
+        },
+        {
+          "testo": "Per me è indifferente.",
+          "info": "(variante più naturale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "If I were you, I would talk to the manager.",
+        "info": "(second conditional: If I were you… I would…)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Se fossi in te, parlerei con il responsabile.",
+          "info": "(condizionale: parlerei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You should try it.",
+        "info": "(consiglio: should)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dovresti provarlo.",
+          "info": "(consiglio diretto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You shouldn’t worry too much.",
+        "info": "(consiglio negativo: shouldn’t)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non dovresti preoccuparti troppo.",
+          "info": "(consiglio per rassicurare)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would recommend the first option.",
+        "info": "(recommend = consigliare, would = cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Consiglierei la prima opzione.",
+          "info": "(condizionale per essere più gentili)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "In my opinion, option A is better than option B.",
+        "info": "(comparativo: better than)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Secondo me, l’opzione A è meglio dell’opzione B.",
+          "info": "(meglio di = better than)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "For me, option A is worse than option B.",
+        "info": "(comparativo: worse than)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per me, l’opzione A è peggio dell’opzione B.",
+          "info": "(peggio di = worse than)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is a good idea, because it saves time.",
+        "info": "(because = motivazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È una buona idea, perché fa risparmiare tempo.",
+          "info": "(perché = because)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don’t think this is a good idea.",
+        "info": "(negazione con think: don’t think)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non penso che sia una buona idea.",
+          "info": "(congiuntivo/indicativo in IT, in EN struttura fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Everyone should do their part.",
+        "info": "(should, possessive their)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tutti dovrebbero fare la loro parte.",
+          "info": "(loro = their)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you recommend?",
+        "info": "(richiesta di consiglio, recommend)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa mi consigli?",
+          "info": "(informale)"
+        },
+        {
+          "testo": "Cosa mi consiglia?",
+          "info": "(formale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What would you do in my situation?",
+        "info": "(would = ipotesi/consiglio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa faresti al mio posto?",
+          "info": "(informale)"
+        },
+        {
+          "testo": "Cosa farebbe al mio posto?",
+          "info": "(formale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m fine with either option.",
+        "info": "(either = una o l’altra, indifferenza)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per me va bene una o l’altra opzione.",
+          "info": "(equivalente a \"è indifferente\")"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let’s find a compromise.",
+        "info": "(let’s = proposta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Troviamo un compromesso.",
+          "info": "(proposta collaborativa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think this is important.",
+        "info": "(opinione semplice, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Penso che sia importante.",
+          "info": "(think + frase)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m not convinced.",
+        "info": "(esprimere dubbio, frase breve)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non ne sono convinto/a.",
+          "info": "(dubbio in modo gentile)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa/Scusi, posso chiederti/chiederle un parere?",
+        "info": "(tu/Lei, richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, can I ask your opinion?",
+          "info": "(can I…? polite request)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa ne pensi?",
+        "info": "(domanda generica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you think about that?",
+          "info": "(opinion question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa ne pensi di questa idea?",
+        "info": "(domanda specifica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you think about this idea?",
+          "info": "(this + noun)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Secondo te, è una buona soluzione?",
+        "info": "(secondo te = in your opinion)"
+      },
+      "traduzioni": [
+        {
+          "testo": "In your opinion, is this a good solution?",
+          "info": "(yes/no question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Secondo me, questa è l’opzione migliore.",
+        "info": "(opinione + superlativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "In my opinion, this is the best option.",
+          "info": "(best = superlative)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dal mio punto di vista, dovremmo aspettare.",
+        "info": "(modal verb: dovremmo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "From my point of view, we should wait.",
+          "info": "(should = advice/suggestion)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Penso che dovremmo provare un approccio diverso.",
+        "info": "(think + should)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think we should try a different approach.",
+          "info": "(should)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono d’accordo.",
+        "info": "(accordo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I agree.",
+          "info": "(simple agreement)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono completamente d’accordo con te/lei.",
+        "info": "(rafforzare accordo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I completely agree with you.",
+          "info": "(agree with someone)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non sono d’accordo.",
+        "info": "(disaccordo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I disagree.",
+          "info": "(direct disagreement)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non sono sicuro/a di essere d’accordo.",
+        "info": "(mitigare)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m not sure I agree.",
+          "info": "(soft disagreement)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Capisco il tuo punto di vista, ma non sono d’accordo.",
+        "info": "(concessione + disaccordo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I see your point, but I disagree.",
+          "info": "(concession structure)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dipende.",
+        "info": "(risposta neutra)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It depends.",
+          "info": "(neutral answer)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per me è indifferente.",
+        "info": "(non importa quale scelta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It doesn’t matter to me.",
+          "info": "(to me)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Se fossi in te, parlerei con il responsabile.",
+        "info": "(periodo ipotetico, condizionale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "If I were you, I would talk to the manager.",
+          "info": "(second conditional)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dovresti provarlo.",
+        "info": "(consiglio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "You should try it.",
+          "info": "(should = advice)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non dovresti preoccuparti troppo.",
+        "info": "(consiglio negativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "You shouldn’t worry too much.",
+          "info": "(shouldn’t)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Consiglierei la prima opzione.",
+        "info": "(condizionale di cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would recommend the first option.",
+          "info": "(recommend)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Secondo me, l’opzione A è meglio dell’opzione B.",
+        "info": "(comparativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "In my opinion, option A is better than option B.",
+          "info": "(better than)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per me, l’opzione A è peggio dell’opzione B.",
+        "info": "(comparativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "For me, option A is worse than option B.",
+          "info": "(worse than)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È una buona idea, perché fa risparmiare tempo.",
+        "info": "(because = motivazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is a good idea, because it saves time.",
+          "info": "(because)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non penso che sia una buona idea.",
+        "info": "(negazione con think)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don’t think this is a good idea.",
+          "info": "(don’t think)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tutti dovrebbero fare la loro parte.",
+        "info": "(should + possessivo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Everyone should do their part.",
+          "info": "(their)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa mi consigli? / Cosa mi consiglia?",
+        "info": "(tu/Lei, recommend)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you recommend?",
+          "info": "(ask for advice)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa faresti al mio posto? / Cosa farebbe al mio posto?",
+        "info": "(tu/Lei, would)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What would you do in my situation?",
+          "info": "(would + question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per me va bene una o l’altra opzione.",
+        "info": "(indifferenza, either)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m fine with either option.",
+          "info": "(either)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Troviamo un compromesso.",
+        "info": "(proposta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let’s find a compromise.",
+          "info": "(let’s = suggestion)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Penso che sia importante.",
+        "info": "(opinione semplice)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think this is important.",
+          "info": "(think + clause)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiedere e dare pareri",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ne sono convinto/a.",
+        "info": "(dubbio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m not convinced.",
+          "info": "(express doubt)"
+        }
+      ]
+    }
+  ]
+}

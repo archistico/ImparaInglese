@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "contesto": "Presentarsi",
+  "frasi": [
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nice to meet you",
+        "info": "saluto,formale,informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Piacere di conoscerla",
+          "info": "formale"
+        },
+        {
+          "testo": "Piacere di conoscerti",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nice to meet you, my name is Emilie",
+        "info": "presentazione,nome"
+      },
+      "traduzioni": [
+        {
+          "testo": "Piacere, mi chiamo Emilie",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your name?",
+        "info": "domanda,nome"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come si chiama?",
+          "info": "formale"
+        },
+        {
+          "testo": "Come ti chiami?",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You can call me Emilie",
+        "info": "nome,confidenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi chiamarmi Emilie",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are you from?",
+        "info": "domanda,origine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di dove sei?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm Italian",
+        "info": "nazionalità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono italiana",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I live in Italy",
+        "info": "residenza,presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vivo in Italia",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you do?",
+        "info": "domanda,lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che lavoro fai?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm a software developer",
+        "info": "professione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono una software developer",
+          "info": "uso inglese"
+        },
+        {
+          "testo": "Sono una sviluppatrice software",
+          "info": "più italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I work in the IT department",
+        "info": "lavoro,reparto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lavoro nel reparto IT",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I work at a casino",
+        "info": "lavoro,luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lavoro in un casinò",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My English isn't perfect",
+        "info": "scuse,abilità linguistica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio inglese non è perfetto",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I speak Italian and some English",
+        "info": "lingue,abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Parlo italiano e un po' di inglese",
+          "info": "neutro"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Piacere di conoscerla",
+        "info": "saluto,formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nice to meet you",
+          "info": "formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Piacere, mi chiamo Emilie",
+        "info": "presentazione,nome"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nice to meet you, my name is Emilie",
+          "info": "neutro"
+        },
+        {
+          "testo": "Pleased to meet you, I'm Emilie",
+          "info": "più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti chiami?",
+        "info": "domanda,nome,informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your name?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi chiamarmi Emilie",
+        "info": "nome,confidenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "You can call me Emilie",
+          "info": "neutro"
+        },
+        {
+          "testo": "Please call me Emilie",
+          "info": "più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di dove sei?",
+        "info": "domanda,origine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are you from?",
+          "info": "neutro"
+        },
+        {
+          "testo": "Where do you come from?",
+          "info": "alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono italiana",
+        "info": "nazionalità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm Italian",
+          "info": "neutro"
+        },
+        {
+          "testo": "I'm from Italy",
+          "info": "più generico"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vivo in Italia",
+        "info": "residenza,presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "I live in Italy",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che lavoro fai?",
+        "info": "domanda,lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you do?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavoro come software developer nel reparto IT",
+        "info": "professione,frase completa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I work as a software developer in the IT department",
+          "info": "neutro"
+        },
+        {
+          "testo": "I'm a software developer in the IT department",
+          "info": "più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavoro in un casinò",
+        "info": "lavoro,luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I work at a casino",
+          "info": "neutro"
+        },
+        {
+          "testo": "I work in a casino",
+          "info": "alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Parlo italiano e un po' di inglese",
+        "info": "lingue,abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I speak Italian and a bit of English",
+          "info": "neutro"
+        },
+        {
+          "testo": "I speak Italian and some English",
+          "info": "alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Presentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio inglese non è perfetto",
+        "info": "scuse,abilità linguistica"
+      },
+      "traduzioni": [
+        {
+          "testo": "My English isn't perfect",
+          "info": "neutro"
+        },
+        {
+          "testo": "Sorry, my English isn't very good",
+          "info": "più umile"
+        }
+      ]
+    }
+  ]
+}

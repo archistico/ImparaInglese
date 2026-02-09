@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "contesto": "Situazioni Formali",
+  "frasi": [
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Good morning, I am writing regarding your request", "info": "email formale, apertura, presente continuo" },
+      "traduzioni": [
+        { "testo": "Buongiorno, scrivo in merito alla Sua richiesta", "info": "email formale, apertura" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "According to the regulations", "info": "formula formale, riferimento normativo" },
+      "traduzioni": [
+        { "testo": "Secondo i regolamenti", "info": "formula introduttiva" },
+        { "testo": "In base alla normativa vigente", "info": "variante formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "As stated in the contract", "info": "riferimento documento, forma passiva" },
+      "traduzioni": [
+        { "testo": "Come indicato nel contratto", "info": "riferimento formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Could you provide documentation?", "info": "richiesta cortese, could" },
+      "traduzioni": [
+        { "testo": "Potrebbe fornire documentazione?", "info": "richiesta formale" },
+        { "testo": "Potrebbe inviare la documentazione richiesta?", "info": "variante esplicativa" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Please find attached the requested documents", "info": "email formale, allegati" },
+      "traduzioni": [
+        { "testo": "Si prega di trovare in allegato i documenti richiesti", "info": "email formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I hereby declare that the information is accurate", "info": "dichiarazione formale, hereby" },
+      "traduzioni": [
+        { "testo": "Dichiaro con la presente che le informazioni sono corrette", "info": "dichiarazione ufficiale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I would like to formally request an extension", "info": "richiesta formale, condizionale" },
+      "traduzioni": [
+        { "testo": "Vorrei richiedere formalmente una proroga", "info": "richiesta ufficiale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Regarding the aforementioned matter", "info": "collegamento testuale, linguaggio burocratico" },
+      "traduzioni": [
+        { "testo": "Riguardo alla questione sopra menzionata", "info": "collegamento formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "With all due respect, I must disagree", "info": "formula di cortesia, dissenso" },
+      "traduzioni": [
+        { "testo": "Con tutto il rispetto, devo dissentire", "info": "dissenso formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I need to file a complaint regarding this issue", "info": "reclamo, verbo need" },
+      "traduzioni": [
+        { "testo": "Devo presentare un reclamo riguardo a questa questione", "info": "reclamo formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I need to speak with a supervisor", "info": "richiesta gerarchica" },
+      "traduzioni": [
+        { "testo": "Devo parlare con un supervisore", "info": "richiesta formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Thank you for your cooperation", "info": "chiusura formale, ringraziamento" },
+      "traduzioni": [
+        { "testo": "La ringrazio per la collaborazione", "info": "chiusura formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I look forward to your response", "info": "chiusura email, futuro" },
+      "traduzioni": [
+        { "testo": "Attendo con interesse la Sua risposta", "info": "chiusura formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Please do not hesitate to contact me", "info": "formula di cortesia, invito" },
+      "traduzioni": [
+        { "testo": "Non esiti a contattarmi", "info": "formula di cortesia" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Buongiorno, scrivo in merito alla Sua richiesta", "info": "email formale, apertura" },
+      "traduzioni": [
+        { "testo": "Good morning, I am writing regarding your request", "info": "email formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Secondo i regolamenti", "info": "riferimento normativo" },
+      "traduzioni": [
+        { "testo": "According to the regulations", "info": "formula formale" },
+        { "testo": "In accordance with the regulations", "info": "variante formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Come indicato nel contratto", "info": "riferimento documento" },
+      "traduzioni": [
+        { "testo": "As stated in the contract", "info": "forma passiva" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Potrebbe fornire documentazione?", "info": "richiesta cortese" },
+      "traduzioni": [
+        { "testo": "Could you provide documentation?", "info": "could di cortesia" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Si prega di trovare in allegato i documenti richiesti", "info": "email formale, allegati" },
+      "traduzioni": [
+        { "testo": "Please find attached the requested documents", "info": "formula email" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Dichiaro con la presente che le informazioni sono corrette", "info": "dichiarazione ufficiale" },
+      "traduzioni": [
+        { "testo": "I hereby declare that the information is accurate", "info": "hereby formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vorrei richiedere formalmente una proroga", "info": "richiesta formale" },
+      "traduzioni": [
+        { "testo": "I would like to formally request an extension", "info": "condizionale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Riguardo alla questione sopra menzionata", "info": "collegamento testuale" },
+      "traduzioni": [
+        { "testo": "Regarding the aforementioned matter", "info": "linguaggio burocratico" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Con tutto il rispetto, devo dissentire", "info": "dissenso formale" },
+      "traduzioni": [
+        { "testo": "With all due respect, I must disagree", "info": "formula di cortesia" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Devo presentare un reclamo riguardo a questa questione", "info": "reclamo" },
+      "traduzioni": [
+        { "testo": "I need to file a complaint regarding this issue", "info": "verbo need" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Devo parlare con un supervisore", "info": "richiesta gerarchica" },
+      "traduzioni": [
+        { "testo": "I need to speak with a supervisor", "info": "richiesta formale" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "La ringrazio per la collaborazione", "info": "chiusura formale" },
+      "traduzioni": [
+        { "testo": "Thank you for your cooperation", "info": "ringraziamento" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Attendo con interesse la Sua risposta", "info": "chiusura email" },
+      "traduzioni": [
+        { "testo": "I look forward to your response", "info": "futuro implicito" }
+      ]
+    },
+    {
+      "contesto": "Situazioni Formali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non esiti a contattarmi", "info": "formula di cortesia" },
+      "traduzioni": [
+        { "testo": "Please do not hesitate to contact me", "info": "invito formale" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "version": 1,
+  "contesto": "Educazione e scuola",
+  "frasi": [
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my book.",
+        "info": "dimostrativo this, sostantivo singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è il mio libro.",
+          "info": "possessivo mio, sostantivo singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I am a student.",
+        "info": "verbo essere present simple, professione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono uno studente.",
+          "info": "verbo essere presente, professione"
+        },
+        {
+          "testo": "Sono una studentessa.",
+          "info": "verbo essere presente, professione"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I study English at school.",
+        "info": "present simple, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Studio inglese a scuola.",
+          "info": "presente indicativo, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my classroom.",
+        "info": "dimostrativo this, possessivo my"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è la mia aula.",
+          "info": "dimostrativo, possessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The teacher is explaining the lesson.",
+        "info": "present continuous, azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'insegnante sta spiegando la lezione.",
+          "info": "stare più gerundio, azione in corso"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you repeat that, please?",
+        "info": "richiesta cortese, verbo modale can"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi ripetere, per favore?",
+          "info": "richiesta cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you explain this exercise?",
+        "info": "verbo modale can, oggetto exercise"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi spiegare questo esercizio?",
+          "info": "verbo potere, oggetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't understand the question.",
+        "info": "negazione present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non capisco la domanda.",
+          "info": "negazione presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do you spell this word?",
+        "info": "domanda, verbo spell"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come si scrive questa parola?",
+          "info": "forma impersonale"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have homework today.",
+        "info": "present simple, homework invariabile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho i compiti oggi.",
+          "info": "presente indicativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Tomorrow we have an exam.",
+        "info": "futuro con present simple, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Domani abbiamo un esame.",
+          "info": "presente con valore futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I got a good grade.",
+        "info": "past simple, risultato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho preso un buon voto.",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I write with a pen.",
+        "info": "present simple, strumento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scrivo con una penna.",
+          "info": "complemento di mezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I draw with a pencil.",
+        "info": "present simple, strumento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Disegno con una matita.",
+          "info": "complemento di mezzo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è il mio libro.",
+        "info": "dimostrativo, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my book.",
+          "info": "dimostrativo this, possessivo my"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono uno studente.",
+        "info": "verbo essere presente, professione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I am a student.",
+          "info": "verbo essere present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Studio inglese a scuola.",
+        "info": "presente indicativo, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I study English at school.",
+          "info": "present simple, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa è la mia aula.",
+        "info": "dimostrativo, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my classroom.",
+          "info": "dimostrativo this, possessivo my"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'insegnante sta spiegando la lezione.",
+        "info": "azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "The teacher is explaining the lesson.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi ripetere, per favore?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you repeat that, please?",
+          "info": "verbo modale can"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi spiegare questo esercizio?",
+        "info": "richiesta, oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you explain this exercise?",
+          "info": "verbo modale can"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non capisco la domanda.",
+        "info": "negazione presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't understand the question.",
+          "info": "negazione present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come si scrive questa parola?",
+        "info": "forma impersonale"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do you spell this word?",
+          "info": "domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho i compiti oggi.",
+        "info": "presente indicativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have homework today.",
+          "info": "homework invariabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Domani abbiamo un esame.",
+        "info": "presente con valore futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tomorrow we have an exam.",
+          "info": "futuro con present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho preso un buon voto.",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I got a good grade.",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scrivo con una penna.",
+        "info": "complemento di mezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I write with a pen.",
+          "info": "strumento"
+        }
+      ]
+    },
+    {
+      "contesto": "Educazione e scuola",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Disegno con una matita.",
+        "info": "complemento di mezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I draw with a pencil.",
+          "info": "strumento"
+        }
+      ]
+    }
+  ]
+}

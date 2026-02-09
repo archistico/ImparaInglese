@@ -1,0 +1,956 @@
+{
+  "version": 1,
+  "contesto": "Emozioni e Stati d'Animo",
+  "frasi": [
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How are you feeling today?",
+        "info": "domanda, present simple, stato emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come ti senti oggi?",
+          "info": "domanda, presente, stato emotivo"
+        },
+        {
+          "testo": "Come si sente oggi?",
+          "info": "domanda, forma di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I feel anxious.",
+        "info": "verbo feel, aggettivo, stato emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento ansioso.",
+          "info": "stato emotivo maschile"
+        },
+        {
+          "testo": "Mi sento ansiosa.",
+          "info": "stato emotivo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm feeling overwhelmed.",
+        "info": "present continuous, stato temporaneo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento sopraffatto.",
+          "info": "stato emotivo maschile"
+        },
+        {
+          "testo": "Mi sento sopraffatta.",
+          "info": "stato emotivo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm feeling conflicted.",
+        "info": "present continuous, emozione mista"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento combattuto.",
+          "info": "stato emotivo maschile"
+        },
+        {
+          "testo": "Mi sento combattuta.",
+          "info": "stato emotivo femminile"
+        },
+        {
+          "testo": "Mi sento in conflitto.",
+          "info": "espressione alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm feeling nostalgic.",
+        "info": "present continuous, nostalgia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento nostalgico.",
+          "info": "stato emotivo maschile"
+        },
+        {
+          "testo": "Mi sento nostalgica.",
+          "info": "stato emotivo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm overjoyed!",
+        "info": "esclamazione, emozione forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono felicissimo!",
+          "info": "esclamazione maschile"
+        },
+        {
+          "testo": "Sono felicissima!",
+          "info": "esclamazione femminile"
+        },
+        {
+          "testo": "Sono al settimo cielo!",
+          "info": "espressione idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm thrilled with the results.",
+        "info": "aggettivo thrilled, causa con with"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono entusiasta dei risultati.",
+          "info": "causa, preposizione di"
+        },
+        {
+          "testo": "Sono molto contento dei risultati.",
+          "info": "variante più semplice"
+        },
+        {
+          "testo": "Sono molto contenta dei risultati.",
+          "info": "variante più semplice femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm proud of you.",
+        "info": "complimento, struttura proud of"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono fiero di te.",
+          "info": "complimento maschile"
+        },
+        {
+          "testo": "Sono fiera di te.",
+          "info": "complimento femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm happy for you.",
+        "info": "complimento, struttura happy for"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono felice per te.",
+          "info": "complimento, per te"
+        },
+        {
+          "testo": "Sono contento per te.",
+          "info": "variante maschile"
+        },
+        {
+          "testo": "Sono contenta per te.",
+          "info": "variante femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That's disappointing.",
+        "info": "valutazione, aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "È deludente.",
+          "info": "valutazione"
+        },
+        {
+          "testo": "Che delusione.",
+          "info": "variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That's heartwarming.",
+        "info": "valutazione, emozione positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "È commovente.",
+          "info": "valutazione"
+        },
+        {
+          "testo": "Scalda il cuore.",
+          "info": "espressione idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That's reassuring.",
+        "info": "valutazione, rassicurazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "È rassicurante.",
+          "info": "valutazione"
+        },
+        {
+          "testo": "Mi rassicura.",
+          "info": "verbo rassicurare"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm worried about it.",
+        "info": "preoccupazione, struttura worried about"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono preoccupato per questo.",
+          "info": "preoccupazione maschile"
+        },
+        {
+          "testo": "Sono preoccupata per questo.",
+          "info": "preoccupazione femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm stressed out.",
+        "info": "colloquiale, stress"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono stressato.",
+          "info": "colloquiale maschile"
+        },
+        {
+          "testo": "Sono stressata.",
+          "info": "colloquiale femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I feel calm now.",
+        "info": "stato, avverbio now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ora mi sento calmo.",
+          "info": "stato maschile"
+        },
+        {
+          "testo": "Ora mi sento calma.",
+          "info": "stato femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm relieved.",
+        "info": "emozione, sollievo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono sollevato.",
+          "info": "sollievo maschile"
+        },
+        {
+          "testo": "Sono sollevata.",
+          "info": "sollievo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm frustrated.",
+        "info": "emozione, frustrazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono frustrato.",
+          "info": "frustrazione maschile"
+        },
+        {
+          "testo": "Sono frustrata.",
+          "info": "frustrazione femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm angry.",
+        "info": "emozione, rabbia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono arrabbiato.",
+          "info": "rabbia maschile"
+        },
+        {
+          "testo": "Sono arrabbiata.",
+          "info": "rabbia femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sad.",
+        "info": "emozione, tristezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono triste.",
+          "info": "emozione, invariabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm excited.",
+        "info": "emozione, entusiasmo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono emozionato.",
+          "info": "entusiasmo maschile"
+        },
+        {
+          "testo": "Sono emozionata.",
+          "info": "entusiasmo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm nervous about tomorrow.",
+        "info": "aggettivo nervous, riferimento futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono nervoso per domani.",
+          "info": "nervosismo maschile"
+        },
+        {
+          "testo": "Sono nervosa per domani.",
+          "info": "nervosismo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I feel better now.",
+        "info": "miglioramento, avverbio now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ora mi sento meglio.",
+          "info": "miglioramento"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I feel terrible.",
+        "info": "stato negativo, intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento malissimo.",
+          "info": "stato negativo"
+        },
+        {
+          "testo": "Mi sento terribile.",
+          "info": "variante letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm surprised.",
+        "info": "emozione, sorpresa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono sorpreso.",
+          "info": "sorpresa maschile"
+        },
+        {
+          "testo": "Sono sorpresa.",
+          "info": "sorpresa femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm grateful.",
+        "info": "emozione, gratitudine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono grato.",
+          "info": "gratitudine maschile"
+        },
+        {
+          "testo": "Sono grata.",
+          "info": "gratitudine femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you, I appreciate it.",
+        "info": "gratitudine, frase utile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie, lo apprezzo.",
+          "info": "gratitudine"
+        },
+        {
+          "testo": "Grazie, mi fa piacere.",
+          "info": "variante naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm bored.",
+        "info": "emozione, noia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi annoio.",
+          "info": "verbo annoiarsi"
+        },
+        {
+          "testo": "Sono annoiato.",
+          "info": "aggettivo maschile"
+        },
+        {
+          "testo": "Sono annoiata.",
+          "info": "aggettivo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm tired.",
+        "info": "stato fisico, stanchezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono stanco.",
+          "info": "stanchezza maschile"
+        },
+        {
+          "testo": "Sono stanca.",
+          "info": "stanchezza femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a break.",
+        "info": "necessità, pausa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di una pausa.",
+          "info": "necessità"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti senti oggi?",
+        "info": "domanda, presente, stato emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How are you feeling today?",
+          "info": "domanda, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento ansioso.",
+        "info": "stato emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I feel anxious.",
+          "info": "verbo feel"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento sopraffatto.",
+        "info": "stato emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm feeling overwhelmed.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento combattuto.",
+        "info": "emozione mista"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm feeling conflicted.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento nostalgico.",
+        "info": "nostalgia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm feeling nostalgic.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono felicissima!",
+        "info": "esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm overjoyed!",
+          "info": "esclamazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono entusiasta dei risultati.",
+        "info": "causa, risultati"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm thrilled with the results.",
+          "info": "struttura with"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono fiera di te.",
+        "info": "complimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm proud of you.",
+          "info": "struttura proud of"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono felice per te.",
+        "info": "complimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm happy for you.",
+          "info": "struttura happy for"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È deludente.",
+        "info": "valutazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "That's disappointing.",
+          "info": "valutazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È commovente.",
+        "info": "valutazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "That's heartwarming.",
+          "info": "valutazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È rassicurante.",
+        "info": "valutazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "That's reassuring.",
+          "info": "rassicurazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono preoccupata per questo.",
+        "info": "preoccupazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm worried about it.",
+          "info": "worried about"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stressata.",
+        "info": "colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm stressed out.",
+          "info": "colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ora mi sento meglio.",
+        "info": "miglioramento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I feel better now.",
+          "info": "better, now"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento malissimo.",
+        "info": "stato negativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I feel terrible.",
+          "info": "intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono sorpresa.",
+        "info": "sorpresa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm surprised.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono grata.",
+        "info": "gratitudine"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm grateful.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie, lo apprezzo.",
+        "info": "gratitudine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you, I appreciate it.",
+          "info": "frase utile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono annoiata.",
+        "info": "noia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm bored.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stanca.",
+        "info": "stanchezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm tired.",
+          "info": "stato fisico"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di una pausa.",
+        "info": "necessità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a break.",
+          "info": "necessità"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono arrabbiata.",
+        "info": "rabbia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm angry.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono triste.",
+        "info": "tristezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sad.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono emozionata.",
+        "info": "entusiasmo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm excited.",
+          "info": "emozione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emozioni e Stati d'Animo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono nervosa per domani.",
+        "info": "riferimento futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm nervous about tomorrow.",
+          "info": "nervous about"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "version": 1,
+  "contesto": "Cosa sto facendo",
+  "frasi": [
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing?",
+        "info": "present continuous, question, everyday"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai facendo?",
+          "info": "presente progressivo, domanda"
+        },
+        {
+          "testo": "Che fai?",
+          "info": "colloquiale, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm working.",
+        "info": "present continuous, short answer, work"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto lavorando.",
+          "info": "presente progressivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm busy with work.",
+        "info": "present simple, state, busy, work"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono occupato con il lavoro.",
+          "info": "stato, lavoro"
+        },
+        {
+          "testo": "Sono impegnato con il lavoro.",
+          "info": "stato, lavoro, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm in the middle of a project.",
+        "info": "present simple, state, project, work study"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono nel mezzo di un progetto.",
+          "info": "stato, progetto"
+        },
+        {
+          "testo": "Sono nel pieno di un progetto.",
+          "info": "stato, progetto, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm cleaning.",
+        "info": "present continuous, activity, house"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto pulendo.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sto facendo le pulizie.",
+          "info": "presente progressivo, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm tidying up.",
+        "info": "present continuous, activity, house"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto riordinando.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sto mettendo in ordine.",
+          "info": "presente progressivo, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm doing some housework.",
+        "info": "present continuous, activity, chores"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo qualche lavoro domestico.",
+          "info": "presente progressivo, faccende"
+        },
+        {
+          "testo": "Sto facendo un po' di faccende in casa.",
+          "info": "presente progressivo, faccende, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm cooking dinner.",
+        "info": "present continuous, activity, food"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto preparando la cena.",
+          "info": "presente progressivo, cibo"
+        },
+        {
+          "testo": "Sto cucinando la cena.",
+          "info": "presente progressivo, cibo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm getting dinner ready.",
+        "info": "present continuous, activity, food"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto preparando la cena.",
+          "info": "presente progressivo, cibo"
+        },
+        {
+          "testo": "Sto sistemando la cena.",
+          "info": "presente progressivo, cibo, meno comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm making breakfast.",
+        "info": "present continuous, activity, food"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto preparando la colazione.",
+          "info": "presente progressivo, cibo"
+        },
+        {
+          "testo": "Sto facendo colazione.",
+          "info": "falso amico, meaning different"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm doing some grocery shopping.",
+        "info": "present continuous, activity, groceries"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo la spesa.",
+          "info": "presente progressivo, cibo"
+        },
+        {
+          "testo": "Sto facendo la spesa alimentare.",
+          "info": "presente progressivo, piu specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm shopping.",
+        "info": "present continuous, activity, general shopping"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo shopping.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sto facendo acquisti.",
+          "info": "presente progressivo, piu neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm running errands.",
+        "info": "present continuous, activity, errands"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo commissioni.",
+          "info": "presente progressivo, commissioni"
+        },
+        {
+          "testo": "Sto sbrigando delle cose.",
+          "info": "colloquiale, commissioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm taking care of my kids.",
+        "info": "present continuous, activity, family, kids"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sto occupando dei miei bambini.",
+          "info": "presente progressivo, famiglia"
+        },
+        {
+          "testo": "Sto badando ai miei bambini.",
+          "info": "colloquiale, famiglia"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm watching the kids.",
+        "info": "present continuous, activity, babysitting"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto badando ai bambini.",
+          "info": "colloquiale, babysitting"
+        },
+        {
+          "testo": "Sto tenendo d'occhio i bambini.",
+          "info": "idiomatico, babysitting"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm listening to music.",
+        "info": "present continuous, activity, music"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto ascoltando musica.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sto ascoltando la musica.",
+          "info": "presente progressivo, articolo facoltativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've got some music on.",
+        "info": "present perfect form, colloquial, music, have got"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho messo un po' di musica.",
+          "info": "colloquiale, azione recente"
+        },
+        {
+          "testo": "Ho la musica accesa.",
+          "info": "colloquiale, stato"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm chilling with my playlist.",
+        "info": "present continuous, very informal, relaxing, music"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sto rilassando con la mia playlist.",
+          "info": "molto informale"
+        },
+        {
+          "testo": "Sono in relax con la mia playlist.",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm enjoying some tunes.",
+        "info": "present continuous, informal, music"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sto godendo un po' di musica.",
+          "info": "informale"
+        },
+        {
+          "testo": "Mi sto ascoltando un po' di musica.",
+          "info": "informale, piu comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm watching TV.",
+        "info": "present continuous, activity, tv"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto guardando la TV.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sto guardando la televisione.",
+          "info": "presente progressivo, piu completo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm binge-watching a series.",
+        "info": "present continuous, informal, tv series, binge watch"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo una maratona di una serie TV.",
+          "info": "colloquiale"
+        },
+        {
+          "testo": "Mi sto guardando una serie tutta di fila.",
+          "info": "colloquiale, piu esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm glued to the TV.",
+        "info": "present simple, idiom, tv, very engaged"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono incollato alla TV.",
+          "info": "idiomatico"
+        },
+        {
+          "testo": "Sono incollata alla TV.",
+          "info": "idiomatico, femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm just relaxing at home.",
+        "info": "present continuous, simple answer, relaxing, at home"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sto rilassando a casa.",
+          "info": "presente progressivo"
+        },
+        {
+          "testo": "Sono tranquillo a casa.",
+          "info": "stato, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm out for a walk.",
+        "info": "present simple, location, short answer"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono fuori a fare una passeggiata.",
+          "info": "stato, luogo"
+        },
+        {
+          "testo": "Sono a fare una passeggiata.",
+          "info": "stato, piu breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm on my way.",
+        "info": "present simple, idiom, movement"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto arrivando.",
+          "info": "idiomatico, movimento"
+        },
+        {
+          "testo": "Sono in arrivo.",
+          "info": "idiomatico, movimento"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm studying right now.",
+        "info": "present continuous, activity, study, right now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto studiando adesso.",
+          "info": "presente progressivo, adesso"
+        },
+        {
+          "testo": "Sto studiando in questo momento.",
+          "info": "presente progressivo, adesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm on a call.",
+        "info": "present simple, short answer, phone call"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono in chiamata.",
+          "info": "breve, lavoro"
+        },
+        {
+          "testo": "Sto facendo una chiamata.",
+          "info": "presente progressivo, piu esplicito"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa stai facendo?",
+        "info": "presente progressivo, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you doing?",
+          "info": "present continuous, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto lavorando.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm working.",
+          "info": "present continuous, work"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono impegnato con il lavoro.",
+        "info": "stato, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm busy with work.",
+          "info": "state, busy, work"
+        },
+        {
+          "testo": "I'm swamped with work.",
+          "info": "informal, very busy, work"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono nel pieno di un progetto.",
+        "info": "stato, progetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm in the middle of a project.",
+          "info": "state, project, work study"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto pulendo.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm cleaning.",
+          "info": "present continuous, activity"
+        },
+        {
+          "testo": "I'm doing some cleaning.",
+          "info": "present continuous, activity"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto riordinando.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm tidying up.",
+          "info": "present continuous, activity"
+        },
+        {
+          "testo": "I'm cleaning up.",
+          "info": "present continuous, activity"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo un po' di faccende in casa.",
+        "info": "presente progressivo, faccende"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm doing some housework.",
+          "info": "present continuous, chores"
+        },
+        {
+          "testo": "I'm doing chores.",
+          "info": "present continuous, chores, shorter"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto preparando la cena.",
+        "info": "presente progressivo, cibo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm cooking dinner.",
+          "info": "present continuous, food"
+        },
+        {
+          "testo": "I'm getting dinner ready.",
+          "info": "present continuous, food"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto preparando la colazione.",
+        "info": "presente progressivo, cibo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm making breakfast.",
+          "info": "present continuous, food"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo la spesa.",
+        "info": "presente progressivo, cibo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm doing some grocery shopping.",
+          "info": "present continuous, groceries"
+        },
+        {
+          "testo": "I'm grocery shopping.",
+          "info": "present continuous, groceries, shorter"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo shopping.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm shopping.",
+          "info": "present continuous, shopping"
+        },
+        {
+          "testo": "I'm out shopping.",
+          "info": "present continuous, shopping"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo commissioni.",
+        "info": "presente progressivo, commissioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm running errands.",
+          "info": "present continuous, errands"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sto occupando dei miei bambini.",
+        "info": "presente progressivo, famiglia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm taking care of my kids.",
+          "info": "present continuous, family"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto badando ai bambini.",
+        "info": "colloquiale, babysitting"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm watching the kids.",
+          "info": "present continuous, babysitting"
+        },
+        {
+          "testo": "I'm looking after the kids.",
+          "info": "present continuous, british, babysitting"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto ascoltando musica.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm listening to music.",
+          "info": "present continuous, music"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho messo un po' di musica.",
+        "info": "colloquiale, azione recente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've got some music on.",
+          "info": "colloquial, have got, music"
+        },
+        {
+          "testo": "I put on some music.",
+          "info": "past simple, recent action"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sto rilassando con la mia playlist.",
+        "info": "molto informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm chilling with my playlist.",
+          "info": "very informal, relaxing"
+        },
+        {
+          "testo": "I'm relaxing with my playlist.",
+          "info": "neutral, relaxing"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto guardando la TV.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm watching TV.",
+          "info": "present continuous, tv"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo una maratona di una serie TV.",
+        "info": "colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm binge-watching a series.",
+          "info": "informal, tv series"
+        },
+        {
+          "testo": "I'm binge-watching a TV series.",
+          "info": "informal, tv series"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono incollato alla TV.",
+        "info": "idiomatico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm glued to the TV.",
+          "info": "idiom, very engaged"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sto rilassando a casa.",
+        "info": "presente progressivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm just relaxing at home.",
+          "info": "present continuous, relaxing, at home"
+        },
+        {
+          "testo": "I'm chilling at home.",
+          "info": "informal, relaxing, at home"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono fuori a fare una passeggiata.",
+        "info": "stato, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm out for a walk.",
+          "info": "short answer, location"
+        },
+        {
+          "testo": "I'm out walking.",
+          "info": "short answer, activity"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto arrivando.",
+        "info": "idiomatico, movimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm on my way.",
+          "info": "idiom, movement"
+        },
+        {
+          "testo": "I'm coming.",
+          "info": "present continuous, movement, simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto studiando adesso.",
+        "info": "presente progressivo, adesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm studying right now.",
+          "info": "present continuous, right now"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa sto facendo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono in chiamata.",
+        "info": "breve, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm on a call.",
+          "info": "short answer, phone call"
+        },
+        {
+          "testo": "I'm in a meeting.",
+          "info": "short answer, work"
+        }
+      ]
+    }
+  ]
+}

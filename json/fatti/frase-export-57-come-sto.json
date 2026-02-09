@@ -1,0 +1,280 @@
+{
+  "version": 2,
+  "contesto": "Come sto",
+  "frasi": [
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm fine",
+        "info": "Stato generale positivo. (statement; present simple)"
+      },
+      "traduzioni": [
+        { "testo": "Sto bene", "info": "risposta standard" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto bene",
+        "info": "Risposta generale positiva. (statement; present simple)"
+      },
+      "traduzioni": [
+        { "testo": "I'm fine", "info": "standard" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "So-so",
+        "info": "Stato intermedio, né bene né male. (statement; informal)"
+      },
+      "traduzioni": [
+        { "testo": "Così così", "info": "molto comune" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Così così",
+        "info": "Stato intermedio. (statement; informal)"
+      },
+      "traduzioni": [
+        { "testo": "So-so", "info": "colloquiale" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm tired",
+        "info": "Stanchezza generica. (statement; present simple)"
+      },
+      "traduzioni": [
+        { "testo": "Sono stanco", "info": "uso comune" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stanco",
+        "info": "Stanchezza generica. (statement; present simple)"
+      },
+      "traduzioni": [
+        { "testo": "I'm tired", "info": "standard" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm exhausted",
+        "info": "Stanchezza intensa. (statement; emphasis)"
+      },
+      "traduzioni": [
+        { "testo": "Sono esausto", "info": "molto stanco" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono distrutto",
+        "info": "Stanchezza molto forte. (statement; emphasis)"
+      },
+      "traduzioni": [
+        { "testo": "I'm exhausted", "info": "molto intenso" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm hungry",
+        "info": "Fame normale. (statement; physical state)"
+      },
+      "traduzioni": [
+        { "testo": "Ho fame", "info": "uso comune" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho fame",
+        "info": "Fame normale. (statement; physical state)"
+      },
+      "traduzioni": [
+        { "testo": "I'm hungry", "info": "standard" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm starving!",
+        "info": "Fame estrema; enfasi. (statement; informal)"
+      },
+      "traduzioni": [
+        { "testo": "Ho una fame da lupi!", "info": "molto colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una fame da lupi!",
+        "info": "Fame intensa. (statement; informal)"
+      },
+      "traduzioni": [
+        { "testo": "I'm starving!", "info": "enfatico" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm hot / I'm cold",
+        "info": "Sensazione di caldo o freddo. (statement; physical state)"
+      },
+      "traduzioni": [
+        { "testo": "Ho caldo / Ho freddo", "info": "uso quotidiano" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho caldo / Ho freddo",
+        "info": "In inglese si usa 'to be'. (statement; physical state)"
+      },
+      "traduzioni": [
+        { "testo": "I'm hot / I'm cold", "info": "struttura tipica" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sad",
+        "info": "Tristezza semplice. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "Sono triste", "info": "neutro" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono triste",
+        "info": "Tristezza. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "I'm sad", "info": "standard" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm happy",
+        "info": "Emozione positiva. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "Sono felice", "info": "uso comune" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono felice",
+        "info": "Emozione positiva. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "I'm happy", "info": "standard" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm angry",
+        "info": "Rabbia neutra. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "Sono arrabbiato", "info": "standard" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono arrabbiato",
+        "info": "In inglese 'angry' è universale. (statement; emotion)"
+      },
+      "traduzioni": [
+        { "testo": "I'm angry", "info": "neutro" }
+      ]
+    },
+
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm under the weather",
+        "info": "Espressione idiomatica; lieve malessere. (idiom; informal)"
+      },
+      "traduzioni": [
+        { "testo": "Mi sento così così", "info": "idiomatico" }
+      ]
+    },
+    {
+      "contesto": "Come sto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento così così",
+        "info": "Espressione colloquiale. (idiom; informal)"
+      },
+      "traduzioni": [
+        { "testo": "I'm under the weather", "info": "idiomatico" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "contesto": "Lavoro e Carriera",
+  "frasi": [
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good morning, thanks for joining the meeting",
+        "info": "saluto formale, riunione, contesto lavorativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno, grazie per esservi uniti alla riunione",
+          "info": "saluto formale, plurale, contesto lavorativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could we reschedule the meeting?",
+        "info": "richiesta cortese, could, verbo modale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potremmo riprogrammare la riunione?",
+          "info": "condizionale, richiesta gentile"
+        },
+        {
+          "testo": "Possiamo spostare la riunione?",
+          "info": "registro neutro, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a day off",
+        "info": "necessità personale, presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di un giorno libero",
+          "info": "espressione diretta, lavoro"
+        },
+        {
+          "testo": "Avrei bisogno di un giorno di ferie",
+          "info": "registro più formale, condizionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm working remotely today",
+        "info": "present continuous, lavoro remoto, today"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi lavoro da remoto",
+          "info": "avverbio di tempo, lavoro"
+        },
+        {
+          "testo": "Oggi lavoro in smart working",
+          "info": "prestito linguistico, contesto moderno"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll take the lead on this project",
+        "info": "futuro con will, iniziativa personale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi occuperò io di questo progetto",
+          "info": "futuro semplice, enfasi sul soggetto"
+        },
+        {
+          "testo": "Prenderò io la responsabilità di questo progetto",
+          "info": "registro più formale, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like to discuss my career progression",
+        "info": "forma educata, would like, carriera"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei discutere della mia progressione di carriera",
+          "info": "condizionale, contesto formale"
+        },
+        {
+          "testo": "Mi piacerebbe parlare della mia crescita professionale",
+          "info": "sinonimo, linguaggio naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm submitting my application",
+        "info": "present continuous, candidatura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto inviando la mia candidatura",
+          "info": "azione in corso, lavoro"
+        },
+        {
+          "testo": "Sto presentando la mia domanda di lavoro",
+          "info": "esplicativo, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm following up on my application",
+        "info": "phrasal verb, follow up, candidatura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto facendo un follow-up sulla mia candidatura",
+          "info": "prestito linguistico, lavoro"
+        },
+        {
+          "testo": "Sto chiedendo aggiornamenti sulla mia candidatura",
+          "info": "esplicativo, contesto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are the next steps?",
+        "info": "domanda, pianificazione, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quali sono i prossimi passi?",
+          "info": "domanda diretta, lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When can I expect feedback?",
+        "info": "domanda temporale, expect"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando posso aspettarmi un feedback?",
+          "info": "domanda formale, lavoro"
+        },
+        {
+          "testo": "Quando riceverò un riscontro?",
+          "info": "registro formale, sinonimo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno, grazie per esservi uniti alla riunione",
+        "info": "saluto formale, plurale, riunione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good morning, thanks for joining the meeting",
+          "info": "saluto formale, lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potremmo riprogrammare la riunione?",
+        "info": "condizionale, richiesta gentile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could we reschedule the meeting?",
+          "info": "verbo modale, richiesta cortese"
+        },
+        {
+          "testo": "Can we move the meeting?",
+          "info": "registro informale, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di un giorno libero",
+        "info": "necessità personale, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a day off",
+          "info": "presente semplice, lavoro"
+        },
+        {
+          "testo": "I would need a day off",
+          "info": "condizionale, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi lavoro da remoto",
+        "info": "avverbio di tempo, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm working remotely today",
+          "info": "present continuous, today"
+        },
+        {
+          "testo": "Today I'm working from home",
+          "info": "variante comune, lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi occuperò io di questo progetto",
+        "info": "futuro, responsabilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll take the lead on this project",
+          "info": "futuro con will, iniziativa"
+        },
+        {
+          "testo": "I will handle this project",
+          "info": "verbo handle, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei discutere della mia progressione di carriera",
+        "info": "condizionale, contesto formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like to discuss my career progression",
+          "info": "would like, lavoro"
+        },
+        {
+          "testo": "I'd like to talk about my career growth",
+          "info": "sinonimo, linguaggio naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto inviando la mia candidatura",
+        "info": "azione in corso, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm submitting my application",
+          "info": "present continuous, candidatura"
+        },
+        {
+          "testo": "I'm sending my job application",
+          "info": "esplicativo, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto facendo un follow-up sulla mia candidatura",
+        "info": "prestito linguistico, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm following up on my application",
+          "info": "phrasal verb, lavoro"
+        },
+        {
+          "testo": "I'm checking the status of my application",
+          "info": "esplicativo, formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quali sono i prossimi passi?",
+        "info": "domanda, pianificazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are the next steps?",
+          "info": "domanda diretta, lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro e Carriera",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando posso aspettarmi un feedback?",
+        "info": "domanda temporale, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "When can I expect feedback?",
+          "info": "expect, domanda formale"
+        },
+        {
+          "testo": "When will I receive feedback?",
+          "info": "futuro semplice, sinonimo"
+        }
+      ]
+    }
+  ]
+}

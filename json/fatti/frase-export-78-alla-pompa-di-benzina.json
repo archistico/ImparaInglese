@@ -1,0 +1,776 @@
+{
+  "version": 1,
+  "contesto": "Alla pompa di benzina",
+  "frasi": [
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi. Is this self-service or full service?",
+        "info": "Domanda iniziale. Self-service = fai da te; full service = servito (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao. È self-service o servito?",
+          "info": "Domanda tipica all'inizio"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which pump should I use?",
+        "info": "Which = quale (scelta tra opzioni). Should = consiglio/indicazione (modal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quale pompa devo usare?",
+          "info": "Domanda per orientarsi"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Pump number 3, please",
+        "info": "Richiesta al pagamento indicando la pompa. Please = per favore (politeness tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pompa numero 3, per favore",
+          "info": "Formula completa"
+        },
+        {
+          "testo": "Pompa numero 3, grazie",
+          "info": "Variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Unleaded, please",
+        "info": "Unleaded = benzina (senza piombo). In UK/Europe spesso equivale a benzina normale (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Benzina, per favore",
+          "info": "Se intendi benzina (non diesel)"
+        },
+        {
+          "testo": "Benzina verde, per favore",
+          "info": "Variante italiana"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Diesel, please",
+        "info": "Diesel = gasolio (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Gasolio, per favore",
+          "info": "Richiesta carburante"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Fill it up, please",
+        "info": "Fill it up = fare il pieno. It = serbatoio (pronoun) (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Faccia il pieno, per favore",
+          "info": "Formula completa"
+        },
+        {
+          "testo": "Pieno, per favore",
+          "info": "Molto comune e breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Just half a tank, please",
+        "info": "Just = solo. Half a tank = mezzo serbatoio (quantity) (politeness tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Solo mezzo serbatoio, per favore",
+          "info": "Quantità"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Stop at €40, please",
+        "info": "Stop at + amount = fermarsi a una cifra precisa (limit) (request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Si fermi a 40 euro, per favore",
+          "info": "Cortese"
+        },
+        {
+          "testo": "Fermiamoci a 40 euro",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "€50 worth, please",
+        "info": "€... worth = per un valore di... (amount request). Spesso usato con prepagamento (usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "50 euro, per favore",
+          "info": "Forma breve"
+        },
+        {
+          "testo": "Per 50 euro, per favore",
+          "info": "Forma esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is gas per liter?",
+        "info": "In Europa si usa di solito liter; in USA gallon. Gas = benzina (US). In UK spesso petrol (vocabulary tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa la benzina al litro?",
+          "info": "Prezzo unitario"
+        },
+        {
+          "testo": "Quanto costa il carburante al litro?",
+          "info": "Più generico"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you take contactless?",
+        "info": "Take = accettare (verb usage). Contactless = pagamenti senza contatto (payment)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Accettate pagamenti contactless?",
+          "info": "Domanda standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll pay by card",
+        "info": "By card = con carta. By + metodo (preposition usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pago con carta",
+          "info": "Metodo di pagamento"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll pay in cash",
+        "info": "In cash = in contanti. In + forma di pagamento (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pago in contanti",
+          "info": "Metodo di pagamento"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have a receipt, please?",
+        "info": "Could I have = richiesta cortese. Receipt = scontrino/ricevuta (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere lo scontrino, per favore?",
+          "info": "Richiesta cortese"
+        },
+        {
+          "testo": "Mi può fare la ricevuta?",
+          "info": "Variante se serve ricevuta"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the air pump for the tires?",
+        "info": "Air pump = compressore/colonnina aria. Tires (US) / tyres (UK) (spelling tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la colonnina dell'aria per le gomme?",
+          "info": "Domanda posizione"
+        },
+        {
+          "testo": "Dov'è il compressore per le gomme?",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there air for the tires?",
+        "info": "Domanda se il servizio aria è disponibile (availability)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è l'aria per le gomme?",
+          "info": "Domanda breve"
+        },
+        {
+          "testo": "C'è il compressore per le gomme?",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you check the oil and the coolant?",
+        "info": "Coolant = liquido refrigerante (non 'water'). In auto si dice coolant/coolant level (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può controllare l'olio e il liquido refrigerante?",
+          "info": "Termine più corretto di 'acqua'"
+        },
+        {
+          "testo": "Può controllare l'olio e l'acqua del radiatore?",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you clean the windshield?",
+        "info": "Windshield (US) / windscreen (UK). Clean = pulire (vocabulary tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può pulire il parabrezza?",
+          "info": "Richiesta"
+        },
+        {
+          "testo": "Potrebbe pulire il parabrezza, per favore?",
+          "info": "Più cortese (conditional)"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you top up the windshield washer fluid?",
+        "info": "Top up = rabboccare. Windshield washer fluid = liquido lavavetri (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può rabboccare il liquido lavavetri?",
+          "info": "Termine corretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My tire pressure is low",
+        "info": "Tire pressure = pressione delle gomme. Low = bassa (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La pressione delle gomme è bassa",
+          "info": "Problema semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think I put the wrong fuel in",
+        "info": "Wrong fuel = carburante sbagliato. Put in = mettere nel serbatoio (phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo di aver messo il carburante sbagliato",
+          "info": "Situazione urgente"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me? My car won't start",
+        "info": "Won't start = non si avvia. Can you help me? = richiesta aiuto (problem situation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aiutarmi? La mia macchina non parte",
+          "info": "Richiesta di aiuto"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the station open 24 hours?",
+        "info": "Open 24 hours = aperto 24 ore su 24 (opening hours)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La stazione di servizio è aperta 24 ore su 24?",
+          "info": "Orari"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I pay?",
+        "info": "Where can I pay? = dove si paga? (simple question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso pagare?",
+          "info": "Domanda comune"
+        },
+        {
+          "testo": "Dove si paga?",
+          "info": "Forma più diretta"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao. È self-service o servito?",
+        "info": "Domanda iniziale (service type)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi. Is this self-service or full service?",
+          "info": "Self-service vs full service"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quale pompa devo usare?",
+        "info": "Which = quale (choice). Should = consiglio/indicazione (modal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which pump should I use?",
+          "info": "Which + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pompa numero 3, per favore",
+        "info": "Indicazione della pompa al pagamento (politeness tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pump number 3, please",
+          "info": "Please = cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Benzina, per favore",
+        "info": "Benzina = unleaded/petrol a seconda del paese (vocabulary tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Unleaded, please",
+          "info": "US term"
+        },
+        {
+          "testo": "Petrol, please",
+          "info": "UK term"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Gasolio, per favore",
+        "info": "Diesel = gasolio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Diesel, please",
+          "info": "Fuel type"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Faccia il pieno, per favore",
+        "info": "Fill it up = fare il pieno (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fill it up, please",
+          "info": "Common request"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Solo mezzo serbatoio, per favore",
+        "info": "Just = solo. Half a tank = quantità (quantity)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Just half a tank, please",
+          "info": "Quantity request"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Si fermi a 40 euro, per favore",
+        "info": "Stop at + amount = limite di spesa (limit)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stop at €40, please",
+          "info": "Stop at + amount"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per 50 euro, per favore",
+        "info": "€... worth = per un valore di (prepaid amount)"
+      },
+      "traduzioni": [
+        {
+          "testo": "€50 worth, please",
+          "info": "Worth = value"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa la benzina al litro?",
+        "info": "Domanda sul prezzo unitario. In Europa: liter; in USA: gallon (unit tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is gas per liter?",
+          "info": "US: gas"
+        },
+        {
+          "testo": "How much is petrol per liter?",
+          "info": "UK: petrol"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Accettate pagamenti contactless?",
+        "info": "Take = accept (verb usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you take contactless?",
+          "info": "Payment method"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pago con carta",
+        "info": "By card = con carta (preposition usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll pay by card",
+          "info": "By + method"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pago in contanti",
+        "info": "In cash = in contanti (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll pay in cash",
+          "info": "In + cash"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere lo scontrino, per favore?",
+        "info": "Could I have = richiesta molto cortese (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have a receipt, please?",
+          "info": "Receipt = scontrino/ricevuta"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la colonnina dell'aria per le gomme?",
+        "info": "Tires (US) / tyres (UK) (spelling tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the air pump for the tires?",
+          "info": "Air pump = compressor"
+        },
+        {
+          "testo": "Where is the air pump for the tyres?",
+          "info": "UK spelling"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può controllare l'olio e il liquido refrigerante?",
+        "info": "Coolant = liquido refrigerante (più corretto di 'water')"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you check the oil and the coolant?",
+          "info": "Check = controllare"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può pulire il parabrezza?",
+        "info": "Windshield (US) / windscreen (UK) (vocabulary tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you clean the windshield?",
+          "info": "US term"
+        },
+        {
+          "testo": "Could you clean the windscreen?",
+          "info": "UK term"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può rabboccare il liquido lavavetri?",
+        "info": "Top up = rabboccare (phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you top up the windshield washer fluid?",
+          "info": "Washer fluid = liquido lavavetri"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La pressione delle gomme è bassa",
+        "info": "Tire pressure = pressione gomme (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My tire pressure is low",
+          "info": "Low = bassa"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo di aver messo il carburante sbagliato",
+        "info": "Wrong fuel = carburante sbagliato (problem phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think I put the wrong fuel in",
+          "info": "Put in = mettere nel serbatoio"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aiutarmi? La mia macchina non parte",
+        "info": "Won't start = non si avvia (common problem)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me? My car won't start",
+          "info": "Help request"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La stazione di servizio è aperta 24 ore su 24?",
+        "info": "Open 24 hours = aperto 24 ore (opening hours)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the station open 24 hours?",
+          "info": "Hours question"
+        }
+      ]
+    },
+    {
+      "contesto": "Alla pompa di benzina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso pagare?",
+        "info": "Where ...? = domanda posizione cassa (simple question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I pay?",
+          "info": "Common"
+        }
+      ]
+    }
+  ]
+}

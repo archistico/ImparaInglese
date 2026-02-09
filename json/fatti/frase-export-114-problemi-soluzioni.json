@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "contesto": "Problemi / Soluzioni",
+  "frasi": [
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, I have a problem with this product",
+        "info": "present simple, richiesta di aiuto, situazione formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, ho un problema con questo prodotto",
+          "info": "presente indicativo, contesto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It is not working properly",
+        "info": "present continuous, problema tecnico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non funziona correttamente",
+          "info": "presente indicativo, avverbio di modo"
+        },
+        {
+          "testo": "Non sta funzionando bene",
+          "info": "presente progressivo, enfasi temporale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It is broken and I need help",
+        "info": "present simple, coordinazione, bisogno"
+      },
+      "traduzioni": [
+        {
+          "testo": "È rotto e ho bisogno di aiuto",
+          "info": "presente indicativo, espressione di necessità"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you fix it, please?",
+        "info": "forma interrogativa, richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aggiustarlo, per favore?",
+          "info": "forma di cortesia, domanda"
+        },
+        {
+          "testo": "Può ripararlo, per favore?",
+          "info": "verbo alternativo, contesto tecnico"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long will it take to fix it?",
+        "info": "future with will, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto tempo ci vorrà per aggiustarlo?",
+          "info": "futuro semplice, durata"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much will it cost?",
+        "info": "future with will, costo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costerà?",
+          "info": "futuro semplice, prezzo"
+        },
+        {
+          "testo": "Quanto verrà a costare?",
+          "info": "forma alternativa, uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you need the receipt?",
+        "info": "present simple, domanda informativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha bisogno della ricevuta?",
+          "info": "presente indicativo, contesto commerciale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a receipt for this repair",
+        "info": "present simple, necessità, specificazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve la ricevuta per questa riparazione",
+          "info": "presente indicativo, scopo"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I speak to your superior?",
+        "info": "modal can, richiesta formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso parlare con il suo superiore?",
+          "info": "forma di cortesia, contesto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know what happened to it",
+        "info": "past simple, evento sconosciuto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so cosa gli sia successo",
+          "info": "passato prossimo, causa ignota"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, ho un problema con questo prodotto",
+        "info": "presente indicativo, richiesta di aiuto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, I have a problem with this product",
+          "info": "present simple, situazione formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non funziona correttamente",
+        "info": "presente indicativo, problema tecnico"
+      },
+      "traduzioni": [
+        {
+          "testo": "It is not working properly",
+          "info": "present continuous, problema temporaneo"
+        },
+        {
+          "testo": "It doesn't work properly",
+          "info": "present simple, problema generale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È rotto e ho bisogno di aiuto",
+        "info": "presente indicativo, coordinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "It is broken and I need help",
+          "info": "present simple, bisogno"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aggiustarlo, per favore?",
+        "info": "domanda, forma di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you fix it, please?",
+          "info": "modal can, richiesta"
+        },
+        {
+          "testo": "Could you fix it, please?",
+          "info": "modal could, maggiore cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto tempo ci vorrà per aggiustarlo?",
+        "info": "futuro semplice, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long will it take to fix it?",
+          "info": "future with will, durata"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costerà?",
+        "info": "futuro semplice, prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much will it cost?",
+          "info": "future with will, costo"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi serve la ricevuta per questa riparazione",
+        "info": "presente indicativo, necessità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a receipt for this repair",
+          "info": "present simple, scopo"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso parlare con il suo superiore?",
+        "info": "domanda, contesto formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I speak to your superior?",
+          "info": "modal can, contesto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Problemi / Soluzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so cosa gli sia successo",
+        "info": "passato prossimo, evento ignoto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know what happened to it",
+          "info": "past simple, evento"
+        }
+      ]
+    }
+  ]
+}

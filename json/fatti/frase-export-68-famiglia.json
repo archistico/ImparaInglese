@@ -1,0 +1,427 @@
+{
+  "version": 1,
+  "contesto": "Famiglia",
+  "frasi": [
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Father / Dad",
+        "info": "Padre: forma neutra (father) e informale (dad) (family vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Padre / Papà",
+          "info": "Forma neutra e affettiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Mother / Mom",
+        "info": "Madre: forma neutra (mother) e informale (mom)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Madre / Mamma",
+          "info": "Forma neutra e affettiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Parents",
+        "info": "Plurale: entrambi i genitori"
+      },
+      "traduzioni": [
+        {
+          "testo": "Genitori",
+          "info": "Padre e madre"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Brother / Sister",
+        "info": "Fratelli e sorelle (siblings)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fratello / Sorella",
+          "info": "Singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Son / Daughter",
+        "info": "Figli (children)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Figlio / Figlia",
+          "info": "Singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Husband / Wife",
+        "info": "Relazione matrimoniale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Marito / Moglie",
+          "info": "Coniuge"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Partner / Boyfriend / Girlfriend",
+        "info": "Relazioni sentimentali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Compagno / Fidanzato / Compagna / Fidanzata",
+          "info": "Dipende dal contesto e dal genere"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Uncle / Aunt",
+        "info": "Parenti diretti dei genitori"
+      },
+      "traduzioni": [
+        {
+          "testo": "Zio / Zia",
+          "info": "Fratello o sorella del genitore"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Cousin",
+        "info": "In inglese non distingue genere (male/female)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cugino / Cugina",
+          "info": "Il genere si specifica in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nephew / Niece / Grandchild",
+        "info": "Nipote: ambiguità tra figlio di fratello/sorella e figlio dei figli"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nipote",
+          "info": "In italiano un solo termine"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Grandfather / Grandpa",
+        "info": "Nonno: forma neutra e affettuosa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nonno",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Grandmother / Grandma",
+        "info": "Nonna: forma neutra e affettuosa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nonna",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Great-grandfather / Great-grandmother",
+        "info": "Generazioni precedenti"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bisnonno / Bisnonna",
+          "info": "Prefisso bis-"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Father-in-law / Mother-in-law",
+        "info": "Genitori del coniuge"
+      },
+      "traduzioni": [
+        {
+          "testo": "Suocero / Suocera",
+          "info": "Relazione acquisita"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Brother-in-law / Sister-in-law",
+        "info": "Parenti acquisiti tramite matrimonio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cognato / Cognata",
+          "info": "Relazione acquisita"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Stepfather / Stepmother / Stepson / Stepdaughter",
+        "info": "Famiglia ricostituita (step-family)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Patrigno / Matrigna / Figliastro / Figliastra",
+          "info": "Relazioni non biologiche"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm married / I'm single",
+        "info": "Stato civile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono sposato / Sono single",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm an only child",
+        "info": "Figlio unico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono figlio unico",
+          "info": "Maschile; femminile: figlia unica"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How old are you? / I'm 30 years old",
+        "info": "Età: struttura con years old"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanti anni hai? / Ho 30 anni",
+          "info": "In italiano non si usa 'anni vecchio'"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my family / I live with my family",
+        "info": "Presentazione della famiglia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è la mia famiglia / Vivo con la mia famiglia",
+          "info": "Frasi comuni"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Padre / Papà",
+        "info": "Forme neutra e informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Father / Dad",
+          "info": "Neutral vs informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Madre / Mamma",
+        "info": "Forme neutra e informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mother / Mom",
+          "info": "Neutral vs informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fratello / Sorella",
+        "info": "Sibling"
+      },
+      "traduzioni": [
+        {
+          "testo": "Brother / Sister",
+          "info": "Singular"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Figlio / Figlia",
+        "info": "Children"
+      },
+      "traduzioni": [
+        {
+          "testo": "Son / Daughter",
+          "info": "Singular"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Zio / Zia",
+        "info": "Parenti dei genitori"
+      },
+      "traduzioni": [
+        {
+          "testo": "Uncle / Aunt",
+          "info": "No gender distinction in English"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cugino / Cugina",
+        "info": "In italiano il genere è distinto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cousin",
+          "info": "Gender-neutral"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono sposato / Sono single",
+        "info": "Stato civile"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm married / I'm single",
+          "info": "Marital status"
+        }
+      ]
+    },
+    {
+      "contesto": "Famiglia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanti anni hai? / Ho 30 anni",
+        "info": "Età"
+      },
+      "traduzioni": [
+        {
+          "testo": "How old are you? / I'm 30 years old",
+          "info": "Use 'years old'"
+        }
+      ]
+    }
+  ]
+}

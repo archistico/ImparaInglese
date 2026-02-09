@@ -1,0 +1,431 @@
+{
+  "version": 1,
+  "contesto": "Museo",
+  "frasi": [
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello, is this your first time here?",
+        "info": "saluto, present simple, domanda generale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, è la tua prima volta qui?",
+          "info": "saluto informale, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I buy tickets?",
+        "info": "wh question, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso comprare i biglietti?",
+          "info": "domanda di luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a student discount?",
+        "info": "there is, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è uno sconto studenti?",
+          "info": "domanda su servizio"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are guided tours available?",
+        "info": "present simple passivo, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono disponibili visite guidate?",
+          "info": "forma passiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there an audio guide available?",
+        "info": "there is, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un'audioguida disponibile?",
+          "info": "servizi del museo"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does the museum close?",
+        "info": "wh question, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora chiude il museo?",
+          "info": "orari"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are photos allowed?",
+        "info": "present simple passivo, regole"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le foto sono permesse?",
+          "info": "regole del museo"
+        },
+        {
+          "testo": "È consentito fare foto?",
+          "info": "forma impersonale"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I leave my backpack here?",
+        "info": "modal verb can, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso lasciare qui il mio zaino?",
+          "info": "richiesta cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the coat check?",
+        "info": "wh question, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove si trova il guardaroba?",
+          "info": "servizi"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are the restrooms?",
+        "info": "plurale, wh question"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove sono i bagni?",
+          "info": "servizi"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the Renaissance art section?",
+        "info": "specificazione, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove si trova la sezione d'arte rinascimentale?",
+          "info": "lessico artistico"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this the way to the special exhibition?",
+        "info": "dimostrativo, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è la strada per la mostra speciale?",
+          "info": "indicazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I re-enter with this ticket?",
+        "info": "modal verb can, permesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso rientrare con questo biglietto?",
+          "info": "permesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the museum exit?",
+        "info": "wh question, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'uscita del museo?",
+          "info": "orientamento"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, è la tua prima volta qui?",
+        "info": "saluto, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello, is this your first time here?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso comprare i biglietti?",
+        "info": "domanda di luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I buy tickets?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è uno sconto studenti?",
+        "info": "domanda su servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a student discount?",
+          "info": "there is question"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono disponibili visite guidate?",
+        "info": "forma passiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are guided tours available?",
+          "info": "present simple passive"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un'audioguida disponibile?",
+        "info": "servizi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there an audio guide available?",
+          "info": "there is question"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora chiude il museo?",
+        "info": "orari"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does the museum close?",
+          "info": "wh question"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le foto sono permesse?",
+        "info": "regole"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are photos allowed?",
+          "info": "passive form"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso lasciare qui il mio zaino?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I leave my backpack here?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove si trova il guardaroba?",
+        "info": "luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the coat check?",
+          "info": "wh question"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono i bagni?",
+        "info": "servizi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are the restrooms?",
+          "info": "plural form"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove si trova la sezione d'arte rinascimentale?",
+        "info": "arte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the Renaissance art section?",
+          "info": "specific vocabulary"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa è la strada per la mostra speciale?",
+        "info": "indicazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this the way to the special exhibition?",
+          "info": "demonstrative this"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso rientrare con questo biglietto?",
+        "info": "permesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I re-enter with this ticket?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Museo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è l'uscita del museo?",
+        "info": "orientamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the museum exit?",
+          "info": "wh question"
+        }
+      ]
+    }
+  ]
+}

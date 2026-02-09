@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "contesto": "Rispondere a una buona notizia",
+  "frasi": [
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Congratulations! / Congrats!",
+        "info": "Risposta standard a una buona notizia personale o professionale (registro neutro)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Complimenti! / Congratulazioni!",
+          "info": "(esclamazione, uso generale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That's good news! / This is such good news!",
+        "info": "Commento diretto alla notizia ricevuta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ottima notizia! / Questa è davvero una bella notizia!",
+          "info": "(frase completa, reazione positiva)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm happy for you / I'm so happy for you",
+        "info": "Esprime partecipazione emotiva (empatia positiva)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono felice per te / Sono così felice per te",
+          "info": "(uso personale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm glad to hear that",
+        "info": "Risposta cortese e neutra"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi fa piacere",
+          "info": "(forma breve)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Amazing! / That's amazing!",
+        "info": "Reazione entusiasta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Incredibile! / È incredibile!",
+          "info": "(esclamazione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Awesome! / That's awesome!",
+        "info": "Registro informale, molto comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fantastico! / Che figata!",
+          "info": "(colloquiale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Fantastic! / That's great!",
+        "info": "Reazione positiva generica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fantastico! / È magnifico!",
+          "info": "(uso comune)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Brilliant!",
+        "info": "Apprezzamento forte (soprattutto UK)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Geniale!",
+          "info": "(enfatico)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excellent! / Perfect!",
+        "info": "Valutazione molto positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Eccellente! / Perfetto!",
+          "info": "(valutativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm proud of you / I'm so proud of you!",
+        "info": "Orgoglio personale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono orgoglioso/a di te!",
+          "info": "(accordo di genere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You deserve it!",
+        "info": "Riconoscimento del merito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Te lo meriti!",
+          "info": "(frase idiomatica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't believe it! / Really?",
+        "info": "Sorpresa positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non ci posso credere! / Davvero?",
+          "info": "(reazione spontanea)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm thrilled for you!",
+        "info": "Entusiasmo intenso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono entusiasta per te!",
+          "info": "(registro emotivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hooray! / Wow!",
+        "info": "Esclamazioni brevi di gioia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Evviva! / Wow!",
+          "info": "(interiezioni)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What a success! / What a surprise!",
+        "info": "Commento enfatico sull’evento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che successo! / Che sorpresa!",
+          "info": "(struttura What a + nome)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Complimenti! / Congratulazioni!",
+        "info": "Risposta standard a una buona notizia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Congratulations! / Congrats!",
+          "info": "(uso generale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ottima notizia! / Questa è davvero una bella notizia!",
+        "info": "Commento diretto alla notizia"
+      },
+      "traduzioni": [
+        {
+          "testo": "That's good news! / This is such good news!",
+          "info": "(reazione positiva)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono felice per te / Sono così felice per te",
+        "info": "Partecipazione emotiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm happy for you / I'm so happy for you",
+          "info": "(empatia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi fa piacere",
+        "info": "Risposta cortese e breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm glad to hear that",
+          "info": "(formula fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Incredibile! / È incredibile!",
+        "info": "Reazione entusiasta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Amazing! / That's amazing!",
+          "info": "(esclamazione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fantastico! / Che figata!",
+        "info": "Registro informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fantastic! / That's awesome!",
+          "info": "(colloquiale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Geniale!",
+        "info": "Apprezzamento forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Brilliant!",
+          "info": "(uso UK frequente)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Eccellente! / Perfetto!",
+        "info": "Valutazione positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excellent! / Perfect!",
+          "info": "(valutativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono orgoglioso/a di te!",
+        "info": "Orgoglio personale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm proud of you / I'm so proud of you!",
+          "info": "(accordo neutro in inglese)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Te lo meriti!",
+        "info": "Riconoscimento del merito"
+      },
+      "traduzioni": [
+        {
+          "testo": "You deserve it!",
+          "info": "(idiomatico)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ci posso credere! / Davvero?",
+        "info": "Sorpresa positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't believe it! / Really?",
+          "info": "(reazione spontanea)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono entusiasta per te!",
+        "info": "Entusiasmo intenso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm thrilled for you!",
+          "info": "(registro emotivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Evviva! / Wow!",
+        "info": "Esclamazioni brevi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hooray! / Wow!",
+          "info": "(interiezioni)"
+        }
+      ]
+    },
+    {
+      "contesto": "Rispondere a una buona notizia",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che successo! / Che sorpresa!",
+        "info": "Commento enfatico"
+      },
+      "traduzioni": [
+        {
+          "testo": "What a success! / What a surprise!",
+          "info": "(struttura What a + nome)"
+        }
+      ]
+    }
+  ]
+}

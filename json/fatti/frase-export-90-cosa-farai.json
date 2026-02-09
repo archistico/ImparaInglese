@@ -1,0 +1,755 @@
+{
+  "version": 1,
+  "contesto": "Cosa farai",
+  "frasi": [
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you going to do?",
+        "info": "going to, question, future plan"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa farai?",
+          "info": "futuro, domanda"
+        },
+        {
+          "testo": "Che cosa hai intenzione di fare?",
+          "info": "intenzione, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you going to do tonight?",
+        "info": "going to, question, time expression, tonight"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa farai stasera?",
+          "info": "futuro, tempo"
+        },
+        {
+          "testo": "Che programmi hai per stasera?",
+          "info": "programmi, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to go to work.",
+        "info": "going to, future plan, verb go"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andrò a lavorare.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a lavorare.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to go to work.",
+        "info": "have to, obligation, present meaning future"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo andare a lavorare.",
+          "info": "dovere, obbligo"
+        },
+        {
+          "testo": "Devo andare al lavoro.",
+          "info": "dovere, obbligo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to clean the house.",
+        "info": "have to, obligation, chores"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo pulire la casa.",
+          "info": "dovere, faccende"
+        },
+        {
+          "testo": "Devo fare le pulizie in casa.",
+          "info": "dovere, faccende, piu naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to clean the house.",
+        "info": "going to, future plan, chores"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pulirò la casa.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Sto per pulire la casa.",
+          "info": "sto per, futuro immediato"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to study.",
+        "info": "have to, obligation, study"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo studiare.",
+          "info": "dovere, studio"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to study this evening.",
+        "info": "going to, future plan, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Studierò stasera.",
+          "info": "futuro, tempo"
+        },
+        {
+          "testo": "Stasera studierò.",
+          "info": "futuro, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to work out.",
+        "info": "have to, obligation, routine, fitness"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo allenarmi.",
+          "info": "dovere, routine"
+        },
+        {
+          "testo": "Devo fare allenamento.",
+          "info": "dovere, routine"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to work out later.",
+        "info": "going to, future plan, time expression, later"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi allenerò più tardi.",
+          "info": "futuro, tempo"
+        },
+        {
+          "testo": "Più tardi mi alleno.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to take the dog for a walk.",
+        "info": "have to, obligation, routine, take for a walk"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo portare fuori il cane.",
+          "info": "dovere, routine"
+        },
+        {
+          "testo": "Devo portare il cane a fare una passeggiata.",
+          "info": "dovere, routine, piu esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to take the dog for a walk.",
+        "info": "going to, future plan, take for a walk"
+      },
+      "traduzioni": [
+        {
+          "testo": "Porterò fuori il cane.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Sto per portare fuori il cane.",
+          "info": "sto per, futuro immediato"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to go shopping.",
+        "info": "going to, future plan, shopping"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andrò a fare shopping.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a fare shopping.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to buy groceries.",
+        "info": "going to, future plan, groceries"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andrò a fare la spesa.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a comprare da mangiare.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to eat.",
+        "info": "going to, future plan, basic verb eat"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mangerò.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a mangiare.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to have lunch.",
+        "info": "going to, future plan, meal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andrò a pranzare.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a pranzo.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to sleep.",
+        "info": "going to, future plan, sleep"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andrò a dormire.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Vado a dormire.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to take a shower.",
+        "info": "going to, future plan, routine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Farò una doccia.",
+          "info": "futuro, routine"
+        },
+        {
+          "testo": "Vado a farmi una doccia.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to call you later.",
+        "info": "going to, future plan, time expression, later"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti chiamerò più tardi.",
+          "info": "futuro, tempo"
+        },
+        {
+          "testo": "Ti chiamo più tardi.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to run an errand.",
+        "info": "have to, obligation, errand"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo fare una commissione.",
+          "info": "dovere, commissione"
+        },
+        {
+          "testo": "Devo sbrigare una cosa.",
+          "info": "colloquiale, commissione"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to meet a friend.",
+        "info": "going to, future plan, social"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vedrò un amico.",
+          "info": "futuro, incontro"
+        },
+        {
+          "testo": "Incontrerò un amico.",
+          "info": "futuro, incontro"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to stay home.",
+        "info": "going to, future plan, stay home"
+      },
+      "traduzioni": [
+        {
+          "testo": "Resterò a casa.",
+          "info": "futuro, intenzione"
+        },
+        {
+          "testo": "Sto a casa.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to leave now.",
+        "info": "have to, obligation, time expression, now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo andare via adesso.",
+          "info": "dovere, adesso"
+        },
+        {
+          "testo": "Devo scappare adesso.",
+          "info": "colloquiale, adesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to leave soon.",
+        "info": "going to, future plan, time expression, soon"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tra poco andrò via.",
+          "info": "futuro, tempo"
+        },
+        {
+          "testo": "Sto per andare via.",
+          "info": "sto per, futuro immediato"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have to do my homework.",
+        "info": "have to, obligation, homework"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo fare i compiti.",
+          "info": "dovere, studio"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to do some homework.",
+        "info": "going to, future plan, homework"
+      },
+      "traduzioni": [
+        {
+          "testo": "Farò un po' di compiti.",
+          "info": "futuro, studio"
+        },
+        {
+          "testo": "Vado a fare un po' di compiti.",
+          "info": "presente con valore futuro, colloquiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa farai?",
+        "info": "futuro, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you going to do?",
+          "info": "going to, question, future plan"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa farai stasera?",
+        "info": "futuro, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you going to do tonight?",
+          "info": "going to, question, time expression"
+        },
+        {
+          "testo": "What are you doing tonight?",
+          "info": "present continuous, future plan, time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo andare a lavorare.",
+        "info": "dovere, obbligo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to go to work.",
+          "info": "have to, obligation"
+        },
+        {
+          "testo": "I need to go to work.",
+          "info": "need to, obligation, common"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Andrò a lavorare.",
+        "info": "futuro, intenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to go to work.",
+          "info": "going to, future plan"
+        },
+        {
+          "testo": "I'm going to work.",
+          "info": "going to, future plan, shorter"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo pulire la casa.",
+        "info": "dovere, faccende"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to clean the house.",
+          "info": "have to, obligation, chores"
+        },
+        {
+          "testo": "I need to clean the house.",
+          "info": "need to, obligation, chores"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo studiare.",
+        "info": "dovere, studio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to study.",
+          "info": "have to, obligation, study"
+        },
+        {
+          "testo": "I need to study.",
+          "info": "need to, obligation, study"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo allenarmi.",
+        "info": "dovere, routine"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to work out.",
+          "info": "have to, obligation, fitness"
+        },
+        {
+          "testo": "I need to work out.",
+          "info": "need to, obligation, fitness"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo portare fuori il cane.",
+        "info": "dovere, routine"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to take the dog for a walk.",
+          "info": "have to, obligation, take for a walk"
+        },
+        {
+          "testo": "I need to walk the dog.",
+          "info": "need to, obligation, shorter"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Andrò a fare shopping.",
+        "info": "futuro, intenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to go shopping.",
+          "info": "going to, future plan"
+        },
+        {
+          "testo": "I'm going shopping.",
+          "info": "present continuous, future plan, shorter"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Andrò a fare la spesa.",
+        "info": "futuro, intenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to buy groceries.",
+          "info": "going to, future plan, groceries"
+        },
+        {
+          "testo": "I'm going grocery shopping.",
+          "info": "present continuous, future plan, groceries"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mangerò.",
+        "info": "futuro, intenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to eat.",
+          "info": "going to, future plan"
+        },
+        {
+          "testo": "I'll eat.",
+          "info": "will, decision, short"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Andrò a dormire.",
+        "info": "futuro, intenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to sleep.",
+          "info": "going to, future plan"
+        },
+        {
+          "testo": "I'm going to bed.",
+          "info": "going to, future plan, idiom"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo andare via adesso.",
+        "info": "dovere, adesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have to leave now.",
+          "info": "have to, obligation, now"
+        },
+        {
+          "testo": "I need to go now.",
+          "info": "need to, obligation, now"
+        }
+      ]
+    },
+    {
+      "contesto": "Cosa farai",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti chiamerò più tardi.",
+        "info": "futuro, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to call you later.",
+          "info": "going to, future plan, later"
+        },
+        {
+          "testo": "I'll call you later.",
+          "info": "will, promise, later"
+        }
+      ]
+    }
+  ]
+}

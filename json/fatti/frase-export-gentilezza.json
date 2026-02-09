@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "contesto": "Gentilezza",
+  "frasi": [
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore, puoi aiutarmi?",
+        "info": "richiesta gentile, per favore, verbo potere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please, can you help me?",
+          "info": "please, modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti aiutarmi per favore?",
+        "info": "condizionale, richiesta più educata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you help me, please?",
+          "info": "modal verb could, polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe gentilmente ripetere?",
+        "info": "condizionale formale, avverbio gentilmente"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you kindly repeat that?",
+          "info": "formal polite request, kindly"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi scusi, posso farle una domanda?",
+        "info": "formula di apertura, forma di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, may I ask you a question?",
+          "info": "excuse me, modal verb may"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avrebbe un momento per aiutarmi?",
+        "info": "condizionale, richiesta indiretta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Would you have a moment to help me?",
+          "info": "would, polite indirect request"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sarebbe così gentile da spiegarmi?",
+        "info": "formula molto cortese, condizionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Would you be so kind as to explain it to me?",
+          "info": "very polite structure, would be so kind"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore, mi può dire come funziona?",
+        "info": "domanda informativa, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please, can you tell me how it works?",
+          "info": "indirect question, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace disturbarla, ma avrei bisogno di aiuto",
+        "info": "scusa iniziale, forma molto educata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry to bother you, but I would need some help",
+          "info": "apology, conditional"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Se non è un problema, potrebbe aiutarmi?",
+        "info": "condizione di cortesia, condizionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "If it's not a problem, could you help me?",
+          "info": "conditional clause, could"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando ha tempo, potrebbe rispondermi?",
+        "info": "richiesta non urgente, condizionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "When you have time, could you reply to me?",
+          "info": "polite timing, could"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please, can you help me?",
+        "info": "please, richiesta diretta gentile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore, puoi aiutarmi?",
+          "info": "per favore, verbo potere"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you help me, please?",
+        "info": "could, forma più educata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti aiutarmi per favore?",
+          "info": "condizionale di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, may I ask you a question?",
+        "info": "excuse me, may, formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi scusi, posso farle una domanda?",
+          "info": "forma di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Would you have a moment to help me?",
+        "info": "would, richiesta indiretta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avrebbe un momento per aiutarmi?",
+          "info": "condizionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Would you be so kind as to explain it to me?",
+        "info": "struttura molto cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sarebbe così gentile da spiegarmelo?",
+          "info": "formula molto educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry to bother you, but I would need some help",
+        "info": "apologia iniziale, condizionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace disturbarla, ma avrei bisogno di aiuto",
+          "info": "scusa, condizionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "If it's not a problem, could you help me?",
+        "info": "condizione di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Se non è un problema, potrebbe aiutarmi?",
+          "info": "condizionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Gentilezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When you have time, could you reply to me?",
+        "info": "richiesta non urgente"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando ha tempo, potrebbe rispondermi?",
+          "info": "tono educato"
+        }
+      ]
+    }
+  ]
+}

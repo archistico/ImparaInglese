@@ -1,0 +1,1165 @@
+{
+  "version": 1,
+  "contesto": "Frasi per contesti romantici",
+  "frasi": [
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, can I sit here?",
+        "info": "approccio, richiesta gentile, can, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, posso sedermi qui?",
+          "info": "approccio, domanda"
+        },
+        {
+          "testo": "Ciao, posso sedermi qui accanto a te?",
+          "info": "approccio, qui accanto"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your name?",
+        "info": "conoscersi, domanda, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come ti chiami?",
+          "info": "conoscersi, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nice to meet you.",
+        "info": "conoscersi, formula fissa, saluto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Piacere di conoscerti.",
+          "info": "conoscersi, formula fissa"
+        },
+        {
+          "testo": "Piacere.",
+          "info": "conoscersi, breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You look great today.",
+        "info": "complimento, look, oggi, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stai benissimo oggi.",
+          "info": "complimento, oggi"
+        },
+        {
+          "testo": "Sei splendida oggi.",
+          "info": "complimento, femminile"
+        },
+        {
+          "testo": "Sei splendido oggi.",
+          "info": "complimento, maschile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like talking with you.",
+        "info": "interesse, like, gerund, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace parlare con te.",
+          "info": "interesse, mi piace"
+        },
+        {
+          "testo": "Mi piace chiacchierare con te.",
+          "info": "interesse, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have your number?",
+        "info": "contatto, richiesta, can, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere il tuo numero?",
+          "info": "contatto, domanda"
+        },
+        {
+          "testo": "Mi dai il tuo numero?",
+          "info": "contatto, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Would you like to go out sometime?",
+        "info": "invito, would like, domanda, sometime"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti va di uscire qualche volta?",
+          "info": "invito, informale"
+        },
+        {
+          "testo": "Ti piacerebbe uscire insieme un giorno?",
+          "info": "invito, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's go on a date.",
+        "info": "invito, let's, proposta, appuntamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Usciamo insieme.",
+          "info": "invito, naturale"
+        },
+        {
+          "testo": "Andiamo a un appuntamento.",
+          "info": "invito, più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you free this weekend?",
+        "info": "organizzazione, domanda, this weekend, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei libero questo weekend?",
+          "info": "organizzazione, maschile"
+        },
+        {
+          "testo": "Sei libera questo weekend?",
+          "info": "organizzazione, femminile"
+        },
+        {
+          "testo": "Hai tempo questo fine settimana?",
+          "info": "organizzazione, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a crush on you.",
+        "info": "sentimenti, espressione, present simple, crush"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho una cotta per te.",
+          "info": "sentimenti, espressione comune"
+        },
+        {
+          "testo": "Mi piaci tanto.",
+          "info": "sentimenti, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like you more than a friend.",
+        "info": "sentimenti, confronto, more than, amicizia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piaci più di un amico.",
+          "info": "sentimenti, maschile"
+        },
+        {
+          "testo": "Mi piaci più di un'amica.",
+          "info": "sentimenti, femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think I'm falling for you.",
+        "info": "sentimenti, think, present continuous, espressione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo che mi stia innamorando di te.",
+          "info": "sentimenti, progressivo"
+        },
+        {
+          "testo": "Penso che mi sto innamorando di te.",
+          "info": "sentimenti, più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want to be my boyfriend?",
+        "info": "relazione, domanda, want, boyfriend"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi essere il mio ragazzo?",
+          "info": "relazione, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want to be my girlfriend?",
+        "info": "relazione, domanda, want, girlfriend"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi essere la mia ragazza?",
+          "info": "relazione, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I love you.",
+        "info": "amore, dichiarazione, present simple, forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti amo.",
+          "info": "amore, forte"
+        },
+        {
+          "testo": "Ti voglio bene.",
+          "info": "affetto, più dolce"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I miss you.",
+        "info": "nostalgia, present simple, miss, quotidiano"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi manchi.",
+          "info": "nostalgia, semplice"
+        },
+        {
+          "testo": "Mi manchi tanto.",
+          "info": "nostalgia, intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm thinking about you.",
+        "info": "affetto, present continuous, thinking, messaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto pensando a te.",
+          "info": "affetto, progressivo"
+        },
+        {
+          "testo": "Ti sto pensando.",
+          "info": "affetto, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You're my sweetheart.",
+        "info": "affetto, possessivo, vocativo, sweetheart"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei il mio tesoro.",
+          "info": "affetto, comune"
+        },
+        {
+          "testo": "Sei il mio amore.",
+          "info": "affetto, più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You make me happy.",
+        "info": "emozioni, make, complemento oggetto, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi rendi felice.",
+          "info": "emozioni, semplice"
+        },
+        {
+          "testo": "Mi fai stare bene.",
+          "info": "emozioni, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I hold your hand?",
+        "info": "consenso, richiesta, can, hold hands"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso tenerti la mano?",
+          "info": "consenso, romantico"
+        },
+        {
+          "testo": "Posso prenderti la mano?",
+          "info": "consenso, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I kiss you?",
+        "info": "consenso, richiesta, can, kiss"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso baciarti?",
+          "info": "consenso, diretto"
+        },
+        {
+          "testo": "Ti posso dare un bacio?",
+          "info": "consenso, più dolce"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this okay?",
+        "info": "consenso, controllo, domanda, ok"
+      },
+      "traduzioni": [
+        {
+          "testo": "Va bene così?",
+          "info": "consenso, domanda"
+        },
+        {
+          "testo": "Ti va bene?",
+          "info": "consenso, breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want to take it slow.",
+        "info": "confini, want, espressione, take it slow"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei andarci piano.",
+          "info": "confini, naturale"
+        },
+        {
+          "testo": "Voglio prendermela con calma.",
+          "info": "confini, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need some space.",
+        "info": "confini, need, spazio, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di un po' di spazio.",
+          "info": "confini, chiaro"
+        },
+        {
+          "testo": "Ho bisogno di un po' di tempo per me.",
+          "info": "confini, più morbido"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry. I didn't mean to hurt you.",
+        "info": "scuse, past simple, mean to, emozioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace. Non volevo ferirti.",
+          "info": "scuse, chiaro"
+        },
+        {
+          "testo": "Scusa. Non era mia intenzione farti del male.",
+          "info": "scuse, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we talk about it?",
+        "info": "conflitto, proposta, can, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ne possiamo parlare?",
+          "info": "conflitto, breve"
+        },
+        {
+          "testo": "Possiamo parlarne?",
+          "info": "conflitto, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I trust you.",
+        "info": "relazione, fiducia, present simple, trust"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi fido di te.",
+          "info": "relazione, fiducia"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm proud of you.",
+        "info": "supporto, emozioni, proud of, frase utile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono orgoglioso di te.",
+          "info": "supporto, maschile"
+        },
+        {
+          "testo": "Sono orgogliosa di te.",
+          "info": "supporto, femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you for being with me.",
+        "info": "gratitudine, for, gerund, relazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie per essere con me.",
+          "info": "gratitudine, diretto"
+        },
+        {
+          "testo": "Grazie per starmi vicino.",
+          "info": "gratitudine, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's plan something special.",
+        "info": "programmi, let's, proposta, something special"
+      },
+      "traduzioni": [
+        {
+          "testo": "Organizziamo qualcosa di speciale.",
+          "info": "programmi, proposta"
+        },
+        {
+          "testo": "Facciamo qualcosa di speciale.",
+          "info": "programmi, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good night, sweet dreams.",
+        "info": "saluto, buonanotte, formula fissa, messaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonanotte, sogni d'oro.",
+          "info": "saluto, formula fissa"
+        },
+        {
+          "testo": "Buonanotte, fai bei sogni.",
+          "info": "saluto, alternativa"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, posso sedermi qui?",
+        "info": "approccio, richiesta gentile, potere, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, can I sit here?",
+          "info": "approccio, domanda"
+        },
+        {
+          "testo": "Hi, can I sit next to you?",
+          "info": "approccio, next to"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti chiami?",
+        "info": "conoscersi, domanda, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your name?",
+          "info": "conoscersi, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Piacere di conoscerti.",
+        "info": "conoscersi, formula fissa, saluto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nice to meet you.",
+          "info": "conoscersi, formula fissa"
+        },
+        {
+          "testo": "Nice meeting you.",
+          "info": "conoscersi, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Stai benissimo oggi.",
+        "info": "complimento, oggi, stare, naturale"
+      },
+      "traduzioni": [
+        {
+          "testo": "You look great today.",
+          "info": "complimento, look"
+        },
+        {
+          "testo": "You look amazing today.",
+          "info": "complimento, intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace parlare con te.",
+        "info": "interesse, piacere, infinito, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like talking with you.",
+          "info": "interesse, gerund"
+        },
+        {
+          "testo": "I like chatting with you.",
+          "info": "interesse, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere il tuo numero?",
+        "info": "contatto, richiesta, potere, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I have your number?",
+          "info": "contatto, domanda"
+        },
+        {
+          "testo": "Could I have your number?",
+          "info": "contatto, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti va di uscire qualche volta?",
+        "info": "invito, espressione, domanda, qualche volta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Would you like to go out sometime?",
+          "info": "invito, would like"
+        },
+        {
+          "testo": "Do you want to go out sometime?",
+          "info": "invito, più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Usciamo insieme.",
+        "info": "invito, proposta, uscire, naturale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's go on a date.",
+          "info": "invito, let's"
+        },
+        {
+          "testo": "Let's go out together.",
+          "info": "invito, più generico"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei libero questo weekend?",
+        "info": "organizzazione, domanda, tempo, weekend"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you free this weekend?",
+          "info": "organizzazione, free"
+        },
+        {
+          "testo": "Do you have time this weekend?",
+          "info": "organizzazione, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una cotta per te.",
+        "info": "sentimenti, espressione, presente, cotta"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a crush on you.",
+          "info": "sentimenti, espressione"
+        },
+        {
+          "testo": "I really like you.",
+          "info": "sentimenti, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piaci più di un amico.",
+        "info": "sentimenti, confronto, più di, amicizia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like you more than a friend.",
+          "info": "sentimenti, confronto"
+        },
+        {
+          "testo": "I see you as more than a friend.",
+          "info": "sentimenti, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo che mi stia innamorando di te.",
+        "info": "sentimenti, credere, progressivo, innamorarsi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think I'm falling for you.",
+          "info": "sentimenti, espressione"
+        },
+        {
+          "testo": "I think I'm falling in love with you.",
+          "info": "sentimenti, più esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi essere il mio ragazzo?",
+        "info": "relazione, domanda, volere, ragazzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want to be my boyfriend?",
+          "info": "relazione, domanda"
+        },
+        {
+          "testo": "Will you be my boyfriend?",
+          "info": "relazione, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi essere la mia ragazza?",
+        "info": "relazione, domanda, volere, ragazza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want to be my girlfriend?",
+          "info": "relazione, domanda"
+        },
+        {
+          "testo": "Will you be my girlfriend?",
+          "info": "relazione, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti amo.",
+        "info": "amore, dichiarazione, presente, forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "I love you.",
+          "info": "amore, diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi manchi.",
+        "info": "nostalgia, mancare, presente, emozioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "I miss you.",
+          "info": "nostalgia, semplice"
+        },
+        {
+          "testo": "I miss you so much.",
+          "info": "nostalgia, intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto pensando a te.",
+        "info": "affetto, progressivo, pensare, messaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm thinking about you.",
+          "info": "affetto, present continuous"
+        },
+        {
+          "testo": "I've been thinking about you.",
+          "info": "affetto, present perfect"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei il mio tesoro.",
+        "info": "affetto, possessivo, vocativo, tesoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "You're my sweetheart.",
+          "info": "affetto, sweetheart"
+        },
+        {
+          "testo": "You're my darling.",
+          "info": "affetto, darling"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi rendi felice.",
+        "info": "emozioni, rendere, presente, causa effetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "You make me happy.",
+          "info": "emozioni, make"
+        },
+        {
+          "testo": "You make me feel happy.",
+          "info": "emozioni, feel"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso tenerti la mano?",
+        "info": "consenso, richiesta, potere, mano"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I hold your hand?",
+          "info": "consenso, domanda"
+        },
+        {
+          "testo": "May I hold your hand?",
+          "info": "consenso, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso baciarti?",
+        "info": "consenso, richiesta, potere, bacio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I kiss you?",
+          "info": "consenso, diretto"
+        },
+        {
+          "testo": "May I kiss you?",
+          "info": "consenso, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Va bene così?",
+        "info": "consenso, controllo, domanda, ok"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this okay?",
+          "info": "consenso, ok"
+        },
+        {
+          "testo": "Is this alright?",
+          "info": "consenso, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei andarci piano.",
+        "info": "confini, desiderio, condizionale, calma"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want to take it slow.",
+          "info": "confini, espressione"
+        },
+        {
+          "testo": "I'd like to take it slow.",
+          "info": "confini, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di un po' di spazio.",
+        "info": "confini, bisogno, presente, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need some space.",
+          "info": "confini, diretto"
+        },
+        {
+          "testo": "I need a little space.",
+          "info": "confini, più morbido"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace. Non volevo ferirti.",
+        "info": "scuse, passato, intenzione, emozioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry. I didn't mean to hurt you.",
+          "info": "scuse, past simple"
+        },
+        {
+          "testo": "I'm sorry. I never meant to hurt you.",
+          "info": "scuse, enfasi"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo parlarne?",
+        "info": "conflitto, proposta, potere, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we talk about it?",
+          "info": "conflitto, domanda"
+        },
+        {
+          "testo": "Can we talk about this?",
+          "info": "conflitto, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi fido di te.",
+        "info": "relazione, fiducia, presente, fidarsi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I trust you.",
+          "info": "relazione, trust"
+        },
+        {
+          "testo": "I believe you.",
+          "info": "relazione, credere"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono orgogliosa di te.",
+        "info": "supporto, emozioni, orgoglio, essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm proud of you.",
+          "info": "supporto, frase utile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie per essere con me.",
+        "info": "gratitudine, per, infinito, relazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you for being with me.",
+          "info": "gratitudine, for, gerund"
+        },
+        {
+          "testo": "Thanks for being with me.",
+          "info": "gratitudine, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Organizziamo qualcosa di speciale.",
+        "info": "programmi, proposta, imperativo, speciale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's plan something special.",
+          "info": "programmi, let's"
+        },
+        {
+          "testo": "Let's do something special.",
+          "info": "programmi, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per contesti romantici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonanotte, sogni d'oro.",
+        "info": "saluto, sera, formula fissa, messaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good night, sweet dreams.",
+          "info": "saluto, formula fissa"
+        },
+        {
+          "testo": "Good night. Sleep well.",
+          "info": "saluto, alternativa"
+        }
+      ]
+    }
+  ]
+}

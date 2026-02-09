@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "contesto": "Aggettivi - dimensioni",
+  "frasi": [
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This house is big",
+        "info": "Aggettivo di dimensione usato con 'to be' al presente semplice (adj + noun implicito)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa casa è grande",
+          "info": "Aggettivo qualificativo dopo il verbo essere"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The building is huge",
+        "info": "Aggettivo di grande dimensione con valore enfatico"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'edificio è enorme",
+          "info": "Registro neutro"
+        },
+        {
+          "testo": "Il palazzo è gigantesco",
+          "info": "Variante semantica più espressiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I live in a large apartment",
+        "info": "Large usato per spazi abitativi (dimensione complessiva)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vivo in un appartamento grande",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "Vivo in un appartamento spazioso",
+          "info": "Traduzione contestuale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The table is long",
+        "info": "Long indica lunghezza, non altezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tavolo è lungo",
+          "info": "Attenzione alla distinzione lungo/alto"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The street is narrow",
+        "info": "Narrow indica poca larghezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "La strada è stretta",
+          "info": "Aggettivo riferito a spazio"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The movie is short",
+        "info": "Short usato per durata o lunghezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il film è corto",
+          "info": "Durata ridotta"
+        },
+        {
+          "testo": "Il film è breve",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This room is small",
+        "info": "Small indica dimensioni ridotte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa stanza è piccola",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My brother is tall",
+        "info": "Tall usato per persone o oggetti verticali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mio fratello è alto",
+          "info": "Non usare 'high' per le persone"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The book is thick",
+        "info": "Thick indica spessore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il libro è spesso",
+          "info": "Riferito allo spessore fisico"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This paper is thin",
+        "info": "Thin indica poco spessore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa carta è sottile",
+          "info": "Opposto di thick"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The baby is tiny",
+        "info": "Tiny indica dimensioni molto piccole (enfasi)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il bambino è piccolissimo",
+          "info": "Forma rafforzativa"
+        },
+        {
+          "testo": "Il neonato è minuscolo",
+          "info": "Variante semantica"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The river is wide",
+        "info": "Wide indica grande larghezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il fiume è ampio",
+          "info": "Non confondere con 'large'"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa casa è grande",
+        "info": "Aggettivo di dimensione riferito a un edificio"
+      },
+      "traduzioni": [
+        {
+          "testo": "This house is big",
+          "info": "Uso comune con edifici"
+        },
+        {
+          "testo": "This house is large",
+          "info": "Variante più neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'edificio è enorme",
+        "info": "Aggettivo con valore intensivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "The building is huge",
+          "info": "Enfasi sulla dimensione"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vivo in un appartamento spazioso",
+        "info": "Dimensione complessiva di uno spazio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I live in a large apartment",
+          "info": "Large per ambienti"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tavolo è lungo",
+        "info": "Lunghezza orizzontale"
+      },
+      "traduzioni": [
+        {
+          "testo": "The table is long",
+          "info": "Non usare 'tall'"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La strada è stretta",
+        "info": "Poca larghezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "The street is narrow",
+          "info": "Opposto di wide"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il film è breve",
+        "info": "Durata ridotta"
+      },
+      "traduzioni": [
+        {
+          "testo": "The movie is short",
+          "info": "Short per tempo o lunghezza"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa stanza è piccola",
+        "info": "Dimensione ridotta"
+      },
+      "traduzioni": [
+        {
+          "testo": "This room is small",
+          "info": "Uso base"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mio fratello è alto",
+        "info": "Altezza di una persona"
+      },
+      "traduzioni": [
+        {
+          "testo": "My brother is tall",
+          "info": "Mai usare 'high' per persone"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il libro è spesso",
+        "info": "Spessore fisico"
+      },
+      "traduzioni": [
+        {
+          "testo": "The book is thick",
+          "info": "Opposto di thin"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa carta è sottile",
+        "info": "Poco spessore"
+      },
+      "traduzioni": [
+        {
+          "testo": "This paper is thin",
+          "info": "Thin per materiali"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il bambino è piccolissimo",
+        "info": "Dimensione molto ridotta (enfasi)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The baby is tiny",
+          "info": "Tiny = very small"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - dimensioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il fiume è ampio",
+        "info": "Grande larghezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "The river is wide",
+          "info": "Wide = ampio"
+        }
+      ]
+    }
+  ]
+}

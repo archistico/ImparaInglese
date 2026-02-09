@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "contesto": "Vita Quotidiana",
+  "frasi": [
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you babysit tonight?",
+        "info": "richiesta cortese, condizionale, babysitting"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti fare da babysitter stasera?",
+          "info": "condizionale di cortesia, contesto familiare"
+        },
+        {
+          "testo": "Potresti tenere i bambini stasera?",
+          "info": "forma colloquiale, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to do the laundry today",
+        "info": "need to, azioni quotidiane"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo fare il bucato oggi",
+          "info": "dovere, attività domestiche"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to pay the bills before the weekend",
+        "info": "need to, scadenze"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo pagare le bollette prima del fine settimana",
+          "info": "obbligo, tempo futuro vicino"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to walk the dog every morning",
+        "info": "routine, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo portare a spasso il cane ogni mattina",
+          "info": "azione abituale"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm cleaning the house this afternoon",
+        "info": "present continuous, azione programmata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto pulendo casa questo pomeriggio",
+          "info": "azione in corso o programmata"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm out of groceries, we need to go shopping",
+        "info": "espressione idiomatica, conseguenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono senza provviste, dobbiamo andare a fare la spesa",
+          "info": "mancanza, azione successiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The light bulb needs replacing in the kitchen",
+        "info": "needs + gerund, manutenzione domestica"
+      },
+      "traduzioni": [
+        {
+          "testo": "La lampadina in cucina deve essere sostituita",
+          "info": "passivo implicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The plants need watering every two days",
+        "info": "needs + gerund, cura della casa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le piante hanno bisogno di essere annaffiate ogni due giorni",
+          "info": "frequenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The sink is clogged again",
+        "info": "present simple, problema domestico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il lavandino è di nuovo intasato",
+          "info": "avverbio di frequenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When is trash collection in this area?",
+        "info": "domanda informativa, servizi pubblici"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando passano a ritirare la spazzatura in questa zona?",
+          "info": "servizi comunali"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti fare da babysitter stasera?",
+        "info": "condizionale di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you babysit tonight?",
+          "info": "polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo fare il bucato oggi",
+        "info": "azione domestica"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to do the laundry today",
+          "info": "need to"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo pagare le bollette prima del fine settimana",
+        "info": "obbligo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to pay the bills before the weekend",
+          "info": "scadenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo portare a spasso il cane ogni mattina",
+        "info": "routine"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to walk the dog every morning",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto pulendo casa questo pomeriggio",
+        "info": "azione programmata"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm cleaning the house this afternoon",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono senza provviste, dobbiamo fare la spesa",
+        "info": "mancanza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm out of groceries, we need to go shopping",
+          "info": "idiomatic expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La lampadina in cucina deve essere sostituita",
+        "info": "manutenzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "The light bulb needs replacing in the kitchen",
+          "info": "needs + gerund"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le piante hanno bisogno di essere annaffiate ogni due giorni",
+        "info": "cura della casa"
+      },
+      "traduzioni": [
+        {
+          "testo": "The plants need watering every two days",
+          "info": "frequenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il lavandino è di nuovo intasato",
+        "info": "problema domestico"
+      },
+      "traduzioni": [
+        {
+          "testo": "The sink is clogged again",
+          "info": "adverb again"
+        }
+      ]
+    },
+    {
+      "contesto": "Vita Quotidiana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando passano a ritirare la spazzatura in questa zona?",
+        "info": "servizi pubblici"
+      },
+      "traduzioni": [
+        {
+          "testo": "When is trash collection in this area?",
+          "info": "information question"
+        }
+      ]
+    }
+  ]
+}

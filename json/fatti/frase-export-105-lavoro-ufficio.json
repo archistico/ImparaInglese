@@ -1,0 +1,790 @@
+{
+  "version": 1,
+  "contesto": "Lavoro / Ufficio",
+  "frasi": [
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good morning, do you have a minute?",
+        "info": "saluto, domanda cortese, do you have"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno, hai un minuto?",
+          "info": "registro neutro, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we talk for a moment?",
+        "info": "modal verb can, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Possiamo parlare un momento?",
+          "info": "richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you please send me the file?",
+        "info": "could, please, richiesta cortese, oggetto diretto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti per favore mandarmi il file?",
+          "info": "forma cortese"
+        },
+        {
+          "testo": "Puoi inviarmi il file per favore?",
+          "info": "alternativa con can"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you email me the details?",
+        "info": "modal verb can, verbo email, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi mandarmi i dettagli via email?",
+          "info": "richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm working from home today",
+        "info": "present continuous, today, working from home"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi lavoro da casa",
+          "info": "situazione temporanea"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm off today",
+        "info": "assenza dal lavoro, espressione fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi non lavoro",
+          "info": "più naturale"
+        },
+        {
+          "testo": "Oggi sono libero",
+          "info": "alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm on a break",
+        "info": "espressione fissa, pausa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono in pausa",
+          "info": "breve"
+        },
+        {
+          "testo": "Sono in pausa pranzo",
+          "info": "variante specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll get back to you",
+        "info": "futuro con will, promessa, follow-up"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti rispondo più tardi",
+          "info": "registro neutro"
+        },
+        {
+          "testo": "Ti ricontatto appena posso",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let me check and I'll get back to you",
+        "info": "imperativo let me, futuro con will, sequenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fammi controllare e poi ti rispondo",
+          "info": "ordine delle azioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we reschedule?",
+        "info": "modal verb can, meeting, riprogrammare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Possiamo riprogrammare?",
+          "info": "breve"
+        },
+        {
+          "testo": "Possiamo spostare l'appuntamento?",
+          "info": "più chiaro"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we move the meeting to tomorrow?",
+        "info": "modal verb can, move, meeting"
+      },
+      "traduzioni": [
+        {
+          "testo": "Possiamo spostare la riunione a domani?",
+          "info": "spostare a un giorno"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time works best for you?",
+        "info": "what time, works for you, disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che orario va meglio per te?",
+          "info": "disponibilità"
+        },
+        {
+          "testo": "A che ora ti va meglio?",
+          "info": "alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm available at 3 pm",
+        "info": "present simple, disponibilità, orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono disponibile alle 15",
+          "info": "formale neutro"
+        },
+        {
+          "testo": "Per me va bene alle 15",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's touch base later",
+        "info": "idioma, follow-up, registro lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sentiamoci più tardi",
+          "info": "registro lavoro"
+        },
+        {
+          "testo": "Risentiamoci più tardi",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you repeat that, please?",
+        "info": "richiesta, please, ripetere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi ripetere, per favore?",
+          "info": "richiesta cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry, I didn't catch that",
+        "info": "scusa, passato semplice, espressione fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa, non ho capito",
+          "info": "più naturale"
+        },
+        {
+          "testo": "Scusa, non l'ho colto",
+          "info": "più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you speak a bit slower?",
+        "info": "could, richiesta cortese, comparativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti parlare un po' più lentamente?",
+          "info": "cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's start the meeting",
+        "info": "imperativo, verbo start"
+      },
+      "traduzioni": [
+        {
+          "testo": "Iniziamo la riunione",
+          "info": "invito diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's on the agenda today?",
+        "info": "what, agenda, today"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa c'è all'ordine del giorno oggi?",
+          "info": "lessico riunioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you share your screen?",
+        "info": "modal verb can, richiesta, meeting online"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi condividere lo schermo?",
+          "info": "riunione online"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll send you a summary by email",
+        "info": "futuro con will, promessa, by email"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti mando un riepilogo via email",
+          "info": "follow-up"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please let me know if you have any questions",
+        "info": "please, let me know, if clause"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fammi sapere se hai domande",
+          "info": "if, condizione"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thanks for your time",
+        "info": "ringraziamento, formula fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie per il tuo tempo",
+          "info": "formale neutro"
+        },
+        {
+          "testo": "Grazie per la disponibilità",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "See you at the meeting",
+        "info": "saluto, appuntamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci vediamo alla riunione",
+          "info": "saluto"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno, hai un minuto?",
+        "info": "saluto, domanda cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good morning, do you have a minute?",
+          "info": "polite question"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo parlare un momento?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we talk for a moment?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti per favore mandarmi il file?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you please send me the file?",
+          "info": "could, please"
+        },
+        {
+          "testo": "Can you please send me the file?",
+          "info": "can, please"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi mandarmi i dettagli via email?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you email me the details?",
+          "info": "request"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi lavoro da casa",
+        "info": "situazione temporanea"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm working from home today",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi non lavoro",
+        "info": "assenza dal lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm off today",
+          "info": "fixed expression"
+        },
+        {
+          "testo": "I'm not working today",
+          "info": "alternative"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono in pausa",
+        "info": "pausa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm on a break",
+          "info": "fixed expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti rispondo più tardi",
+        "info": "follow-up"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll get back to you",
+          "info": "will future"
+        },
+        {
+          "testo": "I'll reply later",
+          "info": "alternative"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fammi controllare e poi ti rispondo",
+        "info": "sequenza azioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let me check and I'll get back to you",
+          "info": "sequence"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo riprogrammare?",
+        "info": "riprogrammare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we reschedule?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo spostare la riunione a domani?",
+        "info": "riunione, domani"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we move the meeting to tomorrow?",
+          "info": "move, meeting"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che orario va meglio per te?",
+        "info": "disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time works best for you?",
+          "info": "availability"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono disponibile alle 15",
+        "info": "orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm available at 3 pm",
+          "info": "time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sentiamoci più tardi",
+        "info": "registro lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's touch base later",
+          "info": "work idiom"
+        },
+        {
+          "testo": "Let's talk later",
+          "info": "simpler alternative"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi ripetere, per favore?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you repeat that, please?",
+          "info": "please"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa, non ho capito",
+        "info": "chiarimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry, I didn't catch that",
+          "info": "fixed expression"
+        },
+        {
+          "testo": "Sorry, I didn't understand",
+          "info": "simpler alternative"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti parlare un po' più lentamente?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you speak a bit slower?",
+          "info": "could"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Iniziamo la riunione",
+        "info": "imperativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's start the meeting",
+          "info": "let's"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa c'è all'ordine del giorno oggi?",
+        "info": "ordine del giorno"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's on the agenda today?",
+          "info": "agenda"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi condividere lo schermo?",
+        "info": "riunione online"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you share your screen?",
+          "info": "share screen"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti mando un riepilogo via email",
+        "info": "follow-up"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll send you a summary by email",
+          "info": "will future"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fammi sapere se hai domande",
+        "info": "condizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please let me know if you have any questions",
+          "info": "if clause"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie per la disponibilità",
+        "info": "ringraziamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thanks for your time",
+          "info": "polite closing"
+        },
+        {
+          "testo": "Thank you for your time",
+          "info": "more formal"
+        }
+      ]
+    },
+    {
+      "contesto": "Lavoro / Ufficio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci vediamo alla riunione",
+        "info": "saluto"
+      },
+      "traduzioni": [
+        {
+          "testo": "See you at the meeting",
+          "info": "closing"
+        }
+      ]
+    }
+  ]
+}

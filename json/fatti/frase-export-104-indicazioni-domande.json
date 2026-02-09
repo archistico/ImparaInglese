@@ -1,0 +1,691 @@
+{
+  "version": 1,
+  "contesto": "Indicazioni domande",
+  "frasi": [
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, can you help me?",
+        "info": "approccio, domanda, can, cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, può aiutarmi?",
+          "info": "approccio, formale"
+        },
+        {
+          "testo": "Scusa, puoi aiutarmi?",
+          "info": "approccio, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you direct me to the nearest …?",
+        "info": "indicazioni, domanda, nearest, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi indicarmi il/la … più vicino/a?",
+          "info": "indicazioni, domanda"
+        },
+        {
+          "testo": "Mi puoi dire dov'è il/la … più vicino/a?",
+          "info": "indicazioni, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the …?",
+        "info": "indicazioni, domanda, where, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il/la …?",
+          "info": "indicazioni, domanda"
+        },
+        {
+          "testo": "Dove si trova il/la …?",
+          "info": "indicazioni, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I get to …?",
+        "info": "indicazioni, domanda, get to, percorso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come arrivo a …?",
+          "info": "indicazioni, domanda"
+        },
+        {
+          "testo": "Come faccio ad arrivare a …?",
+          "info": "indicazioni, più esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which way is …?",
+        "info": "indicazioni, domanda, which way, direzione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Da che parte è …?",
+          "info": "indicazioni, direzione"
+        },
+        {
+          "testo": "Qual è la strada per …?",
+          "info": "indicazioni, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How far is the … from here?",
+        "info": "distanza, domanda, how far, from here"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto dista il/la … da qui?",
+          "info": "distanza, domanda"
+        },
+        {
+          "testo": "È lontano/a il/la … da qui?",
+          "info": "distanza, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the … around here?",
+        "info": "vicinanza, domanda, around here, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il/La … è da queste parti?",
+          "info": "vicinanza, domanda"
+        },
+        {
+          "testo": "C'è un/una … qui in zona?",
+          "info": "vicinanza, più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the … close by?",
+        "info": "vicinanza, domanda, close by, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il/La … è qui vicino?",
+          "info": "vicinanza, domanda"
+        },
+        {
+          "testo": "È vicino/a il/la …?",
+          "info": "vicinanza, breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it within walking distance?",
+        "info": "distanza, domanda, walking distance, a piedi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Si può andare a piedi?",
+          "info": "distanza, naturale"
+        },
+        {
+          "testo": "È a distanza di camminata?",
+          "info": "distanza, più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long does it take to get there?",
+        "info": "tempo, domanda, how long, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto tempo ci vuole per arrivare lì?",
+          "info": "tempo, domanda"
+        },
+        {
+          "testo": "Quanto ci vuole per arrivare?",
+          "info": "tempo, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you show me on the map?",
+        "info": "supporto, domanda, can, mappa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Me lo può mostrare sulla mappa?",
+          "info": "supporto, formale"
+        },
+        {
+          "testo": "Me lo puoi mostrare sulla mappa?",
+          "info": "supporto, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Should I turn left or right?",
+        "info": "direzioni, domanda, should, turn"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo girare a sinistra o a destra?",
+          "info": "direzioni, domanda"
+        },
+        {
+          "testo": "Giro a sinistra o a destra?",
+          "info": "direzioni, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it near the station?",
+        "info": "posizione, domanda, near, punto di riferimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "È vicino alla stazione?",
+          "info": "posizione, domanda"
+        },
+        {
+          "testo": "È dalle parti della stazione?",
+          "info": "posizione, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it on this street?",
+        "info": "posizione, domanda, on, strada"
+      },
+      "traduzioni": [
+        {
+          "testo": "È su questa strada?",
+          "info": "posizione, domanda"
+        },
+        {
+          "testo": "È in questa via?",
+          "info": "posizione, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need to change buses/trains?",
+        "info": "trasporti, domanda, need to, change"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo cambiare autobus/treno?",
+          "info": "trasporti, domanda"
+        },
+        {
+          "testo": "Devo fare un cambio?",
+          "info": "trasporti, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which bus/train should I take?",
+        "info": "trasporti, domanda, which, scegliere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che autobus/treno devo prendere?",
+          "info": "trasporti, domanda"
+        },
+        {
+          "testo": "Quale autobus/treno mi conviene prendere?",
+          "info": "trasporti, più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the nearest restroom?",
+        "info": "necessità, domanda, nearest, restroom"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il bagno più vicino?",
+          "info": "necessità, domanda"
+        },
+        {
+          "testo": "Dove sono i servizi?",
+          "info": "necessità, più comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there an ATM nearby?",
+        "info": "necessità, domanda, there is, ATM"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un bancomat qui vicino?",
+          "info": "necessità, domanda"
+        },
+        {
+          "testo": "C'è un ATM in zona?",
+          "info": "necessità, alternativa"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, può aiutarmi?",
+        "info": "approccio, domanda, potere, cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, can you help me?",
+          "info": "approccio, can"
+        },
+        {
+          "testo": "Sorry, could you help me?",
+          "info": "approccio, could"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi indicarmi il/la … più vicino/a?",
+        "info": "indicazioni, domanda, più vicino, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you direct me to the nearest …?",
+          "info": "indicazioni, nearest"
+        },
+        {
+          "testo": "Can you tell me where the nearest … is?",
+          "info": "indicazioni, where"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il/la …?",
+        "info": "indicazioni, domanda, dove, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the …?",
+          "info": "indicazioni, where"
+        },
+        {
+          "testo": "Where can I find the …?",
+          "info": "indicazioni, find"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come arrivo a …?",
+        "info": "indicazioni, domanda, come, percorso"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I get to …?",
+          "info": "indicazioni, get to"
+        },
+        {
+          "testo": "How can I get to …?",
+          "info": "indicazioni, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Da che parte è …?",
+        "info": "indicazioni, domanda, direzione, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which way is …?",
+          "info": "indicazioni, which way"
+        },
+        {
+          "testo": "Which direction is …?",
+          "info": "indicazioni, direction"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto dista il/la … da qui?",
+        "info": "distanza, domanda, da qui, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How far is the … from here?",
+          "info": "distanza, how far"
+        },
+        {
+          "testo": "Is the … far from here?",
+          "info": "distanza, far"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il/La … è da queste parti?",
+        "info": "vicinanza, domanda, zona, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the … around here?",
+          "info": "vicinanza, around here"
+        },
+        {
+          "testo": "Is there a … around here?",
+          "info": "vicinanza, there is"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il/La … è qui vicino?",
+        "info": "vicinanza, domanda, vicino, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the … close by?",
+          "info": "vicinanza, close by"
+        },
+        {
+          "testo": "Is the … nearby?",
+          "info": "vicinanza, nearby"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Si può andare a piedi?",
+        "info": "distanza, domanda, a piedi, possibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is it within walking distance?",
+          "info": "distanza, walking distance"
+        },
+        {
+          "testo": "Can I walk there?",
+          "info": "distanza, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto tempo ci vuole per arrivare lì?",
+        "info": "tempo, domanda, durata, arrivare"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long does it take to get there?",
+          "info": "tempo, how long"
+        },
+        {
+          "testo": "How long does it take to get to …?",
+          "info": "tempo, destinazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Me lo può mostrare sulla mappa?",
+        "info": "supporto, domanda, potere, mappa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you show me on the map?",
+          "info": "supporto, can"
+        },
+        {
+          "testo": "Could you show me on the map?",
+          "info": "supporto, could"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo girare a sinistra o a destra?",
+        "info": "direzioni, domanda, dovere, turn"
+      },
+      "traduzioni": [
+        {
+          "testo": "Should I turn left or right?",
+          "info": "direzioni, should"
+        },
+        {
+          "testo": "Do I turn left or right?",
+          "info": "direzioni, più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È vicino alla stazione?",
+        "info": "posizione, domanda, vicino, riferimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is it near the station?",
+          "info": "posizione, near"
+        },
+        {
+          "testo": "Is it close to the station?",
+          "info": "posizione, close to"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È su questa strada?",
+        "info": "posizione, domanda, strada, on"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is it on this street?",
+          "info": "posizione, on"
+        },
+        {
+          "testo": "Is it on this road?",
+          "info": "posizione, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo cambiare autobus/treno?",
+        "info": "trasporti, domanda, dovere, cambio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do I need to change buses/trains?",
+          "info": "trasporti, need to"
+        },
+        {
+          "testo": "Do I have to change buses/trains?",
+          "info": "trasporti, have to"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che autobus/treno devo prendere?",
+        "info": "trasporti, domanda, dovere, scegliere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which bus/train should I take?",
+          "info": "trasporti, should"
+        },
+        {
+          "testo": "Which bus/train do I take?",
+          "info": "trasporti, più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il bagno più vicino?",
+        "info": "necessità, domanda, bagno, più vicino"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the nearest restroom?",
+          "info": "necessità, nearest"
+        },
+        {
+          "testo": "Where is the nearest toilet?",
+          "info": "necessità, britannico"
+        }
+      ]
+    },
+    {
+      "contesto": "Indicazioni domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un bancomat qui vicino?",
+        "info": "necessità, domanda, esserci, vicino"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there an ATM nearby?",
+          "info": "necessità, there is"
+        },
+        {
+          "testo": "Is there an ATM around here?",
+          "info": "necessità, around here"
+        }
+      ]
+    }
+  ]
+}

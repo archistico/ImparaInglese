@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "contesto": "Assicurazioni",
+  "frasi": [
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good morning, I would like some information about my insurance policy.",
+        "info": "(apertura dialogo, present simple, richiesta generica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno, vorrei alcune informazioni sulla mia polizza assicurativa.",
+          "info": "(formula di cortesia, richiesta formale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My policy number is 123456.",
+        "info": "(possessive adjective, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio numero di polizza è 123456.",
+          "info": "(struttura fissa: \"il mio … è\")"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What does my insurance cover?",
+        "info": "(domanda diretta, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa copre la mia assicurazione?",
+          "info": "(verbo coprire, uso transitivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Does my policy cover accidents and theft?",
+        "info": "(yes/no question, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La mia polizza copre incidenti e furto?",
+          "info": "(domanda chiusa, elenco)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What is my deductible?",
+        "info": "(terminologia assicurativa, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è la mia franchigia?",
+          "info": "(termine tecnico: franchigia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like to update my coverage.",
+        "info": "(would like = richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei aggiornare la mia copertura.",
+          "info": "(condizionale di cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to add a driver to my policy.",
+        "info": "(need to = necessità)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo aggiungere un conducente alla mia polizza.",
+          "info": "(verbo dovere, ambito assicurativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a copy of my policy.",
+        "info": "(richiesta semplice, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di una copia della mia polizza.",
+          "info": "(struttura ho bisogno di)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have had an accident.",
+        "info": "(present perfect, evento recente)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho avuto un incidente.",
+          "info": "(passato prossimo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to make a claim.",
+        "info": "(terminologia fissa: make a claim)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo aprire un sinistro.",
+          "info": "(registro assicurativo)"
+        },
+        {
+          "testo": "Devo fare una denuncia di sinistro.",
+          "info": "(variante più esplicita)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long will the claim process take?",
+        "info": "(future simple, durata)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto durerà la pratica del sinistro?",
+          "info": "(futuro semplice)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where do I need to send the documents?",
+        "info": "(wh-question, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove devo inviare i documenti?",
+          "info": "(verbo dovere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I send the documents by email?",
+        "info": "(can = possibilità)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso inviare i documenti via email?",
+          "info": "(richiesta di permesso)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need to fill out a form?",
+        "info": "(do-support, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo compilare un modulo?",
+          "info": "(verbo compilare)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you for your help.",
+        "info": "(chiusura dialogo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie per il suo aiuto.",
+          "info": "(formula di cortesia)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno, vorrei alcune informazioni sulla mia polizza assicurativa.",
+        "info": "(apertura dialogo, richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good morning, I would like some information about my insurance policy.",
+          "info": "(would like = cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio numero di polizza è 123456.",
+        "info": "(frase dichiarativa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My policy number is 123456.",
+          "info": "(possessive adjective)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa copre la mia assicurazione?",
+        "info": "(domanda diretta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What does my insurance cover?",
+          "info": "(present simple question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La mia polizza copre incidenti e furto?",
+        "info": "(domanda sì/no)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Does my policy cover accidents and theft?",
+          "info": "(do-support)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è la mia franchigia?",
+        "info": "(termine tecnico)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What is my deductible?",
+          "info": "(insurance vocabulary)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei aggiornare la mia copertura.",
+        "info": "(condizionale di cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like to update my coverage.",
+          "info": "(would like)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo aggiungere un conducente alla mia polizza.",
+        "info": "(necessità)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to add a driver to my policy.",
+          "info": "(need to)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di una copia della mia polizza.",
+        "info": "(richiesta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a copy of my policy.",
+          "info": "(simple present)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho avuto un incidente.",
+        "info": "(evento passato)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have had an accident.",
+          "info": "(present perfect)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo aprire un sinistro.",
+        "info": "(linguaggio assicurativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to make a claim.",
+          "info": "(fixed expression)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto durerà la pratica del sinistro?",
+        "info": "(futuro)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long will the claim process take?",
+          "info": "(future simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove devo inviare i documenti?",
+        "info": "(domanda informativa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where do I need to send the documents?",
+          "info": "(wh-question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso inviare i documenti via email?",
+        "info": "(permesso)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I send the documents by email?",
+          "info": "(can = possibility)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo compilare un modulo?",
+        "info": "(domanda sì/no)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do I need to fill out a form?",
+          "info": "(do-support)"
+        }
+      ]
+    },
+    {
+      "contesto": "Assicurazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie per il suo aiuto.",
+        "info": "(chiusura)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you for your help.",
+          "info": "(polite closing)"
+        }
+      ]
+    }
+  ]
+}

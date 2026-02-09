@@ -1,0 +1,324 @@
+{
+  "version": 1,
+  "contesto": "Affermazione",
+  "frasi": [
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like speaking English",
+        "info": "Preferenza personale espressa con 'like' + gerundio (verbo -ing)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace parlare inglese",
+          "info": "Costruzione impersonale con 'piacere' (verbo + infinito)"
+        },
+        {
+          "testo": "Amo parlare inglese",
+          "info": "Variante più enfatica (registro neutro)"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You are intelligent",
+        "info": "Affermazione con verbo 'to be' al presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei intelligente",
+          "info": "Descrizione di una qualità personale (aggettivo)"
+        },
+        {
+          "testo": "Sei una persona intelligente",
+          "info": "Forma leggermente più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You are very fast",
+        "info": "Uso di 'very' come avverbio di intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei molto veloce",
+          "info": "Aggettivo riferito a una persona"
+        },
+        {
+          "testo": "Sei davvero veloce",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You did it!",
+        "info": "Espressione idiomatica al passato semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ce l'hai fatta!",
+          "info": "Espressione idiomatica italiana"
+        },
+        {
+          "testo": "Hai avuto successo!",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You learned a lot",
+        "info": "Passato semplice del verbo 'to learn'"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai imparato molto",
+          "info": "Passato prossimo"
+        },
+        {
+          "testo": "Hai imparato tante cose",
+          "info": "Variante esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You're right",
+        "info": "Forma contratta di 'you are'"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai ragione",
+          "info": "Espressione di accordo"
+        },
+        {
+          "testo": "È corretto",
+          "info": "Variante neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my grandmother",
+        "info": "Dimostrativo 'this is' + possesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è mia nonna",
+          "info": "Grado di parentela (nome comune)"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My grandmother is ninety years old",
+        "info": "Età espressa con 'to be' + numero"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mia nonna ha novant'anni",
+          "info": "Età espressa con 'avere'"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I am learning English",
+        "info": "Present continuous per azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto imparando l'inglese",
+          "info": "Forma progressiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace parlare inglese",
+        "info": "Preferenza personale (verbo + infinito)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like speaking English",
+          "info": "Like + verbo in -ing"
+        },
+        {
+          "testo": "I enjoy speaking English",
+          "info": "Sinonimo di 'like' (registro neutro)"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei intelligente",
+        "info": "Descrizione di una qualità"
+      },
+      "traduzioni": [
+        {
+          "testo": "You are intelligent",
+          "info": "Verbo 'to be' al presente"
+        },
+        {
+          "testo": "You are smart",
+          "info": "Sinonimo più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei molto veloce",
+        "info": "Uso di avverbio di intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "You are very fast",
+          "info": "Aggettivo + very"
+        },
+        {
+          "testo": "You are really fast",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ce l'hai fatta!",
+        "info": "Espressione idiomatica"
+      },
+      "traduzioni": [
+        {
+          "testo": "You did it!",
+          "info": "Passato semplice"
+        },
+        {
+          "testo": "You made it!",
+          "info": "Variante idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai imparato molto",
+        "info": "Risultato di un'azione passata"
+      },
+      "traduzioni": [
+        {
+          "testo": "You learned a lot",
+          "info": "Past simple"
+        },
+        {
+          "testo": "You have learned a lot",
+          "info": "Present perfect (risultato rilevante)"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai ragione",
+        "info": "Accordo con l'interlocutore"
+      },
+      "traduzioni": [
+        {
+          "testo": "You're right",
+          "info": "Forma contratta"
+        },
+        {
+          "testo": "That is correct",
+          "info": "Registro neutro/formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa è mia nonna",
+        "info": "Presentazione di una persona"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my grandmother",
+          "info": "Dimostrativo + possesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mia nonna ha novant'anni",
+        "info": "Età espressa con 'avere'"
+      },
+      "traduzioni": [
+        {
+          "testo": "My grandmother is ninety years old",
+          "info": "Età espressa con 'to be'"
+        }
+      ]
+    },
+    {
+      "contesto": "Affermazione",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto imparando l'inglese",
+        "info": "Azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I am learning English",
+          "info": "Present continuous"
+        }
+      ]
+    }
+  ]
+}

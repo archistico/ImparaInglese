@@ -1,0 +1,316 @@
+{
+  "version": 2,
+  "contesto": "Domande e risposte comuni",
+  "frasi": [
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "All right / OK",
+        "info": "Accordo o conferma; molto comune. (confirmation; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Va bene",
+          "info": "conferma o accordo"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Va bene",
+        "info": "Per accettare o confermare. (confirmation; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "All right / OK",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you sure?",
+        "info": "Chiede conferma; tono neutro. (question; confirmation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei sicuro?",
+          "info": "richiesta di conferma"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei sicuro?",
+        "info": "Domanda di conferma. (question; confirmation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you sure?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me?",
+        "info": "Richiesta diretta di aiuto. (question; request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi aiutarmi?",
+          "info": "richiesta semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi aiutarmi?",
+        "info": "Richiesta diretta. (question; request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you repeat that?",
+        "info": "Per chiedere di ripetere; educato. (question; clarification)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi ripetere?",
+          "info": "richiesta di chiarimento"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi ripetere?",
+        "info": "Richiesta di chiarimento. (question; clarification)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you repeat that?",
+          "info": "educato"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you speak more slowly?",
+        "info": "Usata quando qualcuno parla troppo veloce. (question; clarification)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi parlare più lentamente?",
+          "info": "richiesta educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi parlare più lentamente?",
+        "info": "Richiesta di adattamento del ritmo. (question; clarification)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you speak more slowly?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you tell me where to find …?",
+        "info": "Richiesta indiretta e molto cortese. (question; polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti dirmi dove trovare …?",
+          "info": "molto educato"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti dirmi dove trovare …?",
+        "info": "Forma indiretta e cortese. (question; polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you tell me where to find …?",
+          "info": "molto educato"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it?",
+        "info": "Domanda sul prezzo. (question; shopping)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "acquisti"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "Domanda sul prezzo. (question; shopping)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is it?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the bathroom?",
+        "info": "Domanda molto comune; vale per singolo o plurale. (question; location)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il bagno / Dove sono i bagni?",
+          "info": "dipende dal contesto"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il bagno / Dove sono i bagni?",
+        "info": "In inglese si usa spesso una sola forma. (question; location)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the bathroom?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know.",
+        "info": "Risposta negativa semplice. (statement; negative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non lo so",
+          "info": "molto comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non lo so",
+        "info": "Risposta negativa. (statement; negative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know.",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm … years old.",
+        "info": "Per dire l'età; in inglese si usa 'to be'. (statement; age)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho … anni",
+          "info": "nota: in italiano si usa 'avere'"
+        }
+      ]
+    },
+    {
+      "contesto": "Domande e risposte comuni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho … anni",
+        "info": "In inglese si usa 'I am'. (statement; age)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm … years old.",
+          "info": "standard"
+        }
+      ]
+    }
+
+  ]
+}

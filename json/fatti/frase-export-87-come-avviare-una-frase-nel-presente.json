@@ -1,0 +1,1207 @@
+{
+  "version": 1,
+  "contesto": "Come avviare una frase nel Presente",
+  "frasi": [
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, I think we should start.",
+        "info": "present simple, opinion, suggestion, meeting"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, penso che dovremmo iniziare.",
+          "info": "presente, opinione, suggerimento, riunione"
+        },
+        {
+          "testo": "Ciao, credo che sia meglio iniziare.",
+          "info": "presente, opinione, suggerimento, riunione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think you are right.",
+        "info": "present simple, opinion, agreement"
+      },
+      "traduzioni": [
+        {
+          "testo": "Penso che tu abbia ragione.",
+          "info": "presente, opinione, accordo"
+        },
+        {
+          "testo": "Credo che tu abbia ragione.",
+          "info": "presente, opinione, accordo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I guess you're right.",
+        "info": "present simple, opinion, soft agreement, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Direi che hai ragione.",
+          "info": "presente, opinione, accordo, tono soft"
+        },
+        {
+          "testo": "Forse hai ragione.",
+          "info": "presente, opinione, accordo, tono soft"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't think so.",
+        "info": "present simple, opinion, disagreement"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non la penso così.",
+          "info": "presente, opinione, disaccordo"
+        },
+        {
+          "testo": "Non credo.",
+          "info": "presente, opinione, disaccordo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I believe I am going to quit my job next week.",
+        "info": "present simple, belief, going to future, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo che lascerò il mio lavoro la prossima settimana.",
+          "info": "presente, credo che, futuro, espressione di tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I believe I am going to win the lottery.",
+        "info": "present simple, belief, going to future"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo che vincerò la lotteria.",
+          "info": "presente, credo che, futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I believe...",
+        "info": "present simple, sentence starter, belief"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo...",
+          "info": "presente, inizio frase, credo che"
+        },
+        {
+          "testo": "Secondo me...",
+          "info": "presente, inizio frase, opinione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm convinced that...",
+        "info": "present simple, strong opinion, that clause"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono convinto che...",
+          "info": "presente, opinione forte, che"
+        },
+        {
+          "testo": "Sono sicuro che...",
+          "info": "presente, opinione forte, che"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a feeling I'm going to win the lottery.",
+        "info": "present simple, feeling, going to future"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho la sensazione che vincerò alla lotteria.",
+          "info": "presente, sensazione, futuro"
+        },
+        {
+          "testo": "Ho la sensazione che vincerò la lotteria.",
+          "info": "presente, sensazione, futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I understand what you mean.",
+        "info": "present simple, comprehension, conversation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Capisco cosa intendi.",
+          "info": "presente, comprensione, conversazione"
+        },
+        {
+          "testo": "So cosa intendi.",
+          "info": "presente, comprensione, conversazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I get what you mean.",
+        "info": "present simple, comprehension, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Capisco cosa intendi.",
+          "info": "presente, comprensione, colloquiale"
+        },
+        {
+          "testo": "Ho capito cosa intendi.",
+          "info": "presente, comprensione, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I get it.",
+        "info": "present simple, comprehension, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho capito.",
+          "info": "presente, comprensione, colloquiale"
+        },
+        {
+          "testo": "Ok, capito.",
+          "info": "presente, comprensione, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't understand.",
+        "info": "present simple, comprehension, negative"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non capisco.",
+          "info": "presente, comprensione, negazione"
+        },
+        {
+          "testo": "Non ho capito.",
+          "info": "passato prossimo, comprensione, negazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I understand this math problem now.",
+        "info": "present simple, comprehension, now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ora capisco questo problema di matematica.",
+          "info": "presente, comprensione, ora"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I get this math problem now.",
+        "info": "present simple, comprehension, informal, now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ora ho capito questo problema di matematica.",
+          "info": "passato prossimo, comprensione, ora, colloquiale"
+        },
+        {
+          "testo": "Ora capisco questo problema di matematica.",
+          "info": "presente, comprensione, ora"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I see what he's saying.",
+        "info": "present simple, comprehension, perspective"
+      },
+      "traduzioni": [
+        {
+          "testo": "Capisco cosa sta dicendo.",
+          "info": "presente, comprensione, conversazione"
+        },
+        {
+          "testo": "Capisco quello che sta dicendo.",
+          "info": "presente, comprensione, conversazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I know her pretty well.",
+        "info": "present simple, know someone, adverb"
+      },
+      "traduzioni": [
+        {
+          "testo": "La conosco abbastanza bene.",
+          "info": "presente, conoscere qualcuno, avverbio"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I know his uncle.",
+        "info": "present simple, know someone, family"
+      },
+      "traduzioni": [
+        {
+          "testo": "Conosco suo zio.",
+          "info": "presente, conoscere qualcuno, famiglia"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I know how to do it.",
+        "info": "present simple, ability, know how to"
+      },
+      "traduzioni": [
+        {
+          "testo": "So come farlo.",
+          "info": "presente, abilita, so come"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I know how to handle it.",
+        "info": "present simple, ability, problem solving"
+      },
+      "traduzioni": [
+        {
+          "testo": "So come gestirlo.",
+          "info": "presente, abilita, gestione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm familiar with this software.",
+        "info": "present simple, familiarity, work context"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho familiarità con questo software.",
+          "info": "presente, familiarita, contesto lavoro"
+        },
+        {
+          "testo": "Conosco questo software.",
+          "info": "presente, conoscenza, contesto lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm friends with Marco.",
+        "info": "present simple, relationship, be"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono amica di Marco.",
+          "info": "presente, relazione, essere"
+        },
+        {
+          "testo": "Siamo amici, io e Marco.",
+          "info": "presente, relazione, essere"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like this idea.",
+        "info": "present simple, like, object"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace questa idea.",
+          "info": "presente, piacere, oggetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like to eat bananas.",
+        "info": "present simple, like, infinitive"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace mangiare le banane.",
+          "info": "presente, piacere, infinito"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I enjoy eating bananas.",
+        "info": "present simple, enjoy, gerund"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace mangiare le banane.",
+          "info": "presente, piacere, gerundio inglese"
+        },
+        {
+          "testo": "Apprezzo mangiare le banane.",
+          "info": "presente, registro piu formale, gerundio inglese"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I prefer chicken to beef.",
+        "info": "present simple, prefer, comparison"
+      },
+      "traduzioni": [
+        {
+          "testo": "Preferisco il pollo al manzo.",
+          "info": "presente, preferire, confronto"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd rather have chicken than beef.",
+        "info": "would rather, preference, comparison"
+      },
+      "traduzioni": [
+        {
+          "testo": "Preferisco il pollo al manzo.",
+          "info": "preferenza, confronto"
+        },
+        {
+          "testo": "Preferirei il pollo invece del manzo.",
+          "info": "condizionale, preferenza, confronto"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to buy food.",
+        "info": "present simple, need, necessity"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di comprare del cibo.",
+          "info": "presente, bisogno, necessita"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to grab some food.",
+        "info": "present simple, need, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo prendere qualcosa da mangiare.",
+          "info": "presente, dovere, colloquiale"
+        },
+        {
+          "testo": "Devo prendere un boccone.",
+          "info": "presente, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I must leave now.",
+        "info": "present simple, must, strong obligation, now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo andare via adesso.",
+          "info": "presente, dovere, urgenza, adesso"
+        },
+        {
+          "testo": "Devo proprio andare adesso.",
+          "info": "presente, dovere, urgenza, adesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want to eat a hamburger.",
+        "info": "present simple, want, desire"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio mangiare un hamburger.",
+          "info": "presente, volere, desiderio"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like a coffee, please.",
+        "info": "would like, polite request, ordering"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei un caffè, per favore.",
+          "info": "richiesta educata, bar"
+        },
+        {
+          "testo": "Mi piacerebbe un caffè, per favore.",
+          "info": "richiesta educata, bar"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I feel sick today.",
+        "info": "present simple, feel, health, today"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi mi sento male.",
+          "info": "presente, salute, oggi"
+        },
+        {
+          "testo": "Oggi mi sento malato.",
+          "info": "presente, salute, oggi"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not feeling great today.",
+        "info": "present continuous, feel, health, today"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi non mi sento al massimo.",
+          "info": "presente, salute, oggi"
+        },
+        {
+          "testo": "Oggi non mi sento molto bene.",
+          "info": "presente, salute, oggi"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have three sisters.",
+        "info": "present simple, have, family, quantity"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho tre sorelle.",
+          "info": "presente, avere, famiglia, quantita"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a grandmother who is 90 years old.",
+        "info": "present simple, have, family, relative clause, age"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho una nonna che ha 90 anni.",
+          "info": "presente, avere, famiglia, relativa, eta"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, penso che dovremmo iniziare.",
+        "info": "presente, opinione, suggerimento, riunione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, I think we should start.",
+          "info": "present simple, opinion, suggestion, meeting"
+        },
+        {
+          "testo": "Hi, I believe we should start.",
+          "info": "present simple, opinion, suggestion, meeting"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Penso che tu abbia ragione.",
+        "info": "presente, opinione, accordo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think you are right.",
+          "info": "present simple, opinion, agreement"
+        },
+        {
+          "testo": "I believe you are right.",
+          "info": "present simple, opinion, agreement"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Direi che hai ragione.",
+        "info": "presente, opinione, accordo, tono soft"
+      },
+      "traduzioni": [
+        {
+          "testo": "I guess you're right.",
+          "info": "present simple, opinion, soft agreement, informal"
+        },
+        {
+          "testo": "I would say you're right.",
+          "info": "would, opinion, soft agreement"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non la penso così.",
+        "info": "presente, opinione, disaccordo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't think so.",
+          "info": "present simple, opinion, disagreement"
+        },
+        {
+          "testo": "I don't see it that way.",
+          "info": "present simple, opinion, disagreement"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo che lascerò il mio lavoro la prossima settimana.",
+        "info": "presente, credo che, futuro, espressione di tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I believe I am going to quit my job next week.",
+          "info": "present simple, belief, going to future, time expression"
+        },
+        {
+          "testo": "I think I'm going to quit my job next week.",
+          "info": "present simple, opinion, going to future, time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo che vincerò la lotteria.",
+        "info": "presente, credo che, futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I believe I am going to win the lottery.",
+          "info": "present simple, belief, going to future"
+        },
+        {
+          "testo": "I think I'm going to win the lottery.",
+          "info": "present simple, opinion, going to future"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo...",
+        "info": "presente, inizio frase, credo che"
+      },
+      "traduzioni": [
+        {
+          "testo": "I believe...",
+          "info": "present simple, sentence starter, belief"
+        },
+        {
+          "testo": "I think...",
+          "info": "present simple, sentence starter, opinion"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono convinto che...",
+        "info": "presente, opinione forte, che"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm convinced that...",
+          "info": "present simple, strong opinion, that clause"
+        },
+        {
+          "testo": "I'm sure that...",
+          "info": "present simple, strong opinion, that clause"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho la sensazione che vincerò alla lotteria.",
+        "info": "presente, sensazione, futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a feeling I'm going to win the lottery.",
+          "info": "present simple, feeling, going to future"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Capisco cosa intendi.",
+        "info": "presente, comprensione, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I understand what you mean.",
+          "info": "present simple, comprehension, conversation"
+        },
+        {
+          "testo": "I know what you mean.",
+          "info": "present simple, comprehension, conversation"
+        },
+        {
+          "testo": "I get what you mean.",
+          "info": "present simple, comprehension, informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho capito.",
+        "info": "presente, comprensione, colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I get it.",
+          "info": "present simple, comprehension, informal"
+        },
+        {
+          "testo": "Got it.",
+          "info": "informal, comprehension"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non capisco.",
+        "info": "presente, comprensione, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't understand.",
+          "info": "present simple, comprehension, negative"
+        },
+        {
+          "testo": "I don't get it.",
+          "info": "present simple, comprehension, informal, negative"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ora capisco questo problema di matematica.",
+        "info": "presente, comprensione, ora"
+      },
+      "traduzioni": [
+        {
+          "testo": "I understand this math problem now.",
+          "info": "present simple, comprehension, now"
+        },
+        {
+          "testo": "I get this math problem now.",
+          "info": "present simple, comprehension, informal, now"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Capisco cosa sta dicendo.",
+        "info": "presente, comprensione, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I see what he's saying.",
+          "info": "present simple, comprehension, perspective"
+        },
+        {
+          "testo": "I understand what he's saying.",
+          "info": "present simple, comprehension"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La conosco abbastanza bene.",
+        "info": "presente, conoscere qualcuno, avverbio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I know her pretty well.",
+          "info": "present simple, know someone, adverb"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Conosco suo zio.",
+        "info": "presente, conoscere qualcuno, famiglia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I know his uncle.",
+          "info": "present simple, know someone, family"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "So come farlo.",
+        "info": "presente, abilita, so come"
+      },
+      "traduzioni": [
+        {
+          "testo": "I know how to do it.",
+          "info": "present simple, ability, know how to"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "So come gestirlo.",
+        "info": "presente, abilita, gestione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I know how to handle it.",
+          "info": "present simple, ability, problem solving"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho familiarità con questo software.",
+        "info": "presente, familiarita, contesto lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm familiar with this software.",
+          "info": "present simple, familiarity, work context"
+        },
+        {
+          "testo": "I am familiar with this software.",
+          "info": "present simple, familiarity, work context"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono amica di Marco.",
+        "info": "presente, relazione, essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm friends with Marco.",
+          "info": "present simple, relationship, be"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace questa idea.",
+        "info": "presente, piacere, oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like this idea.",
+          "info": "present simple, like, object"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace mangiare le banane.",
+        "info": "presente, piacere, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like to eat bananas.",
+          "info": "present simple, like, infinitive"
+        },
+        {
+          "testo": "I enjoy eating bananas.",
+          "info": "present simple, enjoy, gerund"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Preferisco il pollo al manzo.",
+        "info": "presente, preferire, confronto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I prefer chicken to beef.",
+          "info": "present simple, prefer, comparison"
+        },
+        {
+          "testo": "I'd rather have chicken than beef.",
+          "info": "would rather, preference, comparison"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di comprare del cibo.",
+        "info": "presente, bisogno, necessita"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to buy food.",
+          "info": "present simple, need, necessity"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo prendere qualcosa da mangiare.",
+        "info": "presente, dovere, colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to grab some food.",
+          "info": "present simple, need, informal"
+        },
+        {
+          "testo": "I need to get something to eat.",
+          "info": "present simple, need, informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo andare via adesso.",
+        "info": "presente, dovere, urgenza, adesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I must leave now.",
+          "info": "present simple, must, strong obligation, now"
+        },
+        {
+          "testo": "I have to leave now.",
+          "info": "present simple, have to, obligation, now"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Voglio mangiare un hamburger.",
+        "info": "presente, volere, desiderio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want to eat a hamburger.",
+          "info": "present simple, want, desire"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei un caffè, per favore.",
+        "info": "richiesta educata, bar"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like a coffee, please.",
+          "info": "would like, polite request, ordering"
+        },
+        {
+          "testo": "I would like a coffee, please.",
+          "info": "would like, polite request, ordering"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi mi sento male.",
+        "info": "presente, salute, oggi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I feel sick today.",
+          "info": "present simple, feel, health, today"
+        },
+        {
+          "testo": "I don't feel well today.",
+          "info": "present simple, feel, health, negative, today"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi non mi sento al massimo.",
+        "info": "presente, salute, oggi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not feeling great today.",
+          "info": "present continuous, feel, health, today"
+        },
+        {
+          "testo": "I'm not feeling my best today.",
+          "info": "present continuous, feel, idiom, today"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho tre sorelle.",
+        "info": "presente, avere, famiglia, quantita"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have three sisters.",
+          "info": "present simple, have, family, quantity"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel Presente",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una nonna che ha 90 anni.",
+        "info": "presente, avere, famiglia, relativa, eta"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a grandmother who is 90 years old.",
+          "info": "present simple, have, family, relative clause, age"
+        },
+        {
+          "testo": "I have a grandma who is 90 years old.",
+          "info": "present simple, have, family, informal, age"
+        }
+      ]
+    }
+  ]
+}

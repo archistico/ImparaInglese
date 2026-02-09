@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "contesto": "Eventi Culturali",
+  "frasi": [
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good evening, I have a ticket for tonight.",
+        "info": "saluto, present simple, situazione reale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonasera, ho un biglietto per stasera.",
+          "info": "saluto formale, presente indicativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the box office?",
+        "info": "domanda wh, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove si trova la biglietteria?",
+          "info": "domanda diretta, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are there any tickets available for tonight?",
+        "info": "any in domande, plurale, disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci sono biglietti disponibili per stasera?",
+          "info": "plurale, disponibilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does the performance start?",
+        "info": "domanda wh, present simple, orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora inizia lo spettacolo?",
+          "info": "domanda diretta, orario"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long is the show?",
+        "info": "domanda wh, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto dura lo spettacolo?",
+          "info": "durata, presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there an intermission?",
+        "info": "there is interrogativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un intervallo?",
+          "info": "there is, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is my seat located?",
+        "info": "possessivo, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove si trova il mio posto?",
+          "info": "possessivo, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me find my seat?",
+        "info": "can richiesta cortese, verbo base"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aiutarmi a trovare il mio posto?",
+          "info": "richiesta cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are latecomers admitted?",
+        "info": "forma passiva, regole"
+      },
+      "traduzioni": [
+        {
+          "testo": "I ritardatari sono ammessi?",
+          "info": "passivo, regolamento"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is photography permitted during the performance?",
+        "info": "forma passiva, regole"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le foto sono permesse durante lo spettacolo?",
+          "info": "passivo, regole"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are the emergency exits?",
+        "info": "plurale, sicurezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove sono le uscite di emergenza?",
+          "info": "sicurezza, plurale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonasera, ho un biglietto per stasera.",
+        "info": "saluto, presente indicativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good evening, I have a ticket for tonight.",
+          "info": "greeting, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove si trova la biglietteria?",
+        "info": "domanda diretta, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the box office?",
+          "info": "wh question, place"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci sono biglietti disponibili per stasera?",
+        "info": "plurale, disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are there any tickets available for tonight?",
+          "info": "any in questions, availability"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora inizia lo spettacolo?",
+        "info": "domanda, orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does the performance start?",
+          "info": "wh question, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto dura lo spettacolo?",
+        "info": "durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long is the show?",
+          "info": "duration question"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un intervallo?",
+        "info": "there is, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there an intermission?",
+          "info": "there is interrogative"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove si trova il mio posto?",
+        "info": "possessivo, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is my seat located?",
+          "info": "possessive, place"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aiutarmi a trovare il mio posto?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me find my seat?",
+          "info": "polite request, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "I ritardatari sono ammessi?",
+        "info": "passivo, regolamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are latecomers admitted?",
+          "info": "passive voice, rules"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le foto sono permesse durante lo spettacolo?",
+        "info": "passivo, regole"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is photography permitted during the performance?",
+          "info": "passive voice, rules"
+        }
+      ]
+    },
+    {
+      "contesto": "Eventi Culturali",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono le uscite di emergenza?",
+        "info": "sicurezza, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are the emergency exits?",
+          "info": "plural, safety"
+        }
+      ]
+    }
+  ]
+}

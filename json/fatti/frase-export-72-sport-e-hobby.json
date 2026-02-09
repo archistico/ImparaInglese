@@ -1,0 +1,427 @@
+{
+  "version": 1,
+  "contesto": "Sport e hobby",
+  "frasi": [
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a hobby? / Do you have any hobbies?",
+        "info": "Domanda generale sugli hobby (forma singolare o plurale, stesso significato)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai un hobby? / Hai hobby?",
+          "info": "(domanda diretta, uso comune)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you do for fun?",
+        "info": "Domanda aperta sul tempo libero"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa fai per divertirti?",
+          "info": "(domanda colloquiale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you into sports? / Do you play any sports? / Do you do any sports?",
+        "info": "Varianti per chiedere se una persona pratica sport"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti piacciono gli sport? / Fai qualche sport?",
+          "info": "(into = interesse; play/do = pratica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your favorite sport?",
+        "info": "Domanda sulle preferenze sportive"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il tuo sport preferito?",
+          "info": "(aggettivo possessivo your)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like sports / I like swimming / I like walking",
+        "info": "Like + sostantivo o verbo in -ing"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace lo sport / Mi piace nuotare / Mi piace camminare",
+          "info": "(like + gerundio)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I love reading / I enjoy painting",
+        "info": "Love ed enjoy esprimono un gradimento forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Amo leggere / Mi diverto a dipingere",
+          "info": "(enfasi positiva)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I go running / I go swimming / I go to the gym",
+        "info": "Struttura go + attività"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vado a correre / Vado a nuotare / Vado in palestra",
+          "info": "(abitudine)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I go to the gym three times a week / I train … times a week",
+        "info": "Frequenza settimanale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vado in palestra tre volte a settimana / Mi alleno … volte a settimana",
+          "info": "(avverbi di frequenza)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I play football (soccer) / I play basketball / I play tennis",
+        "info": "Play + sport con la palla"
+      },
+      "traduzioni": [
+        {
+          "testo": "Gioco a calcio / Gioco a basket / Gioco a tennis",
+          "info": "(play + sport)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I play the guitar / I play an instrument",
+        "info": "Play + the + strumento musicale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Suono la chitarra / Suono uno strumento",
+          "info": "(uso dell'articolo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm good at swimming / I'm terrible at dancing",
+        "info": "Good/terrible at + gerundio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono bravo/a a nuotare / Sono pessimo/a a ballare",
+          "info": "(abilità)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm a beginner at yoga / I've been doing this for years",
+        "info": "Livello di esperienza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono un principiante di yoga / Lo faccio da anni",
+          "info": "(present perfect per durata)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm trying to get fit / I need new running shoes",
+        "info": "Allenamento e attrezzatura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto cercando di mettermi in forma / Mi servono nuove scarpe da corsa",
+          "info": "(trying to = tentativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I quit playing rugby / I lost interest",
+        "info": "Interruzione di un hobby"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho smesso di giocare a rugby / Ho perso interesse",
+          "info": "(quit + gerundio)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's play a game / Let's go cycling this weekend!",
+        "info": "Inviti informali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Facciamo una partita / Andiamo in bici questo weekend!",
+          "info": "(let's = proposta)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Up for a game of chess? / Wanna join our team?",
+        "info": "Inviti colloquiali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti va una partita a scacchi? / Vuoi unirti alla nostra squadra?",
+          "info": "(up for / wanna = informale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's the score? / Who's winning?",
+        "info": "Domande durante una partita"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il punteggio? / Chi sta vincendo?",
+          "info": "(tempo presente continuo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That was an amazing match! / I won first place!",
+        "info": "Commenti e risultati sportivi"
+      },
+      "traduzioni": [
+        {
+          "testo": "È stata una partita fantastica! / Ho vinto il primo posto!",
+          "info": "(passato semplice)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai un hobby? / Hai hobby?",
+        "info": "Domanda generale sugli hobby"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have a hobby? / Do you have any hobbies?",
+          "info": "(singolare/plurale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa fai per divertirti?",
+        "info": "Domanda aperta"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you do for fun?",
+          "info": "(uso colloquiale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fai qualche sport?",
+        "info": "Pratica sportiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you into sports? / Do you play any sports?",
+          "info": "(interesse o pratica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace nuotare / Mi piace camminare",
+        "info": "Gradimento attività"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like swimming / I like walking",
+          "info": "(like + -ing)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Gioco a calcio / Gioco a tennis",
+        "info": "Sport praticati"
+      },
+      "traduzioni": [
+        {
+          "testo": "I play football (soccer) / I play tennis",
+          "info": "(play + sport)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vado in palestra tre volte a settimana",
+        "info": "Frequenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I go to the gym three times a week",
+          "info": "(espressione temporale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono bravo/a a nuotare / Sono pessimo/a a ballare",
+        "info": "Abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm good at swimming / I'm terrible at dancing",
+          "info": "(good/terrible at)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Facciamo una partita! / Ti va una partita a scacchi?",
+        "info": "Inviti"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's play a match! / Up for a game of chess?",
+          "info": "(proposta informale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è il punteggio? / Chi sta vincendo?",
+        "info": "Durante una gara"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's the score? / Who's winning?",
+          "info": "(presente continuo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Sport e hobby",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È stata una partita fantastica!",
+        "info": "Commento finale"
+      },
+      "traduzioni": [
+        {
+          "testo": "That was an amazing match!",
+          "info": "(past simple)"
+        }
+      ]
+    }
+  ]
+}

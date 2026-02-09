@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "contesto": "Negozio di Vestiti",
+  "frasi": [
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello, can I help you?",
+        "info": "saluto, offerta di aiuto, forma interrogativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Salve, posso aiutarla?",
+          "info": "forma di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm just looking, thank you",
+        "info": "risposta cortese, present continuous"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto solo dando un'occhiata, grazie",
+          "info": "espressione idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm looking for a jacket",
+        "info": "present continuous, espressione di ricerca"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto cercando una giacca",
+          "info": "verbo cercare"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have this in size M?",
+        "info": "domanda su disponibilità, taglie"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete questa in taglia M?",
+          "info": "uso di avere"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a bigger or smaller size?",
+        "info": "comparativi, alternativa or"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete una taglia più grande o più piccola?",
+          "info": "comparativi"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I try this on?",
+        "info": "richiesta cortese, condizionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei provarlo?",
+          "info": "condizionale di cortesia"
+        },
+        {
+          "testo": "Posso provarlo?",
+          "info": "forma più diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are the fitting rooms?",
+        "info": "domanda su luogo, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove sono i camerini?",
+          "info": "plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's too tight",
+        "info": "descrizione vestibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "È troppo stretto",
+          "info": "aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's too loose",
+        "info": "descrizione vestibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "È troppo largo",
+          "info": "aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this available in blue?",
+        "info": "passivo, colori"
+      },
+      "traduzioni": [
+        {
+          "testo": "È disponibile in blu?",
+          "info": "passivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this on sale?",
+        "info": "domanda su sconti"
+      },
+      "traduzioni": [
+        {
+          "testo": "È in sconto?",
+          "info": "espressione commerciale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much does it cost?",
+        "info": "domanda sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "uso di costare"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "metodi di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con carta?",
+          "info": "verbo potere"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you accept cash?",
+        "info": "metodi di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Accettate contanti?",
+          "info": "verbo accettare"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I return this if it doesn't fit?",
+        "info": "periodo ipotetico reale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso restituirlo se non va bene?",
+          "info": "condizione reale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long is the return policy?",
+        "info": "domanda su durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto dura il periodo di reso?",
+          "info": "durata"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Salve, posso aiutarla?",
+        "info": "saluto, forma di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello, can I help you?",
+          "info": "offerta di aiuto"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto solo dando un'occhiata, grazie",
+        "info": "risposta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm just looking, thank you",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto cercando una giacca",
+        "info": "azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm looking for a jacket",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete questa in taglia M?",
+        "info": "domanda su disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have this in size M?",
+          "info": "taglie"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete una taglia più grande o più piccola?",
+        "info": "comparativi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have a bigger or smaller size?",
+          "info": "comparativi"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso provarlo?",
+        "info": "richiesta semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I try this on?",
+          "info": "verbo modale"
+        },
+        {
+          "testo": "Could I try this on?",
+          "info": "forma più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono i camerini?",
+        "info": "domanda su luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are the fitting rooms?",
+          "info": "plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È troppo stretto",
+        "info": "descrizione vestibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's too tight",
+          "info": "aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È troppo largo",
+        "info": "descrizione vestibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's too loose",
+          "info": "aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È disponibile in blu?",
+        "info": "colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this available in blue?",
+          "info": "passivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È in sconto?",
+        "info": "prezzi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this on sale?",
+          "info": "espressione commerciale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "domanda sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much does it cost?",
+          "info": "verbo cost"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con carta?",
+        "info": "metodi di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "verbo modale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Accettate contanti?",
+        "info": "metodi di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you accept cash?",
+          "info": "verbo accept"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso restituirlo se non va bene?",
+        "info": "condizione reale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I return this if it doesn't fit?",
+          "info": "periodo ipotetico reale"
+        }
+      ]
+    },
+    {
+      "contesto": "Negozio di Vestiti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto dura il periodo di reso?",
+        "info": "durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long is the return policy?",
+          "info": "domanda su durata"
+        }
+      ]
+    }
+  ]
+}

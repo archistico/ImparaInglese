@@ -1,0 +1,788 @@
+{
+  "version": 1,
+  "contesto": "Al Bar / Caffetteria",
+  "frasi": [
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi",
+        "info": "Saluto informale all'inizio dell'ordine (greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao",
+          "info": "Saluto informale"
+        },
+        {
+          "testo": "Buongiorno",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like a cappuccino, please",
+        "info": "Richiesta cortese con 'I'd like' (would like) + noun (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei un cappuccino, per favore",
+          "info": "Forma cortese"
+        },
+        {
+          "testo": "Prenderei un cappuccino, per favore",
+          "info": "Variante naturale in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have an espresso, please?",
+        "info": "Richiesta con 'Can I have...?' (request) (a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere un espresso, per favore?",
+          "info": "Forma diretta ma cortese"
+        },
+        {
+          "testo": "Mi dà un espresso, per favore?",
+          "info": "Variante tipica al bar in Italia"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have almond milk instead?",
+        "info": "Richiesta con 'Could I have...?' (più cortese di can) + 'instead' (alternative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere latte di mandorla invece?",
+          "info": "Instead = invece"
+        },
+        {
+          "testo": "Può farlo con latte di mandorla?",
+          "info": "Variante più naturale nel parlato"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have soy milk or oat milk?",
+        "info": "Domanda su disponibilità con 'Do you have...?' (availability)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete latte di soia o latte d'avena?",
+          "info": "Elenco di alternative con 'o'"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "No sugar, please",
+        "info": "Richiesta negativa breve (no + noun) (politeness marker: please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Senza zucchero, per favore",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Non metta zucchero, per favore",
+          "info": "Variante esplicita (imperativo cortese)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "With sugar, please",
+        "info": "Richiesta positiva breve (with + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Con zucchero, per favore",
+          "info": "Opposto di 'no sugar'"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I get this to go?",
+        "info": "Asporto: 'to go' (US) = da asporto (takeaway)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso averlo da asporto?",
+          "info": "Traduzione diretta"
+        },
+        {
+          "testo": "Posso prenderlo da portar via?",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "For here, please",
+        "info": "Consumo sul posto: 'for here' (sit-in) (opposto di to go)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qui, per favore",
+          "info": "Consumo sul posto"
+        },
+        {
+          "testo": "Da consumare qui, per favore",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Extra shot of espresso, please",
+        "info": "Richiesta di dose extra: 'extra shot' (coffee vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Un extra shot di espresso, per favore",
+          "info": "Prestito comune (shot)"
+        },
+        {
+          "testo": "Un'aggiunta di espresso, per favore",
+          "info": "Variante più italiana"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you make it decaf?",
+        "info": "Decaffeinato: decaf (short for decaffeinated) (request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può farlo decaffeinato?",
+          "info": "Richiesta di variante"
+        },
+        {
+          "testo": "Lo posso avere decaffeinato?",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you recommend?",
+        "info": "Richiesta consiglio (recommendation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa mi consiglia?",
+          "info": "Forma cortese"
+        },
+        {
+          "testo": "Che cosa mi consigli?",
+          "info": "Variante informale (tu)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your specialty?",
+        "info": "Specialty = specialità della casa (house specialty)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è la vostra specialità?",
+          "info": "Domanda sul prodotto migliore"
+        },
+        {
+          "testo": "Qual è la specialità della casa?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have something without caffeine?",
+        "info": "Senza caffeina: 'without caffeine' (availability)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete qualcosa senza caffeina?",
+          "info": "Domanda di disponibilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I see the menu, please?",
+        "info": "Richiesta del menu (can I see...?) (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso vedere il menù, per favore?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Mi porta il menù, per favore?",
+          "info": "Variante più tipica al tavolo"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it?",
+        "info": "Prezzo: 'How much is it?' (singolare) (asking price)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "Quanto viene?",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "Pagamento: pay by card (modal verb can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con la carta?",
+          "info": "Carta di credito/debito"
+        },
+        {
+          "testo": "Accettate carte?",
+          "info": "Variante su disponibilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is service included?",
+        "info": "Service = servizio/coperto a seconda del paese (check policy)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il servizio è incluso?",
+          "info": "Domanda su addebiti extra"
+        },
+        {
+          "testo": "Il coperto è incluso?",
+          "info": "Variante se si parla di 'coperto' (Italia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could we have the bill, please?",
+        "info": "Richiesta conto: 'the bill' (US) / 'the check' (US) (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potremmo avere il conto, per favore?",
+          "info": "Richiesta cortese"
+        },
+        {
+          "testo": "Il conto, per favore",
+          "info": "Versione breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Keep the change",
+        "info": "Mancia/resto: espressione fissa (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tenga il resto",
+          "info": "Formula standard"
+        },
+        {
+          "testo": "Può tenere il resto",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm allergic to nuts",
+        "info": "Allergie: 'I'm allergic to...' (to + noun) (important info)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono allergico/a alla frutta secca",
+          "info": "Adatta il genere: allergico/allergica (grammar tag)"
+        },
+        {
+          "testo": "Sono allergico/a alle noci",
+          "info": "Più specifico se si parla di nuts = noci"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this gluten-free?",
+        "info": "Domanda su ingredienti: gluten-free (dietary restriction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È senza glutine?",
+          "info": "Forma breve e comune"
+        },
+        {
+          "testo": "Questo è senza glutine?",
+          "info": "Variante con dimostrativo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao",
+        "info": "Saluto iniziale (greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi",
+          "info": "Informale"
+        },
+        {
+          "testo": "Good morning",
+          "info": "Più formale (mattina)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei un cappuccino, per favore",
+        "info": "Richiesta cortese (condizionale italiano) -> 'would like'"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like a cappuccino, please",
+          "info": "Would like (contrazione: I'd)"
+        },
+        {
+          "testo": "Could I have a cappuccino, please?",
+          "info": "Alternativa cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere un espresso, per favore?",
+        "info": "Richiesta diretta e cortese (can I have...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I have an espresso, please?",
+          "info": "A/an: an espresso"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può farlo con latte di mandorla?",
+        "info": "Richiesta di sostituzione (instead)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have almond milk instead?",
+          "info": "Instead = invece"
+        },
+        {
+          "testo": "Can you make it with almond milk?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete latte di soia o latte d'avena?",
+        "info": "Domanda su disponibilità (do you have...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have soy milk or oat milk?",
+          "info": "Or = oppure"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Senza zucchero, per favore",
+        "info": "Richiesta negativa breve (no + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "No sugar, please",
+          "info": "Forma breve"
+        },
+        {
+          "testo": "Without sugar, please",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Con zucchero, per favore",
+        "info": "Richiesta positiva breve (with + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "With sugar, please",
+          "info": "Opposto di 'no sugar'"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso averlo da asporto?",
+        "info": "Asporto (to go / takeaway)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I get this to go?",
+          "info": "To go (US)"
+        },
+        {
+          "testo": "Can I get this takeaway?",
+          "info": "Takeaway (UK)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Da consumare qui, per favore",
+        "info": "Consumo sul posto (for here)"
+      },
+      "traduzioni": [
+        {
+          "testo": "For here, please",
+          "info": "Opposto di to go"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Un'aggiunta di espresso, per favore",
+        "info": "Richiesta di dose extra (extra shot)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Extra shot of espresso, please",
+          "info": "Coffee vocabulary"
+        },
+        {
+          "testo": "Can I get an extra shot, please?",
+          "info": "Variante completa (can I get...?)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può farlo decaffeinato?",
+        "info": "Richiesta di variante (decaf)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you make it decaf?",
+          "info": "Decaf = decaffeinated"
+        },
+        {
+          "testo": "Could I have it decaf?",
+          "info": "Più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa mi consiglia?",
+        "info": "Richiesta consiglio (recommend)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you recommend?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "What would you recommend?",
+          "info": "Ancora più cortese (would)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è la vostra specialità?",
+        "info": "Domanda su specialità della casa"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your specialty?",
+          "info": "Specialty = specialità"
+        },
+        {
+          "testo": "What is your house specialty?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso vedere il menù, per favore?",
+        "info": "Richiesta del menù (can I see...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I see the menu, please?",
+          "info": "Menu = menu"
+        },
+        {
+          "testo": "Could I see the menu, please?",
+          "info": "Più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "Domanda sul prezzo (how much...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is it?",
+          "info": "Singolare"
+        },
+        {
+          "testo": "How much does it cost?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con la carta?",
+        "info": "Pagamento (pay by card)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Do you accept cards?",
+          "info": "Domanda su accettazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il servizio è incluso?",
+        "info": "Domanda su costi extra (service included)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is service included?",
+          "info": "Forma breve"
+        },
+        {
+          "testo": "Is the service charge included?",
+          "info": "Variante più precisa"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potremmo avere il conto, per favore?",
+        "info": "Richiesta conto (could we have...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could we have the bill, please?",
+          "info": "Bill (US/UK)"
+        },
+        {
+          "testo": "Could we have the check, please?",
+          "info": "Check (US)"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tenga il resto",
+        "info": "Formula fissa per lasciare il resto (tip)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Keep the change",
+          "info": "Fixed expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono allergico/a alla frutta secca",
+        "info": "Adatta il genere: allergico/allergica (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm allergic to nuts",
+          "info": "Allergic to + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Al Bar / Caffetteria",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È senza glutine?",
+        "info": "Domanda su ingredienti (gluten-free)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this gluten-free?",
+          "info": "This = questo"
+        },
+        {
+          "testo": "Is it gluten-free?",
+          "info": "Forma più breve"
+        }
+      ]
+    }
+  ]
+}

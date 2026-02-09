@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "contesto": "Viaggi e Turismo",
+  "frasi": [
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, is this seat taken?",
+        "info": "domanda cortese, present simple, uso di excuse me"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, questo posto è occupato?",
+          "info": "forma di cortesia, domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I get to the city center from here?",
+        "info": "domanda su indicazioni, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come arrivo in centro città da qui?",
+          "info": "uso di come, indicazioni stradali"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a tourist information office nearby?",
+        "info": "there is there are, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un ufficio informazioni turistiche qui vicino?",
+          "info": "c'è singolare, posizione"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you recommend any local attractions or museums?",
+        "info": "can per richieste, sostantivi plurali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può consigliare attrazioni locali o musei?",
+          "info": "verbo consigliare, alternative"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm interested in historical sites and old towns",
+        "info": "present continuous, interessi personali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono interessato a siti storici e città antiche",
+          "info": "essere interessato a, plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does the guided tour start?",
+        "info": "domanda con does, terza persona singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora inizia il tour guidato?",
+          "info": "orario, verbo iniziare"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long is the flight to London?",
+        "info": "how long, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto dura il volo per Londra?",
+          "info": "durata, complemento di destinazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a connecting flight in Paris",
+        "info": "present simple, viaggio aereo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho un volo in coincidenza a Parigi",
+          "info": "terminologia aeroportuale"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the boarding gate for this flight?",
+        "info": "where is, vocabolario aeroporto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il gate d'imbarco per questo volo?",
+          "info": "luogo specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I claim my luggage after landing?",
+        "info": "can per possibilità, phrasal verb"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso ritirare il bagaglio dopo l'atterraggio?",
+          "info": "verbo ritirare, contesto aeroporto"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, questo posto è occupato?",
+        "info": "forma di cortesia, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, is this seat taken?",
+          "info": "polite question, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come arrivo in centro città da qui?",
+        "info": "richiesta di indicazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I get to the city center from here?",
+          "info": "directions, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un ufficio informazioni turistiche qui vicino?",
+        "info": "c'è singolare, posizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a tourist information office nearby?",
+          "info": "there is question"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può consigliare attrazioni locali o musei?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you recommend any local attractions or museums?",
+          "info": "can request"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono interessato a siti storici e città antiche",
+        "info": "espressione di interesse"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm interested in historical sites and old towns",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora inizia il tour guidato?",
+        "info": "domanda su orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does the guided tour start?",
+          "info": "does question"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto dura il volo per Londra?",
+        "info": "durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long is the flight to London?",
+          "info": "how long question"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho un volo in coincidenza a Parigi",
+        "info": "viaggio aereo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a connecting flight in Paris",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il gate d'imbarco per questo volo?",
+        "info": "luogo aeroporto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the boarding gate for this flight?",
+          "info": "where is question"
+        }
+      ]
+    },
+    {
+      "contesto": "Viaggi e Turismo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso ritirare il bagaglio dopo l'atterraggio?",
+        "info": "verbo potere, aeroporto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I claim my luggage after landing?",
+          "info": "can question, phrasal verb"
+        }
+      ]
+    }
+  ]
+}

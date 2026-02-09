@@ -1,0 +1,903 @@
+{
+  "version": 1,
+  "contesto": "Preposizioni",
+  "frasi": [
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm at the bar",
+        "info": "AT = posizione puntuale/luogo specifico (at + place). Non usare 'in' qui se intendi 'al bar' come luogo di presenza (use: at for specific point)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono al bar",
+          "info": "In italiano: a + articolo (al) per luogo"
+        },
+        {
+          "testo": "Sono al bancone del bar",
+          "info": "Variante più specifica se intendi un punto preciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm in the café",
+        "info": "IN = dentro un luogo chiuso/area (in + building/room). Si usa quando l'idea è 'dentro' (inside). Non usare 'at' se vuoi enfatizzare l'interno (use: in for inside)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono nel bar",
+          "info": "Nel = in + il (dentro il locale)"
+        },
+        {
+          "testo": "Sono dentro al bar",
+          "info": "Variante esplicita (inside)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm in Italy",
+        "info": "IN = paesi/città grandi/aree (in + countries/large areas). Non usare 'at' per paesi (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono in Italia",
+          "info": "Paese = in"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I live in Rome",
+        "info": "IN = città in inglese (I live in + city). Nota: per eventi/punti si può usare AT (at Rome è raro e specifico) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vivo a Roma",
+          "info": "In italiano: vivo a + città"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's meet at the entrance",
+        "info": "AT = punto specifico (entrance). Non usare 'in' se intendi un punto e non un'area (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Incontriamoci all'ingresso",
+          "info": "Punto preciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The keys are on the table",
+        "info": "ON = su una superficie (on + surface). Non usare 'in' (dentro) né 'at' (punto) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le chiavi sono sul tavolo",
+          "info": "Su + articolo (sul)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The keys are in my bag",
+        "info": "IN = dentro un contenitore (in + container). Non usare 'on' (superficie) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le chiavi sono nella mia borsa",
+          "info": "Dentro un contenitore"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There's a pharmacy near the station",
+        "info": "NEAR = vicino a (prossimità). Non implica attaccato; 'next to' è più vicino (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è una farmacia vicino alla stazione",
+          "info": "Near = vicino a"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The bank is next to the café",
+        "info": "NEXT TO = accanto a, immediata vicinanza. Non usare 'near' se vuoi dire proprio 'accanto' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La banca è accanto al bar",
+          "info": "Accanto = next to"
+        },
+        {
+          "testo": "La banca è proprio vicino al bar",
+          "info": "Variante con enfasi su vicinanza"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The book is under the chair",
+        "info": "UNDER = sotto (posizione). Non usare 'below' in contesti quotidiani semplici; below è più formale/astratto o per livelli (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il libro è sotto la sedia",
+          "info": "Under = sotto"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The painting is above the sofa",
+        "info": "ABOVE = sopra (non necessariamente attaccato). 'Over' spesso implica 'sopra' con idea di copertura o movimento; qui sopra fisso = above (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il quadro è sopra il divano",
+          "info": "Sopra = above"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The cat is behind the door",
+        "info": "BEHIND = dietro. Non usare 'after' (che è 'dopo' nel tempo) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il gatto è dietro la porta",
+          "info": "Behind = dietro"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The bus stop is in front of the hotel",
+        "info": "IN FRONT OF = davanti a. 'Before' significa 'prima' (tempo), non posizione (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La fermata dell'autobus è davanti all'hotel",
+          "info": "Davanti a = in front of"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The café is between the bank and the pharmacy",
+        "info": "BETWEEN = tra due elementi (between A and B). Per più di due spesso si usa 'among' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il bar è tra la banca e la farmacia",
+          "info": "Tra due"
+        },
+        {
+          "testo": "Il bar è in mezzo tra la banca e la farmacia",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She is among friends",
+        "info": "AMONG = tra molti (gruppo). Non usare 'between' se non sono solo due (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei è tra amici",
+          "info": "Tra un gruppo"
+        },
+        {
+          "testo": "Lei è in mezzo agli amici",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I go to work by bus",
+        "info": "BY = mezzo di trasporto (by bus/by car). Non usare 'with' (with bus è sbagliato) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vado al lavoro in autobus",
+          "info": "In italiano: in + mezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to the station",
+        "info": "TO = direzione/destinazione. Non usare 'at' se sei in movimento verso un luogo (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto andando alla stazione",
+          "info": "Moto a luogo"
+        },
+        {
+          "testo": "Vado alla stazione",
+          "info": "Variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm coming from the office",
+        "info": "FROM = provenienza/origine. Non confondere con 'of' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Arrivo dall'ufficio",
+          "info": "Provenienza"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We work from Monday to Friday",
+        "info": "FROM...TO = intervallo (tempo). Non usare 'since' qui: since è da un punto fino ad ora (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lavoriamo da lunedì a venerdì",
+          "info": "Intervallo"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The meeting is on Monday",
+        "info": "ON = giorni e date (on Monday/on 9th). Non usare 'in' per un singolo giorno (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La riunione è lunedì",
+          "info": "In italiano spesso senza preposizione"
+        },
+        {
+          "testo": "La riunione è di lunedì",
+          "info": "Solo se significa 'ogni lunedì' (attenzione al contesto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I work in the morning",
+        "info": "IN = parti del giorno (in the morning/afternoon/evening). Eccezione: at night (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lavoro la mattina",
+          "info": "In italiano spesso senza preposizione"
+        },
+        {
+          "testo": "Lavoro di mattina",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I study at night",
+        "info": "AT = night (at night). Non usare 'in the night' a meno che significhi 'durante la notte' in senso specifico (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Studio di notte",
+          "info": "At night = di notte"
+        },
+        {
+          "testo": "Studio la notte",
+          "info": "Variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My birthday is in July",
+        "info": "IN = mesi e anni (in July/in 2026). Non usare 'on' per il mese intero (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio compleanno è a luglio",
+          "info": "In italiano spesso 'a' + mese"
+        },
+        {
+          "testo": "Il mio compleanno è in luglio",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My birthday is on July 10th",
+        "info": "ON = data specifica (on + date). Non usare 'in' per una data precisa (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio compleanno è il 10 luglio",
+          "info": "In italiano: articolo 'il' + data"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have been here since 9 a.m.",
+        "info": "SINCE = punto di inizio (since + time/date). Non usare 'for' qui: for = durata (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono qui dalle 9",
+          "info": "Da (punto di inizio)"
+        },
+        {
+          "testo": "Sono qui dalle 9 di mattina",
+          "info": "Variante esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've lived here for five years",
+        "info": "FOR = durata (for + period). Non usare 'since' se hai una durata e non un punto (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vivo qui da cinque anni",
+          "info": "In italiano: da + durata"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm interested in English",
+        "info": "INTERESTED IN = collocazione fissa (preposizione obbligatoria). Non usare 'interested about' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono interessato/a all'inglese",
+          "info": "Interessato a + articolo (all') (gender tag)"
+        },
+        {
+          "testo": "Mi interessa l'inglese",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm good at English",
+        "info": "GOOD AT = abilità/competenza. Non usare 'good in' per abilità (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono bravo/a in inglese",
+          "info": "Bravo in (competenza) (gender tag)"
+        },
+        {
+          "testo": "Me la cavo in inglese",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono al bar",
+        "info": "Presenza in un punto/luogo specifico -> at (at + place). Non usare 'in' se l'idea è solo 'al bar' come destinazione/presenza puntuale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm at the bar",
+          "info": "At = luogo specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono nel bar",
+        "info": "Dentro un luogo (inside) -> in. Non usare 'at' se vuoi enfatizzare 'dentro'"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm in the café",
+          "info": "In = inside a building/room"
+        },
+        {
+          "testo": "I'm in the bar",
+          "info": "Bar in inglese = locale; café = caffetteria"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono in Italia",
+        "info": "Paesi/grandi aree -> in. Non usare at per paesi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm in Italy",
+          "info": "In + country"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vivo a Roma",
+        "info": "Vivere in una città -> live in + city (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I live in Rome",
+          "info": "Live in + city"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Incontriamoci all'ingresso",
+        "info": "Punto specifico -> at. Non usare in se non è un'area"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's meet at the entrance",
+          "info": "At = specific point"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le chiavi sono sul tavolo",
+        "info": "Superficie -> on. Non usare in (dentro)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The keys are on the table",
+          "info": "On + surface"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le chiavi sono nella mia borsa",
+        "info": "Contenitore -> in. Non usare on"
+      },
+      "traduzioni": [
+        {
+          "testo": "The keys are in my bag",
+          "info": "In + container"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è una farmacia vicino alla stazione",
+        "info": "Prossimità -> near. Non usare next to se non è 'accanto'"
+      },
+      "traduzioni": [
+        {
+          "testo": "There's a pharmacy near the station",
+          "info": "Near = vicino"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La banca è accanto al bar",
+        "info": "Accanto -> next to (immediata vicinanza). Non usare near se vuoi dire proprio attaccato"
+      },
+      "traduzioni": [
+        {
+          "testo": "The bank is next to the café",
+          "info": "Next to = accanto"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il libro è sotto la sedia",
+        "info": "Sotto -> under. Non usare below in contesti base"
+      },
+      "traduzioni": [
+        {
+          "testo": "The book is under the chair",
+          "info": "Under = sotto"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il quadro è sopra il divano",
+        "info": "Sopra in posizione -> above. 'Over' spesso implica copertura/movimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "The painting is above the sofa",
+          "info": "Above = sopra (posizione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il gatto è dietro la porta",
+        "info": "Dietro -> behind. Non confondere con after (tempo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The cat is behind the door",
+          "info": "Behind = dietro"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La fermata dell'autobus è davanti all'hotel",
+        "info": "Davanti a -> in front of. Non usare before (tempo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The bus stop is in front of the hotel",
+          "info": "In front of = davanti a"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il bar è tra la banca e la farmacia",
+        "info": "Tra due elementi -> between A and B. Per gruppo -> among"
+      },
+      "traduzioni": [
+        {
+          "testo": "The café is between the bank and the pharmacy",
+          "info": "Between A and B"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei è tra amici",
+        "info": "Tra molti -> among. Non usare between se non sono due"
+      },
+      "traduzioni": [
+        {
+          "testo": "She is among friends",
+          "info": "Among = tra (gruppo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vado al lavoro in autobus",
+        "info": "Mezzo di trasporto -> by bus. Non usare with bus"
+      },
+      "traduzioni": [
+        {
+          "testo": "I go to work by bus",
+          "info": "By + transport"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto andando alla stazione",
+        "info": "Direzione -> to. Non usare at durante il movimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to the station",
+          "info": "Going to + destination"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Arrivo dall'ufficio",
+        "info": "Provenienza -> from. Non usare of"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm coming from the office",
+          "info": "From = da"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavoriamo da lunedì a venerdì",
+        "info": "Intervallo -> from...to. Non usare since/for qui"
+      },
+      "traduzioni": [
+        {
+          "testo": "We work from Monday to Friday",
+          "info": "From...to (range)"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La riunione è lunedì",
+        "info": "Giorni -> on Monday. Non usare in Monday"
+      },
+      "traduzioni": [
+        {
+          "testo": "The meeting is on Monday",
+          "info": "On + day"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavoro la mattina",
+        "info": "Parti del giorno -> in the morning. Eccezione: at night"
+      },
+      "traduzioni": [
+        {
+          "testo": "I work in the morning",
+          "info": "In + part of day"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Studio di notte",
+        "info": "Notte -> at night (eccezione). Non usare in the night salvo 'durante la notte' in senso specifico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I study at night",
+          "info": "At night"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio compleanno è a luglio",
+        "info": "Mesi/anni -> in July/in 2026. Non usare on July (senza data)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My birthday is in July",
+          "info": "In + month"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio compleanno è il 10 luglio",
+        "info": "Data specifica -> on July 10th. Non usare in per una data"
+      },
+      "traduzioni": [
+        {
+          "testo": "My birthday is on July 10th",
+          "info": "On + date"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono qui dalle 9",
+        "info": "Punto di inizio -> since 9 a.m. (present perfect spesso). Non usare for se non è durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have been here since 9 a.m.",
+          "info": "Since + starting point"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vivo qui da cinque anni",
+        "info": "Durata -> for five years. Non usare since se non hai un punto preciso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've lived here for five years",
+          "info": "For + duration"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi interessa l'inglese",
+        "info": "Collocazione: interested in (in obbligatorio). Non usare interested about"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm interested in English",
+          "info": "Interested in + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Preposizioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono bravo/a in inglese",
+        "info": "Abilità -> good at. Non usare good in per abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm good at English",
+          "info": "Good at + skill/subject"
+        }
+      ]
+    }
+  ]
+}

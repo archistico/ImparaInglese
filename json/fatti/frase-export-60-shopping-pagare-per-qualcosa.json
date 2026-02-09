@@ -1,0 +1,484 @@
+{
+  "version": 1,
+  "contesto": "Shopping / Pagare per qualcosa",
+  "frasi": [
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello",
+        "info": "Saluto iniziale in un negozio (greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno / Salve",
+          "info": "Saluto generico formale o neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm just looking",
+        "info": "Risposta tipica quando non si vuole aiuto immediato (present continuous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto solo guardando",
+          "info": "Uso del presente progressivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you sell … here?",
+        "info": "Domanda per verificare la disponibilità di un prodotto (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vendete … qui?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have this size?",
+        "info": "Domanda su una caratteristica specifica (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete questa taglia?",
+          "info": "Uso del presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I try it on?",
+        "info": "Richiesta di permesso (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso provarlo?",
+          "info": "Richiesta informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like it",
+        "info": "Esprimere un'opinione positiva (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace",
+          "info": "Verbo piacere"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't like it",
+        "info": "Esprimere un'opinione negativa (present simple negative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non mi piace",
+          "info": "Forma negativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it?",
+        "info": "Domanda sul prezzo generico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "Domanda diretta sul prezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much does it cost?",
+        "info": "Domanda completa con ausiliare do (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa questo?",
+          "info": "Forma più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a discount?",
+        "info": "Domanda su eventuali riduzioni di prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete uno sconto?",
+          "info": "Uso del presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's too expensive",
+        "info": "Commento sul prezzo (aggettivo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È troppo caro",
+          "info": "Uso di troppo + aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll take it",
+        "info": "Decisione immediata (future with will)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lo prendo",
+          "info": "Futuro usato per decisioni sul momento"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you accept cards?",
+        "info": "Domanda sul metodo di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Accettate carte?",
+          "info": "Forma breve e informale"
+        },
+        {
+          "testo": "Accettate carte di credito?",
+          "info": "Forma più specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can pay in cash",
+        "info": "Dichiarazione di possibilità (can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare in contanti",
+          "info": "Metodo di pagamento"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have the receipt?",
+        "info": "Richiesta educata (can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere la ricevuta?",
+          "info": "Richiesta standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you",
+        "info": "Chiusura dell'interazione (politeness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie",
+          "info": "Forma di cortesia"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno / Salve",
+        "info": "Saluto iniziale (greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello",
+          "info": "Saluto generico"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto solo guardando",
+        "info": "Risposta quando non si vuole assistenza (present continuous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm just looking",
+          "info": "Uso del present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vendete … qui?",
+        "info": "Domanda su disponibilità prodotto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you sell … here?",
+          "info": "Present simple interrogativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete questa taglia?",
+        "info": "Domanda su caratteristiche"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have this size?",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso provarlo?",
+        "info": "Richiesta di permesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I try it on?",
+          "info": "Uso di can"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace",
+        "info": "Opinione positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like it",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non mi piace",
+        "info": "Opinione negativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't like it",
+          "info": "Forma negativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "Domanda sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is it?",
+          "info": "Domanda breve"
+        },
+        {
+          "testo": "How much does it cost?",
+          "info": "Domanda completa"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete uno sconto?",
+        "info": "Domanda su riduzione prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have a discount?",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È troppo caro",
+        "info": "Commento sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's too expensive",
+          "info": "Uso di too + aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lo prendo",
+        "info": "Decisione immediata"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll take it",
+          "info": "Futuro con will"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Accettate carte?",
+        "info": "Metodo di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you accept cards?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "Do you take credit cards?",
+          "info": "Forma più comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare in contanti",
+        "info": "Metodo di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can pay in cash",
+          "info": "Uso di can"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere la ricevuta?",
+        "info": "Richiesta educata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I have the receipt?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Shopping / Pagare per qualcosa",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie",
+        "info": "Chiusura interazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you",
+          "info": "Cortesia"
+        }
+      ]
+    }
+  ]
+}

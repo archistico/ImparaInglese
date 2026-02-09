@@ -1,0 +1,564 @@
+{
+  "version": 1,
+  "contesto": "Congiunzioni",
+  "frasi": [
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want a coffee and a croissant",
+        "info": "AND = aggiunge/informa in più (addition). Si usa per unire parole o frasi (connector)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio un caffè e un cornetto",
+          "info": "E = and (aggiunta)"
+        },
+        {
+          "testo": "Vorrei un caffè e un cornetto",
+          "info": "Variante più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like tea, but I prefer coffee",
+        "info": "BUT = contrasto/contrapposizione (contrast). Non confondere con 'because' (reason)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace il tè, ma preferisco il caffè",
+          "info": "Ma = but (contrasto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want tea or coffee?",
+        "info": "OR = alternativa/scelta (choice). In domande spesso propone opzioni (either/or)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi tè o caffè?",
+          "info": "O = or (scelta)"
+        },
+        {
+          "testo": "Preferisci tè o caffè?",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I stayed home because I was tired",
+        "info": "BECAUSE = causa/motivo (reason). Risponde a 'why?' (why-because)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono rimasto/a a casa perché ero stanco/a",
+          "info": "Perché = because (causa) (gender tag)"
+        },
+        {
+          "testo": "Sono rimasto/a a casa perché ero stanca",
+          "info": "Variante con genere femminile (gender tag)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I was tired, so I went to bed early",
+        "info": "SO = conseguenza/risultato (result). Spesso collega una causa a un effetto (cause -> result)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ero stanco/a, quindi sono andato/a a letto presto",
+          "info": "Quindi = so (risultato) (gender tag)"
+        },
+        {
+          "testo": "Ero stanco/a, perciò sono andato/a a letto presto",
+          "info": "Perciò = variante di quindi"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "If it rains, we'll stay inside",
+        "info": "IF = condizione (condition). Struttura tipica: If + present, will + verb (first conditional)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Se piove, restiamo dentro",
+          "info": "Se = if (condizione)"
+        },
+        {
+          "testo": "Se piove, resteremo dentro",
+          "info": "Variante con futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When I finish work, I'll call you",
+        "info": "WHEN = tempo (time). In inglese, dopo when per il futuro si usa spesso il presente (when + present, not will) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando finisco di lavorare, ti chiamo",
+          "info": "Quando = when (tempo)"
+        },
+        {
+          "testo": "Quando finisco di lavorare, ti chiamerò",
+          "info": "Variante con futuro in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll wait until you arrive",
+        "info": "UNTIL = fino a quando (limit in time). Indica un termine temporale (end point)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Aspetterò finché arrivi",
+          "info": "Finché = until (tempo)"
+        },
+        {
+          "testo": "Aspetterò fino a quando arrivi",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "After I eat, I drink coffee",
+        "info": "AFTER = dopo (sequenza). Congiunzione temporale: after + clause (time sequence)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dopo pranzo, bevo un caffè",
+          "info": "Dopo che = after (tempo)"
+        },
+        {
+          "testo": "Dopo mangiato, bevo un caffè",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Before you leave, call me",
+        "info": "BEFORE = prima (sequenza). Prima che + congiuntivo spesso in italiano (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Prima che tu vada via, chiamami",
+          "info": "Prima che + congiuntivo (regola italiana)"
+        },
+        {
+          "testo": "Prima di andare via, chiamami",
+          "info": "Variante con infinito"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know whether it's true",
+        "info": "WHETHER = se (alternativa/indecisione). Spesso equivale a 'if' ma in contesti formali o con alternative implicite (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so se è vero",
+          "info": "Se = whether/if (indecisione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Although it's late, I'm not tired",
+        "info": "ALTHOUGH = anche se (concessione). Introduce un contrasto che non cambia il risultato (concession)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Anche se è tardi, non sono stanco/a",
+          "info": "Anche se = although (gender tag)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can come, but I can't stay long",
+        "info": "BUT = contrasto; qui limita la seconda parte (contrast/limitation)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso venire, ma non posso restare a lungo",
+          "info": "Ma = but"
+        },
+        {
+          "testo": "Posso venire, però non posso restare molto",
+          "info": "Però = variante di ma"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want coffee, and also a glass of water",
+        "info": "ALSO = avverbio; qui usato per rinforzare l'aggiunta. Congiunzione principale resta 'and' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio un caffè e anche un bicchiere d'acqua",
+          "info": "Anche = also"
+        },
+        {
+          "testo": "Voglio un caffè, e in più un bicchiere d'acqua",
+          "info": "In più = variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Either we leave now, or we miss the train",
+        "info": "EITHER...OR = alternativa esclusiva/forte (choice). Struttura parallela (parallel structure)"
+      },
+      "traduzioni": [
+        {
+          "testo": "O partiamo adesso, oppure perdiamo il treno",
+          "info": "O...oppure = either/or"
+        },
+        {
+          "testo": "O partiamo subito, o perdiamo il treno",
+          "info": "Forma più secca"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Both tea and coffee are available",
+        "info": "BOTH...AND = include entrambe le cose (addition). Non è una scelta (non or) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono disponibili sia il tè sia il caffè",
+          "info": "Sia...sia = both/and"
+        },
+        {
+          "testo": "Ci sono sia tè che caffè",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Voglio un caffè e un cornetto",
+        "info": "E = and (aggiunta). Unisce elementi (connector)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want a coffee and a croissant",
+          "info": "And = addition"
+        },
+        {
+          "testo": "I'd like a coffee and a croissant",
+          "info": "Variante più cortese (would like)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace il tè, ma preferisco il caffè",
+        "info": "Ma = but (contrasto). Introduce opposizione/limitazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like tea, but I prefer coffee",
+          "info": "But = contrast"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi tè o caffè?",
+        "info": "O = or (scelta). Domanda con alternative"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want tea or coffee?",
+          "info": "Or = choice"
+        },
+        {
+          "testo": "Would you like tea or coffee?",
+          "info": "Variante più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono rimasto/a a casa perché ero stanco/a",
+        "info": "Perché = because (causa). Risponde a 'why?' (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I stayed home because I was tired",
+          "info": "Because = reason"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ero stanco/a, quindi sono andato/a a letto presto",
+        "info": "Quindi/perciò = so (conseguenza). Collega causa -> risultato (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I was tired, so I went to bed early",
+          "info": "So = result"
+        },
+        {
+          "testo": "I was tired, therefore I went to bed early",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Se piove, restiamo dentro",
+        "info": "Se = if (condizione). Struttura tipica: If + present, will + verb (first conditional)"
+      },
+      "traduzioni": [
+        {
+          "testo": "If it rains, we'll stay inside",
+          "info": "If + present, will + verb"
+        },
+        {
+          "testo": "If it rains, we stay inside",
+          "info": "Variante colloquiale (meno scolastica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando finisco di lavorare, ti chiamo",
+        "info": "Quando = when (tempo). In inglese dopo when per il futuro spesso NON si usa will (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "When I finish work, I'll call you",
+          "info": "When + present, will + verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Aspetterò finché arrivi",
+        "info": "Finché = until. Indica un limite temporale (end point)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll wait until you arrive",
+          "info": "Until = up to the time"
+        },
+        {
+          "testo": "I'll wait till you arrive",
+          "info": "Till = variante informale di until"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dopo che mangio, bevo un caffè",
+        "info": "Dopo che = after (sequenza temporale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "After I eat, I drink coffee",
+          "info": "After + clause"
+        },
+        {
+          "testo": "After I eat, I have coffee",
+          "info": "Have coffee = prendere un caffè"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Prima di andare via, chiamami",
+        "info": "Prima = before (sequenza). Forma con infinito (before + -ing in inglese possibile)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Before you leave, call me",
+          "info": "Before + clause"
+        },
+        {
+          "testo": "Before leaving, call me",
+          "info": "Before + -ing (gerund)"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so se è vero",
+        "info": "Se (indecisione) -> whether/if. Whether è più formale o quando c'è alternativa implicita (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know whether it's true",
+          "info": "Whether = se (indecisione)"
+        },
+        {
+          "testo": "I don't know if it's true",
+          "info": "If = variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Anche se è tardi, non sono stanco/a",
+        "info": "Anche se = although (concessione). Contrast without changing result (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Although it's late, I'm not tired",
+          "info": "Although = concessive"
+        },
+        {
+          "testo": "Even though it's late, I'm not tired",
+          "info": "Variante più enfatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso venire, ma non posso restare a lungo",
+        "info": "Ma = but (contrasto/limitazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can come, but I can't stay long",
+          "info": "But = limitation"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "O partiamo subito, o perdiamo il treno",
+        "info": "O...o = either...or (alternativa forte). Struttura parallela (parallel structure)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Either we leave now, or we miss the train",
+          "info": "Either...or"
+        }
+      ]
+    },
+    {
+      "contesto": "Congiunzioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci sono sia tè che caffè",
+        "info": "Sia...sia = both...and (inclusione di entrambi). Non è una scelta (non or)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Both tea and coffee are available",
+          "info": "Both...and"
+        },
+        {
+          "testo": "There is both tea and coffee",
+          "info": "Variante (meno naturale)"
+        }
+      ]
+    }
+  ]
+}

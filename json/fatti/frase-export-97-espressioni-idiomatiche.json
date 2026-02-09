@@ -1,0 +1,570 @@
+{
+  "version": 1,
+  "contesto": "Espressioni idiomatiche",
+  "frasi": [
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good luck!",
+        "info": "augurio, alternativa non idiomatica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buona fortuna!",
+          "info": "augurio"
+        },
+        {
+          "testo": "In bocca al lupo!",
+          "info": "augurio, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Break a leg!",
+        "info": "augurio, informale, teatro"
+      },
+      "traduzioni": [
+        {
+          "testo": "In bocca al lupo!",
+          "info": "augurio, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm just pulling your leg.",
+        "info": "idioma, scherzo, present continuous"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti sto prendendo in giro.",
+          "info": "scherzo, colloquiale"
+        },
+        {
+          "testo": "Sto scherzando.",
+          "info": "variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Don't pull my leg!",
+        "info": "imperativo negativo, scherzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non prendermi in giro!",
+          "info": "imperativo negativo"
+        },
+        {
+          "testo": "Non scherzare!",
+          "info": "variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's raining cats and dogs.",
+        "info": "idioma, meteo, intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Piove a catinelle.",
+          "info": "idioma, meteo"
+        },
+        {
+          "testo": "Sta piovendo tantissimo.",
+          "info": "variante più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's call it a day.",
+        "info": "idioma, chiudere attività, proposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Direi di chiudere per oggi.",
+          "info": "proposta, lavoro"
+        },
+        {
+          "testo": "Basta così per oggi.",
+          "info": "variante informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm on cloud nine.",
+        "info": "idioma, felicità, stato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono al settimo cielo.",
+          "info": "idioma, felicità"
+        },
+        {
+          "testo": "Sono felicissimo.",
+          "info": "variante semplice maschile"
+        },
+        {
+          "testo": "Sono felicissima.",
+          "info": "variante semplice femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's not my cup of tea.",
+        "info": "idioma, preferenze, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non fa per me.",
+          "info": "preferenze"
+        },
+        {
+          "testo": "Non è il mio genere.",
+          "info": "preferenze"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm feeling under the weather.",
+        "info": "idioma, salute, leggera malattia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non mi sento molto bene.",
+          "info": "salute, generico"
+        },
+        {
+          "testo": "Sono un po' giù di forma.",
+          "info": "salute, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hit the sack.",
+        "info": "idioma, informale, imperativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vai a letto.",
+          "info": "imperativo"
+        },
+        {
+          "testo": "Andiamo a dormire.",
+          "info": "invito, plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm going to hit the sack.",
+        "info": "idioma, informale, futuro con going to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vado a letto.",
+          "info": "azione imminente"
+        },
+        {
+          "testo": "Vado a dormire.",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's play it by ear.",
+        "info": "idioma, decisione flessibile, proposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vediamo sul momento.",
+          "info": "decisione flessibile"
+        },
+        {
+          "testo": "Decidiamo strada facendo.",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "To spill the beans.",
+        "info": "idioma, rivelare segreto, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Svelare un segreto.",
+          "info": "infinito"
+        },
+        {
+          "testo": "Vuotare il sacco.",
+          "info": "idioma italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Come on, spill the beans!",
+        "info": "invito, imperativo, confidenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dai, svela il segreto!",
+          "info": "invito, confidenza"
+        },
+        {
+          "testo": "Dai, vuota il sacco!",
+          "info": "idioma italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Once in a blue moon.",
+        "info": "idioma, rarità, frequenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ogni morte di papa.",
+          "info": "idioma italiano, raro"
+        },
+        {
+          "testo": "Molto raramente.",
+          "info": "variante semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's a piece of cake.",
+        "info": "idioma, facilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "È facilissimo.",
+          "info": "facilità"
+        },
+        {
+          "testo": "È una passeggiata.",
+          "info": "idioma italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's not a big deal.",
+        "info": "idioma, minimizzare, rassicurazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non è un problema.",
+          "info": "rassicurazione"
+        },
+        {
+          "testo": "Non è niente di grave.",
+          "info": "rassicurazione"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buona fortuna!",
+        "info": "augurio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good luck!",
+          "info": "augurio"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "In bocca al lupo!",
+        "info": "augurio, informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Break a leg!",
+          "info": "augurio, informale, teatro"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti sto prendendo in giro.",
+        "info": "scherzo, colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm just pulling your leg.",
+          "info": "idioma, scherzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non prendermi in giro!",
+        "info": "imperativo negativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Don't pull my leg!",
+          "info": "imperativo negativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Piove a catinelle.",
+        "info": "meteo, intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's raining cats and dogs.",
+          "info": "idioma, meteo"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Direi di chiudere per oggi.",
+        "info": "proposta, lavoro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's call it a day.",
+          "info": "idioma, proposta"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono al settimo cielo.",
+        "info": "felicità, idioma"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm on cloud nine.",
+          "info": "idioma, felicità"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non fa per me.",
+        "info": "preferenze"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's not my cup of tea.",
+          "info": "idioma, preferenze"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non mi sento molto bene.",
+        "info": "salute, generico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm feeling under the weather.",
+          "info": "idioma, salute"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vado a letto.",
+        "info": "azione imminente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm going to hit the sack.",
+          "info": "idioma, informale, going to"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vediamo sul momento.",
+        "info": "decisione flessibile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's play it by ear.",
+          "info": "idioma, proposta"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Svelare un segreto.",
+        "info": "infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "To spill the beans.",
+          "info": "idioma, infinito"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dai, vuota il sacco!",
+        "info": "invito, confidenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come on, spill the beans!",
+          "info": "invito, imperativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Molto raramente.",
+        "info": "frequenza, raro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Once in a blue moon.",
+          "info": "idioma, frequenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È facilissimo.",
+        "info": "facilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's a piece of cake.",
+          "info": "idioma, facilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Espressioni idiomatiche",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non è niente di grave.",
+        "info": "rassicurazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's not a big deal.",
+          "info": "idioma, rassicurazione"
+        }
+      ]
+    }
+  ]
+}

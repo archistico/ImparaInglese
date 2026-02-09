@@ -1,0 +1,454 @@
+{
+  "version": 1,
+  "contesto": "Tecnologia e Digitale",
+  "frasi": [
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, I need some help with my computer",
+        "info": "greeting, present simple, richiesta di aiuto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, ho bisogno di aiuto con il mio computer",
+          "info": "saluto, presente indicativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't access my account",
+        "info": "negation, present simple, problema tecnico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non riesco ad accedere al mio account",
+          "info": "negazione, verbo riuscire"
+        },
+        {
+          "testo": "Non posso accedere al mio account",
+          "info": "negazione, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I forgot my password",
+        "info": "past simple, problema di accesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho dimenticato la mia password",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How can I reset my password?",
+        "info": "question, modal can, procedura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come posso reimpostare la password?",
+          "info": "domanda, verbo potere"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are the settings?",
+        "info": "question, present simple, interfaccia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove sono le impostazioni?",
+          "info": "domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to update the software",
+        "info": "present simple, necessità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo aggiornare il software",
+          "info": "verbo dovere"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I update the software?",
+        "info": "question, present simple, procedura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come aggiorno il software?",
+          "info": "domanda pratica"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The update is taking a long time",
+        "info": "present continuous, durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'aggiornamento sta impiegando molto tempo",
+          "info": "stare + gerundio"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to restart my device",
+        "info": "present simple, azione tecnica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo riavviare il dispositivo",
+          "info": "verbo dovere"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My internet connection is unstable",
+        "info": "present simple, problema tecnico"
+      },
+      "traduzioni": [
+        {
+          "testo": "La mia connessione internet è instabile",
+          "info": "aggettivo descrittivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The website won't load",
+        "info": "future with will, negation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il sito web non si carica",
+          "info": "negazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The battery is draining quickly",
+        "info": "present continuous, problema hardware"
+      },
+      "traduzioni": [
+        {
+          "testo": "La batteria si scarica rapidamente",
+          "info": "riflessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I share this file?",
+        "info": "question, present simple, azione digitale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come condivido questo file?",
+          "info": "domanda pratica"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll send you a link",
+        "info": "future with will, promessa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti mando un link",
+          "info": "futuro implicito"
+        },
+        {
+          "testo": "Ti invierò un link",
+          "info": "futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need tech support",
+        "info": "present simple, richiesta assistenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di supporto tecnico",
+          "info": "bisogno"
+        },
+        {
+          "testo": "Mi serve assistenza tecnica",
+          "info": "sinonimo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, ho bisogno di aiuto con il mio computer",
+        "info": "saluto, presente indicativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, I need some help with my computer",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non riesco ad accedere al mio account",
+        "info": "negazione, verbo riuscire"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't access my account",
+          "info": "negation, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho dimenticato la mia password",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I forgot my password",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come posso reimpostare la password?",
+        "info": "domanda, verbo potere"
+      },
+      "traduzioni": [
+        {
+          "testo": "How can I reset my password?",
+          "info": "modal can"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono le impostazioni?",
+        "info": "domanda diretta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are the settings?",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo aggiornare il software",
+        "info": "verbo dovere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to update the software",
+          "info": "need to"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'aggiornamento sta impiegando molto tempo",
+        "info": "stare + gerundio"
+      },
+      "traduzioni": [
+        {
+          "testo": "The update is taking a long time",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo riavviare il dispositivo",
+        "info": "verbo dovere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to restart my device",
+          "info": "need to"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La mia connessione internet è instabile",
+        "info": "aggettivo descrittivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "My internet connection is unstable",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il sito web non si carica",
+        "info": "negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "The website won't load",
+          "info": "future with will"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La batteria si scarica rapidamente",
+        "info": "riflessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "The battery is draining quickly",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come condivido questo file?",
+        "info": "domanda pratica"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I share this file?",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti mando un link",
+        "info": "futuro implicito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll send you a link",
+          "info": "future with will"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia e Digitale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di supporto tecnico",
+        "info": "bisogno"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need tech support",
+          "info": "present simple"
+        }
+      ]
+    }
+  ]
+}

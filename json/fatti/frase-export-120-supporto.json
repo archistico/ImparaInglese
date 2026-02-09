@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "contesto": "Supporto",
+  "frasi": [
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Hey, what happened?", "info": "apertura, domanda, passato semplice" },
+      "traduzioni": [
+        { "testo": "Ehi, cos'è successo?", "info": "apertura, domanda" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you want to talk about it?", "info": "offerta di ascolto, domanda, want to" },
+      "traduzioni": [
+        { "testo": "Vuoi parlarne?", "info": "offerta di ascolto" },
+        { "testo": "Ti va di parlarne?", "info": "variante più gentile" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I'm listening", "info": "ascolto, presente continuo, frase breve" },
+      "traduzioni": [
+        { "testo": "Ti ascolto", "info": "ascolto attivo" },
+        { "testo": "Sono qui, ti ascolto", "info": "variante più calorosa" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I'm here for you", "info": "supporto emotivo, presente semplice" },
+      "traduzioni": [
+        { "testo": "Sono qui per te", "info": "supporto diretto" },
+        { "testo": "Ci sono per te", "info": "variante naturale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I'm so sorry about that", "info": "scuse, empatia, intensificatore so" },
+      "traduzioni": [
+        { "testo": "Mi dispiace tantissimo per questo", "info": "empatia" },
+        { "testo": "Mi dispiace molto", "info": "variante più corta" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "That must be really hard for you", "info": "empatia, must di deduzione, aggettivo hard" },
+      "traduzioni": [
+        { "testo": "Deve essere davvero difficile per te", "info": "empatia" },
+        { "testo": "Immagino sia molto dura per te", "info": "variante con immagino" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I can't imagine how you feel", "info": "empatia, negazione, how you feel" },
+      "traduzioni": [
+        { "testo": "Non riesco a immaginare come ti senti", "info": "empatia" },
+        { "testo": "Non posso immaginare cosa tu stia provando", "info": "variante più intensa, presente continuo" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "It's okay to feel this way", "info": "validazione emotiva, it is, aggettivo" },
+      "traduzioni": [
+        { "testo": "È normale sentirsi così", "info": "validazione" },
+        { "testo": "Va bene sentirsi così", "info": "variante letterale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Take your time", "info": "incoraggiamento, imperativo" },
+      "traduzioni": [
+        { "testo": "Prenditi il tuo tempo", "info": "incoraggiamento" },
+        { "testo": "Fai con calma", "info": "variante colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "You don't have to go through this alone", "info": "supporto, negazione, alone" },
+      "traduzioni": [
+        { "testo": "Non devi affrontare tutto questo da solo", "info": "supporto" },
+        { "testo": "Non devi passarci da solo", "info": "variante più breve" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "How can I help you right now?", "info": "offerta concreta, domanda, right now" },
+      "traduzioni": [
+        { "testo": "Come posso aiutarti adesso?", "info": "offerta concreta" },
+        { "testo": "Cosa posso fare per te ora?", "info": "variante naturale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you want me to stay with you?", "info": "offerta presenza, domanda, want" },
+      "traduzioni": [
+        { "testo": "Vuoi che resti con te?", "info": "offerta presenza" },
+        { "testo": "Vuoi che rimanga qui con te?", "info": "variante con qui" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Would you like a hug?", "info": "consenso, domanda, would like" },
+      "traduzioni": [
+        { "testo": "Vuoi un abbraccio?", "info": "consenso, supporto fisico" },
+        { "testo": "Ti va un abbraccio?", "info": "variante gentile" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Let me know if you need anything", "info": "disponibilità, condizionale implicito" },
+      "traduzioni": [
+        { "testo": "Fammi sapere se hai bisogno di qualcosa", "info": "disponibilità" },
+        { "testo": "Dimmi pure se ti serve qualcosa", "info": "variante colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I can bring you some food or run errands", "info": "aiuto pratico, can, alternativa or" },
+      "traduzioni": [
+        { "testo": "Posso portarti qualcosa da mangiare o fare delle commissioni", "info": "aiuto pratico" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you want me to call someone for you?", "info": "offerta, domanda, call someone" },
+      "traduzioni": [
+        { "testo": "Vuoi che chiami qualcuno per te?", "info": "offerta di aiuto" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My condolences", "info": "lutto, formula breve, formale" },
+      "traduzioni": [
+        { "testo": "Le mie condoglianze", "info": "lutto, formula formale" },
+        { "testo": "Sentite condoglianze", "info": "variante più formale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I'm sorry for your loss", "info": "lutto, formula completa, for your" },
+      "traduzioni": [
+        { "testo": "Mi dispiace per la tua perdita", "info": "lutto, formula comune" },
+        { "testo": "Mi dispiace molto per la tua perdita", "info": "variante più intensa" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "If you want, we can just sit in silence", "info": "opzione alternativa, if, can, just" },
+      "traduzioni": [
+        { "testo": "Se vuoi, possiamo restare in silenzio", "info": "supporto, opzione" },
+        { "testo": "Se ti va, possiamo stare semplicemente in silenzio", "info": "variante più letterale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I believe in you", "info": "incoraggiamento, presente semplice" },
+      "traduzioni": [
+        { "testo": "Credo in te", "info": "incoraggiamento" },
+        { "testo": "Ho fiducia in te", "info": "variante naturale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "You've handled so much already", "info": "rinforzo positivo, presente perfetto" },
+      "traduzioni": [
+        { "testo": "Hai già affrontato tantissimo", "info": "rinforzo positivo" },
+        { "testo": "Hai già gestito così tante cose", "info": "variante più letterale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "One step at a time", "info": "modo di dire, incoraggiamento" },
+      "traduzioni": [
+        { "testo": "Un passo alla volta", "info": "modo di dire" },
+        { "testo": "Una cosa per volta", "info": "variante naturale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "You're not a burden", "info": "negazione, supporto emotivo, sostantivo burden" },
+      "traduzioni": [
+        { "testo": "Non sei un peso", "info": "supporto emotivo" },
+        { "testo": "Non sei un problema", "info": "variante meno forte" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Thank you for telling me", "info": "gratitudine, passato continuo implicito" },
+      "traduzioni": [
+        { "testo": "Grazie per avermelo detto", "info": "gratitudine" },
+        { "testo": "Grazie per aver condiviso questa cosa con me", "info": "variante esplicativa" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "It's not your fault", "info": "negazione, rassicurazione" },
+      "traduzioni": [
+        { "testo": "Non è colpa tua", "info": "rassicurazione" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "What do you need from me today?", "info": "offerta concreta, domanda, today" },
+      "traduzioni": [
+        { "testo": "Di cosa hai bisogno da me oggi?", "info": "supporto pratico" },
+        { "testo": "Cosa ti serve da me oggi?", "info": "variante colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Do you feel safe right now?", "info": "sicurezza, domanda, right now" },
+      "traduzioni": [
+        { "testo": "Ti senti al sicuro adesso?", "info": "sicurezza, supporto" },
+        { "testo": "Ti senti al sicuro in questo momento?", "info": "variante più formale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "If you want, I can help you make a plan", "info": "offerta, if, can, piano" },
+      "traduzioni": [
+        { "testo": "Se vuoi, posso aiutarti a fare un piano", "info": "supporto pratico" },
+        { "testo": "Se ti va, posso aiutarti a organizzarti", "info": "variante naturale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Would you like me to check in later?", "info": "futuro, cortesia, would like" },
+      "traduzioni": [
+        { "testo": "Vuoi che ti riscriva più tardi?", "info": "contatto futuro" },
+        { "testo": "Vuoi che ti senta più tardi?", "info": "variante con sentirsi" }
+      ]
+    },
+
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ehi, cos'è successo?", "info": "apertura, domanda" },
+      "traduzioni": [
+        { "testo": "Hey, what happened?", "info": "passato semplice" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vuoi parlarne?", "info": "offerta di ascolto, domanda" },
+      "traduzioni": [
+        { "testo": "Do you want to talk about it?", "info": "want to, domanda" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ti ascolto", "info": "ascolto attivo" },
+      "traduzioni": [
+        { "testo": "I'm listening", "info": "frase breve" },
+        { "testo": "I'm here, I'm listening", "info": "variante più calorosa" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Sono qui per te", "info": "supporto emotivo" },
+      "traduzioni": [
+        { "testo": "I'm here for you", "info": "presente semplice" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi dispiace tantissimo per questo", "info": "empatia" },
+      "traduzioni": [
+        { "testo": "I'm so sorry about that", "info": "intensificatore so" },
+        { "testo": "I'm really sorry about that", "info": "variante con really" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Deve essere davvero difficile per te", "info": "empatia, deduzione" },
+      "traduzioni": [
+        { "testo": "That must be really hard for you", "info": "must di deduzione" },
+        { "testo": "That must be very difficult for you", "info": "variante con very" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non riesco a immaginare come ti senti", "info": "empatia, negazione" },
+      "traduzioni": [
+        { "testo": "I can't imagine how you feel", "info": "negazione" },
+        { "testo": "I can't imagine what you're going through", "info": "variante idiomatica, presente continuo" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "È normale sentirsi così", "info": "validazione emotiva" },
+      "traduzioni": [
+        { "testo": "It's okay to feel this way", "info": "validazione" },
+        { "testo": "It's normal to feel this way", "info": "variante con normal" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Prenditi il tuo tempo", "info": "incoraggiamento, imperativo" },
+      "traduzioni": [
+        { "testo": "Take your time", "info": "imperativo" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non devi affrontare tutto questo da solo", "info": "supporto, negazione" },
+      "traduzioni": [
+        { "testo": "You don't have to go through this alone", "info": "negazione, alone" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Come posso aiutarti adesso?", "info": "offerta concreta, domanda" },
+      "traduzioni": [
+        { "testo": "How can I help you right now?", "info": "right now" },
+        { "testo": "What can I do to help right now?", "info": "variante con do" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vuoi che resti con te?", "info": "offerta presenza, domanda" },
+      "traduzioni": [
+        { "testo": "Do you want me to stay with you?", "info": "want, domanda" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vuoi un abbraccio?", "info": "consenso, domanda" },
+      "traduzioni": [
+        { "testo": "Would you like a hug?", "info": "would like" },
+        { "testo": "Do you want a hug?", "info": "variante più diretta" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Fammi sapere se hai bisogno di qualcosa", "info": "disponibilità, condizione" },
+      "traduzioni": [
+        { "testo": "Let me know if you need anything", "info": "if, bisogno" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Posso portarti qualcosa da mangiare o fare delle commissioni", "info": "aiuto pratico, can, alternativa" },
+      "traduzioni": [
+        { "testo": "I can bring you some food or run errands", "info": "can, or" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vuoi che chiami qualcuno per te?", "info": "offerta, domanda" },
+      "traduzioni": [
+        { "testo": "Do you want me to call someone for you?", "info": "call someone" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Le mie condoglianze", "info": "lutto, formula breve" },
+      "traduzioni": [
+        { "testo": "My condolences", "info": "formula formale" },
+        { "testo": "Please accept my condolences", "info": "variante più formale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi dispiace per la tua perdita", "info": "lutto, formula completa" },
+      "traduzioni": [
+        { "testo": "I'm sorry for your loss", "info": "formula comune" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Se vuoi, possiamo restare in silenzio", "info": "opzione, if, can" },
+      "traduzioni": [
+        { "testo": "If you want, we can just sit in silence", "info": "if, can, just" },
+        { "testo": "If you'd like, we can sit in silence", "info": "variante con would" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Credo in te", "info": "incoraggiamento" },
+      "traduzioni": [
+        { "testo": "I believe in you", "info": "presente semplice" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Hai già affrontato tantissimo", "info": "rinforzo positivo" },
+      "traduzioni": [
+        { "testo": "You've handled so much already", "info": "presente perfetto" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Un passo alla volta", "info": "modo di dire" },
+      "traduzioni": [
+        { "testo": "One step at a time", "info": "modo di dire" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non sei un peso", "info": "supporto emotivo, negazione" },
+      "traduzioni": [
+        { "testo": "You're not a burden", "info": "negazione" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Grazie per avermelo detto", "info": "gratitudine" },
+      "traduzioni": [
+        { "testo": "Thank you for telling me", "info": "gratitudine" },
+        { "testo": "Thanks for sharing that with me", "info": "variante colloquiale" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non è colpa tua", "info": "rassicurazione, negazione" },
+      "traduzioni": [
+        { "testo": "It's not your fault", "info": "negazione" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Di cosa hai bisogno da me oggi?", "info": "supporto pratico, domanda" },
+      "traduzioni": [
+        { "testo": "What do you need from me today?", "info": "today" },
+        { "testo": "What do you need from me right now?", "info": "variante con right now" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ti senti al sicuro adesso?", "info": "sicurezza, domanda" },
+      "traduzioni": [
+        { "testo": "Do you feel safe right now?", "info": "right now" },
+        { "testo": "Are you safe right now?", "info": "variante più diretta" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Se vuoi, posso aiutarti a fare un piano", "info": "offerta, if, can" },
+      "traduzioni": [
+        { "testo": "If you want, I can help you make a plan", "info": "if, can" },
+        { "testo": "If you'd like, I can help you make a plan", "info": "variante con would" }
+      ]
+    },
+    {
+      "contesto": "Supporto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Vuoi che ti riscriva più tardi?", "info": "contatto futuro, domanda" },
+      "traduzioni": [
+        { "testo": "Would you like me to check in later?", "info": "futuro, would like" },
+        { "testo": "Do you want me to message you later?", "info": "variante con message" }
+      ]
+    }
+  ]
+}

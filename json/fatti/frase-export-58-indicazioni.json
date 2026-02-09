@@ -1,0 +1,242 @@
+{
+    "version": 2,
+    "contesto": "Indicazioni",
+    "frasi": [
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Across from…",
+                "info": "Preposizione di luogo. (preposition; location)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dall'altra parte rispetto a…",
+                    "info": "posizione opposta"
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "After…",
+                "info": "Preposizione temporale o spaziale. (preposition)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Dopo…",
+                    "info": "sequenza o posizione"
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "At the end of the street",
+                "info": "Espressione di luogo. (prepositional phrase)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Alla fine della strada",
+                    "info": "posizione finale"
+                }
+            ]
+        },
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Between",
+                "info": "Preposizione di posizione. (preposition)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Tra",
+                    "info": "fra due elementi"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Can you show it to me on the map?",
+                "info": "Richiesta cortese. (question; modal verb)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Puoi mostrarmelo sulla mappa?",
+                    "info": "domanda educata"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Go straight / Go straight ahead",
+                "info": "Imperativo per indicazioni. (imperative)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Vai dritto",
+                    "info": "istruzione direzionale"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Turn left / Turn right",
+                "info": "Comando direzionale. (imperative)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Gira a sinistra / destra",
+                    "info": "istruzione"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Take the first left",
+                "info": "Indicazione sequenziale. (imperative)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Prendi la prima a sinistra",
+                    "info": "ordine delle strade"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "It's on the left / It's on the right",
+                "info": "Frase descrittiva di posizione. (statement; location)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "È a sinistra / È a destra",
+                    "info": "posizione laterale"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "Is it far? / Is it near?",
+                "info": "Domanda sulla distanza. (yes/no question)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "È lontano? / È vicino?",
+                    "info": "distanza"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Inglese -> Italiano",
+            "frase": {
+                "testo": "I'm lost",
+                "info": "Stato personale. (statement; present simple)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Mi sono perso",
+                    "info": "situazione di disorientamento"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Mi sono perso",
+                "info": "Espressione comune. (statement; present simple)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "I'm lost",
+                    "info": "uso quotidiano"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Come arrivo a...?",
+                "info": "Domanda per indicazioni. (question)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "How do I get to...?",
+                    "info": "formula standard"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "È a pochi passi da…",
+                "info": "Distanza breve. (statement; location)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "It's just a short walk from…",
+                    "info": "molto comune"
+                }
+            ]
+        },
+
+        {
+            "contesto": "Indicazioni",
+            "livello": "Base",
+            "direzione": "Italiano -> Inglese",
+            "frase": {
+                "testo": "Puoi mostrarmelo sulla mappa?",
+                "info": "Richiesta cortese. (question; modal verb)"
+            },
+            "traduzioni": [
+                {
+                    "testo": "Can you show it to me on the map?",
+                    "info": "educato"
+                }
+            ]
+        }
+    ]
+}

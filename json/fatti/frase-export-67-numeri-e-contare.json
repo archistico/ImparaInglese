@@ -1,0 +1,427 @@
+{
+  "version": 1,
+  "contesto": "Numeri e contare",
+  "frasi": [
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One, two, three",
+        "info": "Numeri cardinali di base (cardinal numbers)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Uno, due, tre",
+          "info": "Sequenza numerica"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Zero",
+        "info": "Numero cardinale (cardinal number)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Zero",
+          "info": "Uguale in entrambe le lingue"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Ten, twenty, thirty",
+        "info": "Decine (tens)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dieci, venti, trenta",
+          "info": "Numeri delle decine"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Forty, fifty, sixty",
+        "info": "Decine irregolari (attenzione a forty senza 'u')"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quaranta, cinquanta, sessanta",
+          "info": "Numeri delle decine"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Seventy, eighty, ninety",
+        "info": "Decine alte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Settanta, ottanta, novanta",
+          "info": "Numeri delle decine"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Eleven, twelve, thirteen",
+        "info": "Numeri irregolari (11–13)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Undici, dodici, tredici",
+          "info": "Numeri speciali"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Fourteen, fifteen, sixteen",
+        "info": "Numeri dal 14 al 16"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quattordici, quindici, sedici",
+          "info": "Numeri composti"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Seventeen, eighteen, nineteen",
+        "info": "Numeri dal 17 al 19"
+      },
+      "traduzioni": [
+        {
+          "testo": "Diciassette, diciotto, diciannove",
+          "info": "Numeri composti"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Twenty-one",
+        "info": "Numero composto con trattino (hyphen)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ventuno",
+          "info": "Numero composto"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One hundred",
+        "info": "Centinaia (hundreds)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cento",
+          "info": "Numero cardinale"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One thousand / One million",
+        "info": "Numeri grandi (thousand, million)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mille / Un milione",
+          "info": "Singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "First, second, third",
+        "info": "Numeri ordinali (ordinal numbers)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Primo, secondo, terzo",
+          "info": "Ordine"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Fourth, fifth, last",
+        "info": "Ordinali comuni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quarto, quinto, ultimo",
+          "info": "Ordine"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Half, one half",
+        "info": "Frazioni (fractions)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Metà, un mezzo",
+          "info": "Frazioni comuni"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One quarter / One third / Three quarters",
+        "info": "Frazioni comuni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Un quarto / Un terzo / Tre quarti",
+          "info": "Frazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Two point five",
+        "info": "Numeri decimali (decimal numbers)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Due virgola cinque",
+          "info": "In inglese si usa 'point'"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Three point seven five",
+        "info": "Numero decimale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tre virgola settantacinque",
+          "info": "Virgola in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Minus ten / Negative five",
+        "info": "Numeri negativi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Meno dieci / Negativo cinque",
+          "info": "Uso matematico"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Double",
+        "info": "Moltiplicazione o quantità doppia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Doppio",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Fifty percent / Fifty-fifty",
+        "info": "Percentuali e probabilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cinquanta per cento / Cinquanta e cinquanta",
+          "info": "Percentuale e probabilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My number is 555-123-4567",
+        "info": "Numeri di telefono letti cifra per cifra"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio numero è cinque-cinque-cinque, uno-due-tre, quattro-cinque-sei-sette",
+          "info": "In italiano si leggono le cifre singolarmente"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I live at 42 Main Street",
+        "info": "Numeri civici"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vivo al 42 (quarantadue) di Main Street",
+          "info": "Numero + via"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Uno, due, tre",
+        "info": "Numeri cardinali"
+      },
+      "traduzioni": [
+        {
+          "testo": "One, two, three",
+          "info": "Counting"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quaranta, cinquanta, sessanta",
+        "info": "Decine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Forty, fifty, sixty",
+          "info": "Tens"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Primo, secondo, terzo",
+        "info": "Numeri ordinali"
+      },
+      "traduzioni": [
+        {
+          "testo": "First, second, third",
+          "info": "Ordinals"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Un mezzo, un quarto",
+        "info": "Frazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "One half, one quarter",
+          "info": "Fractions"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Due virgola cinque",
+        "info": "Numero decimale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Two point five",
+          "info": "Decimal point"
+        }
+      ]
+    },
+    {
+      "contesto": "Numeri e contare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio numero è cinque-cinque-cinque",
+        "info": "Numeri di telefono"
+      },
+      "traduzioni": [
+        {
+          "testo": "My number is 555-123-4567",
+          "info": "Digits read separately"
+        }
+      ]
+    }
+  ]
+}

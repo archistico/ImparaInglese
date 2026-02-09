@@ -1,0 +1,897 @@
+{
+  "version": 1,
+  "contesto": "Animali domestici",
+  "frasi": [
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have any pets?",
+        "info": "Any in domande. Pets = animali domestici (vocabulary) (question tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai animali domestici?",
+          "info": "Domanda generale"
+        },
+        {
+          "testo": "Hai qualche animale domestico?",
+          "info": "Variante con 'qualche'"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Yes, I have a dog and a cat",
+        "info": "A per singolare; and per aggiunta (articles/connector tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sì, ho un cane e un gatto",
+          "info": "Risposta semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "No, I don't have any pets",
+        "info": "Negativa: don't + verbo base. Any in frasi negative (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "No, non ho animali domestici",
+          "info": "Risposta negativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your pet's name?",
+        "info": "Genitivo sassone: pet's = dell'animale (possessive 's) (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come si chiama il tuo animale?",
+          "info": "Domanda comune"
+        },
+        {
+          "testo": "Come si chiama il tuo animale domestico?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My dog's name is Luna",
+        "info": "Genitivo sassone: dog's name = nome del cane (possessive 's) (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio cane si chiama Luna",
+          "info": "Forma naturale"
+        },
+        {
+          "testo": "Il nome del mio cane è Luna",
+          "info": "Variante più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My dog is friendly",
+        "info": "Friendly = socievole/amichevole (vocabulary nuance)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio cane è socievole",
+          "info": "Socievole = friendly"
+        },
+        {
+          "testo": "Il mio cane è amichevole",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My cat is shy",
+        "info": "Shy = timido/a (adjective) (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio gatto è timido",
+          "info": "Maschile"
+        },
+        {
+          "testo": "La mia gatta è timida",
+          "info": "Femminile (gender tag)"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm afraid of dogs",
+        "info": "Afraid of = avere paura di (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho paura dei cani",
+          "info": "Generale"
+        },
+        {
+          "testo": "Ho paura dei cani grandi",
+          "info": "Variante più specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Don't worry, he doesn't bite",
+        "info": "Don't worry = non ti preoccupare. Doesn't bite = non morde (present simple negative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non ti preoccupare, non morde",
+          "info": "Frase rassicurante"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pet your dog?",
+        "info": "Pet (verb) = accarezzare. Can I = richiesta permesso (permission)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso accarezzare il tuo cane?",
+          "info": "Chiedere permesso"
+        },
+        {
+          "testo": "Posso accarezzarlo?",
+          "info": "It = lo (pronoun) se è chiaro il referente"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry, he's nervous",
+        "info": "Nervous = nervoso/agitato (meaning nuance)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace, è nervoso",
+          "info": "Rifiuto gentile"
+        },
+        {
+          "testo": "Mi dispiace, è un po' agitato",
+          "info": "Variante più morbida"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is vaccinated",
+        "info": "Vaccinated = vaccinato. He/She dipende dal genere dell'animale (pronoun choice)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È vaccinato",
+          "info": "Maschile"
+        },
+        {
+          "testo": "È vaccinata",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to take my dog to the vet",
+        "info": "Vet = veterinario (short form). Take to = portare da (phrasal pattern)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo portare il mio cane dal veterinario",
+          "info": "Situazione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My cat is not feeling well",
+        "info": "Not feeling well = non sentirsi bene (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio gatto non si sente bene",
+          "info": "Salute"
+        },
+        {
+          "testo": "La mia gatta non sta bene",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He ate something he shouldn't have",
+        "info": "Shouldn't have (past) = non avrebbe dovuto (modal perfect) (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha mangiato qualcosa che non avrebbe dovuto",
+          "info": "Situazione al veterinario"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like to buy some kibble for my cat",
+        "info": "Would like = vorrei (polite). Some + uncountable/plural. Kibble = croccantini (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei comprare dei croccantini per il mio gatto",
+          "info": "Partitivo (dei)"
+        },
+        {
+          "testo": "Vorrei comprare del cibo secco per il mio gatto",
+          "info": "Variante più generica"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have wet food for cats?",
+        "info": "Wet food = cibo umido. Do you have = domanda su disponibilità (store question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete cibo umido per gatti?",
+          "info": "Domanda in negozio"
+        },
+        {
+          "testo": "Avete scatolette per gatti?",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are the dog treats?",
+        "info": "Treats = snack/premietti (vocabulary). Where are = posizione (question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove sono i premietti per cani?",
+          "info": "In negozio"
+        },
+        {
+          "testo": "Dove sono gli snack per cani?",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a leash and a collar",
+        "info": "Leash = guinzaglio. Collar = collare. A per singolare (vocabulary + articles)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve un guinzaglio e un collare",
+          "info": "Acquisto accessori"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is on a leash",
+        "info": "On a leash = al guinzaglio (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È al guinzaglio",
+          "info": "Regola/contesto pubblico"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My dog needs a walk",
+        "info": "Needs = ha bisogno di. A walk = una passeggiata (routine)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio cane ha bisogno di una passeggiata",
+          "info": "Routine"
+        },
+        {
+          "testo": "Devo portare fuori il cane",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is lost",
+        "info": "Lost = smarrito. He/She dipende dall'animale (pronoun choice)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È smarrito",
+          "info": "Maschile"
+        },
+        {
+          "testo": "È smarrita",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Have you seen a small black cat?",
+        "info": "Have you seen = hai visto? (present perfect in inglese, ma in italiano spesso passato prossimo) (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai visto un gatto nero piccolo?",
+          "info": "Ricerca animale"
+        },
+        {
+          "testo": "Hai visto una gatta nera piccola?",
+          "info": "Variante femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He has a microchip",
+        "info": "Microchip = microchip. Has = avere (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha il microchip",
+          "info": "Informazione utile se smarrito"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is wearing a red collar",
+        "info": "Wearing = indossare (per animali: collare). A + singolare (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha un collare rosso",
+          "info": "Descrizione"
+        },
+        {
+          "testo": "Indossa un collare rosso",
+          "info": "Variante più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can dogs come in here?",
+        "info": "Can = permesso. Come in here = entrare qui (permission question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I cani possono entrare qui?",
+          "info": "Regole del luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this place pet-friendly?",
+        "info": "Pet-friendly = adatto agli animali / accetta animali (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo posto accetta animali?",
+          "info": "Domanda pratica"
+        },
+        {
+          "testo": "È un posto pet-friendly?",
+          "info": "Prestito comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai animali domestici?",
+        "info": "Any in domande (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have any pets?",
+          "info": "Question form"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sì, ho un cane e un gatto",
+        "info": "A per singolare; and per aggiunta (articles/connector)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Yes, I have a dog and a cat",
+          "info": "Simple answer"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "No, non ho animali domestici",
+        "info": "Negativa: don't have + any (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "No, I don't have any pets",
+          "info": "Any in negatives"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come si chiama il tuo animale?",
+        "info": "Genitivo sassone: pet's name (possessive 's) (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your pet's name?",
+          "info": "Possessive 's"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio cane si chiama Luna",
+        "info": "Possessivo: my. Nome del cane -> dog's name (option)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My dog's name is Luna",
+          "info": "Possessive 's"
+        },
+        {
+          "testo": "My dog is called Luna",
+          "info": "Alternative common structure"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio cane è socievole",
+        "info": "Friendly = socievole/amichevole (nuance)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My dog is friendly",
+          "info": "Friendly"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio gatto è timido",
+        "info": "Shy = timido (adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My cat is shy",
+          "info": "Adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho paura dei cani",
+        "info": "Afraid of = avere paura di (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm afraid of dogs",
+          "info": "Afraid of"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ti preoccupare, non morde",
+        "info": "Don't worry = formula rassicurante. Negative present simple (doesn't bite)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Don't worry, he doesn't bite",
+          "info": "He = pronoun depends on pet"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso accarezzare il tuo cane?",
+        "info": "Permission: Can I...? (request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pet your dog?",
+          "info": "Pet (verb) = accarezzare"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace, è nervoso",
+        "info": "Sorry = rifiuto gentile. Nervous = nervoso/agitato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry, he's nervous",
+          "info": "He/She depends on pet"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È vaccinato",
+        "info": "Vaccinated = vaccinato (past participle as adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is vaccinated",
+          "info": "He/She depends on pet"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo portare il mio cane dal veterinario",
+        "info": "Vet = veterinarian (short form). Take to = portare da"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to take my dog to the vet",
+          "info": "Common"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio gatto non sta bene",
+        "info": "Not feeling well = non sentirsi bene (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My cat is not feeling well",
+          "info": "Fixed phrase"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha mangiato qualcosa che non avrebbe dovuto",
+        "info": "Modal perfect: shouldn't have + past participle (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He ate something he shouldn't have",
+          "info": "Shouldn't have"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei comprare dei croccantini per il mio gatto",
+        "info": "Would like = vorrei (polite). Some = partitivo (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like to buy some kibble for my cat",
+          "info": "Some + plural/uncountable"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete cibo umido per gatti?",
+        "info": "Store question: Do you have...? (availability)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have wet food for cats?",
+          "info": "Wet food"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono i premietti per cani?",
+        "info": "Where are...? (location question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are the dog treats?",
+          "info": "Treats = premietti"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi serve un guinzaglio e un collare",
+        "info": "Leash = guinzaglio; collar = collare (vocabulary)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a leash and a collar",
+          "info": "A + singular nouns"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È al guinzaglio",
+        "info": "On a leash = al guinzaglio (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is on a leash",
+          "info": "He/She depends on pet"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo portare fuori il cane",
+        "info": "Needs a walk / take the dog out (two common options)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to take the dog out",
+          "info": "Take out = portare fuori"
+        },
+        {
+          "testo": "My dog needs a walk",
+          "info": "Needs a walk = ha bisogno di una passeggiata"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È smarrito",
+        "info": "Lost = smarrito (adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is lost",
+          "info": "He/She depends on pet"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai visto un gatto nero piccolo?",
+        "info": "Have you seen...? (present perfect). In italiano spesso passato prossimo (grammar tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Have you seen a small black cat?",
+          "info": "Description order"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha il microchip",
+        "info": "Has = have/has (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He has a microchip",
+          "info": "A microchip"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha un collare rosso",
+        "info": "Wearing = indossare (common with clothes/collars)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is wearing a red collar",
+          "info": "Wearing + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "I cani possono entrare qui?",
+        "info": "Permission: Can dogs...? (question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can dogs come in here?",
+          "info": "Come in = entrare"
+        }
+      ]
+    },
+    {
+      "contesto": "Animali domestici",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo posto accetta animali?",
+        "info": "Pet-friendly = accetta animali (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this place pet-friendly?",
+          "info": "Pet-friendly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "version": 1,
+  "contesto": "Complimentarsi",
+  "frasi": [
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Congratulations!",
+        "info": "Congratulazioni generiche per un risultato o un evento (esame, lavoro, matrimonio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Complimenti!",
+          "info": "Forma standard e neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good job / Great job / Nice work",
+        "info": "Espressioni comuni per lodare un lavoro svolto bene (registro neutro–informale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bel lavoro / Ottimo lavoro",
+          "info": "Sinonimi molto frequenti"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Well done!",
+        "info": "Complimento diretto e conciso (molto usato in ambito lavorativo o scolastico)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ben fatto!",
+          "info": "Forma breve e positiva"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excellent! / Perfect!",
+        "info": "Valutazione molto positiva del risultato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ottimo! / Perfetto!",
+          "info": "Enfasi sulla qualità"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good choice",
+        "info": "Apprezzamento per una decisione presa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ottima scelta",
+          "info": "Usata per decisioni o preferenze"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm proud of you",
+        "info": "Espressione emotiva di orgoglio (relazioni personali)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono fiero di te",
+          "info": "Maschile; femminile: fiera"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I knew you could do it / I had no doubt",
+        "info": "Riconoscimento di capacità già previste"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sapevo che potevi farcela / Non avevo dubbi",
+          "info": "Espressioni di fiducia"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You're amazing / You're smart / You're kind",
+        "info": "Complimenti diretti alla persona (aggettivi positivi)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei fantastico / Sei intelligente / Sei gentile",
+          "info": "Il genere dipende dal contesto"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's beautiful / It's awesome / That's wonderful",
+        "info": "Reazione positiva a oggetti, idee o risultati"
+      },
+      "traduzioni": [
+        {
+          "testo": "È bellissimo / È fantastico / Che meraviglia",
+          "info": "Uso molto comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That's a great idea!",
+        "info": "Apprezzamento di un'idea o proposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che bella idea!",
+          "info": "Registro informale–neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You nailed it! / You crushed it!",
+        "info": "Complimenti molto colloquiali e informali (slang)"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'hai fatta alla grande / L'hai spaccata",
+          "info": "Registro molto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Mind-blowing! / Unbelievable!",
+        "info": "Reazione forte e sorpresa positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sconvolgente / Incredibile",
+          "info": "Uso enfatico"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nice dress!",
+        "info": "Complimento su abbigliamento o aspetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che bel vestito!",
+          "info": "Forma informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Your hard work paid off!",
+        "info": "Riconoscimento dello sforzo nel tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tuo duro lavoro ha dato i suoi frutti!",
+          "info": "Espressione idiomatica"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Complimenti!",
+        "info": "Congratulazioni generiche"
+      },
+      "traduzioni": [
+        {
+          "testo": "Congratulations!",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Bel lavoro / Ottimo lavoro",
+        "info": "Apprezzamento per un risultato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good job / Great job / Nice work",
+          "info": "Sinonimi comuni"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ben fatto!",
+        "info": "Complimento breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Well done!",
+          "info": "Molto usato"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ottima scelta",
+        "info": "Decisione apprezzata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good choice",
+          "info": "Uso neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono fiero di te",
+        "info": "Espressione di orgoglio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm proud of you",
+          "info": "Molto comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sapevo che potevi farcela / Non avevo dubbi",
+        "info": "Riconoscimento di capacità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I knew you could do it / I had no doubt",
+          "info": "Forme idiomatiche"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei fantastico / Sei intelligente / Sei gentile",
+        "info": "Complimenti personali"
+      },
+      "traduzioni": [
+        {
+          "testo": "You're amazing / You're smart / You're kind",
+          "info": "Aggettivi positivi"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È bellissimo / È fantastico",
+        "info": "Reazione positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's beautiful / It's awesome",
+          "info": "Uso frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che bella idea!",
+        "info": "Apprezzamento di un'idea"
+      },
+      "traduzioni": [
+        {
+          "testo": "That's a great idea!",
+          "info": "Forma naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'hai fatta alla grande / L'hai spaccata",
+        "info": "Registro molto colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "You nailed it! / You crushed it!",
+          "info": "Slang"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Incredibile / Sconvolgente",
+        "info": "Reazione forte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Unbelievable! / Mind-blowing!",
+          "info": "Enfatico"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che bel vestito!",
+        "info": "Complimento sull'aspetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nice dress!",
+          "info": "Informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Complimentarsi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tuo duro lavoro ha dato i suoi frutti!",
+        "info": "Riconoscimento dello sforzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Your hard work paid off!",
+          "info": "Espressione idiomatica"
+        }
+      ]
+    }
+  ]
+}

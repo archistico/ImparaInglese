@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "contesto": "Parole per le domande",
+  "frasi": [
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello, how are you?",
+        "info": "saluto, domanda, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, come stai?",
+          "info": "saluto informale"
+        },
+        {
+          "testo": "Salve, come sta?",
+          "info": "saluto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What is your name?",
+        "info": "domanda, verbo essere, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come ti chiami?",
+          "info": "informale"
+        },
+        {
+          "testo": "Qual è il tuo nome?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where are you from?",
+        "info": "domanda, provenienza, verbo essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di dove sei?",
+          "info": "uso comune"
+        },
+        {
+          "testo": "Da dove vieni?",
+          "info": "variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How old are you?",
+        "info": "domanda, età, verbo essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanti anni hai?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you do?",
+        "info": "domanda, lavoro, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che lavoro fai?",
+          "info": "uso comune"
+        },
+        {
+          "testo": "Cosa fai nella vita?",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where do you live?",
+        "info": "domanda, luogo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove vivi?",
+          "info": "uso comune"
+        },
+        {
+          "testo": "Dove abiti?",
+          "info": "variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you speak English?",
+        "info": "domanda, verbo ausiliare do, abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Parli inglese?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much does it cost?",
+        "info": "domanda, prezzo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How many people are there?",
+        "info": "domanda, quantità, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quante persone ci sono?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Why are you here?",
+        "info": "domanda, motivo, verbo essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Perché sei qui?",
+          "info": "uso comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, come stai?",
+        "info": "saluto, domanda, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, how are you?",
+          "info": "informale"
+        },
+        {
+          "testo": "Hello, how are you?",
+          "info": "neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti chiami?",
+        "info": "domanda, identità, verbo chiamarsi"
+      },
+      "traduzioni": [
+        {
+          "testo": "What is your name?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di dove sei?",
+        "info": "domanda, provenienza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where are you from?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanti anni hai?",
+        "info": "domanda, età"
+      },
+      "traduzioni": [
+        {
+          "testo": "How old are you?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che lavoro fai?",
+        "info": "domanda, professione"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you do?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove vivi?",
+        "info": "domanda, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where do you live?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Parli inglese?",
+        "info": "domanda, abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you speak English?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "domanda, prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much does it cost?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quante persone ci sono?",
+        "info": "domanda, quantità, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "How many people are there?",
+          "info": "uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Parole per le domande",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Perché sei qui?",
+        "info": "domanda, motivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Why are you here?",
+          "info": "uso comune"
+        }
+      ]
+    }
+  ]
+}

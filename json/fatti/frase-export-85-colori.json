@@ -1,0 +1,555 @@
+{
+  "version": 1,
+  "contesto": "Colori",
+  "frasi": [
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What color is it?",
+        "info": "domanda diretta, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di che colore è?",
+          "info": "domanda comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s black.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È nero.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s white.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È bianco.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s red.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È rosso.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s blue.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È blu.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s light blue.",
+        "info": "aggettivo composto, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È azzurro.",
+          "info": "light blue"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s dark green.",
+        "info": "aggettivo composto, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È verde scuro.",
+          "info": "dark + color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s yellow.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È giallo.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s pink.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È rosa.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s light pink.",
+        "info": "aggettivo composto, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È rosa chiaro.",
+          "info": "light + color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s brown.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È marrone.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s grey.",
+        "info": "descrizione, present simple, colore, British spelling"
+      },
+      "traduzioni": [
+        {
+          "testo": "È grigio.",
+          "info": "gray americano, grey britannico"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s orange.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È arancione.",
+          "info": "stessa forma maschile e femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s purple.",
+        "info": "descrizione, present simple, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "È viola.",
+          "info": "colore base"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like the blue one.",
+        "info": "preferenza, like, pronome one"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace quello blu.",
+          "info": "one sostituisce il nome"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She’s wearing a green dress.",
+        "info": "present continuous, abbigliamento, colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Indossa un vestito verde.",
+          "info": "wearing = indossare"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The car is white.",
+        "info": "descrizione oggetto, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "La macchina è bianca.",
+          "info": "accordo colore in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Choose a light color.",
+        "info": "imperativo, aggettivo light"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scegli un colore chiaro.",
+          "info": "istruzione"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di che colore è?",
+        "info": "domanda diretta"
+      },
+      "traduzioni": [
+        {
+          "testo": "What color is it?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È nero.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s black.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È bianco.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s white.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È rosso.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s red.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È blu.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s blue.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È azzurro.",
+        "info": "colore specifico"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s light blue.",
+          "info": "light + color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È verde scuro.",
+        "info": "colore composto"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s dark green.",
+          "info": "dark + color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È giallo.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s yellow.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È rosa.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s pink.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È rosa chiaro.",
+        "info": "colore composto"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s light pink.",
+          "info": "light + color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È marrone.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s brown.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È grigio.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s gray.",
+          "info": "American spelling"
+        },
+        {
+          "testo": "It’s grey.",
+          "info": "British spelling"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È arancione.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s orange.",
+          "info": "same form for noun and adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È viola.",
+        "info": "descrizione colore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s purple.",
+          "info": "basic color"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace quello blu.",
+        "info": "preferenza, pronome quello"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like the blue one.",
+          "info": "one replaces noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Indossa un vestito verde.",
+        "info": "abbigliamento, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "She’s wearing a green dress.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La macchina è bianca.",
+        "info": "descrizione oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "The car is white.",
+          "info": "agreement not needed in English"
+        }
+      ]
+    },
+    {
+      "contesto": "Colori",
+      "livello": "Intermedio",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di notte non vedo nulla, è tutto scuro.",
+        "info": "tempo, descrizione, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "At night I can’t see anything, it’s all dark.",
+          "info": "time expression, negative sentence"
+        },
+        {
+          "testo": "I can’t see in the dark.",
+          "info": "espressione idiomatica"
+        }
+      ]
+    }
+  ]
+}

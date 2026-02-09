@@ -1,0 +1,885 @@
+{
+  "version": 1,
+  "contesto": "Cibo e Cucina",
+  "frasi": [
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello, could I see the menu, please?",
+        "info": "(ristorante, richiesta cortese: could I…?, please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Salve, potrei vedere il menu, per favore?",
+          "info": "(formula di cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have some water, please?",
+        "info": "(ristorante, richiesta cortese: could I have…?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere dell’acqua, per favore?",
+          "info": "(potrei avere = could I have)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have a bottle of still water?",
+        "info": "(ristorante, still water = acqua naturale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere una bottiglia di acqua naturale?",
+          "info": "(distinzione: naturale vs frizzante)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have a bottle of sparkling water?",
+        "info": "(ristorante, sparkling water = acqua frizzante)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere una bottiglia di acqua frizzante?",
+          "info": "(sparkling = frizzante)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We are ready to order.",
+        "info": "(ristorante, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Siamo pronti per ordinare.",
+          "info": "(frase tipica al tavolo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like the pasta, please.",
+        "info": "(ordinare, would like = richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei la pasta, per favore.",
+          "info": "(vorrei = would like)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I get this without onions?",
+        "info": "(ristorante, richiesta modifica: without)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso averlo senza cipolle?",
+          "info": "(without = senza)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you make it less spicy, please?",
+        "info": "(ristorante, comparativo: less + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe farlo meno piccante, per favore?",
+          "info": "(less spicy = meno piccante)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Does this contain gluten?",
+        "info": "(allergie/intolleranze, contain = contenere)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo contiene glutine?",
+          "info": "(domanda diretta)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a gluten allergy.",
+        "info": "(salute, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho un’allergia al glutine.",
+          "info": "(allergy = allergia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m vegetarian.",
+        "info": "(dieta, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono vegetariano/a.",
+          "info": "(genere in italiano)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have any vegetarian options?",
+        "info": "(ristorante, any + plural)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Avete opzioni vegetariane?",
+          "info": "(any = alcune, in domanda)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’d like to order takeaway.",
+        "info": "(ristorante, takeaway = asporto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei ordinare da asporto.",
+          "info": "(takeaway = asporto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I get the bill, please?",
+        "info": "(ristorante, bill = conto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere il conto, per favore?",
+          "info": "(get = avere/ottenere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have the recipe?",
+        "info": "(cucina, richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere la ricetta?",
+          "info": "(recipe = ricetta)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m following a recipe.",
+        "info": "(cucina, present continuous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto seguendo una ricetta.",
+          "info": "(present continuous = azione in corso)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "First, chop the onions.",
+        "info": "(istruzioni, imperativo: verb + object)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per prima cosa, trita le cipolle.",
+          "info": "(imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Then, add the tomatoes.",
+        "info": "(sequenza, then = poi)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Poi, aggiungi i pomodori.",
+          "info": "(add = aggiungere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Stir it well.",
+        "info": "(imperativo, stir = mescolare)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mescola bene.",
+          "info": "(istruzione breve)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bring the water to a boil.",
+        "info": "(cucina, phrasal: bring to a boil = portare a ebollizione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Porta l’acqua a ebollizione.",
+          "info": "(ebollizione = boil)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I know when it’s cooked?",
+        "info": "(domanda pratica, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come faccio a sapere quando è cotto?",
+          "info": "(when = quando)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Cook it for ten minutes.",
+        "info": "(durata: for + tempo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cuocilo per dieci minuti.",
+          "info": "(for + tempo = per + durata)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long should I bake this?",
+        "info": "(forno, should = indicazione/consiglio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per quanto tempo devo infornare?",
+          "info": "(bake = cuocere in forno)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bake it at 180 degrees for 20 minutes.",
+        "info": "(temperatura + durata: at + degrees, for + time)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Infornalo a 180 gradi per 20 minuti.",
+          "info": "(at = a, for = per)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The food is too salty.",
+        "info": "(too + adjective = troppo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il cibo è troppo salato.",
+          "info": "(too = troppo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This needs more seasoning.",
+        "info": "(needs = ha bisogno di, seasoning = condimento/spezie)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo ha bisogno di più condimento.",
+          "info": "(più = more)"
+        },
+        {
+          "testo": "Qui ci vorrebbero più spezie.",
+          "info": "(variante naturale in italiano)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you add a little more salt, please?",
+        "info": "(a little = un po’, richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe aggiungere un po’ più di sale, per favore?",
+          "info": "(little/more)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s delicious!",
+        "info": "(complimento, esclamazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È delizioso!",
+          "info": "(complimento sul cibo)"
+        },
+        {
+          "testo": "È buonissimo!",
+          "info": "(variante più comune)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you recommend something typical?",
+        "info": "(ristorante, recommend = consigliare, typical = tipico)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe consigliarmi qualcosa di tipico?",
+          "info": "(registro cortese)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Salve, potrei vedere il menu, per favore?",
+        "info": "(ristorante, richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello, could I see the menu, please?",
+          "info": "(could I…?, polite)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere dell’acqua, per favore?",
+        "info": "(richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have some water, please?",
+          "info": "(could I have…?)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere una bottiglia di acqua naturale?",
+        "info": "(still = naturale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have a bottle of still water?",
+          "info": "(still water)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere una bottiglia di acqua frizzante?",
+        "info": "(sparkling = frizzante)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have a bottle of sparkling water?",
+          "info": "(sparkling water)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Siamo pronti per ordinare.",
+        "info": "(ristorante)"
+      },
+      "traduzioni": [
+        {
+          "testo": "We are ready to order.",
+          "info": "(present simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei la pasta, per favore.",
+        "info": "(would like = vorrei)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like the pasta, please.",
+          "info": "(polite order)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso averlo senza cipolle?",
+        "info": "(without = senza)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I get this without onions?",
+          "info": "(request modification)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe farlo meno piccante, per favore?",
+        "info": "(less + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you make it less spicy, please?",
+          "info": "(less spicy)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo contiene glutine?",
+        "info": "(allergie/intolleranze)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Does this contain gluten?",
+          "info": "(contain)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho un’allergia al glutine.",
+        "info": "(allergy = allergia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a gluten allergy.",
+          "info": "(present simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono vegetariano/a.",
+        "info": "(genere)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m vegetarian.",
+          "info": "(short form)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Avete opzioni vegetariane?",
+        "info": "(any + plural)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have any vegetarian options?",
+          "info": "(question form)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei ordinare da asporto.",
+        "info": "(takeaway = asporto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’d like to order takeaway.",
+          "info": "(takeaway)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere il conto, per favore?",
+        "info": "(bill = conto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I get the bill, please?",
+          "info": "(bill)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere la ricetta?",
+        "info": "(richiesta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have the recipe?",
+          "info": "(recipe)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto seguendo una ricetta.",
+        "info": "(azione in corso)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m following a recipe.",
+          "info": "(present continuous)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per prima cosa, trita le cipolle.",
+        "info": "(imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "First, chop the onions.",
+          "info": "(imperative)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Poi, aggiungi i pomodori.",
+        "info": "(sequenza)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Then, add the tomatoes.",
+          "info": "(then)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mescola bene.",
+        "info": "(imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stir it well.",
+          "info": "(stir)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Porta l’acqua a ebollizione.",
+        "info": "(to a boil)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bring the water to a boil.",
+          "info": "(phrase)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come faccio a sapere quando è cotto?",
+        "info": "(domanda pratica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I know when it’s cooked?",
+          "info": "(when + clause)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cuocilo per dieci minuti.",
+        "info": "(for + durata)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cook it for ten minutes.",
+          "info": "(for + time)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per quanto tempo devo infornare?",
+        "info": "(bake = forno)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long should I bake this?",
+          "info": "(should)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Infornalo a 180 gradi per 20 minuti.",
+        "info": "(at + degrees, for + time)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bake it at 180 degrees for 20 minutes.",
+          "info": "(temperature + duration)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il cibo è troppo salato.",
+        "info": "(too = troppo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The food is too salty.",
+          "info": "(too + adjective)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo ha bisogno di più condimento.",
+        "info": "(needs more)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This needs more seasoning.",
+          "info": "(seasoning)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe aggiungere un po’ più di sale, per favore?",
+        "info": "(a little more)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you add a little more salt, please?",
+          "info": "(polite request)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È buonissimo! / È delizioso!",
+        "info": "(complimento)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s delicious!",
+          "info": "(compliment)"
+        }
+      ]
+    },
+    {
+      "contesto": "Cibo e Cucina",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe consigliarmi qualcosa di tipico?",
+        "info": "(recommend = consigliare)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you recommend something typical?",
+          "info": "(polite request)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "version": 1,
+  "contesto": "Avverbi",
+  "frasi": [
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Usually, I have coffee in the morning",
+        "info": "Avverbio di frequenza (usually) di solito prima del verbo principale (frequency adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di solito prendo un caffè la mattina",
+          "info": "Avverbio di frequenza all'inizio o prima del verbo"
+        },
+        {
+          "testo": "Di solito bevo un caffè al mattino",
+          "info": "Variante lessicale (prendere/bevere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I always arrive on time",
+        "info": "Avverbio di frequenza (always) prima del verbo principale; con 'to be' va dopo 'be' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Arrivo sempre in orario",
+          "info": "Sempre = always"
+        },
+        {
+          "testo": "Sono sempre puntuale",
+          "info": "Con 'to be' in inglese: be + always"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is often late",
+        "info": "Con 'to be' l'avverbio di frequenza va dopo il verbo (be + often) (grammar rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui è spesso in ritardo",
+          "info": "Often = spesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I sometimes work from home",
+        "info": "Sometimes = qualche volta; posizione tipica: prima del verbo principale (frequency adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A volte lavoro da casa",
+          "info": "Sometimes = a volte"
+        },
+        {
+          "testo": "Ogni tanto lavoro da casa",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We rarely eat out",
+        "info": "Rarely = raramente; tende a stare prima del verbo principale (frequency adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Raramente mangiamo fuori",
+          "info": "Eat out = mangiare fuori (al ristorante)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I never drink alcohol",
+        "info": "Never = mai; frase negativa senza 'not' (never already negative) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non bevo mai alcol",
+          "info": "In italiano spesso serve 'non' + mai"
+        },
+        {
+          "testo": "Non bevo mai alcolici",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please speak slowly",
+        "info": "Avverbio di modo (slowly) di solito dopo il verbo (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore parla lentamente",
+          "info": "Richiesta di velocità (manner)"
+        },
+        {
+          "testo": "Per favore, parli più lentamente",
+          "info": "Forma più cortese (Lei) con comparativo (more slowly)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you repeat that, please?",
+        "info": "Richiesta cortese; spesso si aggiunge un avverbio: slowly/again (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi ripeterlo, per favore?",
+          "info": "Repeat = ripetere"
+        },
+        {
+          "testo": "Può ripeterlo, per favore?",
+          "info": "Forma più formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please repeat it slowly",
+        "info": "Slowly = avverbio di modo; posizione tipica dopo l'oggetto (repeat it slowly)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore ripetilo lentamente",
+          "info": "Imperativo + avverbio"
+        },
+        {
+          "testo": "Per favore, lo ripeta lentamente",
+          "info": "Forma cortese (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I understand you very well",
+        "info": "Avverbio di grado (very) + avverbio/agg. (well) (degree adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti capisco molto bene",
+          "info": "Very well = molto bene"
+        },
+        {
+          "testo": "La capisco molto bene",
+          "info": "Forma formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm really tired today",
+        "info": "Really = avverbio di intensità (intensifier); con 'to be' va dopo il verbo (be + really)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono davvero stanco/a oggi",
+          "info": "Adatta il genere: stanco/stanca (grammar tag)"
+        },
+        {
+          "testo": "Oggi sono proprio stanco/a",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is quite easy",
+        "info": "Quite = abbastanza/piuttosto (dipende dal tono) (degree adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è abbastanza facile",
+          "info": "Quite = abbastanza"
+        },
+        {
+          "testo": "Questo è piuttosto facile",
+          "info": "Variante: piuttosto"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's too hot in here",
+        "info": "Too = troppo (eccesso) (degree adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qui fa troppo caldo",
+          "info": "Too = troppo"
+        },
+        {
+          "testo": "È troppo caldo qui dentro",
+          "info": "Variante più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm almost ready",
+        "info": "Almost = quasi (approximation) (adverb of degree)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono quasi pronto/a",
+          "info": "Adatta il genere: pronto/pronta (grammar tag)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I just arrived",
+        "info": "Just = appena (recent past) (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono appena arrivato/a",
+          "info": "Appena + participio (passato prossimo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll call you later",
+        "info": "Later = più tardi; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti chiamo più tardi",
+          "info": "Later = più tardi"
+        },
+        {
+          "testo": "La chiamo più tardi",
+          "info": "Forma formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can do it now",
+        "info": "Now = adesso/ora; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso farlo adesso",
+          "info": "Now = adesso"
+        },
+        {
+          "testo": "Posso farlo ora",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll do it tomorrow",
+        "info": "Tomorrow = domani; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lo farò domani",
+          "info": "Futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We met yesterday",
+        "info": "Yesterday = ieri; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci siamo incontrati ieri",
+          "info": "Passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please wait here",
+        "info": "Here = qui; avverbio di luogo (place adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore aspetta qui",
+          "info": "Imperativo informale"
+        },
+        {
+          "testo": "Per favore, aspetti qui",
+          "info": "Forma cortese (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My keys are there",
+        "info": "There = lì/là; avverbio di luogo (place adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le mie chiavi sono lì",
+          "info": "There = lì"
+        },
+        {
+          "testo": "Le mie chiavi sono là",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please sit down",
+        "info": "Down indica direzione; qui è un verbo frasale (sit down) (phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore si sieda",
+          "info": "Forma cortese"
+        },
+        {
+          "testo": "Per favore siediti",
+          "info": "Forma informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Come in quickly",
+        "info": "Quickly = avverbio di modo; spesso dopo il verbo (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Entra velocemente",
+          "info": "Ordine/invito"
+        },
+        {
+          "testo": "Entra in fretta",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She speaks English well",
+        "info": "Well = avverbio (non aggettivo); after main verb (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei parla bene inglese",
+          "info": "Bene = well"
+        },
+        {
+          "testo": "Lei parla inglese molto bene",
+          "info": "Intensificazione con 'molto'"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He drives carefully",
+        "info": "Carefully = con attenzione/prudentemente (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui guida con attenzione",
+          "info": "Traduzione naturale"
+        },
+        {
+          "testo": "Lui guida prudentemente",
+          "info": "Variante più formale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di solito prendo un caffè la mattina",
+        "info": "Avverbio di frequenza (di solito) (frequency adverb placement)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Usually, I have coffee in the morning",
+          "info": "Usually spesso all'inizio o prima del verbo"
+        },
+        {
+          "testo": "I usually have coffee in the morning",
+          "info": "Posizione tipica: soggetto + avverbio + verbo"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Arrivo sempre in orario",
+        "info": "Sempre = always; avverbio di frequenza prima del verbo principale (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I always arrive on time",
+          "info": "Always + verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono sempre puntuale",
+        "info": "Con 'to be' l'avverbio va dopo il verbo (be + always) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I am always on time",
+          "info": "Be + always"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lui è spesso in ritardo",
+        "info": "Spesso = often; con 'to be' -> be + often (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is often late",
+          "info": "Be + often"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A volte lavoro da casa",
+        "info": "A volte = sometimes; spesso prima del verbo (frequency adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I sometimes work from home",
+          "info": "Sometimes + verb"
+        },
+        {
+          "testo": "Sometimes I work from home",
+          "info": "Sometimes anche a inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Raramente mangiamo fuori",
+        "info": "Raramente = rarely; avverbio di frequenza (frequency adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "We rarely eat out",
+          "info": "Eat out = mangiare fuori"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non bevo mai alcol",
+        "info": "Mai = never; in inglese si usa 'never' senza 'not' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I never drink alcohol",
+          "info": "Never = mai"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore parla lentamente",
+        "info": "Lentamente = slowly; avverbio di modo dopo il verbo (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please speak slowly",
+          "info": "Speak + slowly"
+        },
+        {
+          "testo": "Please speak more slowly",
+          "info": "Comparativo (more slowly)"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può ripeterlo, per favore?",
+        "info": "Richiesta cortese (could you...?)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you repeat that, please?",
+          "info": "Polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore ripetilo lentamente",
+        "info": "Imperativo + avverbio di modo (slowly)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please repeat it slowly",
+          "info": "Repeat + object + adverb"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti capisco molto bene",
+        "info": "Molto bene = very well (degree + manner)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I understand you very well",
+          "info": "Very well"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono davvero stanco/a oggi",
+        "info": "Davvero = really; con 'to be' -> be + really (rule) (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm really tired today",
+          "info": "Be + really + adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è abbastanza facile",
+        "info": "Abbastanza = quite (degree adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is quite easy",
+          "info": "Quite = abbastanza/piuttosto"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qui fa troppo caldo",
+        "info": "Troppo = too; in inglese 'It is + too + adj' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's too hot in here",
+          "info": "Too + adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono quasi pronto/a",
+        "info": "Quasi = almost; avverbio di grado (degree adverb) (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm almost ready",
+          "info": "Almost + adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono appena arrivato/a",
+        "info": "Appena = just; avverbio di tempo (recent past) (time adverb) (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I just arrived",
+          "info": "Just + past verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti chiamo più tardi",
+        "info": "Più tardi = later; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll call you later",
+          "info": "Will + verb + later"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso farlo adesso",
+        "info": "Adesso/ora = now; avverbio di tempo (time adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can do it now",
+          "info": "Can + verb + now"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lo farò domani",
+        "info": "Domani = tomorrow; futuro semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll do it tomorrow",
+          "info": "Will + verb + tomorrow"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci siamo incontrati ieri",
+        "info": "Ieri = yesterday; passato"
+      },
+      "traduzioni": [
+        {
+          "testo": "We met yesterday",
+          "info": "Past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore aspetti qui",
+        "info": "Qui = here; avverbio di luogo (place adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please wait here",
+          "info": "Wait + here"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le mie chiavi sono lì",
+        "info": "Lì/là = there; avverbio di luogo (place adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My keys are there",
+          "info": "There = lì/là"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore si sieda",
+        "info": "Verbo frasale: sit down (phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please sit down",
+          "info": "Phrasal verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Entra in fretta",
+        "info": "In fretta = quickly; avverbio di modo (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come in quickly",
+          "info": "Verb + adverb"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei parla inglese molto bene",
+        "info": "Molto bene = very well; well è un avverbio (not adjective) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "She speaks English very well",
+          "info": "Verb + object + very well"
+        },
+        {
+          "testo": "She speaks English well",
+          "info": "Variante senza intensificatore"
+        }
+      ]
+    },
+    {
+      "contesto": "Avverbi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lui guida con attenzione",
+        "info": "Con attenzione = carefully; avverbio di modo (manner adverb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "He drives carefully",
+          "info": "Verb + adverb"
+        }
+      ]
+    }
+  ]
+}

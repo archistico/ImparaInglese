@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "contesto": "Aggettivi possessivi e genitivo sassone",
+  "frasi": [
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my book",
+        "info": "Aggettivo possessivo (my) + nome. In inglese il possessivo NON concorda con il posseduto ma con il possessore (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è il mio libro",
+          "info": "In italiano il possessivo concorda con il nome"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My sister is here",
+        "info": "My = mio/mia a seconda del nome. In inglese resta invariato (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mia sorella è qui",
+          "info": "Concordanza in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Your coffee is ready",
+        "info": "Your vale sia per 'tuo' che per 'vostro' e per forma formale/informale (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tuo caffè è pronto",
+          "info": "Forma informale"
+        },
+        {
+          "testo": "Il suo caffè è pronto",
+          "info": "Forma formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "His car is new",
+        "info": "His indica possessore maschile, NON l'oggetto posseduto (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La sua macchina è nuova",
+          "info": "Sua perché macchina è femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Her brother lives here",
+        "info": "Her indica possessore femminile, non il genere di brother (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Suo fratello vive qui",
+          "info": "Suo perché fratello è maschile"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Its tail is long",
+        "info": "Its = possessivo per cose/animali quando il genere non è rilevante. Da non confondere con it's = it is (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La sua coda è lunga",
+          "info": "Riferito a animale/cosa"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Our house is small",
+        "info": "Our = nostro/a/i/e; invariabile in inglese (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La nostra casa è piccola",
+          "info": "Concordanza in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Their children are at school",
+        "info": "Their = loro; non cambia con singolare/plurale del nome (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I loro figli sono a scuola",
+          "info": "Concordanza italiana"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This book is mine",
+        "info": "Pronome possessivo (mine) = my + nome sottinteso. Non usare articolo in inglese (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo libro è mio",
+          "info": "Possessivo senza nome"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That bag is hers",
+        "info": "Hers = pronome possessivo femminile. Non seguito da nome (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quella borsa è sua",
+          "info": "Dipende dal contesto"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "John's car is red",
+        "info": "Genitivo sassone ('s) usato soprattutto per persone/animali (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La macchina di John è rossa",
+          "info": "In italiano si usa di + nome"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My friend's house is big",
+        "info": "Genitivo sassone singolare: friend's (apostrofo + s) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La casa del mio amico è grande",
+          "info": "Possesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My parents' house is near here",
+        "info": "Genitivo sassone plurale: parents' (apostrofo dopo la s) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La casa dei miei genitori è qui vicino",
+          "info": "Plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The cat's bowl is empty",
+        "info": "Genitivo sassone usato anche per animali (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La ciotola del gatto è vuota",
+          "info": "Possesso animale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The door of the house is open",
+        "info": "Con oggetti/cose spesso si usa 'of' invece del genitivo sassone (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La porta della casa è aperta",
+          "info": "Struttura con di"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è il mio libro",
+        "info": "Aggettivo possessivo: in inglese NON cambia con il nome"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my book",
+          "info": "My = mio/mia"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mia sorella è qui",
+        "info": "Mia/mio -> my in inglese"
+      },
+      "traduzioni": [
+        {
+          "testo": "My sister is here",
+          "info": "My invariabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tuo caffè è pronto",
+        "info": "Tuo/Suo (Lei) -> your in inglese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Your coffee is ready",
+          "info": "Your = tuo/suo"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La sua macchina è nuova (di lui)",
+        "info": "Possessore maschile -> his"
+      },
+      "traduzioni": [
+        {
+          "testo": "His car is new",
+          "info": "His = di lui"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La sua macchina è nuova (di lei)",
+        "info": "Possessore femminile -> her"
+      },
+      "traduzioni": [
+        {
+          "testo": "Her car is new",
+          "info": "Her = di lei"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La nostra casa è piccola",
+        "info": "Nostro/a -> our"
+      },
+      "traduzioni": [
+        {
+          "testo": "Our house is small",
+          "info": "Our = nostro/a"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "I loro figli sono a scuola",
+        "info": "Loro -> their"
+      },
+      "traduzioni": [
+        {
+          "testo": "Their children are at school",
+          "info": "Their invariabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo libro è mio",
+        "info": "Possessivo senza nome -> pronome possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "This book is mine",
+          "info": "Mine = my + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quella borsa è sua",
+        "info": "Sua (di lei) -> hers"
+      },
+      "traduzioni": [
+        {
+          "testo": "That bag is hers",
+          "info": "Hers = her + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La macchina di John è rossa",
+        "info": "Con persone si preferisce il genitivo sassone ('s)"
+      },
+      "traduzioni": [
+        {
+          "testo": "John's car is red",
+          "info": "Nome + 's"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La casa del mio amico è grande",
+        "info": "Possesso singolare -> friend's"
+      },
+      "traduzioni": [
+        {
+          "testo": "My friend's house is big",
+          "info": "Singolare: 's"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La casa dei miei genitori è lontana",
+        "info": "Plurale che finisce in -s -> apostrofo dopo la s"
+      },
+      "traduzioni": [
+        {
+          "testo": "My parents' house is far",
+          "info": "Parents' (apostrofo dopo la s)"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La ciotola del cane è vuota",
+        "info": "Animali -> possibile genitivo sassone"
+      },
+      "traduzioni": [
+        {
+          "testo": "The dog's bowl is empty",
+          "info": "Dog's = del cane"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi possessivi e genitivo sassone",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La porta della casa è chiusa",
+        "info": "Oggetti/cose -> spesso struttura con of"
+      },
+      "traduzioni": [
+        {
+          "testo": "The door of the house is closed",
+          "info": "Of-structure"
+        }
+      ]
+    }
+  ]
+}

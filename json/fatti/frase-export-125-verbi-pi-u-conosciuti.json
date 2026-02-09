@@ -1,0 +1,984 @@
+{
+  "version": 1,
+  "contesto": "Verbi più conosciuti",
+  "frasi": [
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I am Emilie",
+        "info": "to be, present simple, pronome soggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Io sono Emilie",
+          "info": "essere, presentazione"
+        },
+        {
+          "testo": "Sono Emilie",
+          "info": "forma breve, italiano naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You are my friend",
+        "info": "to be, present simple, pronome soggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tu sei mio amico",
+          "info": "essere, possessivo"
+        },
+        {
+          "testo": "Sei mia amica",
+          "info": "variante genere, italiano naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is at home",
+        "info": "to be, present simple, preposizione luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui è a casa",
+          "info": "essere, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She is late",
+        "info": "to be, present simple, aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei è in ritardo",
+          "info": "essere, stato"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We are ready",
+        "info": "to be, present simple, aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Noi siamo pronti",
+          "info": "essere, stato"
+        },
+        {
+          "testo": "Siamo pronti",
+          "info": "forma breve, italiano naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "They are here",
+        "info": "to be, present simple, avverbio luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Loro sono qui",
+          "info": "essere, luogo"
+        },
+        {
+          "testo": "Sono qui",
+          "info": "forma breve, contesto chiaro"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a question",
+        "info": "to have, present simple, articolo indeterminativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho una domanda",
+          "info": "avere, uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You have my number",
+        "info": "to have, present simple, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai il mio numero",
+          "info": "avere, possessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He has a car",
+        "info": "to have, present simple, terza persona singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui ha una macchina",
+          "info": "avere, terza persona"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She has two cats",
+        "info": "to have, present simple, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei ha due gatti",
+          "info": "avere, plurale"
+        },
+        {
+          "testo": "Lei ha due gatte",
+          "info": "variante genere, italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can help you",
+        "info": "can, abilità, modale, verbo base senza to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso aiutarti",
+          "info": "potere, pronome oggetto"
+        },
+        {
+          "testo": "So aiutarti",
+          "info": "sapere, capacità"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't do it today",
+        "info": "can negative, can't, avverbio tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non posso farlo oggi",
+          "info": "negazione, potere"
+        },
+        {
+          "testo": "Oggi non riesco a farlo",
+          "info": "variante naturale, riuscire"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you repeat, please?",
+        "info": "can, richiesta cortese, domanda, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi ripetere, per favore?",
+          "info": "richiesta cortese"
+        },
+        {
+          "testo": "Può ripetere, per favore?",
+          "info": "forma formale, lei"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me?",
+        "info": "can, richiesta, domanda sì no"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi aiutarmi?",
+          "info": "richiesta"
+        },
+        {
+          "testo": "Mi puoi aiutare?",
+          "info": "ordine parole, italiano naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want coffee?",
+        "info": "do you want, domanda, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi un caffè?",
+          "info": "domanda, articolo"
+        },
+        {
+          "testo": "Vuoi del caffè?",
+          "info": "partitivo, quantità non specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want to learn English",
+        "info": "to want, present simple, infinitive with to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio imparare l'inglese",
+          "info": "volere, infinito"
+        },
+        {
+          "testo": "Vorrei imparare l'inglese",
+          "info": "variante più cortese, condizionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Come here, please",
+        "info": "imperativo, please, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vieni qui, per favore",
+          "info": "imperativo, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm coming",
+        "info": "present continuous, azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto arrivando",
+          "info": "stare + gerundio"
+        },
+        {
+          "testo": "Arrivo",
+          "info": "presente con valore immediato"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's go!",
+        "info": "let's, invito, esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andiamo!",
+          "info": "invito, esclamazione"
+        },
+        {
+          "testo": "Dai, andiamo!",
+          "info": "variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm looking for my keys",
+        "info": "look for, present continuous, oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto cercando le mie chiavi",
+          "info": "cercare, possessivo"
+        },
+        {
+          "testo": "Cerco le mie chiavi",
+          "info": "presente semplice, italiano naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't find it",
+        "info": "can't, find, pronome oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non riesco a trovarlo",
+          "info": "riuscire a, pronome lo"
+        },
+        {
+          "testo": "Non lo trovo",
+          "info": "variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can see it now",
+        "info": "can, percezione, avverbio now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Adesso riesco a vederlo",
+          "info": "riuscire a, pronome lo"
+        },
+        {
+          "testo": "Ora lo vedo",
+          "info": "variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I go to work by bus",
+        "info": "to go, present simple, mezzo di trasporto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vado al lavoro in autobus",
+          "info": "andare, preposizione al"
+        },
+        {
+          "testo": "Vado a lavoro in autobus",
+          "info": "variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "See you later",
+        "info": "saluto, future implicito, contesto informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci vediamo dopo",
+          "info": "saluto informale"
+        },
+        {
+          "testo": "A dopo",
+          "info": "variante breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want it now!",
+        "info": "want, enfasi, esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lo voglio adesso!",
+          "info": "pronome lo, enfasi"
+        },
+        {
+          "testo": "Lo voglio subito!",
+          "info": "variante avverbio"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you come here?",
+        "info": "can, richiesta, come, avverbio luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi venire qui?",
+          "info": "richiesta"
+        },
+        {
+          "testo": "Puoi passare qui?",
+          "info": "variante contesto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want to come with us?",
+        "info": "do you want, infinitive with to, with us"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi venire con noi?",
+          "info": "invito"
+        },
+        {
+          "testo": "Ti va di venire con noi?",
+          "info": "variante naturale, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have time today",
+        "info": "have, sostantivo time, avverbio today"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho tempo oggi",
+          "info": "avere tempo"
+        },
+        {
+          "testo": "Oggi ho tempo",
+          "info": "ordine parole, enfasi su oggi"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't have time",
+        "info": "have negative, do not, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non ho tempo",
+          "info": "negazione"
+        },
+        {
+          "testo": "Non ho tempo adesso",
+          "info": "aggiunta avverbio"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Io sono Emilie",
+        "info": "essere, presentazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I am Emilie",
+          "info": "to be, present simple"
+        },
+        {
+          "testo": "I'm Emilie",
+          "info": "forma contratta"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tu sei mio amico",
+        "info": "essere, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "You are my friend",
+          "info": "to be, possessive"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lui è a casa",
+        "info": "essere, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is at home",
+          "info": "to be, place"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei è in ritardo",
+        "info": "essere, stato"
+      },
+      "traduzioni": [
+        {
+          "testo": "She is late",
+          "info": "to be, adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Noi siamo pronti",
+        "info": "essere, stato"
+      },
+      "traduzioni": [
+        {
+          "testo": "We are ready",
+          "info": "to be, adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Loro sono qui",
+        "info": "essere, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "They are here",
+          "info": "to be, place"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una domanda",
+        "info": "avere, uso comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a question",
+          "info": "to have, article a"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai il mio numero",
+        "info": "avere, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "You have my number",
+          "info": "to have, possessive"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lui ha una macchina",
+        "info": "avere, terza persona"
+      },
+      "traduzioni": [
+        {
+          "testo": "He has a car",
+          "info": "third person, has"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei ha due gatti",
+        "info": "avere, plurale"
+      },
+      "traduzioni": [
+        {
+          "testo": "She has two cats",
+          "info": "plural noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso aiutarti",
+        "info": "potere, pronome oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can help you",
+          "info": "can, base verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non posso farlo oggi",
+        "info": "negazione, potere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't do it today",
+          "info": "can't, time adverb"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi ripetere, per favore?",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you repeat, please?",
+          "info": "can, polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi aiutarmi?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me?",
+          "info": "can, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi un caffè?",
+        "info": "domanda, articolo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want coffee?",
+          "info": "do you want, question"
+        },
+        {
+          "testo": "Do you want a coffee?",
+          "info": "article a, espresso context"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Voglio imparare l'inglese",
+        "info": "volere, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want to learn English",
+          "info": "want, to infinitive"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vieni qui, per favore",
+        "info": "imperativo, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come here, please",
+          "info": "imperative, please"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto arrivando",
+        "info": "stare + gerundio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm coming",
+          "info": "present continuous"
+        },
+        {
+          "testo": "I'm on my way",
+          "info": "idiom, arriving soon"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Andiamo!",
+        "info": "invito, esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's go!",
+          "info": "let's, invitation"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto cercando le mie chiavi",
+        "info": "cercare, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm looking for my keys",
+          "info": "look for, present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non riesco a trovarlo",
+        "info": "riuscire a, pronome lo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't find it",
+          "info": "can't, object it"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Adesso riesco a vederlo",
+        "info": "riuscire a, pronome lo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can see it now",
+          "info": "can, now"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vado al lavoro in autobus",
+        "info": "andare, mezzo di trasporto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I go to work by bus",
+          "info": "go, by transport"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci vediamo dopo",
+        "info": "saluto informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "See you later",
+          "info": "farewell"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lo voglio subito!",
+        "info": "pronome lo, enfasi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want it now!",
+          "info": "want, emphasis"
+        },
+        {
+          "testo": "I want it right now!",
+          "info": "strong emphasis"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi venire qui?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you come here?",
+          "info": "can, request"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi venire con noi?",
+        "info": "invito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want to come with us?",
+          "info": "want, to infinitive"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho tempo oggi",
+        "info": "avere tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have time today",
+          "info": "have, time"
+        }
+      ]
+    },
+    {
+      "contesto": "Verbi più conosciuti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ho tempo",
+        "info": "negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't have time",
+          "info": "do not, present simple"
+        }
+      ]
+    }
+  ]
+}

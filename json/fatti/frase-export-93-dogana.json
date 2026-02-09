@@ -1,0 +1,1035 @@
+{
+  "version": 1,
+  "contesto": "Dogana",
+  "frasi": [
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is customs control?",
+        "info": "domanda, indicazioni, where"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il controllo doganale?",
+          "info": "domanda, indicazioni"
+        },
+        {
+          "testo": "Dove si trova la dogana?",
+          "info": "variante, indicazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which line is for nothing to declare?",
+        "info": "domanda, scelta, which"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quale fila è per chi non ha nulla da dichiarare?",
+          "info": "domanda, scelta"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which line is for goods to declare?",
+        "info": "domanda, scelta, which"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quale fila è per chi ha merce da dichiarare?",
+          "info": "domanda, scelta"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm here on vacation",
+        "info": "present simple, motivo viaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono qui in vacanza",
+          "info": "motivo viaggio"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm traveling for work",
+        "info": "present continuous, motivo viaggio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono in viaggio per lavoro",
+          "info": "motivo viaggio"
+        },
+        {
+          "testo": "Sono qui per lavoro",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have nothing to declare",
+        "info": "formula fissa, dichiarazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non ho nulla da dichiarare",
+          "info": "formula fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to declare these items",
+        "info": "necessità, dichiarazione, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo dichiarare questi articoli",
+          "info": "dichiarazione"
+        },
+        {
+          "testo": "Devo dichiarare questi oggetti",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have anything to declare?",
+        "info": "domanda, dogana, do you"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha qualcosa da dichiarare?",
+          "info": "domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need to pay duty on this?",
+        "info": "domanda, dazio, do I"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo pagare dazio su questo?",
+          "info": "domanda, dazio"
+        },
+        {
+          "testo": "Devo pagare i dazi per questo?",
+          "info": "variante, plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much am I allowed to bring in?",
+        "info": "domanda, limiti, allowed to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto posso portare con me?",
+          "info": "domanda, limiti"
+        },
+        {
+          "testo": "Quanto mi è consentito introdurre?",
+          "info": "variante, registro formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much cash am I allowed to carry?",
+        "info": "domanda, contante, allowed to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto contante posso portare?",
+          "info": "domanda, contante"
+        },
+        {
+          "testo": "Qual è il limite di contanti che posso avere con me?",
+          "info": "variante, esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have more than ten thousand euros in cash",
+        "info": "dichiarazione, quantità, more than"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho più di diecimila euro in contanti",
+          "info": "dichiarazione, quantità"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "These are for personal use",
+        "info": "spiegazione, scopo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questi sono per uso personale",
+          "info": "spiegazione, scopo"
+        },
+        {
+          "testo": "È per uso personale",
+          "info": "variante, singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "These are gifts",
+        "info": "spiegazione, scopo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questi sono regali",
+          "info": "spiegazione, scopo"
+        },
+        {
+          "testo": "Sono regali",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I purchased this abroad",
+        "info": "past simple, acquisto"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'ho comprato all'estero",
+          "info": "acquisto"
+        },
+        {
+          "testo": "L'ho acquistato all'estero",
+          "info": "variante, registro formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I bought it yesterday",
+        "info": "past simple, tempo, ieri"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'ho comprato ieri",
+          "info": "tempo, passato"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you need the receipt?",
+        "info": "domanda, documento, do you"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le serve lo scontrino?",
+          "info": "domanda, documento"
+        },
+        {
+          "testo": "Ha bisogno della ricevuta?",
+          "info": "variante, documento"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Here is the receipt",
+        "info": "consegna documento, here is"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ecco lo scontrino",
+          "info": "consegna documento"
+        },
+        {
+          "testo": "Ecco la ricevuta",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What documents do you need?",
+        "info": "domanda, documenti, what"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di quali documenti avete bisogno?",
+          "info": "domanda, documenti"
+        },
+        {
+          "testo": "Quali documenti servono?",
+          "info": "variante, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Here is my passport",
+        "info": "consegna documento, possessivo, my"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ecco il mio passaporto",
+          "info": "consegna documento"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Here is my ID card",
+        "info": "consegna documento, possessivo, my"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ecco la mia carta d'identità",
+          "info": "consegna documento"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is prescription medication",
+        "info": "lessico medico, dichiarazione, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è un farmaco con prescrizione medica",
+          "info": "lessico medico"
+        },
+        {
+          "testo": "Questo è un medicinale soggetto a prescrizione",
+          "info": "variante, registro formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a prescription with me",
+        "info": "present simple, documento, with me"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho con me la prescrizione",
+          "info": "documento"
+        },
+        {
+          "testo": "Ho la ricetta con me",
+          "info": "variante, uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's for my personal medical use",
+        "info": "spiegazione, scopo, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "È per uso medico personale",
+          "info": "spiegazione, scopo"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you open your bag, please?",
+        "info": "richiesta cortese, can, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aprire la borsa, per favore?",
+          "info": "richiesta cortese"
+        },
+        {
+          "testo": "Può aprire il bagaglio, per favore?",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please put your bag on the belt",
+        "info": "imperativo, istruzione, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Metta la borsa sul nastro, per favore",
+          "info": "istruzione, cortesia"
+        },
+        {
+          "testo": "Appoggi il bagaglio sul nastro, per favore",
+          "info": "variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have any food or plants with you?",
+        "info": "domanda, quantità, any, with you"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha del cibo o delle piante con sé?",
+          "info": "domanda, any"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have some snacks for the trip",
+        "info": "present simple, some"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho degli snack per il viaggio",
+          "info": "some, quantità"
+        },
+        {
+          "testo": "Ho qualche snack per il viaggio",
+          "info": "variante, qualche"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long will this take?",
+        "info": "domanda, tempo, future"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto tempo richiederà?",
+          "info": "domanda, tempo"
+        },
+        {
+          "testo": "Quanto ci vorrà?",
+          "info": "variante, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Am I free to go now?",
+        "info": "domanda, permesso, free to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso andare ora?",
+          "info": "domanda, permesso"
+        },
+        {
+          "testo": "Sono libero di andare adesso?",
+          "info": "variante, letterale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il controllo doganale?",
+        "info": "domanda, indicazioni, dove"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is customs control?",
+          "info": "domanda, where"
+        },
+        {
+          "testo": "Where is customs?",
+          "info": "variante, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quale fila è per chi non ha nulla da dichiarare?",
+        "info": "domanda, scelta, quale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which line is for nothing to declare?",
+          "info": "domanda, which"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quale fila è per chi ha merce da dichiarare?",
+        "info": "domanda, scelta, quale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which line is for goods to declare?",
+          "info": "domanda, which"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono qui in vacanza",
+        "info": "motivo viaggio, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm here on vacation",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono in viaggio per lavoro",
+        "info": "motivo viaggio, per"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm traveling for work",
+          "info": "present continuous"
+        },
+        {
+          "testo": "I'm here for work",
+          "info": "variante, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ho nulla da dichiarare",
+        "info": "formula fissa, dichiarazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have nothing to declare",
+          "info": "formula fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo dichiarare questi articoli",
+        "info": "necessità, dichiarazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to declare these items",
+          "info": "present simple"
+        },
+        {
+          "testo": "I have to declare these items",
+          "info": "variante, have to"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha qualcosa da dichiarare?",
+        "info": "domanda, dogana"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have anything to declare?",
+          "info": "do you, anything"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo pagare dazio su questo?",
+        "info": "domanda, dazio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do I need to pay duty on this?",
+          "info": "do I, duty"
+        },
+        {
+          "testo": "Do I have to pay duty on this?",
+          "info": "variante, have to"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto posso portare con me?",
+        "info": "domanda, limiti, quanto"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much am I allowed to bring in?",
+          "info": "allowed to"
+        },
+        {
+          "testo": "How much can I bring in?",
+          "info": "variante, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto contante posso portare?",
+        "info": "domanda, contante"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much cash am I allowed to carry?",
+          "info": "allowed to"
+        },
+        {
+          "testo": "How much cash can I carry?",
+          "info": "variante, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho più di diecimila euro in contanti",
+        "info": "dichiarazione, quantità, più di"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have more than ten thousand euros in cash",
+          "info": "more than, quantità"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questi sono per uso personale",
+        "info": "spiegazione, scopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "These are for personal use",
+          "info": "present simple"
+        },
+        {
+          "testo": "It's for personal use",
+          "info": "variante, singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questi sono regali",
+        "info": "spiegazione, scopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "These are gifts",
+          "info": "present simple"
+        },
+        {
+          "testo": "They're gifts",
+          "info": "variante, contrazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'ho comprato all'estero",
+        "info": "acquisto, passato, all'estero"
+      },
+      "traduzioni": [
+        {
+          "testo": "I purchased this abroad",
+          "info": "past simple, registro formale"
+        },
+        {
+          "testo": "I bought this abroad",
+          "info": "variante, più comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'ho comprato ieri",
+        "info": "passato, ieri"
+      },
+      "traduzioni": [
+        {
+          "testo": "I bought it yesterday",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le serve lo scontrino?",
+        "info": "domanda, documento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you need the receipt?",
+          "info": "do you, receipt"
+        },
+        {
+          "testo": "Would you like the receipt?",
+          "info": "variante, cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ecco lo scontrino",
+        "info": "consegna documento, ecco"
+      },
+      "traduzioni": [
+        {
+          "testo": "Here is the receipt",
+          "info": "here is"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di quali documenti avete bisogno?",
+        "info": "domanda, documenti"
+      },
+      "traduzioni": [
+        {
+          "testo": "What documents do you need?",
+          "info": "what, do you"
+        },
+        {
+          "testo": "Which documents do you need?",
+          "info": "variante, which"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ecco il mio passaporto",
+        "info": "consegna documento, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Here is my passport",
+          "info": "my, here is"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ecco la mia carta d'identità",
+        "info": "consegna documento, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Here is my ID card",
+          "info": "my, here is"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è un farmaco con prescrizione medica",
+        "info": "lessico medico, dichiarazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is prescription medication",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho la ricetta con me",
+        "info": "documento, con me"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a prescription with me",
+          "info": "with me"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È per uso medico personale",
+        "info": "spiegazione, scopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's for my personal medical use",
+          "info": "possessivo, my"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aprire la borsa, per favore?",
+        "info": "richiesta cortese, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you open your bag, please?",
+          "info": "can, please"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Metta la borsa sul nastro, per favore",
+        "info": "istruzione, imperativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please put your bag on the belt",
+          "info": "imperativo, please"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha del cibo o delle piante con sé?",
+        "info": "domanda, quantità, del"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have any food or plants with you?",
+          "info": "any, with you"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho degli snack per il viaggio",
+        "info": "quantità, degli, per"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have some snacks for the trip",
+          "info": "some"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto tempo richiederà?",
+        "info": "domanda, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long will this take?",
+          "info": "how long, future"
+        },
+        {
+          "testo": "How long is this going to take?",
+          "info": "variante, going to"
+        }
+      ]
+    },
+    {
+      "contesto": "Dogana",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso andare ora?",
+        "info": "domanda, permesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Am I free to go now?",
+          "info": "free to"
+        },
+        {
+          "testo": "Can I go now?",
+          "info": "variante, più semplice"
+        }
+      ]
+    }
+  ]
+}

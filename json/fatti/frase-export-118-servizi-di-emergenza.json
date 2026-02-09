@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "contesto": "Servizi di Emergenza",
+  "frasi": [
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello, I need help",
+        "info": "saluto, emergenza, presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Salve, ho bisogno di aiuto",
+          "info": "richiesta di aiuto, contesto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There is an emergency",
+        "info": "affermazione, emergenza generale, presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un'emergenza",
+          "info": "affermazione neutra"
+        },
+        {
+          "testo": "Si tratta di un'emergenza",
+          "info": "variante esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need an ambulance immediately",
+        "info": "richiesta urgente, verbo need, avverbio di tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di un'ambulanza immediatamente",
+          "info": "urgenza massima"
+        },
+        {
+          "testo": "Serve subito un'ambulanza",
+          "info": "forma impersonale"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Someone is unconscious",
+        "info": "descrizione stato fisico, presente semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qualcuno è incosciente",
+          "info": "stato di salute"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The person is not breathing",
+        "info": "descrizione medica, negazione, presente continuo"
+      },
+      "traduzioni": [
+        {
+          "testo": "La persona non respira",
+          "info": "emergenza medica"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I perform CPR?",
+        "info": "domanda, procedura medica, acronimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come faccio la RCP?",
+          "info": "domanda tecnica"
+        },
+        {
+          "testo": "Come si esegue la rianimazione cardiopolmonare?",
+          "info": "forma esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've cut myself badly",
+        "info": "presente perfetto, incidente personale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sono tagliato seriamente",
+          "info": "ferita personale"
+        },
+        {
+          "testo": "Mi sono fatto un brutto taglio",
+          "info": "linguaggio comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I smell gas in the house",
+        "info": "percezione sensoriale, presente semplice, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sento odore di gas in casa",
+          "info": "pericolo domestico"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There has been a fire",
+        "info": "presente perfetto, evento concluso"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è stato un incendio",
+          "info": "evento passato recente"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need the fire department",
+        "info": "richiesta servizio pubblico, verbo need"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno dei vigili del fuoco",
+          "info": "richiesta diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the nearest hospital?",
+        "info": "domanda informativa, superlativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'ospedale più vicino?",
+          "info": "richiesta indicazioni"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Salve, ho bisogno di aiuto",
+        "info": "saluto, richiesta, contesto emergenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello, I need help",
+          "info": "richiesta semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un'emergenza",
+        "info": "affermazione, emergenza generale"
+      },
+      "traduzioni": [
+        {
+          "testo": "There is an emergency",
+          "info": "affermazione diretta"
+        },
+        {
+          "testo": "This is an emergency",
+          "info": "forma enfatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di un'ambulanza immediatamente",
+        "info": "urgenza, avverbio di tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need an ambulance immediately",
+          "info": "richiesta urgente"
+        },
+        {
+          "testo": "We need an ambulance right now",
+          "info": "soggetto plurale, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qualcuno è incosciente",
+        "info": "stato fisico, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "Someone is unconscious",
+          "info": "descrizione medica"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La persona non respira",
+        "info": "negazione, emergenza medica"
+      },
+      "traduzioni": [
+        {
+          "testo": "The person is not breathing",
+          "info": "frase medica"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come si esegue la rianimazione cardiopolmonare?",
+        "info": "domanda tecnica, procedura"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I perform CPR?",
+          "info": "acronimo medico"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sono fatto un brutto taglio",
+        "info": "incidente personale, passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've cut myself badly",
+          "info": "presente perfetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sento odore di gas in casa",
+        "info": "percezione, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I smell gas in the house",
+          "info": "pericolo domestico"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è stato un incendio",
+        "info": "evento passato, emergenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "There has been a fire",
+          "info": "presente perfetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno dei vigili del fuoco",
+        "info": "richiesta servizio pubblico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need the fire department",
+          "info": "richiesta diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Servizi di Emergenza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è l'ospedale più vicino?",
+        "info": "domanda, superlativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the nearest hospital?",
+          "info": "richiesta indicazioni"
+        }
+      ]
+    }
+  ]
+}

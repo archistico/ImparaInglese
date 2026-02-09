@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "contesto": "Mi dispiace",
+  "frasi": [
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry",
+        "info": "scuse generiche, registro neutro, situazione comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace",
+          "info": "scuse generiche, uso frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm really sorry",
+        "info": "enfasi, avverbio really, scuse sincere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace davvero",
+          "info": "rafforzativo, enfasi emotiva"
+        },
+        {
+          "testo": "Sono davvero dispiaciuto",
+          "info": "registro più personale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm so sorry to hear that",
+        "info": "empatia, reazione a una notizia negativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace tanto sentirlo",
+          "info": "empatia, risposta a un racconto"
+        },
+        {
+          "testo": "Mi dispiace molto per questa notizia",
+          "info": "registro più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry about that",
+        "info": "scuse informali, situazione immediata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa per questo",
+          "info": "registro informale"
+        },
+        {
+          "testo": "Mi dispiace per questo",
+          "info": "uso colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry for the delay",
+        "info": "scuse specifiche, for, ritardo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace per il ritardo",
+          "info": "contesto lavorativo o formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry I made a mistake",
+        "info": "ammissione errore, passato semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace, ho fatto un errore",
+          "info": "ammissione diretta"
+        },
+        {
+          "testo": "Scusa, ho sbagliato",
+          "info": "registro informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry about what happened",
+        "info": "riferimento a evento passato, empatia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace per quello che è successo",
+          "info": "evento passato"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please accept my apologies",
+        "info": "scuse formali, richiesta esplicita"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti prego di accettare le mie scuse",
+          "info": "registro formale"
+        },
+        {
+          "testo": "Le porgo le mie scuse",
+          "info": "registro molto formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I apologize for the inconvenience",
+        "info": "verbo apologize, contesto formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi scuso per l'inconveniente",
+          "info": "linguaggio formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry to bother you",
+        "info": "scuse preventive, interazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa se ti disturbo",
+          "info": "uso frequente, informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace",
+        "info": "scuse generiche, uso comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry",
+          "info": "forma base, neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace davvero",
+        "info": "enfasi, emozione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm really sorry",
+          "info": "avverbio really, enfasi"
+        },
+        {
+          "testo": "I'm truly sorry",
+          "info": "registro più sentito"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace tanto sentirlo",
+        "info": "empatia, reazione a notizia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm so sorry to hear that",
+          "info": "empatia, formula fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa per il ritardo",
+        "info": "scuse specifiche, contesto pratico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry for the delay",
+          "info": "uso comune, lavoro"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace per l'inconveniente",
+        "info": "registro formale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I apologize for the inconvenience",
+          "info": "verbo formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa se ti disturbo",
+        "info": "scuse preventive, informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry to bother you",
+          "info": "uso frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace per quello che è successo",
+        "info": "evento passato, empatia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry about what happened",
+          "info": "passato, contesto emotivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho sbagliato, mi dispiace",
+        "info": "ammissione errore, ordine frase"
+      },
+      "traduzioni": [
+        {
+          "testo": "I made a mistake, I'm sorry",
+          "info": "passato semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Mi dispiace",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti chiedo scusa",
+        "info": "richiesta esplicita di scuse"
+      },
+      "traduzioni": [
+        {
+          "testo": "I apologize",
+          "info": "registro formale"
+        },
+        {
+          "testo": "I'm sorry",
+          "info": "registro neutro"
+        }
+      ]
+    }
+  ]
+}

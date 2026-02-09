@@ -1,0 +1,708 @@
+{
+  "version": 1,
+  "contesto": "Aggettivi - qualità",
+  "frasi": [
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is an amazing idea",
+        "info": "Aggettivo di valutazione positiva prima del nome (adj + noun) (articolo: a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è un'idea incredibile",
+          "info": "Valutazione positiva (apostrofo con vocale)"
+        },
+        {
+          "testo": "È un'idea fantastica",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The weather is awful today",
+        "info": "Aggettivo negativo con 'to be' al presente semplice (tempo atmosferico)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tempo è terribile oggi",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "Che tempo pessimo oggi",
+          "info": "Variante più naturale in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This coffee is bad",
+        "info": "Bad = di scarsa qualità (non sempre 'cattivo' come persona) (falso amico)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo caffè è cattivo",
+          "info": "Cattivo = sapore/qualità (contesto cibo)"
+        },
+        {
+          "testo": "Questo caffè è pessimo",
+          "info": "Variante più forte"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She is a bad person",
+        "info": "Bad riferito al carattere/moralità (person)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei è una cattiva persona",
+          "info": "Cattivo riferito a persona (moralità)"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This place is beautiful",
+        "info": "Beautiful per luoghi/persone/oggetti (valutazione estetica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo posto è bellissimo",
+          "info": "Superlativo italiano per rendere l'enfasi"
+        },
+        {
+          "testo": "Questo posto è bello",
+          "info": "Variante più neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The water is cold",
+        "info": "Cold = freddo (temperatura) (to be + adj)"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'acqua è fredda",
+          "info": "Accordo di genere/numero"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This exercise is difficult",
+        "info": "Difficult = difficile (non 'diffidente') (to be + adj)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo esercizio è difficile",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "È un esercizio complicato",
+          "info": "Sinonimo frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is easy",
+        "info": "Easy = facile/semplice (frase breve con dimostrativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è facile",
+          "info": "Traduzione diretta"
+        },
+        {
+          "testo": "È semplice",
+          "info": "Variante naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Your work is excellent",
+        "info": "Complimento: aggettivo valutativo (possessivo + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tuo lavoro è eccellente",
+          "info": "Registro neutro/formale"
+        },
+        {
+          "testo": "Il tuo lavoro è davvero ottimo",
+          "info": "Variante più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The service is fast",
+        "info": "Fast = veloce/rapido (contesto servizio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il servizio è veloce",
+          "info": "Traduzione diretta"
+        },
+        {
+          "testo": "Il servizio è rapido",
+          "info": "Sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is a good restaurant",
+        "info": "Good = buono/bravo/di qualità (qui: qualità del luogo) (articolo: a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è un buon ristorante",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Questo ristorante è molto buono",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The coffee is good",
+        "info": "Good riferito al sapore/qualità (cibo/bevanda)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il caffè è buono",
+          "info": "Cibo/bevanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It is hot in here",
+        "info": "Hot = caldo (temperatura ambiente) (costruzione: It is + adj)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qui fa caldo",
+          "info": "Costruzione idiomatica italiana (fare + aggettivo)"
+        },
+        {
+          "testo": "È caldo qui dentro",
+          "info": "Traduzione più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my new phone",
+        "info": "New = nuovo (aggettivo prima del nome) (possessivo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è il mio nuovo telefono",
+          "info": "Aggettivo prima del nome"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That is a nice picture",
+        "info": "Nice = carino/bello/simpatico a seconda del contesto (qui: estetica) (articolo: a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quella è una bella foto",
+          "info": "Traduzione naturale in italiano"
+        },
+        {
+          "testo": "Quella è una foto carina",
+          "info": "Variante più leggera"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is an old book",
+        "info": "Old = vecchio/antico (qui: oggetto) (articolo: a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è un libro vecchio",
+          "info": "Descrizione neutra"
+        },
+        {
+          "testo": "Questo è un libro antico",
+          "info": "Se è 'old' in senso storico/di valore"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Perfect, thank you!",
+        "info": "Perfect usato come risposta breve/approvazione (interiezione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Perfetto, grazie!",
+          "info": "Risposta breve"
+        },
+        {
+          "testo": "Va benissimo, grazie!",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The internet is slow",
+        "info": "Slow = lento (contesto tecnologia/connessione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Internet è lento",
+          "info": "Uso comune"
+        },
+        {
+          "testo": "La connessione è lenta",
+          "info": "Variante più specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That movie was terrible",
+        "info": "Terrible/Awful = terribile/pessimo (qui: giudizio) (past simple: was)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quel film era terribile",
+          "info": "Imperfetto per descrizione/giudizio"
+        },
+        {
+          "testo": "Quel film è stato pessimo",
+          "info": "Passato prossimo (evento concluso)"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is an ugly sweater",
+        "info": "Ugly = brutto (valutazione estetica) (articolo: a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è un maglione brutto",
+          "info": "Traduzione diretta"
+        },
+        {
+          "testo": "Che maglione brutto",
+          "info": "Variante più naturale (esclamativa)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa è un'idea incredibile",
+        "info": "Valutazione positiva (articolo indeterminativo) (a/an)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is an amazing idea",
+          "info": "An + amazing + noun"
+        },
+        {
+          "testo": "This is a fantastic idea",
+          "info": "Sinonimo comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tempo è terribile oggi",
+        "info": "Giudizio sul meteo (oggi = today)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The weather is awful today",
+          "info": "Awful = molto negativo"
+        },
+        {
+          "testo": "The weather is terrible today",
+          "info": "Variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo caffè è pessimo",
+        "info": "Qualità negativa di cibo/bevanda (falso amico: bad non è sempre 'cattivo' persona)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This coffee is bad",
+          "info": "Bad = scarsa qualità"
+        },
+        {
+          "testo": "This coffee is awful",
+          "info": "Più forte/enfatico"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei è una cattiva persona",
+        "info": "Cattivo riferito al carattere/moralità"
+      },
+      "traduzioni": [
+        {
+          "testo": "She is a bad person",
+          "info": "Bad riferito alla persona"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo posto è bellissimo",
+        "info": "Valutazione estetica (posto/luogo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This place is beautiful",
+          "info": "Beautiful per luoghi"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'acqua è fredda",
+        "info": "Temperatura (to be + adj)"
+      },
+      "traduzioni": [
+        {
+          "testo": "The water is cold",
+          "info": "Cold = freddo"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo esercizio è difficile",
+        "info": "Descrizione di difficoltà"
+      },
+      "traduzioni": [
+        {
+          "testo": "This exercise is difficult",
+          "info": "Difficult = difficile"
+        },
+        {
+          "testo": "This exercise is hard",
+          "info": "Sinonimo più comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è facile",
+        "info": "Frase breve di valutazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is easy",
+          "info": "Uso base"
+        },
+        {
+          "testo": "It's simple",
+          "info": "Variante naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tuo lavoro è eccellente",
+        "info": "Complimento (possessivo + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Your work is excellent",
+          "info": "Registro neutro/formale"
+        },
+        {
+          "testo": "Your work is great",
+          "info": "Più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il servizio è rapido",
+        "info": "Velocità del servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "The service is fast",
+          "info": "Fast = veloce"
+        },
+        {
+          "testo": "The service is quick",
+          "info": "Sinonimo frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è un buon ristorante",
+        "info": "Giudizio positivo su un luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is a good restaurant",
+          "info": "Good per qualità"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qui fa caldo",
+        "info": "Costruzione idiomatica italiana (fare + aggettivo) -> in inglese 'It is + adj'"
+      },
+      "traduzioni": [
+        {
+          "testo": "It is hot in here",
+          "info": "It is + hot + in here"
+        },
+        {
+          "testo": "It's hot here",
+          "info": "Forma contratta"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è il mio nuovo telefono",
+        "info": "Nuovo + nome (possessivo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my new phone",
+          "info": "My + new + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quella è una foto carina",
+        "info": "Nice può voler dire carino/bello (contesto: foto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "That is a nice picture",
+          "info": "Nice = carino (qui: estetica)"
+        },
+        {
+          "testo": "That's a nice photo",
+          "info": "Variante lessicale (photo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è un libro vecchio",
+        "info": "Old riferito a oggetti (non persone)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is an old book",
+          "info": "An + old + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Perfetto, grazie!",
+        "info": "Risposta breve di approvazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Perfect, thank you!",
+          "info": "Interiezione/approvazione"
+        },
+        {
+          "testo": "Great, thanks!",
+          "info": "Variante colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La connessione è lenta",
+        "info": "Contesto tecnologia/internet"
+      },
+      "traduzioni": [
+        {
+          "testo": "The connection is slow",
+          "info": "Slow = lento"
+        },
+        {
+          "testo": "The internet is slow",
+          "info": "Variante comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quel film è stato pessimo",
+        "info": "Giudizio su un evento passato (passato prossimo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "That movie was terrible",
+          "info": "Past simple (was)"
+        },
+        {
+          "testo": "That movie was awful",
+          "info": "Variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Aggettivi - qualità",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che maglione brutto",
+        "info": "Esclamazione (valutazione estetica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is an ugly sweater",
+          "info": "Ugly = brutto"
+        },
+        {
+          "testo": "What an ugly sweater",
+          "info": "Esclamativa con 'what a/an' (grammar tag)"
+        }
+      ]
+    }
+  ]
+}

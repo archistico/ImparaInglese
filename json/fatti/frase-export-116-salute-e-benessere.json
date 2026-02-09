@@ -1,0 +1,885 @@
+{
+  "version": 1,
+  "contesto": "Salute e Benessere",
+  "frasi": [
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, I don't feel well today",
+        "info": "saluto, stato, present simple, contesto medico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, oggi non mi sento bene",
+          "info": "stato, presente indicativo, avverbio di tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think I have a fever",
+        "info": "think, opinione, present simple, sintomo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Penso di avere la febbre",
+          "info": "verbo pensare, ipotesi"
+        },
+        {
+          "testo": "Mi sa che ho la febbre",
+          "info": "registro informale, ipotesi"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a sore throat and a cough",
+        "info": "sintomi, and, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di gola e tosse",
+          "info": "sintomi, forma breve"
+        },
+        {
+          "testo": "Ho mal di gola e ho la tosse",
+          "info": "ripetizione soggetto implicita, enfasi"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've been feeling dizzy since this morning",
+        "info": "present perfect continuous, durata, since"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sento stordito da stamattina",
+          "info": "durata, da"
+        },
+        {
+          "testo": "Ho giramenti di testa da stamattina",
+          "info": "espressione comune, sintomo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm allergic to penicillin",
+        "info": "present simple, allergie, informazione importante"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono allergico/a alla penicillina",
+          "info": "allergie, forma neutra"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm allergic to this medicine",
+        "info": "present simple, allergie, medicine"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono allergico/a a questo medicinale",
+          "info": "allergie, dimostrativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are there any side effects?",
+        "info": "domanda, effetti collaterali, any"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci sono effetti collaterali?",
+          "info": "domanda, plurale"
+        },
+        {
+          "testo": "Ha degli effetti collaterali?",
+          "info": "riferito al medicinale, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How many times a day should I take this?",
+        "info": "should, consiglio medico, frequenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quante volte al giorno dovrei prenderlo?",
+          "info": "should, consiglio"
+        },
+        {
+          "testo": "Quante volte al giorno devo prenderlo?",
+          "info": "uso comune, richiesta pratica"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Should I take it before or after meals?",
+        "info": "should, alternativa, prima o dopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo prenderlo prima o dopo i pasti?",
+          "info": "alternativa, pasti"
+        },
+        {
+          "testo": "È meglio prenderlo prima o dopo aver mangiato?",
+          "info": "preferenza, forma più esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I take this with other medicines?",
+        "info": "can, permesso, interazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso prenderlo insieme ad altri medicinali?",
+          "info": "permesso, interazioni"
+        },
+        {
+          "testo": "Posso assumerlo con altri farmaci?",
+          "info": "lessico medico, sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I missed a dose, what should I do?",
+        "info": "past simple, missed, should, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho saltato una dose, cosa dovrei fare?",
+          "info": "should, consiglio"
+        },
+        {
+          "testo": "Mi sono dimenticato/a una dose, cosa devo fare?",
+          "info": "uso comune, dimenticare"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the nearest pharmacy?",
+        "info": "domanda, superlativo, indicazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la farmacia più vicina?",
+          "info": "domanda, superlativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the pharmacy open right now?",
+        "info": "present simple, orari, right now"
+      },
+      "traduzioni": [
+        {
+          "testo": "La farmacia è aperta adesso?",
+          "info": "orari, avverbio"
+        },
+        {
+          "testo": "La farmacia è aperta in questo momento?",
+          "info": "variante, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to make a doctor's appointment",
+        "info": "need to, necessità, visita"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo prendere un appuntamento dal medico",
+          "info": "necessità, appuntamento"
+        },
+        {
+          "testo": "Devo fissare un appuntamento dal medico",
+          "info": "sinonimo, fissare"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there an available appointment today?",
+        "info": "there is, disponibilità, today"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un appuntamento disponibile oggi?",
+          "info": "disponibilità, oggi"
+        },
+        {
+          "testo": "C'è posto per oggi?",
+          "info": "registro informale, forma breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to see a specialist",
+        "info": "need to, necessità, specialista"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo vedere uno specialista",
+          "info": "necessità, visita"
+        },
+        {
+          "testo": "Devo farmi vedere da uno specialista",
+          "info": "forma colloquiale, visita"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you recommend a good doctor?",
+        "info": "can, richiesta, raccomandazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può consigliarmi un buon medico?",
+          "info": "forma di cortesia, raccomandazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to refill my prescription",
+        "info": "need to, prescription, farmacia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo rinnovare la prescrizione",
+          "info": "lessico medico, prescrizione"
+        },
+        {
+          "testo": "Devo fare il rinnovo della ricetta",
+          "info": "uso comune, ricetta"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I ran out of my medication",
+        "info": "past simple, run out, medicinale finito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho finito il medicinale",
+          "info": "uso comune, finire"
+        },
+        {
+          "testo": "Mi è finita la medicina",
+          "info": "registro informale, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need painkillers for a headache",
+        "info": "need, lessico medico, dolore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi servono antidolorifici per il mal di testa",
+          "info": "dolore, scopo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a stomach ache",
+        "info": "present simple, sintomo, ache"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di stomaco",
+          "info": "sintomo, forma comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have back pain",
+        "info": "present simple, dolore, body parts"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di schiena",
+          "info": "sintomo, forma comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It hurts when I breathe",
+        "info": "present simple, dolore, when"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi fa male quando respiro",
+          "info": "dolore, quando"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't sleep well lately",
+        "info": "can, negazione, avverbio lately"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ultimamente non riesco a dormire bene",
+          "info": "avverbio, riuscire a"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to exercise more",
+        "info": "need to, abitudine, benessere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo fare più esercizio",
+          "info": "necessità, comparativo più"
+        },
+        {
+          "testo": "Dovrei fare più attività fisica",
+          "info": "should implicito, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I want to start eating healthier",
+        "info": "want to, abitudini, comparativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Voglio iniziare a mangiare in modo più sano",
+          "info": "abitudine, comparativo più"
+        },
+        {
+          "testo": "Vorrei mangiare più sano",
+          "info": "condizionale, desiderio"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I drink more water every day",
+        "info": "present simple, abitudine, every day"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bevo più acqua ogni giorno",
+          "info": "abitudine, ogni giorno"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, oggi non mi sento bene",
+        "info": "saluto, stato, presente indicativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, I don't feel well today",
+          "info": "present simple, contesto medico"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Penso di avere la febbre",
+        "info": "opinione, ipotesi"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think I have a fever",
+          "info": "think, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho mal di gola e tosse",
+        "info": "sintomi, forma breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a sore throat and a cough",
+          "info": "present simple, sintomi"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sento stordito da stamattina",
+        "info": "durata, da"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've been feeling dizzy since this morning",
+          "info": "present perfect continuous, since"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono allergico/a alla penicillina",
+        "info": "allergie, informazione importante"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm allergic to penicillin",
+          "info": "present simple, allergies"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono allergico/a a questo medicinale",
+        "info": "allergie, dimostrativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm allergic to this medicine",
+          "info": "present simple, allergies"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci sono effetti collaterali?",
+        "info": "domanda, effetti collaterali"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are there any side effects?",
+          "info": "any, domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quante volte al giorno devo prenderlo?",
+        "info": "domanda, frequenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "How many times a day should I take this?",
+          "info": "should, consiglio medico"
+        },
+        {
+          "testo": "How many times a day do I have to take it?",
+          "info": "do I have to, obbligo pratico"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo prenderlo prima o dopo i pasti?",
+        "info": "alternativa, prima o dopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Should I take it before or after meals?",
+          "info": "should, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso prenderlo insieme ad altri medicinali?",
+        "info": "permesso, interazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I take this with other medicines?",
+          "info": "can, interazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho saltato una dose, cosa dovrei fare?",
+        "info": "domanda, consiglio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I missed a dose, what should I do?",
+          "info": "missed, should"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la farmacia più vicina?",
+        "info": "domanda, indicazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the nearest pharmacy?",
+          "info": "superlativo, indicazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La farmacia è aperta adesso?",
+        "info": "domanda, orari"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the pharmacy open right now?",
+          "info": "right now, orari"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo prendere un appuntamento dal medico",
+        "info": "necessità, appuntamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to make a doctor's appointment",
+          "info": "need to, appointment"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un appuntamento disponibile oggi?",
+        "info": "disponibilità, oggi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there an available appointment today?",
+          "info": "there is, disponibilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo vedere uno specialista",
+        "info": "necessità, specialista"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to see a specialist",
+          "info": "need to, specialist"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può consigliarmi un buon medico?",
+        "info": "forma di cortesia, raccomandazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you recommend a good doctor?",
+          "info": "can, recommend"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo rinnovare la prescrizione",
+        "info": "lessico medico, prescrizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to refill my prescription",
+          "info": "refill, prescription"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho finito il medicinale",
+        "info": "uso comune, finire"
+      },
+      "traduzioni": [
+        {
+          "testo": "I ran out of my medication",
+          "info": "run out, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi servono antidolorifici per il mal di testa",
+        "info": "necessità, dolore"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need painkillers for a headache",
+          "info": "painkillers, for"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho mal di stomaco",
+        "info": "sintomo, forma comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a stomach ache",
+          "info": "ache, sintomo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho mal di schiena",
+        "info": "sintomo, forma comune"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have back pain",
+          "info": "pain, sintomo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi fa male quando respiro",
+        "info": "dolore, quando"
+      },
+      "traduzioni": [
+        {
+          "testo": "It hurts when I breathe",
+          "info": "hurts, when"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ultimamente non riesco a dormire bene",
+        "info": "avverbio, riuscire a"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't sleep well lately",
+          "info": "can't, lately"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo fare più esercizio",
+        "info": "necessità, comparativo più"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to exercise more",
+          "info": "need to, more"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Voglio iniziare a mangiare in modo più sano",
+        "info": "abitudini, comparativo più"
+      },
+      "traduzioni": [
+        {
+          "testo": "I want to start eating healthier",
+          "info": "want to, comparativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Salute e Benessere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Bevo più acqua ogni giorno",
+        "info": "abitudine, ogni giorno"
+      },
+      "traduzioni": [
+        {
+          "testo": "I drink more water every day",
+          "info": "present simple, every day"
+        }
+      ]
+    }
+  ]
+}

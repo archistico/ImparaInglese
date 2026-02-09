@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "contesto": "Banca e soldi",
+  "frasi": [
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where's the nearest ATM?",
+        "info": "Chiedere indicazioni per prelevare (WH-question; nearest = superlativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il bancomat più vicino?",
+          "info": "Forma comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is an ATM?",
+        "info": "Chiedere un bancomat in generale (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è un bancomat?",
+          "info": "Forma generica"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to withdraw some cash",
+        "info": "Prelevare contanti (need to + verb; withdraw = prelevare)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo prelevare dei contanti",
+          "info": "Forma naturale"
+        },
+        {
+          "testo": "Devo prelevare dei soldi",
+          "info": "Variante più generica"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like to withdraw money",
+        "info": "Richiesta cortese (I'd like = forma educata)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei prelevare dei soldi",
+          "info": "Forma completa (meglio di 'Vorrei prelevare')"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I exchange money here?",
+        "info": "Chiedere se è possibile cambiare valuta (can = permesso/possibilità)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso cambiare soldi qui?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Posso cambiare valuta qui?",
+          "info": "Variante più precisa"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's the exchange rate?",
+        "info": "Chiedere il tasso di cambio (WH-question; exchange rate = tasso di cambio)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il tasso di cambio?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "Pagare con carta (by + mezzo; by card = con carta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con carta?",
+          "info": "Forma naturale"
+        },
+        {
+          "testo": "Posso pagare con la carta?",
+          "info": "Variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you accept cards?",
+        "info": "Chiedere se accettano pagamenti con carte (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Accettate carte?",
+          "info": "Forma breve"
+        },
+        {
+          "testo": "Accettate carte di credito o debito?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it okay to pay in cash?",
+        "info": "Chiedere se va bene pagare in contanti (it is okay to + verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Va bene pagare in contanti?",
+          "info": "Forma naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a receipt, please",
+        "info": "Richiesta di ricevuta (need + noun; please = cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve una ricevuta, per favore",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have the receipt?",
+        "info": "Richiesta della ricevuta (can I have = forma cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere la ricevuta?",
+          "info": "In banca/uffici è più naturale di 'scontrino'"
+        },
+        {
+          "testo": "Posso avere lo scontrino?",
+          "info": "Più tipico in negozio"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The card doesn't work",
+        "info": "Segnalare un problema con la carta (present simple; doesn't = negazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La carta non funziona",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my card",
+        "info": "Segnalare smarrimento (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso la carta",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Ho smarrito la carta",
+          "info": "Più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need assistance, please",
+        "info": "Richiesta di assistenza (need + noun; please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di assistenza, per favore",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like to open an account",
+        "info": "Richiesta formale in banca (I'd like = cortesia; open an account = aprire un conto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei aprire un conto",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like to exchange money",
+        "info": "Richiesta cortese per cambiare valuta (I'd like)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei cambiare dei soldi",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Vorrei cambiare valuta",
+          "info": "Variante più precisa"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much does it cost?",
+        "info": "Chiedere il prezzo/costo (how much)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it?",
+        "info": "Chiedere il prezzo in modo generico (how much)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa?",
+          "info": "Equivalente a 'How much does it cost?'"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's too expensive",
+        "info": "Esprimere che il prezzo è eccessivo (too + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È troppo caro",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's expensive",
+        "info": "Commento sul prezzo (adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È costoso",
+          "info": "Neutro"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's cheap",
+        "info": "Commento sul prezzo (adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È economico",
+          "info": "Neutro"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il bancomat più vicino?",
+        "info": "Chiedere indicazioni (superlativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where's the nearest ATM?",
+          "info": "Nearest = più vicino"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è un bancomat?",
+        "info": "Domanda generica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is an ATM?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo prelevare dei contanti",
+        "info": "Prelevare (need to + verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to withdraw some cash",
+          "info": "Cash = contanti"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei prelevare dei soldi",
+        "info": "Richiesta cortese (I'd like)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like to withdraw money",
+          "info": "Forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso cambiare soldi qui?",
+        "info": "Chiedere se è possibile cambiare valuta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I exchange money here?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è il tasso di cambio?",
+        "info": "Domanda sul cambio valuta"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's the exchange rate?",
+          "info": "Exchange rate = tasso di cambio"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con carta? / Posso pagare con la carta?",
+        "info": "Pagare con carta (by + mezzo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "By card = con carta"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Accettate carte?",
+        "info": "Chiedere se accettano pagamenti con carte"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you accept cards?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Va bene pagare in contanti?",
+        "info": "Chiedere se è accettato pagare in contanti"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is it okay to pay in cash?",
+          "info": "Okay to = va bene"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi serve una ricevuta, per favore",
+        "info": "Richiesta di ricevuta"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a receipt, please",
+          "info": "Please = per favore"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere la ricevuta?",
+        "info": "Richiesta della ricevuta (in banca è più naturale di 'scontrino')"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I have the receipt?",
+          "info": "Forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La carta non funziona",
+        "info": "Segnalare un problema con la carta"
+      },
+      "traduzioni": [
+        {
+          "testo": "The card doesn't work",
+          "info": "Doesn't = negazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso la carta / Ho smarrito la carta",
+        "info": "Segnalare smarrimento (smarrito = più formale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my card",
+          "info": "Past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di assistenza, per favore",
+        "info": "Richiesta di aiuto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need assistance, please",
+          "info": "Forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei aprire un conto",
+        "info": "Richiesta in banca (I'd like)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like to open an account",
+          "info": "Open an account = aprire un conto"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei cambiare valuta",
+        "info": "Cambio valuta (I'd like)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like to exchange money",
+          "info": "Variante naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa?",
+        "info": "Chiedere il prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much does it cost?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "How much is it?",
+          "info": "Variante equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È troppo caro",
+        "info": "Esprimere che è eccessivamente costoso (too + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's too expensive",
+          "info": "Too = troppo"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È costoso",
+        "info": "Commento sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's expensive",
+          "info": "Aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Banca e soldi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È economico",
+        "info": "Commento sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's cheap",
+          "info": "Aggettivo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "version": 1,
+  "contesto": "Scuse",
+  "frasi": [
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, can I talk to you for a second?",
+        "info": "richiesta, cortesia, contesto formale, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa, posso parlarti un attimo?",
+          "info": "informale, domanda, cortesia"
+        },
+        {
+          "testo": "Mi scusi, posso parlarle un attimo?",
+          "info": "formale, domanda, cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry, I'm late",
+        "info": "scuse, ritardo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace, sono in ritardo",
+          "info": "scuse, presente"
+        },
+        {
+          "testo": "Scusa, sono in ritardo",
+          "info": "informale, scuse"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry, I didn't hear you",
+        "info": "scuse, past simple, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa, non ti ho sentito",
+          "info": "informale, passato prossimo"
+        },
+        {
+          "testo": "Mi scusi, non l'ho sentita",
+          "info": "formale, passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry, I misunderstood",
+        "info": "scuse, past simple, errore di comprensione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace, ho capito male",
+          "info": "scuse, passato prossimo"
+        },
+        {
+          "testo": "Mi scusi, ho frainteso",
+          "info": "formale, verbo specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I didn't mean to offend you",
+        "info": "didn't mean to, intenzione negativa, scuse"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non volevo offenderti",
+          "info": "informale, intenzione"
+        },
+        {
+          "testo": "Non intendevo offenderla",
+          "info": "formale, intenzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I didn't mean to interrupt",
+        "info": "didn't mean to, scuse, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non volevo interrompere",
+          "info": "scuse, forma neutra"
+        },
+        {
+          "testo": "Scusi se l'ho interrotta",
+          "info": "formale, passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That was my fault",
+        "info": "ammissione, colpa, past simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "È stata colpa mia",
+          "info": "ammissione, colpa"
+        },
+        {
+          "testo": "È un errore mio",
+          "info": "variante, meno intensa"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I messed up",
+        "info": "informale, ammissione, past simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho fatto un pasticcio",
+          "info": "informale, ammissione"
+        },
+        {
+          "testo": "Ho sbagliato",
+          "info": "neutro, diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry for the mistake",
+        "info": "scuse, for, sostantivo mistake"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace per l'errore",
+          "info": "scuse, per"
+        },
+        {
+          "testo": "Mi scuso per l'errore",
+          "info": "più formale, verbo scusarsi"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm sorry for the confusion",
+        "info": "scuse, for, sostantivo confusion"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace per la confusione",
+          "info": "scuse, per"
+        },
+        {
+          "testo": "Mi scuso per il malinteso",
+          "info": "variante, più specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry, I forgot to reply",
+        "info": "scuse, past simple, forgot"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa, mi sono dimenticato/a di rispondere",
+          "info": "informale, passato prossimo"
+        },
+        {
+          "testo": "Mi scusi, mi sono dimenticato/a di rispondere",
+          "info": "formale, passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry, I sent it to the wrong person",
+        "info": "scuse, past simple, wrong"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa, l'ho mandato alla persona sbagliata",
+          "info": "informale, passato prossimo"
+        },
+        {
+          "testo": "Mi scusi, l'ho inviato alla persona sbagliata",
+          "info": "formale, passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I apologize for the delay",
+        "info": "formale, apologize, delay"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi scuso per il ritardo",
+          "info": "formale, per"
+        },
+        {
+          "testo": "Mi dispiace per il ritardo",
+          "info": "neutro, per"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please forgive me",
+        "info": "richiesta, imperativo, emotivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore, perdonami",
+          "info": "informale, imperativo"
+        },
+        {
+          "testo": "La prego di perdonarmi",
+          "info": "formale, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we start over?",
+        "info": "domanda, proposta, phrasal verb"
+      },
+      "traduzioni": [
+        {
+          "testo": "Possiamo ricominciare?",
+          "info": "domanda, proposta"
+        },
+        {
+          "testo": "Possiamo ripartire da zero?",
+          "info": "variante, più esplicativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa, posso parlarti un attimo?",
+        "info": "informale, domanda, cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, can I talk to you for a second?",
+          "info": "richiesta, cortesia, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace, sono in ritardo",
+        "info": "scuse, ritardo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry, I'm late",
+          "info": "scuse, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa, non ti ho sentito",
+        "info": "informale, comunicazione, passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry, I didn't hear you",
+          "info": "scuse, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace, ho capito male",
+        "info": "scuse, fraintendimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry, I misunderstood",
+          "info": "scuse, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non volevo offenderti",
+        "info": "intenzione, scuse, informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I didn't mean to offend you",
+          "info": "didn't mean to, intenzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non volevo interrompere",
+        "info": "intenzione, scuse, forma neutra"
+      },
+      "traduzioni": [
+        {
+          "testo": "I didn't mean to interrupt",
+          "info": "didn't mean to, conversazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È stata colpa mia",
+        "info": "ammissione, colpa"
+      },
+      "traduzioni": [
+        {
+          "testo": "That was my fault",
+          "info": "ammissione, fault"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho fatto un pasticcio",
+        "info": "informale, ammissione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I messed up",
+          "info": "informale, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace per l'errore",
+        "info": "scuse, per"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry for the mistake",
+          "info": "for, mistake"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace per la confusione",
+        "info": "scuse, per"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm sorry for the confusion",
+          "info": "for, confusion"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa, mi sono dimenticato/a di rispondere",
+        "info": "informale, dimenticanza, passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry, I forgot to reply",
+          "info": "forgot, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa, l'ho mandato alla persona sbagliata",
+        "info": "informale, errore, passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry, I sent it to the wrong person",
+          "info": "wrong, past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi scuso per il ritardo",
+        "info": "formale, scuse, per"
+      },
+      "traduzioni": [
+        {
+          "testo": "I apologize for the delay",
+          "info": "formale, apologize"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore, perdonami",
+        "info": "richiesta, imperativo, informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please forgive me",
+          "info": "imperativo, emotivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Scuse",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo ricominciare?",
+        "info": "domanda, proposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we start over?",
+          "info": "domanda, start over"
+        }
+      ]
+    }
+  ]
+}

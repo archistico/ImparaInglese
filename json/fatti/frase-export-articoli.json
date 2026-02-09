@@ -1,0 +1,457 @@
+{
+  "version": 1,
+  "contesto": "Articoli",
+  "frasi": [
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a coffee",
+        "info": "A = articolo indeterminativo singolare. Si usa davanti a parole che iniziano per suono consonantico (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho un caffè",
+          "info": "Indeterminativo maschile singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She has an apple",
+        "info": "AN = articolo indeterminativo davanti a suono vocalico (a, e, i, o, u) (sound-based rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei ha una mela",
+          "info": "Una davanti a vocale"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is the problem",
+        "info": "THE = articolo determinativo. Si usa quando il referente è noto a chi parla e ascolta (shared knowledge)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è il problema",
+          "info": "Articolo determinativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The sun is hot",
+        "info": "THE con elementi unici (sun, moon, sky) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il sole è caldo",
+          "info": "Elemento unico"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like music",
+        "info": "Articolo ZERO (nessun articolo) con concetti astratti e nomi non numerabili in senso generale (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace la musica",
+          "info": "In italiano spesso serve l'articolo"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Water is important",
+        "info": "Articolo ZERO con nomi non numerabili usati in generale (uncountable nouns)"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'acqua è importante",
+          "info": "Articolo determinativo in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need the water you bought",
+        "info": "THE con nome non numerabile specificato (rule: specific reference)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno dell'acqua che hai comprato",
+          "info": "Acqua specifica"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She is a doctor",
+        "info": "A con professioni dopo 'to be'. Non usare 'the' (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei è una dottoressa",
+          "info": "Professione"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is the doctor who helped me",
+        "info": "THE perché il referente è specificato da una relativa (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui è il dottore che mi ha aiutato",
+          "info": "Riferimento specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She goes to school",
+        "info": "Articolo ZERO con luoghi istituzionali usati per la loro funzione (school, work, home) (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei va a scuola",
+          "info": "Uso istituzionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She went to the school to meet the teacher",
+        "info": "THE quando il luogo è fisico/specifico, non istituzionale (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È andata alla scuola per incontrare l'insegnante",
+          "info": "Luogo specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I saw a dog",
+        "info": "A per qualcosa di nuovo/non specifico menzionato per la prima volta (first mention)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho visto un cane",
+          "info": "Prima menzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The dog was friendly",
+        "info": "THE alla seconda menzione (known reference)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il cane era amichevole",
+          "info": "Seconda menzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She bought some bread",
+        "info": "SOME = partitivo per nomi non numerabili o plurali (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha comprato del pane",
+          "info": "Partitivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have any questions?",
+        "info": "ANY in frasi interrogative e negative (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai qualche domanda?",
+          "info": "Qualche"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho un caffè",
+        "info": "Prima menzione, singolare -> a/an"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a coffee",
+          "info": "A + consonant sound"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una mela",
+        "info": "Parola che inizia per suono vocalico -> an"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have an apple",
+          "info": "An + vowel sound"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è il problema",
+        "info": "Referente noto -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is the problem",
+          "info": "Definite article"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il sole è caldo",
+        "info": "Elemento unico -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "The sun is hot",
+          "info": "Unique element"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace la musica",
+        "info": "Concetto generale -> articolo zero in inglese"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like music",
+          "info": "Zero article"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'acqua è importante",
+        "info": "Nome non numerabile generale -> zero article"
+      },
+      "traduzioni": [
+        {
+          "testo": "Water is important",
+          "info": "Uncountable noun (general)"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno dell'acqua che hai comprato",
+        "info": "Nome non numerabile specifico -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need the water you bought",
+          "info": "Specific reference"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei è una dottoressa",
+        "info": "Professione -> a/an dopo to be"
+      },
+      "traduzioni": [
+        {
+          "testo": "She is a doctor",
+          "info": "Profession"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lui è il dottore che mi ha aiutato",
+        "info": "Referente specificato -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is the doctor who helped me",
+          "info": "Definite reference"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei va a scuola",
+        "info": "Luogo istituzionale -> zero article"
+      },
+      "traduzioni": [
+        {
+          "testo": "She goes to school",
+          "info": "Institutional use"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È andata alla scuola",
+        "info": "Luogo fisico specifico -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "She went to the school",
+          "info": "Specific place"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho visto un cane",
+        "info": "Prima menzione -> a/an"
+      },
+      "traduzioni": [
+        {
+          "testo": "I saw a dog",
+          "info": "First mention"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il cane era amichevole",
+        "info": "Seconda menzione -> the"
+      },
+      "traduzioni": [
+        {
+          "testo": "The dog was friendly",
+          "info": "Second mention"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ha comprato del pane",
+        "info": "Partitivo -> some"
+      },
+      "traduzioni": [
+        {
+          "testo": "She bought some bread",
+          "info": "Some + uncountable"
+        }
+      ]
+    },
+    {
+      "contesto": "Articoli",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai qualche domanda?",
+        "info": "Interrogativa -> any"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have any questions?",
+          "info": "Any in questions"
+        }
+      ]
+    }
+  ]
+}

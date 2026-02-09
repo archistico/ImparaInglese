@@ -1,0 +1,1152 @@
+{
+  "version": 2,
+  "contesto": "Saluti e buone maniere",
+  "frasi": [
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello!",
+        "info": "Saluto neutro e universale. (greeting; neutral)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao!",
+          "info": "saluto generico"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao!",
+        "info": "Saluto generico; in inglese può essere neutro o informale. (greeting; neutral)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello!",
+          "info": "neutro"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi!",
+        "info": "Saluto informale e amichevole. (greeting; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao!",
+          "info": "più informale / amichevole"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao! (amichevole)",
+        "info": "Se vuoi rendere il tono più informale: 'Hi!'. (greeting; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi!",
+          "info": "molto comune tra amici"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good morning.",
+        "info": "Saluto del mattino, neutro/formale. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno.",
+          "info": "usato al mattino"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno.",
+        "info": "Saluto del mattino. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good morning.",
+          "info": "mattino"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Morning!",
+        "info": "Versione abbreviata e più colloquiale di 'Good morning'. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno!",
+          "info": "più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno! (colloquiale)",
+        "info": "In inglese puoi abbreviare a 'Morning!'. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Morning!",
+          "info": "brevi e colloquiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good afternoon.",
+        "info": "Saluto nel primo pomeriggio; neutro/formale. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buon pomeriggio.",
+          "info": "neutro o formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buon pomeriggio.",
+        "info": "Saluto del pomeriggio. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good afternoon.",
+          "info": "pomeriggio"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Afternoon!",
+        "info": "Versione abbreviata di 'Good afternoon', informale. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buon pomeriggio!",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buon pomeriggio! (informale)",
+        "info": "In inglese puoi dire anche solo 'Afternoon!'. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Afternoon!",
+          "info": "brevi e informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good evening.",
+        "info": "Saluto serale; neutro/formale. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonasera.",
+          "info": "sera"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonasera.",
+        "info": "Saluto serale. (greeting; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good evening.",
+          "info": "sera"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Evening!",
+        "info": "Versione abbreviata e più informale di 'Good evening'. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonasera!",
+          "info": "più informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonasera! (più informale)",
+        "info": "In inglese puoi abbreviare a 'Evening!'. (greeting; informal; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Evening!",
+          "info": "brevi e informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good to see you!",
+        "info": "Mostra piacere nel rivedere qualcuno. (fixed expression; greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che piacere vederti!",
+          "info": "cordiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che piacere vederti!",
+        "info": "Per dire che sei felice di vedere qualcuno. (fixed expression; greeting)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good to see you!",
+          "info": "cordiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Long time no see!",
+        "info": "Saluto informale dopo molto tempo. (fixed expression; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È da tanto che non ci vediamo!",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È da tanto che non ci vediamo!",
+        "info": "Saluto informale dopo molto tempo. (fixed expression; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Long time no see!",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How are you?",
+        "info": "Domanda standard sullo stato; usa 'to be'. (question; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come stai?",
+          "info": "domanda comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come stai?",
+        "info": "In inglese si usa il verbo 'to be'. (question; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How are you?",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How's it going?",
+        "info": "Domanda informale equivalente a 'Come va?'. (question; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come va?",
+          "info": "molto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come va?",
+        "info": "Domanda informale. (question; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How's it going?",
+          "info": "molto usata"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's new?",
+        "info": "Chiede novità; informale. (question; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che novità?",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che novità?",
+        "info": "Per chiedere novità in modo informale. (question; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's new?",
+          "info": "informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "And you?",
+        "info": "Rimando breve: spesso sottintende 'How are you?'. (question; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "E tu?",
+          "info": "domanda di rimando"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "E tu?",
+        "info": "Domanda di rimando, breve. (question; ellipsis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "And you?",
+          "info": "breve"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm fine, thanks.",
+        "info": "Risposta standard + ringraziamento. (response; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto bene, grazie.",
+          "info": "molto comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto bene, grazie.",
+        "info": "Risposta standard; spesso si aggiunge 'thanks'. (response; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm fine, thanks.",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Not bad.",
+        "info": "Risposta informale, moderatamente positiva. (response; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non male.",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non male.",
+        "info": "Risposta informale. (response; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Not bad.",
+          "info": "informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "All good.",
+        "info": "Risposta molto informale: 'tutto bene'. (response; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tutto bene.",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tutto bene.",
+        "info": "Risposta informale: 'All good.' (response; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "All good.",
+          "info": "molto informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Just surviving.",
+        "info": "Risposta umoristica in periodi stressanti. (response; informal; humorous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Si tira avanti.",
+          "info": "umoristico / stress"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Si tira avanti.",
+        "info": "Risposta un po' ironica: 'Just surviving.' (response; informal; humorous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Just surviving.",
+          "info": "umoristico"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you.",
+        "info": "Ringraziamento neutro. (politeness; gratitude)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie.",
+          "info": "standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie.",
+        "info": "Ringraziamento standard. (politeness; gratitude)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you.",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you so much.",
+        "info": "Ringraziamento enfatizzato. (politeness; emphasis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie mille.",
+          "info": "enfatizza"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie mille.",
+        "info": "Ringraziamento enfatizzato. (politeness; emphasis)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you so much.",
+          "info": "molto forte"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I appreciate it.",
+        "info": "Ringraziamento più formale/riconoscento. (politeness; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lo apprezzo.",
+          "info": "più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lo apprezzo.",
+        "info": "Ringraziamento più formale. (politeness; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I appreciate it.",
+          "info": "più formale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You're welcome.",
+        "info": "Risposta standard a 'Thank you'. (politeness; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Prego.",
+          "info": "risposta a un grazie"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Prego.",
+        "info": "Risposta standard a un ringraziamento. (politeness; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "You're welcome.",
+          "info": "standard"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "No worries!",
+        "info": "Rassicurante; comune UK/Australia. (politeness; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Figurati!",
+          "info": "rassicurante / informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Figurati!",
+        "info": "Rassicurante, molto informale. (politeness; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "No worries!",
+          "info": "UK/Australia"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My pleasure.",
+        "info": "Risposta cortese a un grazie (registro più elegante). (politeness; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È stato un piacere.",
+          "info": "più elegante"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È stato un piacere.",
+        "info": "Risposta cortese a un grazie. (politeness; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My pleasure.",
+          "info": "elegante"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me.",
+        "info": "Per attirare attenzione o chiedere permesso (non sempre = scusa). (politeness; attention)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi scusi.",
+          "info": "formale / per attirare attenzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi scusi.",
+        "info": "Per attirare attenzione o chiedere permesso. (politeness; attention)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me.",
+          "info": "formale o neutro"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sorry.",
+        "info": "Scusa breve; può essere per un piccolo urto/errore. (apology; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusa.",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusa.",
+        "info": "Scusa breve e informale. (apology; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sorry.",
+          "info": "informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My bad!",
+        "info": "Ammette un errore in modo informale. (apology; slang)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Colpa mia!",
+          "info": "molto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Colpa mia!",
+        "info": "Ammettere un errore informalmente. (apology; slang)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My bad!",
+          "info": "slang"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Apology accepted.",
+        "info": "Accetta delle scuse (un po' formale). (fixed expression; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scuse accettate.",
+          "info": "formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scuse accettate.",
+        "info": "Accettare formalmente delle scuse. (fixed expression; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Apology accepted.",
+          "info": "formale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bless you!",
+        "info": "Si dice dopo uno starnuto. (fixed expression; after sneeze)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Salute!",
+          "info": "dopo uno starnuto"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Salute!",
+        "info": "Si dice dopo uno starnuto. (fixed expression; after sneeze)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bless you!",
+          "info": "dopo uno starnuto"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "After you!",
+        "info": "Per far passare qualcuno prima di te. (politeness; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dopo di te!",
+          "info": "per cedere il passo"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dopo di te!",
+        "info": "Cedere il passo. (politeness; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "After you!",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Age before beauty.",
+        "info": "Scherzoso mentre fai passare una persona più grande. (joke; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Prima l'età, poi la bellezza.",
+          "info": "battuta per far passare qualcuno più grande"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Prima l'età, poi la bellezza.",
+        "info": "Battuta mentre fai passare qualcuno più grande. (joke; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Age before beauty.",
+          "info": "scherzoso"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Take care!",
+        "info": "Congedo amichevole: 'stammi bene'. (farewell; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stammi bene!",
+          "info": "saluto di commiato"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Stammi bene!",
+        "info": "Congedo amichevole. (farewell; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Take care!",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "See you later!",
+        "info": "Congedo informale: implica che vi rivedrete. (farewell; informal; future)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci vediamo dopo!",
+          "info": "informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci vediamo dopo!",
+        "info": "Saluto informale con riferimento al futuro. (farewell; informal; future)"
+      },
+      "traduzioni": [
+        {
+          "testo": "See you later!",
+          "info": "informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Have a good one!",
+        "info": "Congedo informale per augurare una buona giornata/serata (generico). (farewell; informal; wish)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buona giornata!",
+          "info": "augurio generico (può valere anche per sera)"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buona giornata!",
+        "info": "Augurio di commiato; in inglese spesso generico. (farewell; informal; wish)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Have a good one!",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bye! / Bye-bye!",
+        "info": "Congedo molto informale. (farewell; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao! / Ciao ciao!",
+          "info": "molto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao! / Ciao ciao!",
+        "info": "Congedo informale. (farewell; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bye! / Bye-bye!",
+          "info": "molto comune"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Goodbye.",
+        "info": "Congedo neutro (più formale di 'Bye'). (farewell; neutral)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Arrivederci.",
+          "info": "neutro / cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Arrivederci.",
+        "info": "Congedo neutro e cortese. (farewell; neutral)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Goodbye.",
+          "info": "neutro"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Farewell!",
+        "info": "Congedo molto formale o drammatico. (farewell; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Addio!",
+          "info": "formale o drammatico"
+        }
+      ]
+    },
+    {
+      "contesto": "Saluti e buone maniere",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Addio!",
+        "info": "Congedo molto formale o definitivo. (farewell; formal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Farewell!",
+          "info": "formale / drammatico"
+        }
+      ]
+    }
+  ]
+}

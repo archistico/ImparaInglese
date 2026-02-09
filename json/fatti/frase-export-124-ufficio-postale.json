@@ -1,0 +1,481 @@
+{
+  "version": 1,
+  "contesto": "Ufficio Postale",
+  "frasi": [
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good morning, I need to send a package",
+        "info": "saluto formale, present simple, contesto servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buongiorno, devo spedire un pacco",
+          "info": "saluto formale, frase dichiarativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this the right counter for packages?",
+        "info": "domanda semplice, present simple, contesto ufficio"
+      },
+      "traduzioni": [
+        {
+          "testo": "È questo lo sportello giusto per i pacchi?",
+          "info": "domanda diretta, contesto ufficio"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to send this package to France",
+        "info": "present simple, destinazione, contesto spedizioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo spedire questo pacco in Francia",
+          "info": "frase dichiarativa, destinazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much does it cost to send it?",
+        "info": "domanda su prezzo, how much, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa spedirlo?",
+          "info": "domanda su costo"
+        },
+        {
+          "testo": "Quanto devo pagare per la spedizione?",
+          "info": "variante lessicale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long will it take to arrive?",
+        "info": "domanda su tempo, future with will"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto tempo ci metterà ad arrivare?",
+          "info": "domanda su durata"
+        },
+        {
+          "testo": "In quanto tempo arriverà?",
+          "info": "variante sintetica"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a faster shipping option?",
+        "info": "domanda sì no, comparativo, opzioni di servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un'opzione di spedizione più veloce?",
+          "info": "domanda su servizio"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like tracking for this package",
+        "info": "would like, richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei il tracking per questo pacco",
+          "info": "richiesta cortese"
+        },
+        {
+          "testo": "Vorrei la tracciabilità per questa spedizione",
+          "info": "variante formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need insurance for this shipment",
+        "info": "present simple, bisogno, servizio aggiuntivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di assicurazione per questa spedizione",
+          "info": "frase dichiarativa"
+        },
+        {
+          "testo": "Vorrei assicurare questa spedizione",
+          "info": "variante intenzionale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need to fill out a customs form?",
+        "info": "domanda sì no, verbo need, dogana"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo compilare un modulo doganale?",
+          "info": "domanda su procedura"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where do I fill out the customs form?",
+        "info": "domanda wh, luogo, procedura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove compilo il modulo doganale?",
+          "info": "domanda su luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to buy stamps for this letter",
+        "info": "present simple, acquisto, lettera"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo comprare dei francobolli per questa lettera",
+          "info": "frase dichiarativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I mail this letter?",
+        "info": "domanda wh, luogo, spedizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso imbucare questa lettera?",
+          "info": "domanda pratica"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to pick up a package",
+        "info": "present simple, ritiro, servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo ritirare un pacco",
+          "info": "frase dichiarativa"
+        },
+        {
+          "testo": "Sono qui per ritirare un pacco",
+          "info": "variante contestuale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a notice to pick up a package",
+        "info": "present simple, possesso, avviso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho un avviso per ritirare un pacco",
+          "info": "contesto ritiro"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are your opening hours?",
+        "info": "domanda wh, orari, servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quali sono i vostri orari di apertura?",
+          "info": "domanda informativa"
+        },
+        {
+          "testo": "A che ora aprite e chiudete?",
+          "info": "variante colloquiale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buongiorno, devo spedire un pacco",
+        "info": "saluto formale, frase dichiarativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good morning, I need to send a package",
+          "info": "saluto formale, present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È questo lo sportello giusto per i pacchi?",
+        "info": "domanda diretta, contesto ufficio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this the right counter for packages?",
+          "info": "yes no question"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo spedire questo pacco in Francia",
+        "info": "frase dichiarativa, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to send this package to France",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa spedirlo?",
+        "info": "domanda su costo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much does it cost to send it?",
+          "info": "how much question"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto tempo ci metterà ad arrivare?",
+        "info": "domanda su durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long will it take to arrive?",
+          "info": "future with will"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un'opzione di spedizione più veloce?",
+        "info": "domanda su servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a faster shipping option?",
+          "info": "comparative form"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei il tracking per questo pacco",
+        "info": "richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like tracking for this package",
+          "info": "would like request"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di assicurazione per questa spedizione",
+        "info": "necessità, servizio"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need insurance for this shipment",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo compilare un modulo doganale?",
+        "info": "domanda su procedura"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do I need to fill out a customs form?",
+          "info": "yes no question"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove compilo il modulo doganale?",
+        "info": "domanda su luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where do I fill out the customs form?",
+          "info": "wh question"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo comprare dei francobolli per questa lettera",
+        "info": "frase dichiarativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to buy stamps for this letter",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso imbucare questa lettera?",
+        "info": "domanda pratica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I mail this letter?",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo ritirare un pacco",
+        "info": "frase dichiarativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to pick up a package",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho un avviso per ritirare un pacco",
+        "info": "contesto ritiro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a notice to pick up a package",
+          "info": "present simple, possession"
+        }
+      ]
+    },
+    {
+      "contesto": "Ufficio Postale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quali sono i vostri orari di apertura?",
+        "info": "domanda informativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are your opening hours?",
+          "info": "wh question"
+        }
+      ]
+    }
+  ]
+}

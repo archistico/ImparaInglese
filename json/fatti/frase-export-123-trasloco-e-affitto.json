@@ -1,0 +1,1168 @@
+{
+  "version": 1,
+  "contesto": "Trasloco e Affitto",
+  "frasi": [
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, I'm looking to rent an apartment",
+        "info": "greeting, present continuous, rent vocabulary"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, sto cercando di affittare un appartamento",
+          "info": "stare + gerundio, affittare"
+        },
+        {
+          "testo": "Ciao, sto cercando un appartamento in affitto",
+          "info": "forma naturale, in affitto"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm here to view the apartment",
+        "info": "present simple, appointment, viewing"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono qui per vedere l'appartamento",
+          "info": "sono qui per, scopo"
+        },
+        {
+          "testo": "Sono qui per la visita dell'appartamento",
+          "info": "variazione, visita"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the apartment still available?",
+        "info": "question, present simple, availability"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'appartamento è ancora disponibile?",
+          "info": "ancora, disponibile"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is the rent per month?",
+        "info": "question, how much, prices"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa l'affitto al mese?",
+          "info": "quanto costa, al mese"
+        },
+        {
+          "testo": "Qual è il canone mensile?",
+          "info": "registro più formale, canone"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the apartment furnished?",
+        "info": "question, present simple, furnished"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'appartamento è ammobiliato?",
+          "info": "ammobiliato, sinonimo arredato"
+        },
+        {
+          "testo": "L'appartamento è arredato?",
+          "info": "forma comune, arredato"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the kitchen equipped?",
+        "info": "question, present simple, home features"
+      },
+      "traduzioni": [
+        {
+          "testo": "La cucina è attrezzata?",
+          "info": "attrezzata, dotazioni"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are utilities included?",
+        "info": "question, passive implied, utilities"
+      },
+      "traduzioni": [
+        {
+          "testo": "Le utenze sono incluse?",
+          "info": "utenze, incluse"
+        },
+        {
+          "testo": "Le bollette sono incluse?",
+          "info": "variazione, bollette"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is internet included?",
+        "info": "question, present simple, utilities"
+      },
+      "traduzioni": [
+        {
+          "testo": "Internet è incluso?",
+          "info": "incluso, servizi"
+        },
+        {
+          "testo": "La connessione internet è inclusa?",
+          "info": "forma esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's the lease duration?",
+        "info": "question, contract, lease"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è la durata del contratto?",
+          "info": "durata, contratto"
+        },
+        {
+          "testo": "Per quanto dura il contratto?",
+          "info": "per quanto, durata"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it a fixed-term lease or month-to-month?",
+        "info": "question, alternatives, contract types"
+      },
+      "traduzioni": [
+        {
+          "testo": "È un contratto a tempo determinato o mese per mese?",
+          "info": "o, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's the security deposit?",
+        "info": "question, money, deposit"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il deposito cauzionale?",
+          "info": "cauzionale, termine tecnico"
+        },
+        {
+          "testo": "A quanto ammonta la caparra?",
+          "info": "variazione, caparra"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When do I get the deposit back?",
+        "info": "question, future time, refund"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando mi restituiscono il deposito?",
+          "info": "restituire, futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are pets allowed?",
+        "info": "question, passive implied, rules"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono ammessi animali?",
+          "info": "ammessi, regole"
+        },
+        {
+          "testo": "Si possono tenere animali?",
+          "info": "si può, possibilità"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there an elevator in the building?",
+        "info": "question, present simple, building"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un ascensore nel palazzo?",
+          "info": "c'è, edificio"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is parking available?",
+        "info": "question, present simple, amenities"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è parcheggio?",
+          "info": "forma breve"
+        },
+        {
+          "testo": "È disponibile un posto auto?",
+          "info": "forma esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are there any additional fees?",
+        "info": "question, any, extra costs"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci sono costi aggiuntivi?",
+          "info": "costi, aggiuntivi"
+        },
+        {
+          "testo": "Ci sono spese extra?",
+          "info": "variazione, extra"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When can I move in?",
+        "info": "question, future, moving in"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando posso entrare in casa?",
+          "info": "entrare in casa, trasloco"
+        },
+        {
+          "testo": "Da quando posso trasferirmi?",
+          "info": "da quando, trasferirsi"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where do I collect the keys?",
+        "info": "question, present simple, logistics"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove ritiro le chiavi?",
+          "info": "ritirare, chiavi"
+        },
+        {
+          "testo": "Dove posso prendere le chiavi?",
+          "info": "variazione, prendere"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you send me the lease agreement by email?",
+        "info": "polite request, could, email"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe mandarmi il contratto via email?",
+          "info": "condizionale di cortesia"
+        },
+        {
+          "testo": "Può inviarmi il contratto via email?",
+          "info": "forma diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to sign the lease",
+        "info": "present simple, include to + verb"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo firmare il contratto",
+          "info": "verbo dovere"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What documents do you need?",
+        "info": "question, present simple, documents"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che documenti servono?",
+          "info": "forma breve"
+        },
+        {
+          "testo": "Quali documenti vi servono?",
+          "info": "forma più completa"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a quiet hours policy?",
+        "info": "question, policy, building rules"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci sono regole sugli orari di silenzio?",
+          "info": "regole, orari"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to hire movers",
+        "info": "present simple, moving services"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo ingaggiare una ditta di traslochi",
+          "info": "ditta di traslochi"
+        },
+        {
+          "testo": "Devo chiamare i traslocatori",
+          "info": "variazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I get a moving van?",
+        "info": "question, can, rental"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso trovare un furgone per il trasloco?",
+          "info": "furgone, trasloco"
+        },
+        {
+          "testo": "Dove posso noleggiare un furgone?",
+          "info": "variazione, noleggiare"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need moving boxes",
+        "info": "present simple, moving items"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi servono scatoloni per il trasloco",
+          "info": "scatoloni, lessico"
+        },
+        {
+          "testo": "Ho bisogno di scatole per traslocare",
+          "info": "variazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you help me carry this box?",
+        "info": "polite request, could, help"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potresti aiutarmi a portare questo scatolone?",
+          "info": "potresti, cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to change my address",
+        "info": "present simple, paperwork"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo cambiare indirizzo",
+          "info": "cambiare, indirizzo"
+        },
+        {
+          "testo": "Devo fare il cambio di residenza",
+          "info": "variazione, residenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to set up electricity",
+        "info": "present simple, utilities"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo attivare l'elettricità",
+          "info": "attivare, utenze"
+        },
+        {
+          "testo": "Devo attivare la luce",
+          "info": "forma colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to set up gas and water",
+        "info": "present simple, utilities list"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo attivare gas e acqua",
+          "info": "elenco, utenze"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Who do I contact for repairs?",
+        "info": "question, present simple, maintenance"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chi devo contattare per le riparazioni?",
+          "info": "chi + dovere"
+        },
+        {
+          "testo": "A chi devo rivolgermi per le riparazioni?",
+          "info": "variazione, rivolgersi"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The heater isn't working",
+        "info": "present continuous, negation, problem"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il riscaldamento non funziona",
+          "info": "negazione"
+        },
+        {
+          "testo": "La stufa non funziona",
+          "info": "variazione, stufa"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There's a leak in the bathroom",
+        "info": "there is, problem, home"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è una perdita in bagno",
+          "info": "c'è, perdita"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to give notice to vacate",
+        "info": "present simple, legal notice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo dare preavviso per lasciare l'appartamento",
+          "info": "preavviso, lasciare"
+        },
+        {
+          "testo": "Devo dare disdetta",
+          "info": "forma breve, disdetta"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much notice do I need to give?",
+        "info": "question, need to, notice period"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto preavviso devo dare?",
+          "info": "quanto, dovere"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can we schedule the move for Saturday?",
+        "info": "question, can, scheduling"
+      },
+      "traduzioni": [
+        {
+          "testo": "Possiamo fissare il trasloco per sabato?",
+          "info": "possiamo, fissare"
+        },
+        {
+          "testo": "Possiamo programmare il trasloco per sabato?",
+          "info": "variazione, programmare"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need help carrying furniture",
+        "info": "present simple, furniture, help"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di aiuto a portare i mobili",
+          "info": "aiuto a + infinito"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, sto cercando un appartamento in affitto",
+        "info": "saluto, stare + gerundio, in affitto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, I'm looking for an apartment to rent",
+          "info": "present continuous, looking for"
+        },
+        {
+          "testo": "Hi, I'm looking to rent an apartment",
+          "info": "looking to, infinitive"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono qui per vedere l'appartamento",
+        "info": "sono qui per, scopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm here to view the apartment",
+          "info": "to + verb, purpose"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'appartamento è ancora disponibile?",
+        "info": "domanda, ancora"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the apartment still available?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa l'affitto al mese?",
+        "info": "quanto costa, al mese"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is the rent per month?",
+          "info": "how much, prices"
+        },
+        {
+          "testo": "What's the monthly rent?",
+          "info": "monthly, short form"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "L'appartamento è arredato?",
+        "info": "arredato, sinonimo di ammobiliato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the apartment furnished?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La cucina è attrezzata?",
+        "info": "dotazioni, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is the kitchen equipped?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Le utenze sono incluse?",
+        "info": "utenze, incluse"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are utilities included?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Internet è incluso?",
+        "info": "servizi, incluso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is internet included?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è la durata del contratto?",
+        "info": "durata, contratto"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's the lease duration?",
+          "info": "lease, duration"
+        },
+        {
+          "testo": "How long is the lease?",
+          "info": "how long, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è il deposito cauzionale?",
+        "info": "cauzionale, termine tecnico"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's the security deposit?",
+          "info": "deposit, money"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando mi restituiscono il deposito?",
+        "info": "restituire, futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "When do I get the deposit back?",
+          "info": "future time question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono ammessi animali?",
+        "info": "regole, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are pets allowed?",
+          "info": "passive, rules"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un ascensore nel palazzo?",
+        "info": "c'è, edificio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there an elevator in the building?",
+          "info": "is there, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è parcheggio?",
+        "info": "forma breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is parking available?",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci sono costi aggiuntivi?",
+        "info": "costi, aggiuntivi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are there any additional fees?",
+          "info": "any, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando posso entrare in casa?",
+        "info": "trasloco, futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "When can I move in?",
+          "info": "can, future possibility"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove ritiro le chiavi?",
+        "info": "ritirare, chiavi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where do I collect the keys?",
+          "info": "collect, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe mandarmi il contratto via email?",
+        "info": "condizionale di cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you send me the lease agreement by email?",
+          "info": "could, polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo firmare il contratto",
+        "info": "verbo dovere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to sign the lease",
+          "info": "need to, verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quali documenti vi servono?",
+        "info": "documenti, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "What documents do you need?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo ingaggiare una ditta di traslochi",
+        "info": "ditta di traslochi, azione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to hire movers",
+          "info": "hire, movers"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso trovare un furgone per il trasloco?",
+        "info": "furgone, trasloco"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I get a moving van?",
+          "info": "can, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi servono scatoloni per il trasloco",
+        "info": "scatoloni, lessico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need moving boxes",
+          "info": "need, noun phrase"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potresti aiutarmi a portare questo scatolone?",
+        "info": "potresti, cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you help me carry this box?",
+          "info": "could, polite request"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo fare il cambio di residenza",
+        "info": "burocrazia, residenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to change my address",
+          "info": "need to, paperwork"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo attivare l'elettricità",
+        "info": "utenze, attivare"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to set up electricity",
+          "info": "set up, utilities"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo attivare gas e acqua",
+        "info": "utenze, elenco"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to set up gas and water",
+          "info": "set up, list"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A chi devo rivolgermi per le riparazioni?",
+        "info": "rivolgersi, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Who do I contact for repairs?",
+          "info": "who, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il riscaldamento non funziona",
+        "info": "negazione, problema"
+      },
+      "traduzioni": [
+        {
+          "testo": "The heater isn't working",
+          "info": "present continuous, negation"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è una perdita in bagno",
+        "info": "c'è, problema"
+      },
+      "traduzioni": [
+        {
+          "testo": "There's a leak in the bathroom",
+          "info": "there is, problem"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo dare disdetta",
+        "info": "forma breve, affitto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to give notice to vacate",
+          "info": "notice, formal"
+        },
+        {
+          "testo": "I need to give notice",
+          "info": "short form, notice"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto preavviso devo dare?",
+        "info": "quanto, dovere"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much notice do I need to give?",
+          "info": "need to, question"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Possiamo fissare il trasloco per sabato?",
+        "info": "organizzazione, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can we schedule the move for Saturday?",
+          "info": "can, schedule"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasloco e Affitto",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di aiuto a portare i mobili",
+        "info": "aiuto a + infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need help carrying furniture",
+          "info": "need help, gerund"
+        }
+      ]
+    }
+  ]
+}

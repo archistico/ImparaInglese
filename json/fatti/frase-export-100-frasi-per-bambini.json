@@ -1,0 +1,935 @@
+{
+  "version": 2,
+  "contesto": "Frasi per bambini",
+  "frasi": [
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hello!",
+        "info": "Saluto informale per iniziare. (greeting; informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao!",
+          "info": "Saluto informale. (saluto; informale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao!",
+        "info": "Saluto informale per iniziare. (saluto; informale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hello!",
+          "info": "Saluto informale. (greeting; informal)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How are you?",
+        "info": "Domanda semplice sullo stato; struttura con 'are you'. (question; present simple; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come stai?",
+          "info": "Domanda a una persona sola. (domanda; presente)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come stai?",
+        "info": "Domanda semplice sullo stato; in inglese si usa il verbo 'to be'. (domanda; present simple; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How are you?",
+          "info": "Struttura con 'are you'. (question; present simple; be)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm fine.",
+        "info": "Risposta comune; contrazione di 'I am'. (contraction; present simple; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto bene.",
+          "info": "Risposta positiva. (risposta; presente)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto bene.",
+        "info": "In inglese si usa 'I am' → 'I'm'. (risposta; contraction; present simple; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm fine.",
+          "info": "Contrazione di 'I am'. (contraction; present simple; be)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your name?",
+        "info": "Chiede il nome; 'what's' = 'what is'. (question; contraction; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come ti chiami?",
+          "info": "Domanda informale. (domanda; informale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti chiami?",
+        "info": "Per chiedere il nome: 'what is' → 'what's'. (domanda; contraction; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your name?",
+          "info": "Domanda con contrazione. (question; contraction; be)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My name is Tom.",
+        "info": "Frase modello per presentarsi. (statement; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi chiamo Tom.",
+          "info": "Esempio di presentazione. (affermazione; presente)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi chiamo Tom.",
+        "info": "Presentazione: 'My name is ...'. (affermazione; present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "My name is Tom.",
+          "info": "Frase modello. (statement; present simple)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please.",
+        "info": "Parola di cortesia, anche da sola. (politeness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore.",
+          "info": "Formula di cortesia. (cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore.",
+        "info": "In inglese basta 'Please.' anche da solo. (cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please.",
+          "info": "Formula di cortesia. (politeness)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Say please!",
+        "info": "Imperativo per insegnare le buone maniere. (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di' per favore!",
+          "info": "Tono educativo. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Di' per favore!",
+        "info": "Inglese: imperativo senza soggetto. (imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Say please!",
+          "info": "Imperativo. (imperative)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Thank you!",
+        "info": "Ringraziamento base. (politeness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Grazie!",
+          "info": "Ringraziamento base. (cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Grazie!",
+        "info": "Ringraziamento base in inglese. (cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Thank you!",
+          "info": "Ringraziamento. (politeness)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You're welcome!",
+        "info": "Risposta a 'Thank you'. (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Prego!",
+          "info": "Risposta al ringraziamento. (espressione fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Prego!",
+        "info": "Risposta a 'Thank you'. (espressione fissa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "You're welcome!",
+          "info": "Risposta al ringraziamento. (fixed expression)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Come here.",
+        "info": "Imperativo: verbo base senza soggetto. (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vieni qui.",
+          "info": "Ordine/Invito semplice. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vieni qui.",
+        "info": "Inglese: imperativo con verbo base. (imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come here.",
+          "info": "Imperativo. (imperative)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sit down.",
+        "info": "Imperativo; molto usato con i bambini. (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Siediti.",
+          "info": "Istruzione semplice. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Siediti.",
+        "info": "Imperativo: verbo base in inglese. (imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sit down.",
+          "info": "Imperativo. (imperative)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Stand up.",
+        "info": "Imperativo; opposto di 'sit down'. (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Alzati.",
+          "info": "Istruzione semplice. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Alzati.",
+        "info": "Inglese: 'stand up' è un phrasal verb comune. (imperativo; phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stand up.",
+          "info": "Imperativo. (imperative; phrasal verb)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Be careful!",
+        "info": "Avviso con 'be' + aggettivo. (imperative; be + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stai attento!",
+          "info": "Avvertimento. (avviso; imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Stai attento!",
+        "info": "In inglese spesso si usa 'Be + aggettivo'. (imperativo; be + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Be careful!",
+          "info": "Avviso. (imperative; be + adjective)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Don't run!",
+        "info": "Imperativo negativo: 'do not' → 'don't'. (negative imperative; contraction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non correre!",
+          "info": "Divieto. (imperativo negativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non correre!",
+        "info": "Imperativo negativo: 'Don't' + verbo base. (imperativo negativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Don't run!",
+          "info": "Contrazione di 'do not'. (negative imperative; contraction)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Stop!",
+        "info": "Comando breve; tono deciso. (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fermati!",
+          "info": "Ordine immediato. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fermati!",
+        "info": "In inglese spesso basta una parola: 'Stop!'. (imperativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stop!",
+          "info": "Comando breve. (imperative)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Share with your friend.",
+        "info": "Invito a condividere; 'share with' = condividere con. (imperative; verb + preposition)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Condividi con il tuo amico.",
+          "info": "Educazione sociale. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Condividi con il tuo amico.",
+        "info": "Struttura: verbo + 'with'. (imperativo; verb + preposition)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Share with your friend.",
+          "info": "Invito a condividere. (imperative; verb + preposition)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's mine!",
+        "info": "Possesso; 'it's' = 'it is' + 'mine'. (contraction; pronoun: mine)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È mio!",
+          "info": "Possesso. (possessivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È mio!",
+        "info": "In inglese: 'It's' (contrazione) + 'mine'. (contraction; possessive pronoun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's mine!",
+          "info": "Possessivo 'mine'. (contraction; possessive pronoun)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's your turn.",
+        "info": "Nei giochi; 'turn' = turno. (fixed expression; games)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tocca a te.",
+          "info": "Usato nei giochi. (espressione fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tocca a te.",
+        "info": "Nei giochi si dice: 'It's your turn.' (espressione fissa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's your turn.",
+          "info": "Espressione comune nei giochi. (fixed expression; games)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's play!",
+        "info": "Invito; 'let's' = 'let us'. (invitation; contraction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Giochiamo!",
+          "info": "Invito a giocare. (invito)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Giochiamo!",
+        "info": "Invito: 'Let's' + verbo base. (invito; contraction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's play!",
+          "info": "'Let's' = 'let us'. (invitation; contraction)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Clean up, please.",
+        "info": "Richiesta gentile; 'clean up' = mettere in ordine. (phrasal verb; politeness)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Metti in ordine, per favore.",
+          "info": "Richiesta gentile. (cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Metti in ordine, per favore.",
+        "info": "In inglese: phrasal verb 'clean up'. (phrasal verb; cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Clean up, please.",
+          "info": "Phrasal verb + cortesia. (phrasal verb; politeness)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good job!",
+        "info": "Incoraggiamento semplice. (praise)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bravo!",
+          "info": "Complimento. (complimento)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Bravo!",
+        "info": "In inglese: 'Good job!' è molto comune. (complimento)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good job!",
+          "info": "Incoraggiamento. (praise)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Well done!",
+        "info": "Complimento; alternativa a 'Good job'. (praise; fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ben fatto!",
+          "info": "Complimento. (espressione fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ben fatto!",
+        "info": "In inglese: 'Well done!' (espressione fissa; complimento)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Well done!",
+          "info": "Complimento. (praise; fixed expression)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you hungry?",
+        "info": "Domanda sul bisogno; 'Are you' per stati. (question; present simple; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai fame?",
+          "info": "Domanda semplice. (domanda)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai fame?",
+        "info": "In inglese si usa 'Are you' + aggettivo. (domanda; be)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you hungry?",
+          "info": "Domanda con 'be'. (question; present simple; be)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's eat.",
+        "info": "Invito; 'let's' + verbo base. (invitation; contraction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mangiamo.",
+          "info": "Invito a mangiare. (invito)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mangiamo.",
+        "info": "Invito: 'Let's' + verbo base. (invito; contraction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's eat.",
+          "info": "Forma con 'Let's'. (invitation; contraction)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Time for bed!",
+        "info": "Espressione fissa; spesso senza verbo. (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È ora di dormire!",
+          "info": "Routine serale. (espressione fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È ora di dormire!",
+        "info": "In inglese: espressione fissa 'Time for bed!'. (espressione fissa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Time for bed!",
+          "info": "Espressione serale. (fixed expression)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Put on your pajamas.",
+        "info": "Phrasal verb 'put on' = indossare. (imperative; phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Metti il pigiama.",
+          "info": "Routine serale. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Metti il pigiama.",
+        "info": "In inglese: 'put on' = indossare. (imperativo; phrasal verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Put on your pajamas.",
+          "info": "Phrasal verb 'put on'. (imperative; phrasal verb)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Brush your teeth.",
+        "info": "Imperativo per routine; 'brush' = spazzolare/lavare. (imperative; routine)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lavati i denti.",
+          "info": "Istruzione di igiene. (imperativo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavati i denti.",
+        "info": "In inglese: 'Brush your teeth.' (imperativo; routine)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Brush your teeth.",
+          "info": "Routine. (imperative; routine)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good night.",
+        "info": "Saluto prima di dormire. (greeting; evening)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonanotte.",
+          "info": "Saluto serale. (saluto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonanotte.",
+        "info": "Saluto prima di dormire: 'Good night.' (saluto; sera)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good night.",
+          "info": "Saluto serale. (greeting; evening)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Sweet dreams.",
+        "info": "Augurio affettuoso prima di dormire. (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sogni d'oro.",
+          "info": "Augurio. (espressione fissa)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sogni d'oro.",
+        "info": "In inglese: 'Sweet dreams.' (espressione fissa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sweet dreams.",
+          "info": "Augurio. (fixed expression)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I love you.",
+        "info": "Espressione affettiva; con bambini spesso equivale a 'ti voglio bene'. (statement; affection)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti voglio bene.",
+          "info": "Uso familiare. (affermazione; affetto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per bambini",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti voglio bene.",
+        "info": "Con bambini si traduce spesso con 'I love you.' (affermazione; affetto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I love you.",
+          "info": "Espressione affettiva. (statement; affection)"
+        }
+      ]
+    }
+  ]
+}

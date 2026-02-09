@@ -1,0 +1,1090 @@
+{
+  "version": 1,
+  "contesto": "Incertezza",
+  "frasi": [
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure.",
+        "info": "incertezza, present simple, risposta breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono sicuro/a.",
+          "info": "incertezza, neutro"
+        },
+        {
+          "testo": "Non ne sono sicuro/a.",
+          "info": "incertezza, ne"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't think so.",
+        "info": "dubbio, negazione, risposta breve, think"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non credo.",
+          "info": "dubbio, naturale"
+        },
+        {
+          "testo": "Non penso di sì.",
+          "info": "dubbio, più esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Maybe.",
+        "info": "incertezza, risposta breve, avverbio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Forse.",
+          "info": "incertezza, breve"
+        },
+        {
+          "testo": "Può darsi.",
+          "info": "incertezza, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Maybe not.",
+        "info": "incertezza, negazione, risposta breve, maybe"
+      },
+      "traduzioni": [
+        {
+          "testo": "Forse no.",
+          "info": "incertezza, breve"
+        },
+        {
+          "testo": "Non ne sono sicuro/a.",
+          "info": "incertezza, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure about that.",
+        "info": "incertezza, about, complemento, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Su questo non sono sicuro/a.",
+          "info": "incertezza, su questo"
+        },
+        {
+          "testo": "Non ne sono convinto/a.",
+          "info": "incertezza, convinzione"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know yet.",
+        "info": "incertezza, yet, non ancora, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non lo so ancora.",
+          "info": "incertezza, ancora"
+        },
+        {
+          "testo": "Devo ancora decidere.",
+          "info": "incertezza, decisione"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need to think about it.",
+        "info": "tempo per decidere, need to, infinito, pensare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo pensarci.",
+          "info": "tempo per decidere, ci"
+        },
+        {
+          "testo": "Ci devo pensare.",
+          "info": "tempo per decidere, ordine parole"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't do it.",
+        "info": "limite, can, negazione, abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non posso farlo.",
+          "info": "limite, potere"
+        },
+        {
+          "testo": "Non ce la faccio.",
+          "info": "limite, espressione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not ready.",
+        "info": "incertezza, ready, stato, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono pronto/a.",
+          "info": "incertezza, genere"
+        },
+        {
+          "testo": "Non me la sento.",
+          "info": "incertezza, espressione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure I can.",
+        "info": "incertezza, can, subordinata, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so se posso.",
+          "info": "incertezza, se"
+        },
+        {
+          "testo": "Non sono sicuro/a di potercela fare.",
+          "info": "incertezza, potercela fare"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm busy right now.",
+        "info": "disponibilità, present simple, right now, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono occupato/a adesso.",
+          "info": "disponibilità, adesso"
+        },
+        {
+          "testo": "In questo momento sono impegnato/a.",
+          "info": "disponibilità, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not available today.",
+        "info": "disponibilità, negazione, today, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi non sono disponibile.",
+          "info": "disponibilità, oggi"
+        },
+        {
+          "testo": "Oggi non posso.",
+          "info": "disponibilità, breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It depends.",
+        "info": "incertezza, risposta breve, depends, contesto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dipende.",
+          "info": "incertezza, breve"
+        },
+        {
+          "testo": "Dipende da…",
+          "info": "incertezza, dipende da"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure what to do.",
+        "info": "incertezza, what to, infinito, scelta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so cosa fare.",
+          "info": "incertezza, cosa"
+        },
+        {
+          "testo": "Non sono sicuro/a di cosa fare.",
+          "info": "incertezza, più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I might be late.",
+        "info": "incertezza, might, possibilità, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei fare tardi.",
+          "info": "incertezza, condizionale"
+        },
+        {
+          "testo": "Potrei arrivare in ritardo.",
+          "info": "incertezza, più preciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure if I understood.",
+        "info": "incertezza, if, past simple, capire"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono sicuro/a di aver capito.",
+          "info": "incertezza, infinito passato"
+        },
+        {
+          "testo": "Non so se ho capito.",
+          "info": "incertezza, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you repeat that, please?",
+        "info": "incertezza, richiesta, could, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può ripetere, per favore?",
+          "info": "incertezza, formale"
+        },
+        {
+          "testo": "Puoi ripetere, per favore?",
+          "info": "incertezza, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure how to say it.",
+        "info": "incertezza, how to, infinito, parlare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so come dirlo.",
+          "info": "incertezza, come"
+        },
+        {
+          "testo": "Non sono sicuro/a di come dirlo.",
+          "info": "incertezza, più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure which one to choose.",
+        "info": "incertezza, which, scelta, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so quale scegliere.",
+          "info": "incertezza, quale"
+        },
+        {
+          "testo": "Non sono sicuro/a di quale scegliere.",
+          "info": "incertezza, più letterale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure I agree.",
+        "info": "incertezza, agree, opinione, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono sicuro/a di essere d'accordo.",
+          "info": "incertezza, d'accordo"
+        },
+        {
+          "testo": "Non credo di essere d'accordo.",
+          "info": "incertezza, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure I can make it.",
+        "info": "disponibilità, can, make it, possibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so se riesco a venire.",
+          "info": "disponibilità, riuscire"
+        },
+        {
+          "testo": "Non sono sicuro/a di riuscire a esserci.",
+          "info": "disponibilità, esserci"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let me check.",
+        "info": "incertezza, risposta, imperativo, controllo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fammi controllare.",
+          "info": "incertezza, informale"
+        },
+        {
+          "testo": "Controllo un attimo.",
+          "info": "incertezza, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll get back to you.",
+        "info": "incertezza, futuro, will, risposta dopo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti faccio sapere.",
+          "info": "incertezza, naturale"
+        },
+        {
+          "testo": "Ti ricontatto.",
+          "info": "incertezza, breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need more information.",
+        "info": "incertezza, bisogno, more, informazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di più informazioni.",
+          "info": "incertezza, bisogno"
+        },
+        {
+          "testo": "Mi servono più dettagli.",
+          "info": "incertezza, dettagli"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't decide.",
+        "info": "incertezza, can, negazione, decisione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non riesco a decidere.",
+          "info": "incertezza, riuscire"
+        },
+        {
+          "testo": "Non so decidere.",
+          "info": "incertezza, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know what to say.",
+        "info": "incertezza, what to, infinito, parlare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so cosa dire.",
+          "info": "incertezza, cosa"
+        },
+        {
+          "testo": "Non so cosa rispondere.",
+          "info": "incertezza, risposta"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm not sure it's a good idea.",
+        "info": "incertezza, good idea, opinione, it is"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non sono sicuro/a che sia una buona idea.",
+          "info": "incertezza, congiuntivo"
+        },
+        {
+          "testo": "Non credo sia una buona idea.",
+          "info": "incertezza, naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't come.",
+        "info": "disponibilità, can, negazione, venire"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non posso venire.",
+          "info": "disponibilità, semplice"
+        },
+        {
+          "testo": "Non riesco a venire.",
+          "info": "disponibilità, riuscire"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non sono sicuro/a.",
+        "info": "incertezza, presente, risposta breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure.",
+          "info": "incertezza, formula fissa"
+        },
+        {
+          "testo": "I'm not certain.",
+          "info": "incertezza, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non credo.",
+        "info": "dubbio, negazione, risposta breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't think so.",
+          "info": "dubbio, formula fissa"
+        },
+        {
+          "testo": "I don't think so, no.",
+          "info": "dubbio, enfasi"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Forse.",
+        "info": "incertezza, avverbio, risposta breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Maybe.",
+          "info": "incertezza, breve"
+        },
+        {
+          "testo": "Possibly.",
+          "info": "incertezza, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Forse no.",
+        "info": "incertezza, negazione, risposta breve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Maybe not.",
+          "info": "incertezza, breve"
+        },
+        {
+          "testo": "Probably not.",
+          "info": "incertezza, più deciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Su questo non sono sicuro/a.",
+        "info": "incertezza, su questo, complemento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure about that.",
+          "info": "incertezza, about"
+        },
+        {
+          "testo": "I'm not sure about this.",
+          "info": "incertezza, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non lo so ancora.",
+        "info": "incertezza, non ancora, risposta"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know yet.",
+          "info": "incertezza, yet"
+        },
+        {
+          "testo": "Not yet.",
+          "info": "incertezza, molto breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo pensarci.",
+        "info": "tempo per decidere, dovere, infinito, ci"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need to think about it.",
+          "info": "tempo per decidere, need"
+        },
+        {
+          "testo": "Let me think about it.",
+          "info": "tempo per decidere, proposta"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non posso farlo.",
+        "info": "limite, potere, negazione, abilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't do it.",
+          "info": "limite, can"
+        },
+        {
+          "testo": "I can't do that.",
+          "info": "limite, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non ce la faccio.",
+        "info": "limite, espressione comune, stanchezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't make it.",
+          "info": "limite, espressione"
+        },
+        {
+          "testo": "I can't do it.",
+          "info": "limite, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non sono pronto/a.",
+        "info": "incertezza, stato, ready, genere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not ready.",
+          "info": "incertezza, ready"
+        },
+        {
+          "testo": "I'm not ready yet.",
+          "info": "incertezza, yet"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so se posso.",
+        "info": "incertezza, se, potere, subordinata"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure I can.",
+          "info": "incertezza, can"
+        },
+        {
+          "testo": "I don't know if I can.",
+          "info": "incertezza, if"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono occupato/a adesso.",
+        "info": "disponibilità, presente, adesso, genere"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm busy right now.",
+          "info": "disponibilità, right now"
+        },
+        {
+          "testo": "I'm busy at the moment.",
+          "info": "disponibilità, at the moment"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi non sono disponibile.",
+        "info": "disponibilità, negazione, oggi, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not available today.",
+          "info": "disponibilità, available"
+        },
+        {
+          "testo": "I can't today.",
+          "info": "disponibilità, molto breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dipende.",
+        "info": "incertezza, risposta breve, contesto"
+      },
+      "traduzioni": [
+        {
+          "testo": "It depends.",
+          "info": "incertezza, depends"
+        },
+        {
+          "testo": "That depends.",
+          "info": "incertezza, enfasi"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so cosa fare.",
+        "info": "incertezza, cosa, infinito, scelta"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure what to do.",
+          "info": "incertezza, what to"
+        },
+        {
+          "testo": "I don't know what to do.",
+          "info": "incertezza, know"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei arrivare in ritardo.",
+        "info": "incertezza, possibilità, condizionale, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I might be late.",
+          "info": "incertezza, might"
+        },
+        {
+          "testo": "I may be late.",
+          "info": "incertezza, may"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non sono sicuro/a di aver capito.",
+        "info": "incertezza, infinito passato, capire, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure I understood.",
+          "info": "incertezza, past simple"
+        },
+        {
+          "testo": "I'm not sure I got it.",
+          "info": "incertezza, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può ripetere, per favore?",
+        "info": "incertezza, richiesta, potere, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you repeat that, please?",
+          "info": "incertezza, could"
+        },
+        {
+          "testo": "Can you repeat that, please?",
+          "info": "incertezza, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so come dirlo.",
+        "info": "incertezza, come, infinito, parlare"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure how to say it.",
+          "info": "incertezza, how to"
+        },
+        {
+          "testo": "I don't know how to say it.",
+          "info": "incertezza, know"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so quale scegliere.",
+        "info": "incertezza, quale, scelta, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure which one to choose.",
+          "info": "incertezza, which"
+        },
+        {
+          "testo": "I don't know which one to choose.",
+          "info": "incertezza, know"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non credo di essere d'accordo.",
+        "info": "opinione, negazione, accordo, infinito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure I agree.",
+          "info": "opinione, agree"
+        },
+        {
+          "testo": "I don't think I agree.",
+          "info": "opinione, think"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so se riesco a venire.",
+        "info": "disponibilità, se, riuscire, venire"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure I can make it.",
+          "info": "disponibilità, make it"
+        },
+        {
+          "testo": "I don't know if I can come.",
+          "info": "disponibilità, if"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fammi controllare.",
+        "info": "incertezza, risposta, imperativo, controllo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let me check.",
+          "info": "incertezza, check"
+        },
+        {
+          "testo": "Let me see.",
+          "info": "incertezza, see"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti faccio sapere.",
+        "info": "incertezza, futuro, risposta dopo, comunicazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll get back to you.",
+          "info": "incertezza, get back"
+        },
+        {
+          "testo": "I'll let you know.",
+          "info": "incertezza, let you know"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di più informazioni.",
+        "info": "incertezza, bisogno, più, informazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need more information.",
+          "info": "incertezza, need"
+        },
+        {
+          "testo": "I need more details.",
+          "info": "incertezza, details"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non riesco a decidere.",
+        "info": "incertezza, riuscire, decisione, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't decide.",
+          "info": "incertezza, decide"
+        },
+        {
+          "testo": "I can't make up my mind.",
+          "info": "incertezza, espressione"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so cosa dire.",
+        "info": "incertezza, cosa, infinito, parlare"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know what to say.",
+          "info": "incertezza, say"
+        },
+        {
+          "testo": "I'm not sure what to say.",
+          "info": "incertezza, not sure"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non credo sia una buona idea.",
+        "info": "opinione, negazione, idea, congiuntivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm not sure it's a good idea.",
+          "info": "opinione, good idea"
+        },
+        {
+          "testo": "I don't think it's a good idea.",
+          "info": "opinione, think"
+        }
+      ]
+    },
+    {
+      "contesto": "Incertezza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non posso venire.",
+        "info": "disponibilità, potere, negazione, venire"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't come.",
+          "info": "disponibilità, can't"
+        },
+        {
+          "testo": "I can't make it.",
+          "info": "disponibilità, make it"
+        }
+      ]
+    }
+  ]
+}

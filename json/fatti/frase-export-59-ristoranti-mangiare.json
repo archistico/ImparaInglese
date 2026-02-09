@@ -1,0 +1,387 @@
+{
+  "version": 2,
+  "contesto": "Ristoranti / Mangiare",
+  "frasi": [
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Good evening, do you have a table for two?",
+        "info": "Apertura tipica al ristorante (polite question, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Buonasera, avete un tavolo per due?",
+          "info": "forma cortese, uso di \"avere\""
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a reservation?",
+        "info": "Domanda diretta del personale (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ha una prenotazione?",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "No, but is there a table available?",
+        "info": "Risposta negativa seguita da domanda (coordinazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "No, ma c'è un tavolo disponibile?",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I see the menu?",
+        "info": "Richiesta informale-cortese (modal verb can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso vedere il menù?",
+          "info": null
+        },
+        {
+          "testo": "Potrei vedere il menù?",
+          "info": "forma leggermente più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What do you recommend?",
+        "info": "Richiesta di consiglio (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che cosa mi consiglia?",
+          "info": "forma formale"
+        },
+        {
+          "testo": "Cosa mi consiglia?",
+          "info": "forma colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like to order.",
+        "info": "Inizio dell'ordine (would like = forma cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei ordinare.",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I get this without onions?",
+        "info": "Richiesta di modifica piatto (without + ingrediente)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere questo senza cipolle?",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm allergic to nuts.",
+        "info": "Informazione importante (be + allergic to)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono allergico alla frutta secca.",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Still or sparkling water?",
+        "info": "Domanda alternativa (or)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Acqua naturale o frizzante?",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's delicious!",
+        "info": "Commento positivo (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È delizioso!",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I get the bill, please?",
+        "info": "Richiesta molto cortese (could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere il conto, per favore?",
+          "info": null
+        },
+        {
+          "testo": "Posso avere il conto, per favore?",
+          "info": "forma meno formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "Domanda sul metodo di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con carta?",
+          "info": null
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Keep the change.",
+        "info": "Espressione fissa (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tenga il resto.",
+          "info": null
+        }
+      ]
+    },
+
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Buonasera, avete un tavolo per due?",
+        "info": "Apertura tipica (domanda cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Good evening, do you have a table for two?",
+          "info": "(polite question, present simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso vedere il menù?",
+        "info": "Richiesta semplice"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I see the menu?",
+          "info": "(modal verb: can)"
+        },
+        {
+          "testo": "Could I see the menu?",
+          "info": "(more polite, modal verb: could)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa mi consiglia?",
+        "info": "Richiesta di consiglio"
+      },
+      "traduzioni": [
+        {
+          "testo": "What do you recommend?",
+          "info": "(present simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei ordinare.",
+        "info": "Forma cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like to order.",
+          "info": "(would like = polite form)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere questo senza cipolle?",
+        "info": "Richiesta di modifica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I get this without onions?",
+          "info": "(without + ingredient)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono allergico alla frutta secca.",
+        "info": "Informazione sanitaria"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm allergic to nuts.",
+          "info": "(be allergic to)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Acqua naturale o frizzante?",
+        "info": "Scelta alternativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Still or sparkling water?",
+          "info": "(alternative question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È delizioso!",
+        "info": "Commento positivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's delicious!",
+          "info": "(present simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere il conto, per favore?",
+        "info": "Richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I get the bill, please?",
+          "info": "(very polite, modal could)"
+        },
+        {
+          "testo": "Can I get the bill, please?",
+          "info": "(neutral polite)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con carta?",
+        "info": "Metodo di pagamento"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "(modal can)"
+        }
+      ]
+    },
+    {
+      "contesto": "Ristoranti / Mangiare",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tenga il resto.",
+        "info": "Espressione fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Keep the change.",
+          "info": "(imperative)"
+        }
+      ]
+    }
+  ]
+}

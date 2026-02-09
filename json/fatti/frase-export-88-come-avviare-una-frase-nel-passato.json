@@ -1,0 +1,572 @@
+{
+  "version": 1,
+  "contesto": "Come avviare una frase nel passato",
+  "frasi": [
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I thought you were coming.",
+        "info": "past simple, thought, expectation, conversation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo che venissi.",
+          "info": "imperfetto, aspettativa, conversazione"
+        },
+        {
+          "testo": "Credevo che saresti venuto.",
+          "info": "imperfetto, aspettativa, conversazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I didn't think you were coming.",
+        "info": "past simple, negative thought, expectation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo che non saresti venuto.",
+          "info": "imperfetto, aspettativa, negazione"
+        },
+        {
+          "testo": "Non pensavo che venissi.",
+          "info": "imperfetto, aspettativa, negazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I assumed you got lost.",
+        "info": "past simple, assumption, explanation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo che ti fossi perso.",
+          "info": "imperfetto, supposizione, spiegazione"
+        },
+        {
+          "testo": "Avevo pensato che ti fossi perso.",
+          "info": "trapassato prossimo, supposizione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I thought you got lost.",
+        "info": "past simple, thought, explanation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo che ti fossi perso.",
+          "info": "imperfetto, spiegazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I thought you were sick.",
+        "info": "past simple, thought, health"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo che fossi malato.",
+          "info": "imperfetto, salute"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I thought...",
+        "info": "past simple, sentence starter, thought"
+      },
+      "traduzioni": [
+        {
+          "testo": "Pensavo...",
+          "info": "imperfetto, inizio frase"
+        },
+        {
+          "testo": "Credevo...",
+          "info": "imperfetto, inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I ate a salad for lunch.",
+        "info": "past simple, ate, meal, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mangiato un'insalata a pranzo.",
+          "info": "passato prossimo, pasto"
+        },
+        {
+          "testo": "A pranzo ho mangiato un'insalata.",
+          "info": "passato prossimo, ordine diverso"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I ate a delicious sandwich at the deli.",
+        "info": "past simple, ate, food, place"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mangiato un panino delizioso al bar.",
+          "info": "passato prossimo, cibo, luogo"
+        },
+        {
+          "testo": "Ho mangiato un panino molto buono in gastronomia.",
+          "info": "passato prossimo, cibo, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I ate...",
+        "info": "past simple, sentence starter, ate"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mangiato...",
+          "info": "passato prossimo, inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I drank beer last night at the bar.",
+        "info": "past simple, drank, drink, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bevuto birra ieri sera al bar.",
+          "info": "passato prossimo, bevande, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I drank five glasses of water yesterday.",
+        "info": "past simple, drank, quantity, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bevuto cinque bicchieri d'acqua ieri.",
+          "info": "passato prossimo, quantita, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I drank...",
+        "info": "past simple, sentence starter, drank"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bevuto...",
+          "info": "passato prossimo, inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I had a few beers at the bar last night.",
+        "info": "past simple, had, drink, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ieri sera ho bevuto qualche birra al bar.",
+          "info": "passato prossimo, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I played soccer when I was little.",
+        "info": "past simple, habit in the past, when clause"
+      },
+      "traduzioni": [
+        {
+          "testo": "Giocavo a calcio quando ero piccolo.",
+          "info": "imperfetto, abitudine, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I played videogames all weekend long.",
+        "info": "past simple, activity, duration"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho giocato ai videogiochi per tutto il weekend.",
+          "info": "passato prossimo, durata"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I played...",
+        "info": "past simple, sentence starter, played"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho giocato...",
+          "info": "passato prossimo, inizio frase"
+        },
+        {
+          "testo": "Giocavo...",
+          "info": "imperfetto, inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I saw my friend at the grocery store.",
+        "info": "past simple, saw, meeting, place"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho visto il mio amico al negozio di alimentari.",
+          "info": "passato prossimo, incontro, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I saw her at the salon.",
+        "info": "past simple, saw, place"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'ho vista dal parrucchiere.",
+          "info": "passato prossimo, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I spotted her at the salon.",
+        "info": "past simple, spotted, informal, place"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'ho vista dal parrucchiere.",
+          "info": "passato prossimo, colloquiale"
+        },
+        {
+          "testo": "L'ho notata dal parrucchiere.",
+          "info": "passato prossimo, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I saw...",
+        "info": "past simple, sentence starter, saw"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho visto...",
+          "info": "passato prossimo, inizio frase"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I went to the movie theater.",
+        "info": "past simple, went, activity"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono andato al cinema.",
+          "info": "passato prossimo, movimento"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I checked out a movie last night.",
+        "info": "past simple, informal, movie, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono andato a vedere un film ieri sera.",
+          "info": "passato prossimo, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I went to the zoo.",
+        "info": "past simple, went, place"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono andato allo zoo.",
+          "info": "passato prossimo, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I went...",
+        "info": "past simple, sentence starter, went"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono andato...",
+          "info": "passato prossimo, inizio frase"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pensavo che venissi.",
+        "info": "imperfetto, aspettativa, conversazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I thought you were coming.",
+          "info": "past simple, expectation"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pensavo che non saresti venuto.",
+        "info": "imperfetto, aspettativa, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I didn't think you were coming.",
+          "info": "past simple, negative expectation"
+        },
+        {
+          "testo": "I thought you weren't coming.",
+          "info": "past simple, negative expectation"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pensavo che ti fossi perso.",
+        "info": "imperfetto, supposizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I assumed you got lost.",
+          "info": "past simple, assumption"
+        },
+        {
+          "testo": "I thought you got lost.",
+          "info": "past simple, assumption"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pensavo che fossi malato.",
+        "info": "imperfetto, salute"
+      },
+      "traduzioni": [
+        {
+          "testo": "I thought you were sick.",
+          "info": "past simple, health"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Pensavo...",
+        "info": "imperfetto, inizio frase"
+      },
+      "traduzioni": [
+        {
+          "testo": "I thought...",
+          "info": "past simple, sentence starter"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho mangiato un'insalata a pranzo.",
+        "info": "passato prossimo, pasto"
+      },
+      "traduzioni": [
+        {
+          "testo": "I ate a salad for lunch.",
+          "info": "past simple, meal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho mangiato un panino delizioso al bar.",
+        "info": "passato prossimo, cibo, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I ate a delicious sandwich at the deli.",
+          "info": "past simple, food, place"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bevuto birra ieri sera al bar.",
+        "info": "passato prossimo, bevande, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I drank beer last night at the bar.",
+          "info": "past simple, drink, time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Giocavo a calcio quando ero piccolo.",
+        "info": "imperfetto, abitudine"
+      },
+      "traduzioni": [
+        {
+          "testo": "I played soccer when I was little.",
+          "info": "past simple, habit in the past"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono andato al cinema.",
+        "info": "passato prossimo, movimento"
+      },
+      "traduzioni": [
+        {
+          "testo": "I went to the movie theater.",
+          "info": "past simple, movement"
+        }
+      ]
+    },
+    {
+      "contesto": "Come avviare una frase nel passato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono andato allo zoo.",
+        "info": "passato prossimo, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I went to the zoo.",
+          "info": "past simple, place"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "contesto": "Tecnologia / Social Media",
+  "frasi": [
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, can you hear me?",
+        "info": "greeting, present simple, call check"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, mi senti?",
+          "info": "verbo sentire, domanda semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Your mic is muted",
+        "info": "present simple, stato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tuo microfono è disattivato",
+          "info": "stato, verbo essere"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you mute the mic?",
+        "info": "question, modal can, meeting"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi disattivare il microfono?",
+          "info": "verbo potere, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you turn on the camera?",
+        "info": "question, modal can, video call"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi accendere la videocamera?",
+          "info": "verbo potere"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The Wi-Fi is down",
+        "info": "present simple, problem"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il Wi-Fi non funziona",
+          "info": "negazione"
+        },
+        {
+          "testo": "La connessione non funziona",
+          "info": "sinonimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my connection",
+        "info": "past simple, technical issue"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso la connessione",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The video is lagging",
+        "info": "present continuous, streaming"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il video va a scatti",
+          "info": "espressione idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll text you",
+        "info": "future with will, informal"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti mando un messaggio",
+          "info": "futuro implicito"
+        },
+        {
+          "testo": "Ti scrivo un messaggio",
+          "info": "variazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I sent you a message",
+        "info": "past simple, chat"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti ho mandato un messaggio",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Did you get my message?",
+        "info": "past simple, question"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai ricevuto il mio messaggio?",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll tag you in the post",
+        "info": "future with will, social media"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti taggo nel post",
+          "info": "inglesismo, presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I shared the link on WhatsApp",
+        "info": "past simple, sharing"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho condiviso il link su WhatsApp",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's your Instagram handle?",
+        "info": "question, social media"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il tuo Instagram?",
+          "info": "uso colloquiale"
+        },
+        {
+          "testo": "Qual è il tuo nome utente su Instagram?",
+          "info": "forma esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't use Facebook anymore",
+        "info": "present simple, negation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non uso più Facebook",
+          "info": "avverbio di tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, mi senti?",
+        "info": "verbo sentire, call check"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, can you hear me?",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tuo microfono è disattivato",
+        "info": "stato, verbo essere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Your mic is muted",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi disattivare il microfono?",
+        "info": "verbo potere, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you mute the mic?",
+          "info": "modal can"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi accendere la videocamera?",
+        "info": "verbo potere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you turn on the camera?",
+          "info": "modal can"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La connessione non funziona",
+        "info": "negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "The Wi-Fi is down",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso la connessione",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my connection",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il video va a scatti",
+        "info": "espressione colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "The video is lagging",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti mando un messaggio",
+        "info": "futuro implicito"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll text you",
+          "info": "future with will"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai ricevuto il mio messaggio?",
+        "info": "domanda, passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Did you get my message?",
+          "info": "past simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti taggo nel post",
+        "info": "inglesismo, presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll tag you in the post",
+          "info": "future with will"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è il tuo Instagram?",
+        "info": "uso colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's your Instagram handle?",
+          "info": "question"
+        }
+      ]
+    },
+    {
+      "contesto": "Tecnologia / Social Media",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non uso più Facebook",
+        "info": "avverbio di tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't use Facebook anymore",
+          "info": "present simple negation"
+        }
+      ]
+    }
+  ]
+}

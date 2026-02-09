@@ -1,0 +1,457 @@
+{
+  "version": 1,
+  "contesto": "Chiarimenti",
+  "frasi": [
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, can you help me for a moment?",
+        "info": "(apertura dialogo, formula di cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, può aiutarmi un momento?",
+          "info": "(registro cortese)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you speak English?",
+        "info": "(domanda sì/no, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Parla inglese?",
+          "info": "(forma di cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I speak only a little English.",
+        "info": "(avverbio di quantità, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Parlo solo un po’ di inglese.",
+          "info": "(limitazione di abilità)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you say that again, please?",
+        "info": "(richiesta di ripetizione, can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può dirlo di nuovo, per favore?",
+          "info": "(richiesta educata)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you speak more slowly?",
+        "info": "(comparativo, richiesta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può parlare più lentamente?",
+          "info": "(comparativo di modo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don’t understand.",
+        "info": "(frase negativa, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non capisco.",
+          "info": "(uso diretto e frequente)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don’t understand what you mean.",
+        "info": "(frase esplicativa, oggetto)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non capisco cosa intende.",
+          "info": "(verbo intendere)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you explain it again?",
+        "info": "(could = cortesia)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe spiegarlo di nuovo?",
+          "info": "(condizionale di cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you write it down for me?",
+        "info": "(phrasal verb, richiesta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può scriverlo per me?",
+          "info": "(forma esplicita)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What does this word mean?",
+        "info": "(wh-question, present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa significa questa parola?",
+          "info": "(verbo significare)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do you spell that?",
+        "info": "(verbo spell)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come si scrive?",
+          "info": "(forma impersonale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I think you said something else.",
+        "info": "(past simple, supposizione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Credo che abbia detto qualcos’altro.",
+          "info": "(uso di credo che)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Did I understand correctly?",
+        "info": "(domanda di conferma, past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho capito correttamente?",
+          "info": "(verifica comprensione)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "So, you mean that…",
+        "info": "(riformulazione, discourse marker)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quindi, intende dire che…",
+          "info": "(introduzione di chiarimento)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m sorry, I didn’t catch that.",
+        "info": "(espressione idiomatica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dispiace, non ho colto.",
+          "info": "(registro informale)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, può aiutarmi un momento?",
+        "info": "(apertura dialogo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, can you help me for a moment?",
+          "info": "(polite request)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Parla inglese?",
+        "info": "(domanda diretta)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you speak English?",
+          "info": "(present simple question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Parlo solo un po’ di inglese.",
+        "info": "(limitazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I speak only a little English.",
+          "info": "(adverb of quantity)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può dirlo di nuovo, per favore?",
+        "info": "(richiesta cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you say that again, please?",
+          "info": "(can + request)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può parlare più lentamente?",
+        "info": "(comparativo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you speak more slowly?",
+          "info": "(comparative form)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non capisco.",
+        "info": "(frase semplice)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don’t understand.",
+          "info": "(negative sentence)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non capisco cosa intende.",
+        "info": "(frase esplicativa)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don’t understand what you mean.",
+          "info": "(object clause)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe spiegarlo di nuovo?",
+        "info": "(condizionale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you explain it again?",
+          "info": "(could = politeness)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può scriverlo per me?",
+        "info": "(richiesta pratica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you write it down for me?",
+          "info": "(phrasal verb)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa significa questa parola?",
+        "info": "(domanda lessicale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What does this word mean?",
+          "info": "(wh-question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come si scrive?",
+        "info": "(forma impersonale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do you spell that?",
+          "info": "(verb spell)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Credo che abbia detto qualcos’altro.",
+        "info": "(supposizione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I think you said something else.",
+          "info": "(think + past simple)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho capito correttamente?",
+        "info": "(verifica)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Did I understand correctly?",
+          "info": "(confirmation question)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quindi, intende dire che…",
+        "info": "(riformulazione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "So, you mean that…",
+          "info": "(discourse marker)"
+        }
+      ]
+    },
+    {
+      "contesto": "Chiarimenti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi dispiace, non ho colto.",
+        "info": "(scuse + mancata comprensione)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m sorry, I didn’t catch that.",
+          "info": "(idiomatic expression)"
+        }
+      ]
+    }
+  ]
+}

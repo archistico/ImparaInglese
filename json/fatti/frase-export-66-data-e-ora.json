@@ -1,0 +1,420 @@
+{
+  "version": 1,
+  "contesto": "Data e ora",
+  "frasi": [
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What month is it? It's April.",
+        "info": "Mesi dell'anno usati in una frase completa (WH-question + present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che mese è? È aprile.",
+          "info": "Struttura tipica italiana"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Let's meet at 8 o'clock",
+        "info": "Usare 'at' per indicare l'ora (preposition of time)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vediamoci alle 8",
+          "info": "Forma colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "At what time shall we meet?",
+        "info": "Domanda sull'orario (future with shall, British usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora ci vediamo?",
+          "info": "Forma naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Today is Monday",
+        "info": "Giorni della settimana con 'today is'"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi è lunedì",
+          "info": "Frase dichiarativa semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm free on Thursday",
+        "info": "Usare 'on' con i giorni della settimana (preposition of time)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono libero giovedì",
+          "info": "Maschile"
+        },
+        {
+          "testo": "Sono libera giovedì",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time is it?",
+        "info": "Domanda standard per chiedere l'ora"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che ore sono?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's half past two",
+        "info": "Half past = e mezza (orario)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono le due e mezza",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's quarter to five",
+        "info": "Quarter to = meno un quarto (orario)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono le cinque meno un quarto",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll be there in ten minutes",
+        "info": "In + periodo di tempo = tra (future simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sarò lì tra dieci minuti",
+          "info": "Futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll arrive in an hour",
+        "info": "In an hour = tra un'ora (future simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Arriverò tra un'ora",
+          "info": "Futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's the date today?",
+        "info": "Domanda sulla data completa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che data è oggi?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Today is March 15th, 2024",
+        "info": "Formato data in inglese (month + ordinal day)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi è il 15 marzo 2024",
+          "info": "Formato italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We'll meet next week",
+        "info": "Next + periodo di tempo (future simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ci vedremo la prossima settimana",
+          "info": "Futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'll call you tomorrow",
+        "info": "Tomorrow = domani (future simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti chiamerò domani",
+          "info": "Futuro semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I arrived yesterday",
+        "info": "Yesterday = ieri (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono arrivato ieri",
+          "info": "Maschile"
+        },
+        {
+          "testo": "Sono arrivata ieri",
+          "info": "Femminile"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che mese è? È agosto.",
+        "info": "Mesi dell'anno in frase completa"
+      },
+      "traduzioni": [
+        {
+          "testo": "What month is it? It's August.",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vediamoci alle tre del pomeriggio",
+        "info": "Indicazione oraria con 'alle'"
+      },
+      "traduzioni": [
+        {
+          "testo": "Let's meet at 3 PM",
+          "info": "At + hour"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora ci vediamo?",
+        "info": "Domanda sull'orario"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time shall we meet?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi è venerdì",
+        "info": "Giorni della settimana"
+      },
+      "traduzioni": [
+        {
+          "testo": "Today is Friday",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono libero lunedì",
+        "info": "Disponibilità con i giorni"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm free on Monday",
+          "info": "On + day"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che ore sono?",
+        "info": "Domanda sull'ora"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time is it?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono le sei e dieci",
+        "info": "Orario con minuti"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's ten past six",
+          "info": "Past = e"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Arriverò tra un'ora",
+        "info": "Tra + tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll arrive in an hour",
+          "info": "In + time"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che data è oggi?",
+        "info": "Domanda sulla data"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's the date today?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi è il 25 dicembre 2023",
+        "info": "Data completa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Today is December 25th, 2023",
+          "info": "Month + ordinal day"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ci vedremo la prossima settimana",
+        "info": "Futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "We'll meet next week",
+          "info": "Next + time period"
+        }
+      ]
+    },
+    {
+      "contesto": "Data e ora",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti chiamerò domani",
+        "info": "Tomorrow"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'll call you tomorrow",
+          "info": "Future simple"
+        }
+      ]
+    }
+  ]
+}

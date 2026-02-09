@@ -1,0 +1,485 @@
+{
+  "version": 1,
+  "contesto": "Medico / Ospedale",
+  "frasi": [
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you okay?",
+        "info": "Domanda per verificare le condizioni di una persona (present simple, yes/no question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stai bene?",
+          "info": "Forma informale"
+        },
+        {
+          "testo": "Sta bene?",
+          "info": "Forma formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do you feel?",
+        "info": "Domanda sulle condizioni fisiche o emotive (present simple, WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come ti senti?",
+          "info": "Forma informale"
+        },
+        {
+          "testo": "Come si sente?",
+          "info": "Forma formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have an appointment?",
+        "info": "Richiesta di appuntamento (modal verb: can, polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere un appuntamento?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Posso fissare un appuntamento?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need a prescription?",
+        "info": "Domanda su obbligo medico (present simple, do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Serve una ricetta?",
+          "info": "Forma colloquiale"
+        },
+        {
+          "testo": "Ho bisogno di una ricetta?",
+          "info": "Forma completa"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I had an accident",
+        "info": "Descrivere un evento passato (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho avuto un incidente",
+          "info": "Passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I banged my head",
+        "info": "Descrivere un colpo subito (past simple, informal)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho sbattuto la testa",
+          "info": "Forma comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm hurt",
+        "info": "Dichiarare una condizione di dolore o ferita (be + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sono fatto male",
+          "info": "Espressione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He's bleeding",
+        "info": "Segnalare un'emergenza (present continuous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sta sanguinando",
+          "info": "Situazione urgente"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need help",
+        "info": "Richiesta generica di assistenza (need + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di aiuto",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Mi serve aiuto",
+          "info": "Forma colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a doctor",
+        "info": "Richiesta di assistenza medica (need + profession)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di un medico",
+          "info": "Forma neutra"
+        },
+        {
+          "testo": "Mi serve un dottore",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need an ambulance",
+        "info": "Richiesta di emergenza (need + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve un'ambulanza",
+          "info": "Emergenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the hospital?",
+        "info": "Chiedere indicazioni (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'ospedale?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the emergency room?",
+        "info": "Chiedere il pronto soccorso (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il pronto soccorso?",
+          "info": "Situazione urgente"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the pharmacy?",
+        "info": "Chiedere indicazioni (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la farmacia?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a fever",
+        "info": "Descrivere un sintomo (have + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho la febbre",
+          "info": "Sintomo comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a headache",
+        "info": "Descrivere un dolore (have + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di testa",
+          "info": "Espressione fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a sore throat",
+        "info": "Descrivere un sintomo (have + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di gola",
+          "info": "Espressione fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a stomachache",
+        "info": "Descrivere un dolore addominale (have + noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho mal di stomaco",
+          "info": "Espressione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My head / stomach / foot / back hurts",
+        "info": "Descrivere il punto del dolore (body part + hurts)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi fa male la testa / lo stomaco / il piede / la schiena",
+          "info": "Struttura con 'fa male'"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It hurts here",
+        "info": "Indicare il punto del dolore (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi fa male qui",
+          "info": "Indicando la zona"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm allergic to ...",
+        "info": "Segnalare un'allergia (be + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono allergico a ...",
+          "info": "Maschile"
+        },
+        {
+          "testo": "Sono allergica a ...",
+          "info": "Femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I take this medicine",
+        "info": "Dichiarare una terapia in corso (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Prendo questo farmaco",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What should I do?",
+        "info": "Chiedere istruzioni o consigli (modal: should)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che cosa devo fare?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Stai bene? / Sta bene?",
+        "info": "Domanda sulle condizioni di una persona"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you okay?",
+          "info": "Yes/no question"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come ti senti?",
+        "info": "Domanda sulle condizioni fisiche"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do you feel?",
+          "info": "WH-question"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di un medico",
+        "info": "Richiesta di assistenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a doctor",
+          "info": "Forma diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho avuto un incidente",
+        "info": "Evento passato"
+      },
+      "traduzioni": [
+        {
+          "testo": "I had an accident",
+          "info": "Past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho la febbre",
+        "info": "Descrivere un sintomo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a fever",
+          "info": "Have + noun"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi fa male qui",
+        "info": "Indicare il punto del dolore"
+      },
+      "traduzioni": [
+        {
+          "testo": "It hurts here",
+          "info": "Present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Medico / Ospedale",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che cosa devo fare?",
+        "info": "Chiedere istruzioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "What should I do?",
+          "info": "Modal should"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "version": 1,
+  "contesto": "Come stai facendo?",
+  "frasi": [
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi! What are you doing?",
+        "info": "present continuous, question, everyday, direct"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao! Cosa stai facendo?",
+          "info": "presente progressivo, domanda, quotidiano"
+        },
+        {
+          "testo": "Ciao! Che fai?",
+          "info": "presente, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you up to?",
+        "info": "present continuous, question, informal, friendly"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che fai?",
+          "info": "colloquiale, domanda"
+        },
+        {
+          "testo": "Cosa stai combinando?",
+          "info": "informale, tono amichevole"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What's going on?",
+        "info": "present continuous, question, informal, situation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che succede?",
+          "info": "informale, situazione"
+        },
+        {
+          "testo": "Che sta succedendo?",
+          "info": "presente progressivo, situazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What’s happening?",
+        "info": "present continuous, question, informal, situation"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che succede?",
+          "info": "informale, situazione"
+        },
+        {
+          "testo": "Che sta succedendo?",
+          "info": "presente progressivo, situazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you working on?",
+        "info": "present continuous, question, activity, work study"
+      },
+      "traduzioni": [
+        {
+          "testo": "A cosa stai lavorando?",
+          "info": "presente progressivo, lavoro studio"
+        },
+        {
+          "testo": "Su cosa stai lavorando?",
+          "info": "presente progressivo, lavoro studio"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing right now?",
+        "info": "present continuous, question, right now"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai facendo adesso?",
+          "info": "presente progressivo, adesso"
+        },
+        {
+          "testo": "Che fai in questo momento?",
+          "info": "presente, adesso"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you busy?",
+        "info": "present simple, question, availability"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei occupato?",
+          "info": "presente, disponibilita"
+        },
+        {
+          "testo": "Hai da fare?",
+          "info": "presente, colloquiale, disponibilita"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a minute?",
+        "info": "present simple, polite question, availability"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai un minuto?",
+          "info": "presente, disponibilita"
+        },
+        {
+          "testo": "Hai un attimo?",
+          "info": "presente, colloquiale, disponibilita"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I ask you something?",
+        "info": "modal can, polite question, request"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso chiederti una cosa?",
+          "info": "modale, richiesta, domanda educata"
+        },
+        {
+          "testo": "Ti posso chiedere una cosa?",
+          "info": "modale, colloquiale, richiesta"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you free later?",
+        "info": "present simple, question, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei libero più tardi?",
+          "info": "presente, tempo"
+        },
+        {
+          "testo": "Hai tempo più tardi?",
+          "info": "presente, colloquiale, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What have you been up to?",
+        "info": "present perfect continuous, question, informal, recent past"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che hai combinato ultimamente?",
+          "info": "passato recente, informale"
+        },
+        {
+          "testo": "Cosa hai fatto ultimamente?",
+          "info": "passato prossimo, tempo recente"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "So, what’s the plan?",
+        "info": "present simple, question, informal, planning"
+      },
+      "traduzioni": [
+        {
+          "testo": "Allora, qual è il piano?",
+          "info": "presente, pianificazione"
+        },
+        {
+          "testo": "Allora, che si fa?",
+          "info": "colloquiale, pianificazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What’s new?",
+        "info": "present simple, question, informal, small talk"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che novità?",
+          "info": "informale, small talk"
+        },
+        {
+          "testo": "Che c'è di nuovo?",
+          "info": "informale, small talk"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What’s the matter?",
+        "info": "present simple, question, concern"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che succede?",
+          "info": "preoccupazione, domanda"
+        },
+        {
+          "testo": "Che c'è?",
+          "info": "preoccupazione, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is everything okay?",
+        "info": "present simple, question, concern"
+      },
+      "traduzioni": [
+        {
+          "testo": "Va tutto bene?",
+          "info": "presente, preoccupazione"
+        },
+        {
+          "testo": "Tutto a posto?",
+          "info": "colloquiale, preoccupazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you doing anything this evening?",
+        "info": "present continuous, question, time expression, plans"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fai qualcosa stasera?",
+          "info": "presente, programmi, tempo"
+        },
+        {
+          "testo": "Hai programmi per stasera?",
+          "info": "presente, programmi, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you doing something important?",
+        "info": "present continuous, question, importance"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stai facendo qualcosa di importante?",
+          "info": "presente progressivo, importanza"
+        },
+        {
+          "testo": "Sei impegnato in qualcosa di importante?",
+          "info": "presente, importanza"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing these days?",
+        "info": "present continuous, question, routine, these days"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai facendo in questi giorni?",
+          "info": "presente progressivo, periodo, routine"
+        },
+        {
+          "testo": "Che fai in questo periodo?",
+          "info": "presente, periodo, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing tomorrow?",
+        "info": "present continuous, question, future plan, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa fai domani?",
+          "info": "presente, futuro, tempo"
+        },
+        {
+          "testo": "Cosa stai facendo domani?",
+          "info": "presente progressivo, futuro, tempo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing after work?",
+        "info": "present continuous, question, plans, time expression"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa fai dopo il lavoro?",
+          "info": "presente, programmi, tempo"
+        },
+        {
+          "testo": "Hai programmi dopo il lavoro?",
+          "info": "presente, programmi"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing this weekend?",
+        "info": "present continuous, question, plans, weekend"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa fai questo weekend?",
+          "info": "presente, programmi, weekend"
+        },
+        {
+          "testo": "Hai programmi per il weekend?",
+          "info": "presente, programmi, weekend"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing here?",
+        "info": "present continuous, question, surprise, location"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa ci fai qui?",
+          "info": "colloquiale, sorpresa, luogo"
+        },
+        {
+          "testo": "Che ci fai qui?",
+          "info": "colloquiale, sorpresa, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you doing on your phone?",
+        "info": "present continuous, question, everyday, object"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai facendo al telefono?",
+          "info": "presente progressivo, oggetto"
+        },
+        {
+          "testo": "Che stai facendo sul telefono?",
+          "info": "presente progressivo, oggetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you looking at?",
+        "info": "present continuous, question, action, object"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai guardando?",
+          "info": "presente progressivo, azione"
+        },
+        {
+          "testo": "Che cosa guardi?",
+          "info": "presente, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you thinking about?",
+        "info": "present continuous, question, mental action"
+      },
+      "traduzioni": [
+        {
+          "testo": "A cosa stai pensando?",
+          "info": "presente progressivo, pensiero"
+        },
+        {
+          "testo": "A che pensi?",
+          "info": "colloquiale, pensiero"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you talking about?",
+        "info": "present continuous, question, conversation, topic"
+      },
+      "traduzioni": [
+        {
+          "testo": "Di cosa stai parlando?",
+          "info": "presente progressivo, conversazione"
+        },
+        {
+          "testo": "Di che parli?",
+          "info": "colloquiale, conversazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you waiting for?",
+        "info": "present continuous, question, idiom, impatience"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai aspettando?",
+          "info": "presente progressivo, domanda"
+        },
+        {
+          "testo": "Che aspetti?",
+          "info": "colloquiale, impazienza"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What are you trying to do?",
+        "info": "present continuous, question, attempt, intention"
+      },
+      "traduzioni": [
+        {
+          "testo": "Cosa stai cercando di fare?",
+          "info": "presente progressivo, tentativo"
+        },
+        {
+          "testo": "Che cosa stai provando a fare?",
+          "info": "presente progressivo, tentativo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao! Cosa stai facendo?",
+        "info": "presente progressivo, domanda, quotidiano"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi! What are you doing?",
+          "info": "present continuous, question, everyday"
+        },
+        {
+          "testo": "Hey! What are you doing?",
+          "info": "present continuous, question, informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che fai?",
+        "info": "presente, colloquiale"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you doing?",
+          "info": "present continuous, question"
+        },
+        {
+          "testo": "What are you up to?",
+          "info": "present continuous, question, informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa stai combinando?",
+        "info": "informale, tono amichevole"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you up to?",
+          "info": "present continuous, question, informal, friendly"
+        },
+        {
+          "testo": "What are you up to right now?",
+          "info": "present continuous, question, right now, informal"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che succede?",
+        "info": "informale, situazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "What's going on?",
+          "info": "present continuous, question, informal, situation"
+        },
+        {
+          "testo": "What's happening?",
+          "info": "present continuous, question, informal, situation"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A cosa stai lavorando?",
+        "info": "presente progressivo, lavoro studio"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you working on?",
+          "info": "present continuous, question, activity, work study"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa stai facendo adesso?",
+        "info": "presente progressivo, adesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you doing right now?",
+          "info": "present continuous, question, right now"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei occupato?",
+        "info": "presente, disponibilita"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you busy?",
+          "info": "present simple, question, availability"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai un minuto?",
+        "info": "presente, disponibilita"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have a minute?",
+          "info": "present simple, polite question, availability"
+        },
+        {
+          "testo": "Have you got a minute?",
+          "info": "present perfect form, british, availability"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso chiederti una cosa?",
+        "info": "modale, richiesta, domanda educata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I ask you something?",
+          "info": "modal can, polite question, request"
+        },
+        {
+          "testo": "May I ask you something?",
+          "info": "modal may, more formal, request"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei libero più tardi?",
+        "info": "presente, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you free later?",
+          "info": "present simple, question, time expression"
+        },
+        {
+          "testo": "Do you have time later?",
+          "info": "present simple, question, time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che novità?",
+        "info": "informale, small talk"
+      },
+      "traduzioni": [
+        {
+          "testo": "What’s new?",
+          "info": "present simple, question, informal, small talk"
+        },
+        {
+          "testo": "Anything new?",
+          "info": "present simple, question, informal, small talk"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Va tutto bene?",
+        "info": "presente, preoccupazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is everything okay?",
+          "info": "present simple, question, concern"
+        },
+        {
+          "testo": "Is everything all right?",
+          "info": "present simple, question, concern"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai programmi per stasera?",
+        "info": "presente, programmi, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you doing anything this evening?",
+          "info": "present continuous, question, time expression, plans"
+        },
+        {
+          "testo": "Do you have any plans for tonight?",
+          "info": "present simple, question, plans, tonight"
+        }
+      ]
+    },
+    {
+      "contesto": "Come stai facendo?",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Cosa fai questo weekend?",
+        "info": "presente, programmi, weekend"
+      },
+      "traduzioni": [
+        {
+          "testo": "What are you doing this weekend?",
+          "info": "present continuous, question, plans, weekend"
+        },
+        {
+          "testo": "Do you have any plans for the weekend?",
+          "info": "present simple, question, plans, weekend"
+        }
+      ]
+    }
+  ]
+}

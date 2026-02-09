@@ -1,0 +1,1486 @@
+{
+  "version": 1,
+  "contesto": "Trasporti",
+  "frasi": [
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Airport",
+        "info": "Luogo di partenza/arrivo per voli (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Aeroporto",
+          "info": "Nome comune (sostantivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Airplane",
+        "info": "Mezzo di trasporto aereo (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Aereo",
+          "info": "Nome comune (sostantivo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Train station",
+        "info": "Luogo dove si prendono i treni (compound noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Stazione ferroviaria",
+          "info": "Nome composto"
+        },
+        {
+          "testo": "Stazione",
+          "info": "Forma abbreviata (contesto chiaro)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Train",
+        "info": "Mezzo di trasporto su rotaia (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Treno",
+          "info": "Nome comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bus",
+        "info": "Mezzo di trasporto pubblico su strada (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Autobus",
+          "info": "Nome comune"
+        },
+        {
+          "testo": "Bus",
+          "info": "Uso colloquiale (in italiano si usa spesso anche 'bus')"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Bicycle",
+        "info": "Mezzo di trasporto a pedali (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bicicletta",
+          "info": "Nome comune"
+        },
+        {
+          "testo": "Bici",
+          "info": "Forma breve (colloquiale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Car",
+        "info": "Mezzo di trasporto privato (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Macchina",
+          "info": "Uso comune in italiano"
+        },
+        {
+          "testo": "Auto",
+          "info": "Sinonimo frequente"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Taxi",
+        "info": "Servizio di trasporto privato a pagamento (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Taxi",
+          "info": "Uguale in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Call me a taxi",
+        "info": "Richiesta di far chiamare un taxi per te (imperative + object pronoun) (imperative)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chiamami un taxi",
+          "info": "Forma letterale"
+        },
+        {
+          "testo": "Mi chiama un taxi?",
+          "info": "Più naturale e cortese in italiano (forma di cortesia)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you stop here, please?",
+        "info": "Richiesta cortese all'autista (modal verb: can) (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può fermarsi qui, per favore?",
+          "info": "Forma di cortesia (Lei)"
+        },
+        {
+          "testo": "Puoi fermarti qui, per favore?",
+          "info": "Forma informale (tu)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the station?",
+        "info": "Chiedere indicazioni (question word: where) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la stazione?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "Dove si trova la stazione?",
+          "info": "Più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the bus stop?",
+        "info": "Chiedere la fermata dell'autobus (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la fermata dell'autobus?",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Dov'è la fermata del bus?",
+          "info": "Variante comune (bus)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the airport?",
+        "info": "Chiedere indicazioni per l'aeroporto (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'aeroporto?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "Come arrivo all'aeroporto?",
+          "info": "Variante più orientata al percorso (domanda pratica)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this the right place?",
+        "info": "Verificare se si è nel posto corretto (yes/no question) (be + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È questo il posto giusto?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "Siamo nel posto giusto?",
+          "info": "Se si è con qualcuno (we)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do I need to change?",
+        "info": "Chiedere se serve cambiare mezzo/linea (present simple) (do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Devo cambiare?",
+          "info": "Forma breve"
+        },
+        {
+          "testo": "Devo fare un cambio?",
+          "info": "Più specifico (cambio)"
+        },
+        {
+          "testo": "Devo cambiare linea?",
+          "info": "Se si parla di metro/bus"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One ticket, please",
+        "info": "Acquisto biglietto (polite request) (please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Un biglietto, per favore",
+          "info": "Richiesta standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is a ticket?",
+        "info": "Chiedere il prezzo del biglietto (how much) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa un biglietto?",
+          "info": "Domanda sul prezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a ticket to _",
+        "info": "Richiedere un biglietto per una destinazione (need + noun) (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve un biglietto per _",
+          "info": "Costruzione con 'serve'"
+        },
+        {
+          "testo": "Vorrei un biglietto per _",
+          "info": "Più cortese (condizionale)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One way",
+        "info": "Tipo di biglietto: solo andata (travel ticket type)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Solo andata",
+          "info": "Biglietto senza ritorno"
+        },
+        {
+          "testo": "Andata",
+          "info": "Forma breve (in biglietteria)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Round trip",
+        "info": "Tipo di biglietto: andata e ritorno (travel ticket type)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Andata e ritorno",
+          "info": "Biglietto con ritorno"
+        },
+        {
+          "testo": "A/R",
+          "info": "Abbreviazione comune (biglietteria)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which platform is it?",
+        "info": "Chiedere il binario (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è il binario?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "Da quale binario parte?",
+          "info": "Più specifico (partenza)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Platform number 5",
+        "info": "Indicazione del binario (platform + number) (noun phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Binario numero 5",
+          "info": "Indicazione standard"
+        },
+        {
+          "testo": "Binario 5",
+          "info": "Forma breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does it leave?",
+        "info": "Chiedere l'orario di partenza (present simple question) (do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora parte?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "A che ora parte il treno/autobus?",
+          "info": "Se vuoi specificare il mezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does it arrive?",
+        "info": "Chiedere l'orario di arrivo (present simple question) (do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora arriva?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "A che ora arriva il treno/autobus?",
+          "info": "Se vuoi specificare il mezzo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "When does the train leave?",
+        "info": "Chiedere l'orario del treno (when + present simple) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quando parte il treno?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is it delayed?",
+        "info": "Chiedere se c'è un ritardo (yes/no question) (be + past participle)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È in ritardo?",
+          "info": "Domanda breve"
+        },
+        {
+          "testo": "È in ritardo il treno?",
+          "info": "Se vuoi specificare"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is a taxi to ...?",
+        "info": "Chiedere il costo di un taxi fino a una destinazione (how much) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa un taxi per...?",
+          "info": "Domanda sul prezzo"
+        },
+        {
+          "testo": "Quanto costa un taxi fino a...?",
+          "info": "Variante con 'fino a' (destinazione)"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I buy a ticket?",
+        "info": "Chiedere dove acquistare un biglietto (modal can) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso comprare un biglietto?",
+          "info": "Domanda standard"
+        },
+        {
+          "testo": "Dove posso acquistare un biglietto?",
+          "info": "Più formale (acquistare)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this train going to _?",
+        "info": "Verificare la destinazione del treno (present continuous: going) (going to + place)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo treno va a _?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "Questo treno è diretto a _?",
+          "info": "Più formale (diretto)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Does this bus stop at _?",
+        "info": "Verificare se il bus fa fermata in un punto (present simple question) (does)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo autobus ferma a _?",
+          "info": "Forma diretta"
+        },
+        {
+          "testo": "Questo autobus fa fermata a _?",
+          "info": "Variante più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What’s the next stop?",
+        "info": "Chiedere la prossima fermata (what + noun phrase) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qual è la prossima fermata?",
+          "info": "Domanda standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you tell me when to get off?",
+        "info": "Chiedere di avvisare quando scendere (polite request) (can you + verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi può dire quando devo scendere?",
+          "info": "Forma di cortesia (Lei)"
+        },
+        {
+          "testo": "Puoi dirmi quando devo scendere?",
+          "info": "Forma informale (tu)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, where is the ticket office?",
+        "info": "Chiedere dove si compra il biglietto (excuse me) (polite opener + WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, dov'è la biglietteria?",
+          "info": "Forma di cortesia"
+        },
+        {
+          "testo": "Scusa, dov'è la biglietteria?",
+          "info": "Forma informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a direct train to _?",
+        "info": "Chiedere se esiste un treno diretto (there is/are question) (direct)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un treno diretto per _?",
+          "info": "Domanda standard"
+        },
+        {
+          "testo": "C'è un treno senza cambi per _?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long does it take?",
+        "info": "Chiedere la durata del viaggio (how long) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto ci vuole?",
+          "info": "Forma colloquiale"
+        },
+        {
+          "testo": "Quanto tempo ci vuole?",
+          "info": "Forma completa"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the taxi rank?",
+        "info": "Chiedere dove sono i taxi in fila (UK: taxi rank) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la postazione dei taxi?",
+          "info": "Traduzione naturale"
+        },
+        {
+          "testo": "Dove si trovano i taxi?",
+          "info": "Variante più generica"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you call a taxi for me?",
+        "info": "Richiesta più cortese di 'Call me a taxi' (modal: could) (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe chiamarmi un taxi?",
+          "info": "Forma di cortesia (Lei)"
+        },
+        {
+          "testo": "Potresti chiamarmi un taxi?",
+          "info": "Forma informale (tu)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please take me to _",
+        "info": "Dare indicazione al tassista (imperative) (please + verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi porti a _ per favore",
+          "info": "Forma di cortesia (Lei)"
+        },
+        {
+          "testo": "Mi porti a _",
+          "info": "Senza 'per favore' (più secco)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "Chiedere metodo di pagamento (modal: can) (payment)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con la carta?",
+          "info": "Domanda standard"
+        },
+        {
+          "testo": "Accettate la carta?",
+          "info": "Variante rivolta al tassista/servizio"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Keep the change",
+        "info": "Dire al tassista di tenere il resto (imperative) (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Tenga il resto",
+          "info": "Forma di cortesia"
+        },
+        {
+          "testo": "Tieni il resto",
+          "info": "Forma informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the departure board?",
+        "info": "Chiedere dove vedere partenze/arrivi (departure board) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il tabellone delle partenze?",
+          "info": "Stazione/aeroporto"
+        },
+        {
+          "testo": "Dov'è il tabellone?",
+          "info": "Se il contesto è chiaro"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is gate _?",
+        "info": "Chiedere il gate in aeroporto (gate + number) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il gate _?",
+          "info": "Uso comune in italiano"
+        },
+        {
+          "testo": "Dov'è l'imbarco _?",
+          "info": "Variante più 'italiana' (imbarco)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is the train on time?",
+        "info": "Chiedere se il treno è puntuale (on time) (yes/no question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il treno è in orario?",
+          "info": "Domanda standard"
+        },
+        {
+          "testo": "Il treno è puntuale?",
+          "info": "Sinonimo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Aeroporto",
+        "info": "Luogo di partenza/arrivo per voli (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Airport",
+          "info": "Sostantivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Aereo",
+        "info": "Mezzo di trasporto aereo (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Airplane",
+          "info": "US; anche 'plane' (forma breve)"
+        },
+        {
+          "testo": "Plane",
+          "info": "Forma breve e comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Stazione / stazione ferroviaria",
+        "info": "Luogo dove si prendono i treni (compound noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Train station",
+          "info": "Sostantivo composto"
+        },
+        {
+          "testo": "Station",
+          "info": "Se il contesto è chiaro (treni)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Treno",
+        "info": "Mezzo di trasporto su rotaia (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Train",
+          "info": "Sostantivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Autobus",
+        "info": "Mezzo di trasporto pubblico (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bus",
+          "info": "Forma comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Bicicletta / bici",
+        "info": "Mezzo di trasporto a pedali (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Bicycle",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Bike",
+          "info": "Forma breve e comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Macchina / auto",
+        "info": "Mezzo di trasporto privato (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Car",
+          "info": "Sostantivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Taxi",
+        "info": "Servizio di trasporto privato (noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Taxi",
+          "info": "Uguale in inglese"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi chiama un taxi? / Potrebbe chiamarmi un taxi?",
+        "info": "Richiesta cortese (polite request) (modal: could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you call a taxi for me?",
+          "info": "Più cortese e naturale"
+        },
+        {
+          "testo": "Call me a taxi",
+          "info": "Più diretto (imperative)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può fermarsi qui, per favore?",
+        "info": "Richiesta all'autista (polite request) (modal: can/could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you stop here, please?",
+          "info": "Richiesta standard"
+        },
+        {
+          "testo": "Could you stop here, please?",
+          "info": "Più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la stazione?",
+        "info": "Chiedere indicazioni (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the station?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "How do I get to the station?",
+          "info": "Se vuoi chiedere il percorso"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la fermata dell'autobus?",
+        "info": "Chiedere la fermata (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the bus stop?",
+          "info": "Domanda standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è l'aeroporto? / Come arrivo all'aeroporto?",
+        "info": "Chiedere indicazioni (WH-question) (how + verb)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the airport?",
+          "info": "Domanda diretta"
+        },
+        {
+          "testo": "How do I get to the airport?",
+          "info": "Chiedere il percorso"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È questo il posto giusto?",
+        "info": "Verificare se si è nel posto corretto (yes/no question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this the right place?",
+          "info": "Domanda standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Devo cambiare? / Devo fare un cambio?",
+        "info": "Chiedere se serve cambiare mezzo/linea (do-support) (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do I need to change?",
+          "info": "Generico"
+        },
+        {
+          "testo": "Do I need to change trains?",
+          "info": "Specifico (treni)"
+        },
+        {
+          "testo": "Do I need to change lines?",
+          "info": "Specifico (metro/bus)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Un biglietto, per favore",
+        "info": "Acquisto biglietto (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "One ticket, please",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa un biglietto?",
+        "info": "Domanda sul prezzo (how much) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is a ticket?",
+          "info": "Domanda standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi serve / Vorrei un biglietto per _",
+        "info": "Richiesta biglietto (need/would like) (present simple / would like)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a ticket to _",
+          "info": "Diretto"
+        },
+        {
+          "testo": "I'd like a ticket to _",
+          "info": "Più cortese (would like)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Solo andata / Andata e ritorno",
+        "info": "Tipo di biglietto (ticket type)"
+      },
+      "traduzioni": [
+        {
+          "testo": "One way",
+          "info": "Solo andata"
+        },
+        {
+          "testo": "Round trip",
+          "info": "Andata e ritorno"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è il binario? / Da quale binario parte?",
+        "info": "Chiedere il binario (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which platform is it?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "Which platform does it leave from?",
+          "info": "Più specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Binario 5 / Binario numero 5",
+        "info": "Indicazione binario (noun phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Platform number 5",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Platform 5",
+          "info": "Forma breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora parte?",
+        "info": "Chiedere orario di partenza (do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does it leave?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "What time does the train leave?",
+          "info": "Se vuoi specificare (train)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora arriva?",
+        "info": "Chiedere orario di arrivo (do-support)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does it arrive?",
+          "info": "Domanda generica"
+        },
+        {
+          "testo": "What time does the train arrive?",
+          "info": "Se vuoi specificare (train)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quando parte il treno?",
+        "info": "Chiedere orario treno (when) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "When does the train leave?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È in ritardo? / È in orario?",
+        "info": "Chiedere puntualità/ritardo (yes/no questions) (on time/delayed)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is it delayed?",
+          "info": "Ritardo (generico)"
+        },
+        {
+          "testo": "Is the train on time?",
+          "info": "Puntualità (specifico: train)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa un taxi per...?",
+        "info": "Chiedere costo taxi (how much) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is a taxi to ...?",
+          "info": "Domanda standard"
+        },
+        {
+          "testo": "How much does a taxi cost to ...?",
+          "info": "Variante più esplicita"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso comprare un biglietto?",
+        "info": "Chiedere dove acquistare (modal can) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I buy a ticket?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo treno va a _? / È diretto a _?",
+        "info": "Verificare destinazione (going to / directed) (present continuous)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this train going to _?",
+          "info": "Forma comune"
+        },
+        {
+          "testo": "Is this train going directly to _?",
+          "info": "Enfatizza 'diretto'"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo autobus fa fermata a _?",
+        "info": "Verificare fermate (does) (present simple question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Does this bus stop at _?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qual è la prossima fermata?",
+        "info": "Chiedere prossima fermata (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "What’s the next stop?",
+          "info": "Forma breve e comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi può dire quando devo scendere?",
+        "info": "Chiedere di avvisare quando scendere (polite request) (can/could)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you tell me when to get off?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Could you tell me when to get off?",
+          "info": "Più cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, dov'è la biglietteria?",
+        "info": "Chiedere biglietteria (polite opener) (excuse me)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, where is the ticket office?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un treno diretto per _? / Senza cambi?",
+        "info": "Chiedere collegamento diretto (there is/are question) (direct)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a direct train to _?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Is there a train to _ without changes?",
+          "info": "Più esplicito (senza cambi)"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto ci vuole? / Quanto tempo ci vuole?",
+        "info": "Chiedere durata (how long) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long does it take?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove sono i taxi? / Dov'è la postazione dei taxi?",
+        "info": "Chiedere area taxi (taxi rank/stand) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the taxi rank?",
+          "info": "UK; US spesso: 'taxi stand'"
+        },
+        {
+          "testo": "Where is the taxi stand?",
+          "info": "US; anche comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi porti a _ per favore",
+        "info": "Istruzione al tassista (imperative) (please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please take me to _",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con la carta?",
+        "info": "Metodo di pagamento (modal: can) (payment)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "Forma standard"
+        },
+        {
+          "testo": "Do you take cards?",
+          "info": "Variante rivolta al tassista/servizio"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Tenga il resto",
+        "info": "Dire di tenere il resto (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Keep the change",
+          "info": "Espressione fissa"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il tabellone delle partenze?",
+        "info": "Chiedere dove vedere le partenze (departure board) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the departure board?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il gate _?",
+        "info": "Chiedere il gate (gate + number) (WH-question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is gate _?",
+          "info": "Forma standard"
+        }
+      ]
+    }
+  ]
+}

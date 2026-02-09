@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "contesto": "Relazioni",
+  "frasi": [
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, can I ask you something personal?",
+        "info": "domanda introduttiva, contesto informale, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, posso chiederti una cosa personale?",
+          "info": "domanda cortese, contesto informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Are you single?",
+        "info": "domanda diretta, stato civile, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sei single?",
+          "info": "domanda diretta, stato sentimentale"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you have a boyfriend or a girlfriend?",
+        "info": "domanda alternativa, relazione affettiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai un fidanzato o una fidanzata?",
+          "info": "domanda alternativa, relazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm single at the moment",
+        "info": "espressione temporale, stato attuale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono single al momento",
+          "info": "stato temporaneo"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm in a relationship",
+        "info": "espressione di stato, relazione stabile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono in una relazione",
+          "info": "stato sentimentale"
+        },
+        {
+          "testo": "Sono fidanzato/a",
+          "info": "equivalente comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm engaged and getting married next year",
+        "info": "present continuous, progetto futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono fidanzato/a e mi sposo l'anno prossimo",
+          "info": "presente con valore futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm married and I have two children",
+        "info": "present simple, informazioni familiari"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono sposato/a e ho due figli",
+          "info": "stato civile, famiglia"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have two kids from my previous marriage",
+        "info": "present simple, famiglia, specificazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho due figli dal mio precedente matrimonio",
+          "info": "specificazione temporale"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm divorced but in a new relationship",
+        "info": "contrasto, stato passato e presente"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono divorziato/a ma in una nuova relazione",
+          "info": "contrasto, situazione attuale"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Would you like to go out with me sometime?",
+        "info": "condizionale, invito, cortesia"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti andrebbe di uscire con me qualche volta?",
+          "info": "invito gentile"
+        },
+        {
+          "testo": "Ti piacerebbe uscire con me?",
+          "info": "variante più diretta"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, posso chiederti una cosa personale?",
+        "info": "domanda introduttiva, contesto informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, can I ask you something personal?",
+          "info": "present simple, domanda cortese"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sei single?",
+        "info": "domanda diretta, stato sentimentale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Are you single?",
+          "info": "present simple, stato civile"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai un fidanzato o una fidanzata?",
+        "info": "domanda alternativa, relazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you have a boyfriend or a girlfriend?",
+          "info": "present simple, domanda alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono single al momento",
+        "info": "stato temporaneo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm single at the moment",
+          "info": "espressione temporale"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono in una relazione",
+        "info": "stato sentimentale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm in a relationship",
+          "info": "present simple, relazione stabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono fidanzato/a e mi sposo l'anno prossimo",
+        "info": "presente con valore futuro"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm engaged and getting married next year",
+          "info": "present continuous, piano futuro"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono sposato/a e ho due figli",
+        "info": "stato civile, famiglia"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm married and I have two children",
+          "info": "present simple, famiglia"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho due figli dal mio precedente matrimonio",
+        "info": "specificazione temporale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have two kids from my previous marriage",
+          "info": "present simple, famiglia"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono divorziato/a ma in una nuova relazione",
+        "info": "contrasto, situazione attuale"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm divorced but in a new relationship",
+          "info": "contrasto, stato presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Relazioni",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti andrebbe di uscire con me qualche volta?",
+        "info": "invito gentile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Would you like to go out with me sometime?",
+          "info": "condizionale, invito"
+        }
+      ]
+    }
+  ]
+}

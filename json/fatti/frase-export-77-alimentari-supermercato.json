@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "contesto": "Alimentari / Supermercato",
+  "frasi": [
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I get 200 grams of ham, please?",
+        "info": "Richiesta cortese al banco. Can I get = forma informale ma educata (request pattern)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere 200 grammi di prosciutto?",
+          "info": "Forma neutra e comune"
+        },
+        {
+          "testo": "Potrei avere 200 grammi di prosciutto, per favore?",
+          "info": "Forma più cortese (conditional)"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is this per kilo?",
+        "info": "Domanda sul prezzo. Per + unità di misura (price per unit)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa al chilo?",
+          "info": "Espressione standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this on sale?",
+        "info": "On sale = in offerta (fixed expression)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È in offerta?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a discount if I buy two?",
+        "info": "If + present simple per condizioni reali (first conditional simplified)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è uno sconto se ne compro due?",
+          "info": "Condizione reale"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you sell organic vegetables?",
+        "info": "Do you sell = domanda su disponibilità (present simple question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vendete verdure biologiche?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this gluten-free?",
+        "info": "Aggettivo composto usato come predicato (food restriction)"
+      },
+      "traduzioni": [
+        {
+          "testo": "È senza glutine?",
+          "info": "Domanda breve comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I find the milk?",
+        "info": "Where can I find = formula per chiedere la posizione (polite question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso trovare il latte?",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Dove trovo il latte?",
+          "info": "Forma colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could I have a receipt, please?",
+        "info": "Could I have = richiesta molto cortese (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrei avere lo scontrino?",
+          "info": "Forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you take reusable bags?",
+        "info": "Take = accettare (verb usage)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Accettate borse riutilizzabili?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I’m just looking, thanks",
+        "info": "Just looking = risposta tipica a un commesso (fixed phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sto solo guardando, grazie",
+          "info": "Risposta cortese"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere 200 grammi di prosciutto?",
+        "info": "Richiesta al banco (polite request)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I get 200 grams of ham, please?",
+          "info": "Can I get + quantity"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa al chilo?",
+        "info": "Prezzo per unità di misura"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is this per kilo?",
+          "info": "Per + unit"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È in offerta?",
+        "info": "Domanda su promozioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this on sale?",
+          "info": "Fixed expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è uno sconto se ne compro due?",
+        "info": "Condizione reale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a discount if I buy two?",
+          "info": "If + present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vendete verdure biologiche?",
+        "info": "Domanda su disponibilità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you sell organic vegetables?",
+          "info": "Present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È senza glutine?",
+        "info": "Restrizioni alimentari"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this gluten-free?",
+          "info": "Compound adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove trovo il latte?",
+        "info": "Richiesta di posizione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I find the milk?",
+          "info": "Polite question"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrei avere lo scontrino?",
+        "info": "Richiesta cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could I have a receipt, please?",
+          "info": "Polite form"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Accettate borse riutilizzabili?",
+        "info": "Domanda su regole del negozio"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you take reusable bags?",
+          "info": "Verb take = accept"
+        }
+      ]
+    },
+    {
+      "contesto": "Alimentari / Supermercato",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sto solo guardando, grazie",
+        "info": "Risposta standard a un commesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "I’m just looking, thanks",
+          "info": "Fixed phrase"
+        }
+      ]
+    }
+  ]
+}

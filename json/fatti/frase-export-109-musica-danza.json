@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "contesto": "Musica / Danza",
+  "frasi": [
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, do you like music?",
+        "info": "present simple, domanda generale, verbo like"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, ti piace la musica?",
+          "info": "saluto informale, presente indicativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What kind of music do you like?",
+        "info": "wh question, present simple, interrogativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che tipo di musica ti piace?",
+          "info": "domanda aperta, presente indicativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I like rock music",
+        "info": "present simple, affermazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi piace la musica rock",
+          "info": "verbo piacere, presente"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't like this music",
+        "info": "present simple negativo, verbo like"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non mi piace questa musica",
+          "info": "negazione semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Who is your favorite singer?",
+        "info": "possessive adjective, superlativo, domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chi è il tuo cantante preferito?",
+          "info": "aggettivo possessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is my favorite song",
+        "info": "present simple, dimostrativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa è la mia canzone preferita",
+          "info": "aggettivo possessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I love this song",
+        "info": "verbo love, intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "Amo questa canzone",
+          "info": "verbo amare"
+        },
+        {
+          "testo": "Mi piace moltissimo questa canzone",
+          "info": "rafforzativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Who sings this song?",
+        "info": "present simple, domanda soggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chi canta questa canzone?",
+          "info": "domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The music is very loud",
+        "info": "aggettivo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "La musica è molto alta",
+          "info": "aggettivo di intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I can't hear the music well",
+        "info": "modal verb can, negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non riesco a sentire bene la musica",
+          "info": "verbo potere"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Do you want to dance?",
+        "info": "present simple, invito"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vuoi ballare?",
+          "info": "domanda informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Would you like to dance?",
+        "info": "condizionale, forma cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti va di ballare?",
+          "info": "invito gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I don't know how to dance",
+        "info": "present simple negativo, know how to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Non so ballare",
+          "info": "costruzione sapere fare"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you show me how to dance?",
+        "info": "modal verb can, richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi mostrarmi come ballare?",
+          "info": "richiesta informale"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, ti piace la musica?",
+        "info": "saluto, presente indicativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, do you like music?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che tipo di musica ti piace?",
+        "info": "domanda aperta"
+      },
+      "traduzioni": [
+        {
+          "testo": "What kind of music do you like?",
+          "info": "wh question"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi piace la musica rock",
+        "info": "affermazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I like rock music",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non mi piace questa musica",
+        "info": "negazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't like this music",
+          "info": "present simple negative"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Chi è il tuo cantante preferito?",
+        "info": "domanda"
+      },
+      "traduzioni": [
+        {
+          "testo": "Who is your favorite singer?",
+          "info": "possessive adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa è la mia canzone preferita",
+        "info": "dimostrativo, possessivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is my favorite song",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Amo questa canzone",
+        "info": "intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I love this song",
+          "info": "verbo love"
+        },
+        {
+          "testo": "I really like this song",
+          "info": "rafforzativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Chi canta questa canzone?",
+        "info": "domanda diretta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Who sings this song?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La musica è molto alta",
+        "info": "aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "The music is very loud",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non riesco a sentire bene la musica",
+        "info": "incapacità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I can't hear the music well",
+          "info": "modal verb can"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vuoi ballare?",
+        "info": "invito informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Do you want to dance?",
+          "info": "present simple question"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti va di ballare?",
+        "info": "invito cortese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Would you like to dance?",
+          "info": "conditional polite"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Non so ballare",
+        "info": "incapacità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I don't know how to dance",
+          "info": "know how to"
+        }
+      ]
+    },
+    {
+      "contesto": "Musica / Danza",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi mostrarmi come ballare?",
+        "info": "richiesta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you show me how to dance?",
+          "info": "modal verb can"
+        }
+      ]
+    }
+  ]
+}

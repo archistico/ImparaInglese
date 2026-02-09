@@ -1,0 +1,476 @@
+{
+  "version": 1,
+  "contesto": "Hotel / Ostello / Alloggio",
+  "frasi": [
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I have a reservation",
+        "info": "Frase tipica al momento dell'arrivo (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho una prenotazione",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I would like a room",
+        "info": "Richiesta di una stanza (would like = forma cortese)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei una camera",
+          "info": "Condizionale di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "For how many nights?",
+        "info": "Domanda sul numero di notti (for + duration)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per quante notti?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One night",
+        "info": "Indicazione durata soggiorno (noun phrase)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Una notte",
+          "info": "Singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Two nights",
+        "info": "Indicazione durata soggiorno (plural noun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Due notti",
+          "info": "Plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it per night?",
+        "info": "Domanda sul prezzo (how much)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa a notte?",
+          "info": "Domanda sul costo"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is breakfast included?",
+        "info": "Verifica servizi inclusi (yes/no question)"
+      },
+      "traduzioni": [
+        {
+          "testo": "La colazione è inclusa?",
+          "info": "Forma completa"
+        },
+        {
+          "testo": "Con colazione inclusa?",
+          "info": "Forma abbreviata"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time is check-in?",
+        "info": "Chiedere orario di arrivo (check-in)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora è il check-in?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time is check-out?",
+        "info": "Chiedere orario di partenza (check-out)"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora è il check-out?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I leave my luggage?",
+        "info": "Richiesta permesso (modal verb: can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso lasciare i bagagli?",
+          "info": "Prima o dopo il soggiorno"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is my room?",
+        "info": "Chiedere indicazioni (where)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la mia camera?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is room number 123?",
+        "info": "Chiedere posizione stanza specifica"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la stanza numero 123?",
+          "info": "Numero come riferimento"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my key",
+        "info": "Segnalare un problema (past simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso la mia chiave",
+          "info": "Passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need the Wi-Fi password",
+        "info": "Richiesta informazione (need)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi serve la password del Wi-Fi",
+          "info": "Forma diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a safe?",
+        "info": "Chiedere se esiste un servizio (there is)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è una cassaforte?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There is a problem with the room",
+        "info": "Segnalare un problema (there is)"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un problema con la camera",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you please clean my room?",
+        "info": "Richiesta cortese (can + please)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe pulire la mia camera, per favore?",
+          "info": "Forma di cortesia"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you change the sheets?",
+        "info": "Richiesta servizio (can)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe cambiare le lenzuola?",
+          "info": "Forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do you turn on the air-conditioning?",
+        "info": "Chiedere istruzioni (how do you)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come si accende l'aria condizionata?",
+          "info": "Forma impersonale"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The water is cold",
+        "info": "Segnalare problema (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'acqua è fredda",
+          "info": "Descrizione problema"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The water is too hot",
+        "info": "Segnalare problema (too + adjective)"
+      },
+      "traduzioni": [
+        {
+          "testo": "L'acqua è troppo calda",
+          "info": "Uso di 'troppo'"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho una prenotazione",
+        "info": "Frase all'arrivo (present simple)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I have a reservation",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei una camera",
+        "info": "Richiesta cortese (condizionale)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I would like a room",
+          "info": "Would like = forma educata"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per quante notti?",
+        "info": "Domanda sulla durata"
+      },
+      "traduzioni": [
+        {
+          "testo": "For how many nights?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa a notte?",
+        "info": "Domanda sul prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is it per night?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "La colazione è inclusa?",
+        "info": "Verifica servizi inclusi"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is breakfast included?",
+          "info": "Yes/no question"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora è il check-in?",
+        "info": "Orario di arrivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time is check-in?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora è il check-out?",
+        "info": "Orario di partenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time is check-out?",
+          "info": "Uso comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso lasciare i bagagli?",
+        "info": "Richiesta permesso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I leave my luggage?",
+          "info": "Forma standard"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la mia camera?",
+        "info": "Chiedere indicazioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is my room?",
+          "info": "Domanda diretta"
+        }
+      ]
+    },
+    {
+      "contesto": "Hotel / Ostello / Alloggio",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso la mia chiave",
+        "info": "Segnalare problema"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my key",
+          "info": "Past simple"
+        }
+      ]
+    }
+  ]
+}

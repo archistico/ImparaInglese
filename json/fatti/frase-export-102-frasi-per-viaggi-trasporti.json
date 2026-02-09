@@ -1,0 +1,1032 @@
+{
+  "version": 1,
+  "contesto": "Frasi per viaggi / trasporti",
+  "frasi": [
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Excuse me, where is the bus stop?",
+        "info": "orientamento, domanda, where, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Scusi, dov'è la fermata dell'autobus?",
+          "info": "orientamento, domanda"
+        },
+        {
+          "testo": "Mi scusi, dove si trova la fermata del bus?",
+          "info": "orientamento, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Which platform does the train leave from?",
+        "info": "stazione, domanda, which, platform"
+      },
+      "traduzioni": [
+        {
+          "testo": "Da quale binario parte il treno?",
+          "info": "stazione, domanda"
+        },
+        {
+          "testo": "Da che binario parte il treno?",
+          "info": "stazione, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What time does the next train leave?",
+        "info": "orari, domanda, next, what time"
+      },
+      "traduzioni": [
+        {
+          "testo": "A che ora parte il prossimo treno?",
+          "info": "orari, domanda"
+        },
+        {
+          "testo": "Quando parte il prossimo treno?",
+          "info": "orari, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Does this bus/train go to…?",
+        "info": "direzione, domanda, does, go to"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo autobus/treno va a…?",
+          "info": "direzione, domanda"
+        },
+        {
+          "testo": "Questo autobus/treno arriva a…?",
+          "info": "direzione, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Does this bus/train stop at…?",
+        "info": "fermate, domanda, stop at, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo autobus/treno ferma a…?",
+          "info": "fermate, domanda"
+        },
+        {
+          "testo": "Questo autobus/treno fa fermata a…?",
+          "info": "fermate, più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How do I get to…?",
+        "info": "orientamento, domanda, how do I, direzioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "Come arrivo a…?",
+          "info": "orientamento, domanda"
+        },
+        {
+          "testo": "Come faccio ad arrivare a…?",
+          "info": "orientamento, più esplicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How long does it take to get to…?",
+        "info": "durata, domanda, how long, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto ci vuole per arrivare a…?",
+          "info": "durata, domanda"
+        },
+        {
+          "testo": "Quanto tempo ci vuole per arrivare a…?",
+          "info": "durata, più chiaro"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where can I buy a ticket?",
+        "info": "biglietti, domanda, can, comprare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove posso comprare un biglietto?",
+          "info": "biglietti, domanda"
+        },
+        {
+          "testo": "Dove posso acquistare il biglietto?",
+          "info": "biglietti, più formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'd like one ticket to…, please.",
+        "info": "biglietti, richiesta, would like, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Vorrei un biglietto per…, per favore.",
+          "info": "biglietti, richiesta"
+        },
+        {
+          "testo": "Un biglietto per…, per favore.",
+          "info": "biglietti, più rapido"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "One-way or round trip?",
+        "info": "biglietti, domanda, alternative, formula fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Solo andata o andata e ritorno?",
+          "info": "biglietti, domanda"
+        },
+        {
+          "testo": "Andata o andata e ritorno?",
+          "info": "biglietti, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I pay by card?",
+        "info": "pagamento, domanda, can, carta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso pagare con la carta?",
+          "info": "pagamento, domanda"
+        },
+        {
+          "testo": "Accettate carte?",
+          "info": "pagamento, più rapido"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can I have a window/aisle seat?",
+        "info": "posto, richiesta, can, scelta posto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Posso avere un posto finestrino/corridoio?",
+          "info": "posto, richiesta"
+        },
+        {
+          "testo": "Vorrei un posto finestrino/corridoio, per favore.",
+          "info": "posto, richiesta, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this seat taken?",
+        "info": "posto, domanda, seat, formula fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo posto è libero?",
+          "info": "posto, domanda"
+        },
+        {
+          "testo": "È occupato questo posto?",
+          "info": "posto, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you move your bag, please?",
+        "info": "posto, richiesta gentile, could, please"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può spostare la borsa, per favore?",
+          "info": "posto, richiesta"
+        },
+        {
+          "testo": "Puoi spostare la tua borsa, per favore?",
+          "info": "posto, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where should I get off for…?",
+        "info": "fermate, domanda, get off, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dove devo scendere per…?",
+          "info": "fermate, domanda"
+        },
+        {
+          "testo": "A quale fermata devo scendere per…?",
+          "info": "fermate, più preciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please tell me when we get to…",
+        "info": "fermate, richiesta, please, when"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi dice quando arriviamo a… per favore?",
+          "info": "fermate, richiesta"
+        },
+        {
+          "testo": "Mi avvisa quando arriviamo a…?",
+          "info": "fermate, più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I missed my stop.",
+        "info": "problema, past simple, miss, fermata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso la fermata.",
+          "info": "problema, semplice"
+        },
+        {
+          "testo": "Sono sceso alla fermata sbagliata.",
+          "info": "problema, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is this the right train for…?",
+        "info": "controllo, domanda, right, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "È questo il treno giusto per…?",
+          "info": "controllo, domanda"
+        },
+        {
+          "testo": "Questo è il treno per…?",
+          "info": "controllo, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Is there a delay?",
+        "info": "ritardi, domanda, there is, delay"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è un ritardo?",
+          "info": "ritardi, domanda"
+        },
+        {
+          "testo": "Siamo in ritardo?",
+          "info": "ritardi, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My flight/train was cancelled.",
+        "info": "problema, past simple, cancellazione, trasporti"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il mio volo/treno è stato cancellato.",
+          "info": "problema, cancellazione"
+        },
+        {
+          "testo": "Mi hanno cancellato il volo/treno.",
+          "info": "problema, più colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the taxi stand?",
+        "info": "taxi, domanda, where, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è la postazione dei taxi?",
+          "info": "taxi, domanda"
+        },
+        {
+          "testo": "Dove sono i taxi?",
+          "info": "taxi, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Could you take me to…, please?",
+        "info": "taxi, richiesta, could, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi può portare a…, per favore?",
+          "info": "taxi, richiesta"
+        },
+        {
+          "testo": "Può portarmi a…?",
+          "info": "taxi, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "How much is it to…?",
+        "info": "costo, domanda, how much, prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quanto costa per…?",
+          "info": "costo, domanda"
+        },
+        {
+          "testo": "Quanto viene fino a…?",
+          "info": "costo, taxi"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Please slow down.",
+        "info": "sicurezza, richiesta, imperativo, polite"
+      },
+      "traduzioni": [
+        {
+          "testo": "Per favore rallenti.",
+          "info": "sicurezza, formale"
+        },
+        {
+          "testo": "Per favore vai più piano.",
+          "info": "sicurezza, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me with my luggage?",
+        "info": "bagagli, richiesta, can, help"
+      },
+      "traduzioni": [
+        {
+          "testo": "Può aiutarmi con i bagagli?",
+          "info": "bagagli, formale"
+        },
+        {
+          "testo": "Mi aiuti con la valigia, per favore?",
+          "info": "bagagli, più specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is baggage claim?",
+        "info": "aeroporto, domanda, baggage claim, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è il ritiro bagagli?",
+          "info": "aeroporto, domanda"
+        },
+        {
+          "testo": "Dove si ritirano i bagagli?",
+          "info": "aeroporto, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My luggage is missing.",
+        "info": "problema, bagagli, missing, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi manca il bagaglio.",
+          "info": "problema, bagagli"
+        },
+        {
+          "testo": "Il mio bagaglio non è arrivato.",
+          "info": "problema, più naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Scusi, dov'è la fermata dell'autobus?",
+        "info": "orientamento, domanda, dove, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Excuse me, where is the bus stop?",
+          "info": "orientamento, domanda"
+        },
+        {
+          "testo": "Sorry, where's the bus stop?",
+          "info": "orientamento, informale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Da quale binario parte il treno?",
+        "info": "stazione, domanda, binario, partire"
+      },
+      "traduzioni": [
+        {
+          "testo": "Which platform does the train leave from?",
+          "info": "stazione, platform"
+        },
+        {
+          "testo": "What platform does the train leave from?",
+          "info": "stazione, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "A che ora parte il prossimo treno?",
+        "info": "orari, domanda, prossimo, tempo"
+      },
+      "traduzioni": [
+        {
+          "testo": "What time does the next train leave?",
+          "info": "orari, next"
+        },
+        {
+          "testo": "When does the next train leave?",
+          "info": "orari, alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo autobus/treno va a…?",
+        "info": "direzione, domanda, andare, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Does this bus/train go to…?",
+          "info": "direzione, does"
+        },
+        {
+          "testo": "Is this bus/train going to…?",
+          "info": "direzione, present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo autobus/treno ferma a…?",
+        "info": "fermate, domanda, fermare, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Does this bus/train stop at…?",
+          "info": "fermate, stop at"
+        },
+        {
+          "testo": "Does this bus/train stop in…?",
+          "info": "fermate, variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Come arrivo a…?",
+        "info": "orientamento, domanda, come, direzioni"
+      },
+      "traduzioni": [
+        {
+          "testo": "How do I get to…?",
+          "info": "orientamento, get to"
+        },
+        {
+          "testo": "How can I get to…?",
+          "info": "orientamento, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto ci vuole per arrivare a…?",
+        "info": "durata, domanda, tempo, arrivare"
+      },
+      "traduzioni": [
+        {
+          "testo": "How long does it take to get to…?",
+          "info": "durata, how long"
+        },
+        {
+          "testo": "How long does it take to reach…?",
+          "info": "durata, reach"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove posso comprare un biglietto?",
+        "info": "biglietti, domanda, comprare, potere"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where can I buy a ticket?",
+          "info": "biglietti, can"
+        },
+        {
+          "testo": "Where can I get a ticket?",
+          "info": "biglietti, get"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vorrei un biglietto per…, per favore.",
+        "info": "biglietti, richiesta, vorrei, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'd like one ticket to…, please.",
+          "info": "biglietti, would like"
+        },
+        {
+          "testo": "Can I have a ticket to… , please?",
+          "info": "biglietti, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Solo andata o andata e ritorno?",
+        "info": "biglietti, domanda, alternativa, formula fissa"
+      },
+      "traduzioni": [
+        {
+          "testo": "One-way or round trip?",
+          "info": "biglietti, formula fissa"
+        },
+        {
+          "testo": "Single or return?",
+          "info": "biglietti, britannico"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso pagare con la carta?",
+        "info": "pagamento, domanda, potere, carta"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I pay by card?",
+          "info": "pagamento, can"
+        },
+        {
+          "testo": "Do you take cards?",
+          "info": "pagamento, take"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Posso avere un posto finestrino/corridoio?",
+        "info": "posto, richiesta, potere, scelta posto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can I have a window/aisle seat?",
+          "info": "posto, can"
+        },
+        {
+          "testo": "Could I have a window/aisle seat?",
+          "info": "posto, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo posto è libero?",
+        "info": "posto, domanda, libero, occupato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this seat taken?",
+          "info": "posto, formula fissa"
+        },
+        {
+          "testo": "Is this seat free?",
+          "info": "posto, più diretto"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può spostare la borsa, per favore?",
+        "info": "posto, richiesta gentile, potere, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you move your bag, please?",
+          "info": "posto, could"
+        },
+        {
+          "testo": "Can you move your bag, please?",
+          "info": "posto, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dove devo scendere per…?",
+        "info": "fermate, domanda, scendere, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where should I get off for…?",
+          "info": "fermate, get off"
+        },
+        {
+          "testo": "Which stop should I get off at for…?",
+          "info": "fermate, più preciso"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi avvisa quando arriviamo a…?",
+        "info": "fermate, richiesta, avvisare, quando"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please tell me when we get to…",
+          "info": "fermate, please"
+        },
+        {
+          "testo": "Could you let me know when we get to…?",
+          "info": "fermate, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso la fermata.",
+        "info": "problema, passato, perdere, fermata"
+      },
+      "traduzioni": [
+        {
+          "testo": "I missed my stop.",
+          "info": "problema, past simple"
+        },
+        {
+          "testo": "I got off at the wrong stop.",
+          "info": "problema, wrong"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È questo il treno giusto per…?",
+        "info": "controllo, domanda, giusto, destinazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is this the right train for…?",
+          "info": "controllo, right"
+        },
+        {
+          "testo": "Is this train going to…?",
+          "info": "controllo, più semplice"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è un ritardo?",
+        "info": "ritardi, domanda, esserci, ritardo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Is there a delay?",
+          "info": "ritardi, there is"
+        },
+        {
+          "testo": "Is it delayed?",
+          "info": "ritardi, più breve"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio volo/treno è stato cancellato.",
+        "info": "problema, passato, passivo, cancellazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "My flight/train was cancelled.",
+          "info": "problema, passive"
+        },
+        {
+          "testo": "My flight/train got cancelled.",
+          "info": "problema, colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è la postazione dei taxi?",
+        "info": "taxi, domanda, dove, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the taxi stand?",
+          "info": "taxi, stand"
+        },
+        {
+          "testo": "Where can I find a taxi?",
+          "info": "taxi, find"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi può portare a…, per favore?",
+        "info": "taxi, richiesta, potere, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Could you take me to…, please?",
+          "info": "taxi, could"
+        },
+        {
+          "testo": "Can you take me to…?",
+          "info": "taxi, can"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quanto costa per…?",
+        "info": "costo, domanda, quanto, prezzo"
+      },
+      "traduzioni": [
+        {
+          "testo": "How much is it to…?",
+          "info": "costo, how much"
+        },
+        {
+          "testo": "How much does it cost to get to…?",
+          "info": "costo, più completo"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Per favore rallenti.",
+        "info": "sicurezza, richiesta, imperativo, per favore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Please slow down.",
+          "info": "sicurezza, imperativo"
+        },
+        {
+          "testo": "Could you slow down, please?",
+          "info": "sicurezza, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Può aiutarmi con i bagagli?",
+        "info": "bagagli, richiesta, potere, aiuto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me with my luggage?",
+          "info": "bagagli, help"
+        },
+        {
+          "testo": "Could you help me with my luggage?",
+          "info": "bagagli, più gentile"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è il ritiro bagagli?",
+        "info": "aeroporto, domanda, dove, bagagli"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is baggage claim?",
+          "info": "aeroporto, baggage claim"
+        },
+        {
+          "testo": "Where do I pick up my luggage?",
+          "info": "aeroporto, pick up"
+        }
+      ]
+    },
+    {
+      "contesto": "Frasi per viaggi / trasporti",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il mio bagaglio non è arrivato.",
+        "info": "problema, bagagli, negazione, arrivare"
+      },
+      "traduzioni": [
+        {
+          "testo": "My luggage is missing.",
+          "info": "problema, missing"
+        },
+        {
+          "testo": "My luggage didn't arrive.",
+          "info": "problema, past simple"
+        }
+      ]
+    }
+  ]
+}

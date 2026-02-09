@@ -1,0 +1,443 @@
+{
+  "version": 1,
+  "contesto": "Emergenze",
+  "frasi": [
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Help!",
+        "info": "esclamazione emergenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Aiuto!",
+          "info": "esclamazione emergenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Call the police!",
+        "info": "imperativo, emergenza sicurezza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chiamate la polizia!",
+          "info": "imperativo plurale"
+        },
+        {
+          "testo": "Chiama la polizia!",
+          "info": "imperativo singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Call an ambulance!",
+        "info": "imperativo, emergenza sanitaria"
+      },
+      "traduzioni": [
+        {
+          "testo": "Chiamate un'ambulanza!",
+          "info": "imperativo plurale"
+        },
+        {
+          "testo": "Chiama un'ambulanza!",
+          "info": "imperativo singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I've been robbed.",
+        "info": "present perfect, vittima reato"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono stato derubato.",
+          "info": "passato prossimo maschile"
+        },
+        {
+          "testo": "Sono stata derubata.",
+          "info": "passato prossimo femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Someone stole my bag.",
+        "info": "past simple, furto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qualcuno ha rubato la mia borsa.",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I lost my passport.",
+        "info": "past simple, documenti"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho perso il passaporto.",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need a doctor.",
+        "info": "necessità, emergenza sanitaria"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di un medico.",
+          "info": "necessità"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I'm injured.",
+        "info": "present simple, stato fisico"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sono ferito.",
+          "info": "stato fisico maschile"
+        },
+        {
+          "testo": "Sono ferita.",
+          "info": "stato fisico femminile"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There has been an accident.",
+        "info": "present perfect, evento recente"
+      },
+      "traduzioni": [
+        {
+          "testo": "C'è stato un incidente.",
+          "info": "passato prossimo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It's an emergency.",
+        "info": "affermazione emergenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "È un'emergenza.",
+          "info": "affermazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where is the nearest hospital?",
+        "info": "domanda, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'ospedale più vicino?",
+          "info": "domanda, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Where's the nearest embassy?",
+        "info": "domanda, supporto istituzionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dov'è l'ambasciata più vicina?",
+          "info": "domanda, luogo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "My phone was stolen.",
+        "info": "past simple, furto oggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi hanno rubato il telefono.",
+          "info": "forma impersonale"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I need help now.",
+        "info": "necessità immediata"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ho bisogno di aiuto subito.",
+          "info": "urgenza"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Aiuto!",
+        "info": "esclamazione emergenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "Help!",
+          "info": "esclamazione emergenza"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Chiama la polizia!",
+        "info": "imperativo singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Call the police!",
+          "info": "imperativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Chiama un'ambulanza!",
+        "info": "imperativo singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Call an ambulance!",
+          "info": "imperativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stato derubato.",
+        "info": "passato prossimo maschile"
+      },
+      "traduzioni": [
+        {
+          "testo": "I've been robbed.",
+          "info": "present perfect"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qualcuno ha rubato la mia borsa.",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Someone stole my bag.",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho perso il passaporto.",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I lost my passport.",
+          "info": "past simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di un medico.",
+        "info": "necessità"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need a doctor.",
+          "info": "necessità"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono ferito.",
+        "info": "stato fisico"
+      },
+      "traduzioni": [
+        {
+          "testo": "I'm injured.",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C'è stato un incidente.",
+        "info": "passato prossimo"
+      },
+      "traduzioni": [
+        {
+          "testo": "There has been an accident.",
+          "info": "present perfect"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È un'emergenza.",
+        "info": "affermazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "It's an emergency.",
+          "info": "affermazione"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è l'ospedale più vicino?",
+        "info": "domanda, luogo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where is the nearest hospital?",
+          "info": "domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dov'è l'ambasciata più vicina?",
+        "info": "domanda, supporto istituzionale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Where's the nearest embassy?",
+          "info": "domanda"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi hanno rubato il telefono.",
+        "info": "forma impersonale"
+      },
+      "traduzioni": [
+        {
+          "testo": "My phone was stolen.",
+          "info": "past simple passivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Emergenze",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ho bisogno di aiuto subito.",
+        "info": "urgenza"
+      },
+      "traduzioni": [
+        {
+          "testo": "I need help now.",
+          "info": "urgenza"
+        }
+      ]
+    }
+  ]
+}

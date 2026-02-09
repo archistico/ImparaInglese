@@ -1,0 +1,569 @@
+{
+  "version": 1,
+  "contesto": "Pronomi",
+  "frasi": [
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I am tired",
+        "info": "Pronome soggetto (I). In inglese il soggetto è obbligatorio (subject pronoun required)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Io sono stanco/a",
+          "info": "In italiano il pronome può essere omesso (pro-drop) (gender tag)"
+        },
+        {
+          "testo": "Sono stanco/a",
+          "info": "Forma più naturale in italiano"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "You are right",
+        "info": "Pronome soggetto (you) valido per singolare/plurale e formale/informale (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hai ragione",
+          "info": "Forma informale"
+        },
+        {
+          "testo": "Ha ragione",
+          "info": "Forma formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "He is my brother",
+        "info": "Pronome soggetto maschile singolare (he)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lui è mio fratello",
+          "info": "Pronome esplicito per enfasi"
+        },
+        {
+          "testo": "È mio fratello",
+          "info": "Pronome sottinteso"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She works here",
+        "info": "Pronome soggetto femminile singolare (she)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei lavora qui",
+          "info": "Lei può essere femminile o formale"
+        },
+        {
+          "testo": "Lavora qui",
+          "info": "Soggetto sottinteso"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It is cold today",
+        "info": "Pronome impersonale (it) usato per tempo, clima, ore (dummy subject)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi fa freddo",
+          "info": "In italiano non esiste il pronome impersonale equivalente"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "We are ready",
+        "info": "Pronome soggetto plurale (we)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Noi siamo pronti/e",
+          "info": "Pronome usato per enfasi (gender tag)"
+        },
+        {
+          "testo": "Siamo pronti/e",
+          "info": "Forma naturale"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "They live nearby",
+        "info": "Pronome soggetto plurale (they) per persone o cose"
+      },
+      "traduzioni": [
+        {
+          "testo": "Loro vivono vicino",
+          "info": "Pronome esplicito"
+        },
+        {
+          "testo": "Vivono vicino",
+          "info": "Pronome sottinteso"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Can you help me?",
+        "info": "Pronome oggetto (me). In inglese viene dopo il verbo (object pronoun)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Puoi aiutarmi?",
+          "info": "Pronome combinato (mi)"
+        },
+        {
+          "testo": "Può aiutarmi?",
+          "info": "Forma formale"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I see you",
+        "info": "You come pronome oggetto; forma invariabile (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ti vedo",
+          "info": "Forma informale"
+        },
+        {
+          "testo": "La vedo",
+          "info": "Forma formale (Lei)"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She called him",
+        "info": "Pronomi oggetto (him/her) distinguono genere (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei ha chiamato lui",
+          "info": "Pronome esplicito per enfasi"
+        },
+        {
+          "testo": "Lo ha chiamato",
+          "info": "Pronome combinato (lo)"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Give it to me",
+        "info": "It = pronome oggetto per cose/idee; struttura verbo + it + to + me (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Dammelo",
+          "info": "Imperativo con doppio pronome combinato"
+        },
+        {
+          "testo": "Me lo dai?",
+          "info": "Variante interrogativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "This is mine",
+        "info": "Pronome possessivo (mine). Non seguito da nome (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questo è mio",
+          "info": "Possessivo senza nome"
+        },
+        {
+          "testo": "Questo è il mio",
+          "info": "Forma alternativa"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "That book is yours",
+        "info": "Yours = pronome possessivo (non aggettivo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Quel libro è tuo",
+          "info": "Tuo = possessivo"
+        },
+        {
+          "testo": "Quel libro è il tuo",
+          "info": "Variante"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "I hurt myself",
+        "info": "Pronome riflessivo (myself). Usato quando soggetto = oggetto (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Mi sono fatto/a male",
+          "info": "Riflessivo italiano (gender tag)"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "She talks to herself",
+        "info": "Herself = pronome riflessivo femminile"
+      },
+      "traduzioni": [
+        {
+          "testo": "Lei parla da sola",
+          "info": "Traduzione idiomatica"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Someone is calling you",
+        "info": "Pronome indefinito (someone). Verbo al singolare (rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Qualcuno ti sta chiamando",
+          "info": "Indefinito singolare"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Nobody knows",
+        "info": "Pronome indefinito negativo (nobody). Non usare 'not' (double negative rule)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nessuno lo sa",
+          "info": "In italiano possibile doppia negazione"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sono stanco/a",
+        "info": "In inglese il soggetto è obbligatorio (subject pronoun required) (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "I am tired",
+          "info": "I = pronome soggetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Hai ragione",
+        "info": "Pronome sottinteso in italiano; va espresso in inglese"
+      },
+      "traduzioni": [
+        {
+          "testo": "You are right",
+          "info": "You = soggetto obbligatorio"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "È mio fratello",
+        "info": "Soggetto sottinteso in italiano"
+      },
+      "traduzioni": [
+        {
+          "testo": "He is my brother",
+          "info": "He = pronome soggetto maschile"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lavora qui",
+        "info": "In inglese serve il pronome soggetto"
+      },
+      "traduzioni": [
+        {
+          "testo": "She works here",
+          "info": "She = soggetto"
+        },
+        {
+          "testo": "He works here",
+          "info": "Dipende dal contesto"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fa freddo oggi",
+        "info": "In inglese si usa il pronome impersonale 'it'"
+      },
+      "traduzioni": [
+        {
+          "testo": "It is cold today",
+          "info": "It = dummy subject"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Siamo pronti/e",
+        "info": "Pronome soggetto necessario in inglese (gender tag)"
+      },
+      "traduzioni": [
+        {
+          "testo": "We are ready",
+          "info": "We = pronome soggetto plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Vivono vicino",
+        "info": "Soggetto sottinteso in italiano"
+      },
+      "traduzioni": [
+        {
+          "testo": "They live nearby",
+          "info": "They = pronome plurale"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Puoi aiutarmi?",
+        "info": "Pronome combinato italiano (mi)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Can you help me?",
+          "info": "Me = pronome oggetto"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ti vedo",
+        "info": "Pronome oggetto italiano prima del verbo"
+      },
+      "traduzioni": [
+        {
+          "testo": "I see you",
+          "info": "You = object pronoun"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lo ha chiamato",
+        "info": "Pronome diretto maschile singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "She called him",
+          "info": "Him = object pronoun"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Dammelo",
+        "info": "Doppio pronome combinato (me + lo)"
+      },
+      "traduzioni": [
+        {
+          "testo": "Give it to me",
+          "info": "It + to + me (order rule)"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questo è mio",
+        "info": "Possessivo senza nome"
+      },
+      "traduzioni": [
+        {
+          "testo": "This is mine",
+          "info": "Mine = pronome possessivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Quel libro è tuo",
+        "info": "Possessivo riferito a seconda persona"
+      },
+      "traduzioni": [
+        {
+          "testo": "That book is yours",
+          "info": "Yours = possessive pronoun"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Mi sono fatto/a male",
+        "info": "Riflessivo italiano"
+      },
+      "traduzioni": [
+        {
+          "testo": "I hurt myself",
+          "info": "Myself = reflexive pronoun"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Lei parla da sola",
+        "info": "Espressione riflessiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "She talks to herself",
+          "info": "Herself = reflexive pronoun"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Qualcuno mi sta chiamando",
+        "info": "Pronome indefinito singolare"
+      },
+      "traduzioni": [
+        {
+          "testo": "Someone is calling me",
+          "info": "Indefinite pronoun + singular verb"
+        }
+      ]
+    },
+    {
+      "contesto": "Pronomi",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Nessuno lo sa",
+        "info": "Doppia negazione ammessa in italiano, non in inglese"
+      },
+      "traduzioni": [
+        {
+          "testo": "Nobody knows",
+          "info": "Single negative in English"
+        }
+      ]
+    }
+  ]
+}

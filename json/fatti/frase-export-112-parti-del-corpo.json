@@ -1,0 +1,556 @@
+{
+  "version": 1,
+  "contesto": "Parti del corpo",
+  "frasi": [
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Doctor, my back hurts a lot", "info": "medico, dolore, present simple" },
+      "traduzioni": [
+        { "testo": "Dottore, mi fa molto male la schiena", "info": "medico, dolore" },
+        { "testo": "Dottore, ho un forte mal di schiena", "info": "variante, espressione comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My neck is stiff this morning", "info": "dolore, rigidità, present simple" },
+      "traduzioni": [
+        { "testo": "Stamattina ho il collo rigido", "info": "uso comune" },
+        { "testo": "Stamattina ho il torcicollo", "info": "variante, espressione comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I hurt my ankle while skiing", "info": "incidente, passato semplice, sci" },
+      "traduzioni": [
+        { "testo": "Mi sono fatto male alla caviglia sciando", "info": "incidente, passato" },
+        { "testo": "Mi sono storto la caviglia sciando", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I fell on the ice and hit my knee", "info": "incidente, passato semplice, caduta" },
+      "traduzioni": [
+        { "testo": "Sono caduto sul ghiaccio e ho battuto il ginocchio", "info": "incidente, passato" },
+        { "testo": "Sono scivolato e mi sono fatto male al ginocchio", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My wrist is swollen", "info": "medico, sintomo, present simple" },
+      "traduzioni": [
+        { "testo": "Ho il polso gonfio", "info": "sintomo" },
+        { "testo": "Il polso è gonfio", "info": "variante, descrizione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I can’t move my arm very well", "info": "medico, capacità, can’t" },
+      "traduzioni": [
+        { "testo": "Non riesco a muovere bene il braccio", "info": "capacità, negazione" },
+        { "testo": "Faccio fatica a muovere il braccio", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My shoulder hurts when I lift my arm", "info": "dolore, when, present simple" },
+      "traduzioni": [
+        { "testo": "Mi fa male la spalla quando alzo il braccio", "info": "quando, presente" },
+        { "testo": "La spalla mi fa male quando sollevo il braccio", "info": "variante, ordine parole" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My elbow hurts after tennis", "info": "sport, dolore, present simple" },
+      "traduzioni": [
+        { "testo": "Mi fa male il gomito dopo il tennis", "info": "sport, dolore" },
+        { "testo": "Dopo il tennis ho dolore al gomito", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I cut my finger in the kitchen", "info": "incidente, passato semplice, cucina" },
+      "traduzioni": [
+        { "testo": "Mi sono tagliato un dito in cucina", "info": "incidente, passato" },
+        { "testo": "Mi sono tagliato il dito cucinando", "info": "variante, gerundio" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My thumb is bleeding", "info": "incidente, presente, sangue" },
+      "traduzioni": [
+        { "testo": "Mi sanguina il pollice", "info": "sangue, presente" },
+        { "testo": "Il pollice sta sanguinando", "info": "variante, progressivo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I have a bruise on my leg", "info": "sintomo, have, livido" },
+      "traduzioni": [
+        { "testo": "Ho un livido sulla gamba", "info": "livido" },
+        { "testo": "Ho un livido alla gamba", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My calf is cramping", "info": "sintomo, crampo, present continuous" },
+      "traduzioni": [
+        { "testo": "Mi viene un crampo al polpaccio", "info": "crampo, uso comune" },
+        { "testo": "Ho un crampo al polpaccio", "info": "variante, sintomo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My heel hurts when I walk", "info": "dolore, when, present simple" },
+      "traduzioni": [
+        { "testo": "Mi fa male il tallone quando cammino", "info": "quando, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My big toe hurts in these shoes", "info": "vita quotidiana, dolore, vestiti" },
+      "traduzioni": [
+        { "testo": "Mi fa male l'alluce con queste scarpe", "info": "scarpe, dolore" },
+        { "testo": "Queste scarpe mi fanno male all'alluce", "info": "variante, ordine parole" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My feet are freezing", "info": "meteo, sensazione, plurale" },
+      "traduzioni": [
+        { "testo": "Mi si gelano i piedi", "info": "sensazione, uso comune" },
+        { "testo": "Ho i piedi congelati", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I have cold hands", "info": "sensazione, have, plurale" },
+      "traduzioni": [
+        { "testo": "Ho le mani fredde", "info": "sensazione" },
+        { "testo": "Mi si raffreddano le mani", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My eyes are tired from the screen", "info": "vita quotidiana, plurale, causa" },
+      "traduzioni": [
+        { "testo": "Mi sono stancato gli occhi con lo schermo", "info": "causa, uso comune" },
+        { "testo": "Mi fanno male gli occhi per lo schermo", "info": "variante, dolore" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I got something in my eye", "info": "incidente, passato semplice, occhio" },
+      "traduzioni": [
+        { "testo": "Mi è entrato qualcosa nell'occhio", "info": "uso comune" },
+        { "testo": "Ho qualcosa nell'occhio", "info": "variante, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My eyebrow is red and itchy", "info": "sintomo, pelle, prurito" },
+      "traduzioni": [
+        { "testo": "Ho il sopracciglio rosso e che prude", "info": "prurito" },
+        { "testo": "Mi prude il sopracciglio ed è rosso", "info": "variante, ordine parole" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My eyelashes are wet from the rain", "info": "descrizione, plurale, meteo" },
+      "traduzioni": [
+        { "testo": "Ho le ciglia bagnate per la pioggia", "info": "meteo, descrizione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My lips are dry", "info": "sintomo, pelle, present simple" },
+      "traduzioni": [
+        { "testo": "Ho le labbra secche", "info": "uso comune" },
+        { "testo": "Mi si seccano le labbra", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My chin is bruised after the fall", "info": "incidente, livido, dopo" },
+      "traduzioni": [
+        { "testo": "Ho il mento livido dopo la caduta", "info": "incidente, livido" },
+        { "testo": "Mi sono fatto un livido al mento dopo la caduta", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My forehead is sweaty", "info": "descrizione, sudore, present simple" },
+      "traduzioni": [
+        { "testo": "Ho la fronte sudata", "info": "descrizione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "I hit my head, but I’m okay", "info": "incidente, passato semplice, ma" },
+      "traduzioni": [
+        { "testo": "Ho battuto la testa, ma sto bene", "info": "incidente, uso comune" },
+        { "testo": "Ho preso una botta in testa, ma va tutto bene", "info": "variante, informale" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My hair is wet", "info": "descrizione, present simple" },
+      "traduzioni": [
+        { "testo": "Ho i capelli bagnati", "info": "uso comune" },
+        { "testo": "I capelli sono bagnati", "info": "variante, descrizione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My heart is beating fast", "info": "sensazione, present continuous, cuore" },
+      "traduzioni": [
+        { "testo": "Mi batte forte il cuore", "info": "uso comune" },
+        { "testo": "Il cuore mi batte velocemente", "info": "variante, descrizione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "Take a deep breath with your lungs", "info": "medico, imperativo, respirazione" },
+      "traduzioni": [
+        { "testo": "Fai un respiro profondo con i polmoni", "info": "istruzione, respirazione" },
+        { "testo": "Faccia un respiro profondo con i polmoni", "info": "formale, medico" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My stomach feels heavy after lunch", "info": "sensazione, after, pasto" },
+      "traduzioni": [
+        { "testo": "Mi pesa lo stomaco dopo pranzo", "info": "sensazione, uso comune" },
+        { "testo": "Ho lo stomaco pesante dopo pranzo", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My belly is bloated", "info": "sintomo, pancia, present simple" },
+      "traduzioni": [
+        { "testo": "Ho la pancia gonfia", "info": "sintomo, uso comune" },
+        { "testo": "Mi si è gonfiata la pancia", "info": "variante, passato prossimo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My chest feels tight", "info": "sintomo, sensazione, chest" },
+      "traduzioni": [
+        { "testo": "Sento il petto stretto", "info": "sensazione" },
+        { "testo": "Mi si stringe il petto", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My collarbone hurts after the accident", "info": "incidente, dolore, after" },
+      "traduzioni": [
+        { "testo": "Mi fa male la clavicola dopo l'incidente", "info": "incidente, dolore" },
+        { "testo": "Ho dolore alla clavicola dopo l'incidente", "info": "variante, uso comune" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": { "testo": "My pelvis hurts when I sit down", "info": "dolore, when, sedersi" },
+      "traduzioni": [
+        { "testo": "Mi fa male il bacino quando mi siedo", "info": "quando, presente" }
+      ]
+    },
+
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Dottore, mi fa molto male la schiena", "info": "medico, dolore, presente" },
+      "traduzioni": [
+        { "testo": "Doctor, my back hurts a lot", "info": "medico, dolore" },
+        { "testo": "Doctor, I have bad back pain", "info": "variante, dolore" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Stamattina ho il torcicollo", "info": "dolore, rigidità, presente" },
+      "traduzioni": [
+        { "testo": "My neck is stiff this morning", "info": "stiff, presente" },
+        { "testo": "I have a stiff neck this morning", "info": "variante, have" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi sono storto la caviglia sciando", "info": "incidente, passato, sci" },
+      "traduzioni": [
+        { "testo": "I hurt my ankle while skiing", "info": "while, passato semplice" },
+        { "testo": "I twisted my ankle while skiing", "info": "variante, twisted" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Sono scivolato e mi sono fatto male al ginocchio", "info": "incidente, passato, caduta" },
+      "traduzioni": [
+        { "testo": "I slipped and hurt my knee", "info": "slipped, passato semplice" },
+        { "testo": "I fell and hurt my knee", "info": "variante, fell" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho il polso gonfio", "info": "medico, sintomo, presente" },
+      "traduzioni": [
+        { "testo": "My wrist is swollen", "info": "sintomo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Non riesco a muovere bene il braccio", "info": "medico, capacità, negazione" },
+      "traduzioni": [
+        { "testo": "I can’t move my arm very well", "info": "can’t, capacità" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi fa male la spalla quando alzo il braccio", "info": "dolore, quando, presente" },
+      "traduzioni": [
+        { "testo": "My shoulder hurts when I lift my arm", "info": "when, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi sono tagliato un dito in cucina", "info": "incidente, passato, cucina" },
+      "traduzioni": [
+        { "testo": "I cut my finger in the kitchen", "info": "cut, passato semplice" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi sanguina il pollice", "info": "incidente, presente, sangue" },
+      "traduzioni": [
+        { "testo": "My thumb is bleeding", "info": "bleeding, progressivo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho un livido sulla gamba", "info": "sintomo, livido, have" },
+      "traduzioni": [
+        { "testo": "I have a bruise on my leg", "info": "bruise, have" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi viene un crampo al polpaccio", "info": "sintomo, crampo, presente" },
+      "traduzioni": [
+        { "testo": "My calf is cramping", "info": "cramping, progressivo" },
+        { "testo": "I have a cramp in my calf", "info": "variante, have" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi fa male il tallone quando cammino", "info": "dolore, quando, presente" },
+      "traduzioni": [
+        { "testo": "My heel hurts when I walk", "info": "when, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Queste scarpe mi fanno male all'alluce", "info": "vita quotidiana, dolore, scarpe" },
+      "traduzioni": [
+        { "testo": "My big toe hurts in these shoes", "info": "in these shoes, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi si gelano i piedi", "info": "meteo, sensazione, presente" },
+      "traduzioni": [
+        { "testo": "My feet are freezing", "info": "freezing, progressivo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho le mani fredde", "info": "sensazione, have, plurale" },
+      "traduzioni": [
+        { "testo": "I have cold hands", "info": "have, sensazione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi fanno male gli occhi per lo schermo", "info": "vita quotidiana, dolore, causa" },
+      "traduzioni": [
+        { "testo": "My eyes are tired from the screen", "info": "from, causa" },
+        { "testo": "My eyes hurt from the screen", "info": "variante, hurt" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi è entrato qualcosa nell'occhio", "info": "incidente, presente, occhio" },
+      "traduzioni": [
+        { "testo": "I got something in my eye", "info": "got, passato vicino" },
+        { "testo": "I have something in my eye", "info": "variante, have" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho le labbra secche", "info": "sintomo, pelle, presente" },
+      "traduzioni": [
+        { "testo": "My lips are dry", "info": "dry, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho battuto la testa, ma sto bene", "info": "incidente, passato, ma" },
+      "traduzioni": [
+        { "testo": "I hit my head, but I’m okay", "info": "but, contrasto" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi batte forte il cuore", "info": "sensazione, presente, cuore" },
+      "traduzioni": [
+        { "testo": "My heart is beating fast", "info": "beating, progressivo" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Ho la pancia gonfia", "info": "sintomo, pancia, presente" },
+      "traduzioni": [
+        { "testo": "My belly is bloated", "info": "bloated, sintomo" },
+        { "testo": "I have a bloated belly", "info": "variante, have" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi pesa lo stomaco dopo pranzo", "info": "sensazione, after, pasto" },
+      "traduzioni": [
+        { "testo": "My stomach feels heavy after lunch", "info": "feels, sensazione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi si stringe il petto", "info": "sintomo, sensazione, presente" },
+      "traduzioni": [
+        { "testo": "My chest feels tight", "info": "feels, sensazione" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi fa male la clavicola dopo l'incidente", "info": "incidente, dolore, after" },
+      "traduzioni": [
+        { "testo": "My collarbone hurts after the accident", "info": "after, presente" }
+      ]
+    },
+    {
+      "contesto": "Parti del corpo",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": { "testo": "Mi fa male il bacino quando mi siedo", "info": "dolore, quando, presente" },
+      "traduzioni": [
+        { "testo": "My pelvis hurts when I sit down", "info": "when, presente" }
+      ]
+    }
+  ]
+}

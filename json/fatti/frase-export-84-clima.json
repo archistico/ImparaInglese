@@ -1,0 +1,577 @@
+{
+  "version": 1,
+  "contesto": "Clima",
+  "frasi": [
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "Hi, how’s the weather today?",
+        "info": "apertura dialogo, domanda informale, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Ciao, com’è il tempo oggi?",
+          "info": "saluto, domanda generale"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s chilly today.",
+        "info": "descrizione meteo, aggettivo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi fa fresco.",
+          "info": "espressione comune"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s cold this morning.",
+        "info": "descrizione meteo, aggettivo, riferimento temporale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa mattina fa freddo.",
+          "info": "tempo specifico"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s very hot today.",
+        "info": "descrizione meteo, intensificatore"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi fa molto caldo.",
+          "info": "aggettivo con rafforzativo"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s warm outside.",
+        "info": "descrizione meteo, outside"
+      },
+      "traduzioni": [
+        {
+          "testo": "Fuori è caldo.",
+          "info": "luogo implicito"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s raining.",
+        "info": "present continuous, azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sta piovendo.",
+          "info": "azione in corso"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s pouring outside!",
+        "info": "espressione idiomatica, intensità, esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sta diluviando!",
+          "info": "registro colloquiale"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s cloudy today.",
+        "info": "descrizione meteo, cloudy"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi è nuvoloso.",
+          "info": "condizione del cielo"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The sky is clear.",
+        "info": "descrizione cielo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il cielo è sereno.",
+          "info": "meteo stabile"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s windy today.",
+        "info": "descrizione meteo, aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi c’è vento.",
+          "info": "costruzione con c’è"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "There is a strong wind.",
+        "info": "there is, aggettivo"
+      },
+      "traduzioni": [
+        {
+          "testo": "C’è un forte vento.",
+          "info": "intensità"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s snowing.",
+        "info": "present continuous, neve"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sta nevicando.",
+          "info": "azione in corso"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s foggy this morning.",
+        "info": "descrizione meteo, riferimento temporale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Questa mattina c’è nebbia.",
+          "info": "condizione atmosferica"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The weather is nice today.",
+        "info": "giudizio positivo, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi il tempo è bello.",
+          "info": "valutazione generale"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The weather is bad today.",
+        "info": "giudizio negativo"
+      },
+      "traduzioni": [
+        {
+          "testo": "Oggi il tempo è brutto.",
+          "info": "valutazione generale"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "The weather is unpredictable.",
+        "info": "aggettivo astratto, present simple"
+      },
+      "traduzioni": [
+        {
+          "testo": "Il tempo è incerto.",
+          "info": "significato figurato"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It might rain later.",
+        "info": "modal verb, previsione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Potrebbe piovere più tardi.",
+          "info": "possibilità futura"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "It’s going to rain.",
+        "info": "future form, previsione"
+      },
+      "traduzioni": [
+        {
+          "testo": "Sta per piovere.",
+          "info": "futuro imminente"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Inglese -> Italiano",
+      "frase": {
+        "testo": "What’s the weather forecast?",
+        "info": "domanda, forecast"
+      },
+      "traduzioni": [
+        {
+          "testo": "Che tempo è previsto?",
+          "info": "previsione meteo"
+        }
+      ]
+    },
+
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Ciao, com’è il tempo oggi?",
+        "info": "apertura dialogo, domanda informale"
+      },
+      "traduzioni": [
+        {
+          "testo": "Hi, how’s the weather today?",
+          "info": "present simple"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi fa fresco.",
+        "info": "descrizione meteo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s chilly today.",
+          "info": "aggettivo"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa mattina fa freddo.",
+        "info": "riferimento temporale"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s cold this morning.",
+          "info": "time expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi fa molto caldo.",
+        "info": "intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s very hot today.",
+          "info": "very + adjective"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Fuori è caldo.",
+        "info": "luogo implicito"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s warm outside.",
+          "info": "outside"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sta piovendo.",
+        "info": "azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s raining.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sta diluviando!",
+        "info": "esclamazione"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s pouring outside!",
+          "info": "idiomatic expression"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi è nuvoloso.",
+        "info": "condizione del cielo"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s cloudy today.",
+          "info": "cloudy"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il cielo è sereno.",
+        "info": "descrizione cielo"
+      },
+      "traduzioni": [
+        {
+          "testo": "The sky is clear.",
+          "info": "clear sky"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi c’è vento.",
+        "info": "costruzione con c’è"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s windy today.",
+          "info": "windy"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "C’è un forte vento.",
+        "info": "intensità"
+      },
+      "traduzioni": [
+        {
+          "testo": "There is a strong wind.",
+          "info": "there is"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sta nevicando.",
+        "info": "azione in corso"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s snowing.",
+          "info": "present continuous"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Questa mattina c’è nebbia.",
+        "info": "condizione atmosferica"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s foggy this morning.",
+          "info": "foggy"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi il tempo è bello.",
+        "info": "valutazione positiva"
+      },
+      "traduzioni": [
+        {
+          "testo": "The weather is nice today.",
+          "info": "nice weather"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Oggi il tempo è brutto.",
+        "info": "valutazione negativa"
+      },
+      "traduzioni": [
+        {
+          "testo": "The weather is bad today.",
+          "info": "bad weather"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Il tempo è incerto.",
+        "info": "aggettivo astratto"
+      },
+      "traduzioni": [
+        {
+          "testo": "The weather is unpredictable.",
+          "info": "unpredictable"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Potrebbe piovere più tardi.",
+        "info": "possibilità futura"
+      },
+      "traduzioni": [
+        {
+          "testo": "It might rain later.",
+          "info": "modal verb might"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Sta per piovere.",
+        "info": "futuro imminente"
+      },
+      "traduzioni": [
+        {
+          "testo": "It’s going to rain.",
+          "info": "going to future"
+        }
+      ]
+    },
+    {
+      "contesto": "Clima",
+      "livello": "Base",
+      "direzione": "Italiano -> Inglese",
+      "frase": {
+        "testo": "Che tempo è previsto?",
+        "info": "domanda previsione"
+      },
+      "traduzioni": [
+        {
+          "testo": "What’s the weather forecast?",
+          "info": "forecast"
+        }
+      ]
+    }
+  ]
+}
