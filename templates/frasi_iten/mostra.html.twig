@@ -3,13 +3,13 @@
 {% block title %}{{ title }}{% endblock %}
 
 {% block body %}
-<div class="d-flex align-items-center justify-content-between mb-3">
+<div class="mb-3">
     <div>
         <div class="text-muted small">Contesto</div>
         <h1 class="h4 mb-0">{{ frase.contesto.descrizione }}</h1>
     </div>
 
-    <div class="d-flex gap-2">
+    <div class="d-flex flex-wrap gap-2 mt-2">
         <a class="btn btn-outline-secondary" href="{{ path('app_frasi_iten') }}">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                 <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
@@ -19,7 +19,7 @@
         </a>
 
         {% if prevId %}
-            <a class="btn btn-outline-primary" href="{{ path('app_frasi_iten_mostra', {id: prevId}) }}">
+            <a class="btn btn-primary" href="{{ path('app_frasi_iten_mostra', {id: prevId}) }}">
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                     <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
                     <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
@@ -27,7 +27,7 @@
                 Precedente
             </a>
         {% else %}
-            <button class="btn btn-outline-primary" type="button" disabled>
+            <button class="btn btn-primary" type="button" disabled>
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
                     <line class="icon-stroke" x1="19" y1="12" x2="5" y2="12"></line>
                     <polyline class="icon-stroke" points="12 19 5 12 12 5"></polyline>
@@ -37,7 +37,7 @@
         {% endif %}
 
         {% if nextId %}
-            <a class="btn btn-outline-primary" href="{{ path('app_frasi_iten_mostra', {id: nextId}) }}">
+            <a class="btn btn-primary" href="{{ path('app_frasi_iten_mostra', {id: nextId}) }}">
                 Successiva
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" style="margin-right:0;margin-left:0.45rem;">
                     <line class="icon-stroke" x1="5" y1="12" x2="19" y2="12"></line>
@@ -45,7 +45,7 @@
                 </svg>
             </a>
         {% else %}
-            <button class="btn btn-outline-primary" type="button" disabled>
+            <button class="btn btn-primary" type="button" disabled>
                 Successiva
                 <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" style="margin-right:0;margin-left:0.45rem;">
                     <line class="icon-stroke" x1="5" y1="12" x2="19" y2="12"></line>
